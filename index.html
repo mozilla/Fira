@@ -6,13 +6,15 @@
     <title>Fira</title>
     <link rel="stylesheet" href="fira.css">
     <style>
+
         body {
             font-family: sans-serif;
             font-weight: 300;
+            overflow-x: hidden;
         }
         article {
-            max-width: 800px;
             margin: 0 auto;
+            max-width: 800px;
             padding: 1em;
         }
         h1 {
@@ -27,6 +29,31 @@
         .mono {
             font-family: 'Fira Mono';
         }
+        .ribbon {
+            background: none repeat scroll 0% 0% rgb(34, 34, 34);
+            color: white;
+            display: block;
+            font: 400 13px 'Fira Sans';
+            padding: 8px 150px;
+            position: absolute;
+            right: 0px;
+            text-decoration: none;
+            top: 0px;
+            -webkit-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+            -moz-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+            -ms-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+            -o-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+            transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+            white-space: nowrap;
+        }
+
+        @media (max-width: 640px) {
+            p {
+                padding: 0;
+                font-size: 18px;
+            }
+        }
+
     </style>
   </head>
   <body>
@@ -106,6 +133,8 @@
             ABCDEFGHIJKLMNOPQRSTUVWxyz<br>
             1234567890!@#$%^&*()`~{}[]+=:;'"‘’“”
         </p>
+
+        <a class="ribbon" href="https://github.com/mozilla/Fira">Fira on Github</a>
     </article>
   </body>
 </html>

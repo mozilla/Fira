@@ -46,6 +46,11 @@
             transform: translate(50%, -50%) rotate(45deg) translateY(72px);
             white-space: nowrap;
         }
+        .glyph {
+            float: right;
+            font-size: 64px;
+        }
+
 
         @media (max-width: 640px) {
             p {
@@ -58,7 +63,10 @@
   </head>
   <body>
     <article>
-        <h1>Fira Sans</h1>
+        <h1>
+            Fira Sans
+            <div class="glyph"><span style="color:#f00">&#xe001;</span><span style="color:#fff">&#xe002;</span>&#xe003;</div>
+        </h1>
 
         <h2>Light</h2>
         <p contenteditable style="font-weight: 300;">

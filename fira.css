@@ -1,7 +1,12 @@
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-Light.eot');
-    src: local('Fira Sans Light'),
+    src: local('Fira Sans OT Light Regular'),
+         local('Fira Sans Light Regular'),
+         local('Fira Sans OT Light'),
+         local('Fira Sans Light'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-Light.eot') format('embedded-opentype'),
          url('woff/FiraSans-Light.woff') format('woff'),
          url('ttf/FiraSans-Light.ttf') format('truetype');
@@ -9,10 +14,13 @@
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-LightItalic.eot');
-    src: local('Fira Sans Light Italic'),
+    src: local('Fira Sans OT Light Italic'),
+         local('Fira Sans Light Italic'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-LightItalic.eot') format('embedded-opentype'),
          url('woff/FiraSans-LightItalic.woff') format('woff'),
          url('ttf/FiraSans-LightItalic.ttf') format('truetype');
@@ -20,10 +28,13 @@
     font-style: italic;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-Regular.eot');
-    src: local('Fira Sans Regular'),
+    src: local('Fira Sans OT Regular'),
+         local('Fira Sans Regular'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-Regular.eot') format('embedded-opentype'),
          url('woff/FiraSans-Regular.woff') format('woff'),
          url('ttf/FiraSans-Regular.ttf') format('truetype');
@@ -31,10 +42,13 @@
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-RegularItalic.eot');
-    src: local('Fira Sans Regular Italic'),
+    src: local('Fira Sans OT Regular Italic'),
+         local('Fira Sans Regular Italic'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-RegularItalic.eot') format('embedded-opentype'),
          url('woff/FiraSans-RegularItalic.woff') format('woff'),
          url('ttf/FiraSans-RegularItalic.ttf') format('truetype');
@@ -42,10 +56,15 @@
     font-style: italic;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-Medium.eot');
-    src: local('Fira Sans Medium'),
+    src: local('Fira Sans OT Medium Regular'),
+         local('Fira Sans Medium Regular'),
+         local('Fira Sans OT Medium'),
+         local('Fira Sans Medium'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-Medium.eot') format('embedded-opentype'),
          url('woff/FiraSans-Medium.woff') format('woff'),
          url('ttf/FiraSans-Medium.ttf') format('truetype');
@@ -53,10 +72,14 @@
     font-style: normal;
 }
 
-@font-face{
-    font-family: 'Fira Sans';
+@font-face {
+    font-family: 'FiraSansWeb';
     src: url('eot/FiraSans-MediumItalic.eot');
-    src: local('Fira Sans Medium Italic'),
+    /* TODO: Investigate this one. Local rendering looks unbolded. */
+    src: local('Fira Sans OT Medium Italic'),
+         local('Fira Sans Medium Italic'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-MediumItalic.eot') format('embedded-opentype'),
          url('woff/FiraSans-MediumItalic.woff') format('woff'),
          url('ttf/FiraSans-MediumItalic.ttf') format('truetype');
@@ -64,10 +87,13 @@
     font-style: italic;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-Bold.eot');
-    src: local('Fira Sans Bold'),
+    src: local('Fira Sans OT Bold'),
+         local('Fira Sans Bold'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-Bold.eot') format('embedded-opentype'),
          url('woff/FiraSans-Bold.woff') format('woff'),
          url('ttf/FiraSans-Bold.ttf') format('truetype');
@@ -75,10 +101,13 @@
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Sans';
     src: url('eot/FiraSans-BoldItalic.eot');
-    src: local('Fira Sans Bold Italic'),
+    src: local('Fira Sans OT Bold Italic'),
+         local('Fira Sans Bold Italic'),
+         local('Fira Sans OT'),
+         local('Fira Sans'),
          url('eot/FiraSans-BoldItalic.eot') format('embedded-opentype'),
          url('woff/FiraSans-BoldItalic.woff') format('woff'),
          url('ttf/FiraSans-BoldItalic.ttf') format('truetype');
@@ -86,10 +115,13 @@
     font-style: italic;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Mono';
     src: url('eot/FiraMono-Regular.eot');
-    src: local('Fira Mono'),
+    src: local('Fira Mono OT Regular'),
+         local('Fira Mono Regular'),
+         local('Fira Mono OT'),
+         local('Fira Mono'),
          url('eot/FiraMono-Regular.eot') format('embedded-opentype'),
          url('woff/FiraMono-Regular.woff') format('woff'),
          url('ttf/FiraMono-Regular.ttf') format('truetype');
@@ -97,14 +129,16 @@
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family: 'Fira Mono';
     src: url('eot/FiraMono-Bold.eot');
-    src: local('Fira Mono Bold'),
+    src: local('Fira Mono OT Bold'),
+         local('Fira Mono Bold'),
+         local('Fira Mono OT'),
+         local('Fira Mono'),
          url('eot/FiraMono-Bold.eot') format('embedded-opentype'),
          url('woff/FiraMono-Bold.woff') format('woff'),
          url('ttf/FiraMono-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
-

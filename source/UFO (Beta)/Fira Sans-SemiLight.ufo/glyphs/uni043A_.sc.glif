@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A.sc" format="1">
+  <advance width="489"/>
+  <outline>
+    <contour>
+      <point x="428" y="560" type="line"/>
+      <point x="254" y="309" type="line"/>
+      <point x="151" y="309" type="line"/>
+      <point x="151" y="560" type="line"/>
+      <point x="120" y="560" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="281" type="line"/>
+      <point x="253" y="281" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="280" y="296" type="line"/>
+      <point x="462" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

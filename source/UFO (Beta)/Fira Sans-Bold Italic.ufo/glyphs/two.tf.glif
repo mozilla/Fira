@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="208" y="716"/>
+      <point x="120" y="671"/>
+      <point x="52" y="595" type="curve"/>
+      <point x="158" y="499" type="line"/>
+      <point x="203" y="545"/>
+      <point x="240" y="568"/>
+      <point x="284" y="568" type="curve" smooth="yes"/>
+      <point x="326" y="568"/>
+      <point x="347" y="542"/>
+      <point x="347" y="503" type="curve" smooth="yes"/>
+      <point x="347" y="432"/>
+      <point x="272" y="361"/>
+      <point x="7" y="137" type="curve"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="513" y="148" type="line"/>
+      <point x="241" y="147" type="line"/>
+      <point x="512" y="358"/>
+      <point x="549" y="449"/>
+      <point x="549" y="532" type="curve" smooth="yes"/>
+      <point x="549" y="635"/>
+      <point x="484" y="716"/>
+      <point x="321" y="716" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TseHelper-cy" format="1">
+  <advance width="649.151"/>
+  <outline>
+    <contour>
+      <point x="579" y="682" type="line"/>
+      <point x="577" y="682" type="line"/>
+      <point x="481" y="2" type="line"/>
+      <point x="95" y="2" type="line"/>
+      <point x="191" y="682" type="line"/>
+      <point x="189" y="682" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="493" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.sc" format="1">
+  <advance width="487.068"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="dotaccent.sc" xOffset="268" yOffset="-287" xScale="0.80" yScale="0.80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

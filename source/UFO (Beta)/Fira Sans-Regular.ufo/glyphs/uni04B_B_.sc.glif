@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BB.sc" format="1">
+  <advance width="552"/>
+  <outline>
+    <contour>
+      <point x="100" y="565" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="374"/>
+      <point x="219" y="350"/>
+      <point x="183" y="312" type="curve"/>
+      <point x="184" y="235" type="line"/>
+      <point x="216" y="275"/>
+      <point x="254" y="300"/>
+      <point x="316" y="300" type="curve" smooth="yes"/>
+      <point x="391" y="300"/>
+      <point x="425" y="262"/>
+      <point x="425" y="191" type="curve" smooth="yes"/>
+      <point x="425" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="191" type="line" smooth="yes"/>
+      <point x="517" y="306"/>
+      <point x="453" y="374"/>
+      <point x="338" y="374" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

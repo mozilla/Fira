@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="43" y="132" type="line"/>
+      <point x="40" y="109" type="line"/>
+      <point x="317" y="109" type="line"/>
+      <point x="321" y="136" type="line"/>
+      <point x="75" y="136" type="line"/>
+      <point x="238" y="409" type="line"/>
+      <point x="214" y="419" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="259" type="line"/>
+      <point x="233" y="129" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="280" y="259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

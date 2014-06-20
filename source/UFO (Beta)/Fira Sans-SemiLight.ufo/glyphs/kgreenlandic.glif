@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="469"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="392" y="520" type="line"/>
+      <point x="151" y="274" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="189" y="275" type="line"/>
+      <point x="430" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="520" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

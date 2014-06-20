@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn.sc" format="1">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="131" y="448" type="line"/>
+      <point x="131" y="446" type="line"/>
+      <point x="236" y="446" type="line" smooth="yes"/>
+      <point x="372" y="446"/>
+      <point x="437" y="399"/>
+      <point x="437" y="288" type="curve" smooth="yes"/>
+      <point x="437" y="175"/>
+      <point x="359" y="130"/>
+      <point x="233" y="130" type="curve" smooth="yes"/>
+      <point x="131" y="130" type="line"/>
+      <point x="131" y="128" type="line"/>
+      <point x="233" y="128" type="line" smooth="yes"/>
+      <point x="361" y="128"/>
+      <point x="439" y="174"/>
+      <point x="439" y="288" type="curve" smooth="yes"/>
+      <point x="439" y="400"/>
+      <point x="373" y="448"/>
+      <point x="236" y="448" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="130" y="557" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

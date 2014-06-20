@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.case" format="1">
+  <advance width="313"/>
+  <outline>
+    <contour>
+      <point x="237" y="791" type="line"/>
+      <point x="129" y="869" type="line"/>
+      <point x="113" y="852" type="line"/>
+      <point x="225" y="758" type="line"/>
+      <point x="241" y="758" type="line"/>
+      <point x="378" y="852" type="line"/>
+      <point x="364" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="682" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

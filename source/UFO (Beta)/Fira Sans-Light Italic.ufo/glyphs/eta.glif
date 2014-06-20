@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="1">
+  <advance width="579"/>
+  <unicode hex="03B7"/>
+  <outline>
+    <contour>
+      <point x="275.839" y="527"/>
+      <point x="193" y="424"/>
+      <point x="144" y="331" type="curve"/>
+      <point x="153" y="387"/>
+      <point x="156" y="448"/>
+      <point x="143" y="517" type="curve"/>
+      <point x="141" y="517" type="line"/>
+      <point x="155" y="447"/>
+      <point x="151" y="385"/>
+      <point x="141" y="325" type="curve" smooth="yes"/>
+      <point x="88" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="143" y="325" type="line"/>
+      <point x="193" y="422"/>
+      <point x="275.623" y="525"/>
+      <point x="370" y="525" type="curve" smooth="yes"/>
+      <point x="456" y="525"/>
+      <point x="487" y="466"/>
+      <point x="473" y="368" type="curve" smooth="yes"/>
+      <point x="394" y="-191" type="line"/>
+      <point x="396" y="-190" type="line"/>
+      <point x="475" y="368" type="line" smooth="yes"/>
+      <point x="488" y="467"/>
+      <point x="457" y="527"/>
+      <point x="370" y="527" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="331" y="517" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

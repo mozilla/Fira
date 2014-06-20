@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute.loclPLK" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute.case.loclPLK" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2158" format="1">
+  <advance width="955"/>
+  <unicode hex="2158"/>
+  <outline>
+    <component base="four.numr"/>
+    <component base="fraction" xOffset="388"/>
+    <component base="five.dnom" xOffset="567"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

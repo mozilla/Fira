@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi.sc" format="1">
+  <advance width="613.568"/>
+  <outline>
+    <contour>
+      <point x="530" y="564" type="line"/>
+      <point x="501" y="357" type="line" smooth="yes"/>
+      <point x="488.928" y="276.211"/>
+      <point x="438.914" y="235.089"/>
+      <point x="342.951" y="226.426" type="curve"/>
+      <point x="392" y="564" type="line"/>
+      <point x="305" y="564" type="line"/>
+      <point x="256.833" y="225.864" type="line"/>
+      <point x="157.632" y="232.368"/>
+      <point x="123.757" y="269.069"/>
+      <point x="136" y="353" type="curve" smooth="yes"/>
+      <point x="166" y="564" type="line"/>
+      <point x="76.9999" y="564" type="line"/>
+      <point x="47" y="355" type="line" smooth="yes"/>
+      <point x="30.7765" y="238.482"/>
+      <point x="95.6073" y="169.5"/>
+      <point x="244.099" y="155.615" type="curve"/>
+      <point x="222" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="336.136" y="155.304" type="line"/>
+      <point x="481.658" y="167.896"/>
+      <point x="573.668" y="228.915"/>
+      <point x="590" y="349" type="curve" smooth="yes"/>
+      <point x="621" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

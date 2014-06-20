@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="487"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="389" y="818"/>
+      <point x="341" y="778"/>
+      <point x="334" y="729" type="curve" smooth="yes"/>
+      <point x="327" y="675"/>
+      <point x="365" y="633"/>
+      <point x="417" y="633" type="curve" smooth="yes"/>
+      <point x="469" y="633"/>
+      <point x="514" y="673"/>
+      <point x="521" y="723" type="curve" smooth="yes"/>
+      <point x="529" y="776"/>
+      <point x="493" y="818"/>
+      <point x="439" y="818" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="148" y="818"/>
+      <point x="101" y="778"/>
+      <point x="94" y="729" type="curve" smooth="yes"/>
+      <point x="87" y="675"/>
+      <point x="124" y="633"/>
+      <point x="176" y="633" type="curve" smooth="yes"/>
+      <point x="228" y="633"/>
+      <point x="274" y="673"/>
+      <point x="281" y="723" type="curve" smooth="yes"/>
+      <point x="289" y="776"/>
+      <point x="252" y="818"/>
+      <point x="198" y="818" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="310" y="758" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="286" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

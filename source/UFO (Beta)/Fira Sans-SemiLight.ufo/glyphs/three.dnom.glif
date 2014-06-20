@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="149" y="419"/>
+      <point x="117" y="402"/>
+      <point x="83" y="373" type="curve"/>
+      <point x="100" y="354" type="line"/>
+      <point x="135" y="382"/>
+      <point x="162" y="392"/>
+      <point x="200" y="392" type="curve" smooth="yes"/>
+      <point x="251" y="392"/>
+      <point x="287" y="364"/>
+      <point x="287" y="315" type="curve" smooth="yes"/>
+      <point x="287" y="254"/>
+      <point x="237" y="230"/>
+      <point x="193" y="230" type="curve" smooth="yes"/>
+      <point x="174" y="230" type="line"/>
+      <point x="170" y="204" type="line"/>
+      <point x="197" y="204" type="line" smooth="yes"/>
+      <point x="256" y="204"/>
+      <point x="297" y="179"/>
+      <point x="297" y="114" type="curve" smooth="yes"/>
+      <point x="297" y="59"/>
+      <point x="262" y="20"/>
+      <point x="191" y="20" type="curve" smooth="yes"/>
+      <point x="156" y="20"/>
+      <point x="124" y="30"/>
+      <point x="92" y="62" type="curve"/>
+      <point x="72" y="46" type="line"/>
+      <point x="104" y="12"/>
+      <point x="142" y="-7"/>
+      <point x="192" y="-7" type="curve" smooth="yes"/>
+      <point x="275" y="-7"/>
+      <point x="327" y="43"/>
+      <point x="327" y="115" type="curve" smooth="yes"/>
+      <point x="327" y="181"/>
+      <point x="284" y="217"/>
+      <point x="232" y="219" type="curve"/>
+      <point x="282" y="226"/>
+      <point x="317" y="261"/>
+      <point x="317" y="316" type="curve" smooth="yes"/>
+      <point x="317" y="377"/>
+      <point x="270" y="419"/>
+      <point x="201" y="419" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

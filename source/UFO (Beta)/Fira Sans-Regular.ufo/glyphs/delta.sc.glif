@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta.sc" format="1">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="390" y="73" type="line"/>
+      <point x="120" y="73" type="line"/>
+      <point x="255" y="492" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="566" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="314" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

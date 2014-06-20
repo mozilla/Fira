@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="63" y="682" type="line"/>
+      <point x="63" y="654" type="line"/>
+      <point x="141" y="654" type="line"/>
+      <point x="141" y="-199" type="line"/>
+      <point x="171" y="-195" type="line"/>
+      <point x="171" y="654" type="line"/>
+      <point x="389" y="654" type="line"/>
+      <point x="389" y="-199" type="line"/>
+      <point x="419" y="-195" type="line"/>
+      <point x="419" y="654" type="line"/>
+      <point x="497" y="654" type="line"/>
+      <point x="497" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

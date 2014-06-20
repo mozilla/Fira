@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045D.sc" format="1">
+  <advance width="601"/>
+  <outline>
+    <component base="uni0438.sc"/>
+    <component base="grave.sc" xOffset="225"/>
+    <contour>
+      <point x="300" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

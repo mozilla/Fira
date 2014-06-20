@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf.zero" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="137" y="118" type="line"/>
+      <point x="168" y="54" type="line" smooth="yes"/>
+      <point x="442" y="563" type="line"/>
+      <point x="411" y="627" type="line"/>
+    </contour>
+    <component base="zero.tf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

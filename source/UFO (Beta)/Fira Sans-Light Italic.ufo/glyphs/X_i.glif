@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="1">
+  <advance width="485"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="24" y="2" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="379" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="362" type="line"/>
+      <point x="130" y="360" type="line"/>
+      <point x="377" y="360" type="line"/>
+      <point x="377" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="680" type="line"/>
+      <point x="119" y="678" type="line"/>
+      <point x="465" y="678" type="line"/>
+      <point x="465" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

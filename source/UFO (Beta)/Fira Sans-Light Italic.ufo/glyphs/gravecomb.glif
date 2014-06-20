@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="1">
+  <advance width="227"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="120" y="714" type="line"/>
+      <point x="277" y="645" type="line"/>
+      <point x="278" y="647" type="line"/>
+      <point x="121" y="716" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

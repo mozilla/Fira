@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beta.ss10" format="1">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="208" y="738"/>
+      <point x="70" y="614"/>
+      <point x="70" y="352" type="curve" smooth="yes"/>
+      <point x="70" y="109"/>
+      <point x="143" y="-10"/>
+      <point x="295" y="-10" type="curve" smooth="yes"/>
+      <point x="419" y="-10"/>
+      <point x="505" y="84"/>
+      <point x="505" y="223" type="curve" smooth="yes"/>
+      <point x="505" y="348"/>
+      <point x="438" y="422"/>
+      <point x="311" y="422" type="curve" smooth="yes"/>
+      <point x="298" y="422"/>
+      <point x="284" y="421"/>
+      <point x="265" y="418" type="curve"/>
+      <point x="418" y="475"/>
+      <point x="467" y="528"/>
+      <point x="467" y="619" type="curve" smooth="yes"/>
+      <point x="467" y="687"/>
+      <point x="414" y="738"/>
+      <point x="339" y="738" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="403" y="710"/>
+      <point x="435" y="667"/>
+      <point x="435" y="617" type="curve" smooth="yes"/>
+      <point x="435" y="545"/>
+      <point x="417" y="492"/>
+      <point x="158" y="392" type="curve" smooth="yes"/>
+      <point x="96" y="368" type="line"/>
+      <point x="95" y="340" type="line"/>
+      <point x="158" y="365" type="line" smooth="yes"/>
+      <point x="214" y="387"/>
+      <point x="251" y="400"/>
+      <point x="311" y="400" type="curve" smooth="yes"/>
+      <point x="414" y="400"/>
+      <point x="473" y="327"/>
+      <point x="473" y="222" type="curve" smooth="yes"/>
+      <point x="473" y="97"/>
+      <point x="403" y="18"/>
+      <point x="296" y="18" type="curve" smooth="yes"/>
+      <point x="160" y="18"/>
+      <point x="102" y="125"/>
+      <point x="102" y="350" type="curve" smooth="yes"/>
+      <point x="102" y="618"/>
+      <point x="232" y="710"/>
+      <point x="337" y="710" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

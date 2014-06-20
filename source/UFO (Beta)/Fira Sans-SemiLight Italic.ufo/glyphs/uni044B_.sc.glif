@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044B.sc" format="1">
+  <advance width="711.849"/>
+  <outline>
+    <contour>
+      <point x="162" y="560" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="211" y="0" type="line" smooth="yes"/>
+      <point x="382" y="0"/>
+      <point x="437" y="97"/>
+      <point x="437" y="197" type="curve" smooth="yes"/>
+      <point x="437" y="289"/>
+      <point x="369" y="340"/>
+      <point x="256" y="340" type="curve" smooth="yes"/>
+      <point x="161.399" y="340" type="line"/>
+      <point x="192" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="312"/>
+      <point x="407" y="272"/>
+      <point x="407" y="196" type="curve" smooth="yes"/>
+      <point x="407" y="118"/>
+      <point x="366" y="28"/>
+      <point x="221" y="28" type="curve" smooth="yes"/>
+      <point x="118" y="28" type="line"/>
+      <point x="157.504" y="312" type="line"/>
+      <point x="257" y="312" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="603" y="560" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="633" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="560" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

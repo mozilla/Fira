@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda.sc" format="1">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="243" y="557" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="244" y="555" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="245" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

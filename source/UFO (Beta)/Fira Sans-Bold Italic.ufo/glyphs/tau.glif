@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="474.875"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="132" y="534" type="line" smooth="yes"/>
+      <point x="80" y="534"/>
+      <point x="47" y="527"/>
+      <point x="13" y="513" type="curve"/>
+      <point x="31" y="374" type="line"/>
+      <point x="61" y="383"/>
+      <point x="95" y="389"/>
+      <point x="153" y="389" type="curve" smooth="yes"/>
+      <point x="160.286" y="389" type="line"/>
+      <point x="130" y="177" type="line" smooth="yes"/>
+      <point x="113" y="53"/>
+      <point x="184" y="-4"/>
+      <point x="294" y="-20" type="curve"/>
+      <point x="356" y="120" type="line"/>
+      <point x="327" y="136"/>
+      <point x="322" y="156"/>
+      <point x="328" y="201" type="curve" smooth="yes"/>
+      <point x="354.338" y="389" type="line"/>
+      <point x="496" y="389" type="line"/>
+      <point x="516" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

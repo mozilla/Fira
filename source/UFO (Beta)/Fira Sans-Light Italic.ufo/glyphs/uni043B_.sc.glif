@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043B.sc" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="221" y="557" type="line"/>
+      <point x="149" y="285" type="line" smooth="yes"/>
+      <point x="93" y="66"/>
+      <point x="79" y="20"/>
+      <point x="8" y="1" type="curve"/>
+      <point x="8" y="-1" type="line"/>
+      <point x="79" y="18"/>
+      <point x="94" y="61"/>
+      <point x="151" y="284" type="curve" smooth="yes"/>
+      <point x="223" y="555" type="line"/>
+      <point x="486" y="555" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="488" y="557" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

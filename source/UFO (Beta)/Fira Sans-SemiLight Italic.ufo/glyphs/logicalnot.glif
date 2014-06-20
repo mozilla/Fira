@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="498.330"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="86" y="335" type="line"/>
+      <point x="81" y="305" type="line"/>
+      <point x="397" y="305" type="line"/>
+      <point x="381" y="191" type="line"/>
+      <point x="413" y="191" type="line"/>
+      <point x="434" y="335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

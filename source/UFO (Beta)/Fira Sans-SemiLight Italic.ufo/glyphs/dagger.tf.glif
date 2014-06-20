@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="324" y="682" type="line"/>
+      <point x="302" y="523" type="line"/>
+      <point x="114" y="523" type="line"/>
+      <point x="110" y="495" type="line"/>
+      <point x="298" y="495" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="329" y="495" type="line"/>
+      <point x="517" y="495" type="line"/>
+      <point x="521" y="523" type="line"/>
+      <point x="333" y="523" type="line"/>
+      <point x="355" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

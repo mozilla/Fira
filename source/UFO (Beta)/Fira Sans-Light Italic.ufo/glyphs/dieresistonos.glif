@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="221"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="171" y="696" type="line"/>
+      <point x="173" y="696" type="line"/>
+      <point x="218" y="804" type="line"/>
+      <point x="216" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="661"/>
+      <point x="86" y="658"/>
+      <point x="86" y="655" type="curve" smooth="yes"/>
+      <point x="86" y="652"/>
+      <point x="88" y="649"/>
+      <point x="92" y="649" type="curve" smooth="yes"/>
+      <point x="96" y="649"/>
+      <point x="98" y="652"/>
+      <point x="98" y="655" type="curve" smooth="yes"/>
+      <point x="98" y="658"/>
+      <point x="96" y="661"/>
+      <point x="92" y="661" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="237" y="661"/>
+      <point x="235" y="658"/>
+      <point x="235" y="655" type="curve" smooth="yes"/>
+      <point x="235" y="652"/>
+      <point x="237" y="649"/>
+      <point x="241" y="649" type="curve" smooth="yes"/>
+      <point x="245" y="649"/>
+      <point x="247" y="652"/>
+      <point x="247" y="655" type="curve" smooth="yes"/>
+      <point x="247" y="658"/>
+      <point x="245" y="661"/>
+      <point x="241" y="661" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="147" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

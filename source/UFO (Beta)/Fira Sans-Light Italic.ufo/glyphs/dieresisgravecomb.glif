@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisgravecomb" format="1">
+  <advance width="247"/>
+  <outline>
+    <contour>
+      <point x="250" y="681"/>
+      <point x="248" y="678"/>
+      <point x="248" y="675" type="curve" smooth="yes"/>
+      <point x="248" y="672"/>
+      <point x="250" y="669"/>
+      <point x="254" y="669" type="curve" smooth="yes"/>
+      <point x="258" y="669"/>
+      <point x="260" y="672"/>
+      <point x="260" y="675" type="curve" smooth="yes"/>
+      <point x="260" y="678"/>
+      <point x="258" y="681"/>
+      <point x="254" y="681" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="101" y="681"/>
+      <point x="99" y="678"/>
+      <point x="99" y="675" type="curve" smooth="yes"/>
+      <point x="99" y="672"/>
+      <point x="101" y="669"/>
+      <point x="105" y="669" type="curve" smooth="yes"/>
+      <point x="109" y="669"/>
+      <point x="111" y="672"/>
+      <point x="111" y="675" type="curve" smooth="yes"/>
+      <point x="111" y="678"/>
+      <point x="109" y="681"/>
+      <point x="105" y="681" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="122" y="824" type="line"/>
+      <point x="277" y="742" type="line"/>
+      <point x="278" y="744" type="line"/>
+      <point x="123" y="826" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

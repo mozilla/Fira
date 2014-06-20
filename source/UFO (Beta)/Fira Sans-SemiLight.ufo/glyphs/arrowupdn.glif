@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdown" format="1">
+  <advance width="900"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="163" y="584" type="line"/>
+      <point x="184" y="563" type="line"/>
+      <point x="361" y="717" type="line" smooth="yes"/>
+      <point x="393" y="745"/>
+      <point x="420" y="773"/>
+      <point x="435" y="792" type="curve"/>
+      <point x="435" y="-111" type="line"/>
+      <point x="420" y="-92"/>
+      <point x="393" y="-64"/>
+      <point x="361" y="-36" type="curve" smooth="yes"/>
+      <point x="184" y="118" type="line"/>
+      <point x="163" y="97" type="line"/>
+      <point x="450" y="-157" type="line"/>
+      <point x="737" y="97" type="line"/>
+      <point x="716" y="118" type="line"/>
+      <point x="539" y="-36" type="line" smooth="yes"/>
+      <point x="507" y="-64"/>
+      <point x="480" y="-92"/>
+      <point x="465" y="-111" type="curve"/>
+      <point x="465" y="792" type="line"/>
+      <point x="480" y="773"/>
+      <point x="507" y="745"/>
+      <point x="539" y="717" type="curve" smooth="yes"/>
+      <point x="716" y="563" type="line"/>
+      <point x="737" y="584" type="line"/>
+      <point x="450" y="838" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

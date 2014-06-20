@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="15" y="565" type="line"/>
+      <point x="15" y="489" type="line"/>
+      <point x="183" y="489" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="489" type="line"/>
+      <point x="437" y="489" type="line"/>
+      <point x="446" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="223" y="565" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="285" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="223" y="283" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

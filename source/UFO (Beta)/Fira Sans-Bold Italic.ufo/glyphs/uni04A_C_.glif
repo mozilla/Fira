@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AC" format="1">
+  <advance width="542"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <component base="T"/>
+    <component base="descStraight-cy.case" xOffset="217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

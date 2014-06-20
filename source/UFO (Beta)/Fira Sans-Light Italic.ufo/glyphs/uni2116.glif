@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="1">
+  <advance width="1118"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="765" y="680"/>
+      <point x="716" y="532"/>
+      <point x="716" y="431" type="curve" smooth="yes"/>
+      <point x="716" y="334"/>
+      <point x="765" y="278"/>
+      <point x="851" y="278" type="curve" smooth="yes"/>
+      <point x="999" y="278"/>
+      <point x="1044" y="434"/>
+      <point x="1044" y="529" type="curve" smooth="yes"/>
+      <point x="1044" y="625"/>
+      <point x="994" y="680"/>
+      <point x="909" y="680" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="993" y="678"/>
+      <point x="1042" y="624"/>
+      <point x="1042" y="529" type="curve" smooth="yes"/>
+      <point x="1042" y="435"/>
+      <point x="998" y="280"/>
+      <point x="851" y="280" type="curve" smooth="yes"/>
+      <point x="766" y="280"/>
+      <point x="718" y="335"/>
+      <point x="718" y="431" type="curve" smooth="yes"/>
+      <point x="718" y="531"/>
+      <point x="766" y="678"/>
+      <point x="909" y="678" type="curve" smooth="yes"/>
+    </contour>
+    <component base="N"/>
+    <component base="minus" xOffset="563" yOffset="-330"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

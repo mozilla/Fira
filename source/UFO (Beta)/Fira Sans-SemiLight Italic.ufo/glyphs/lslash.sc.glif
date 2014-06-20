@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="1">
+  <advance width="412.141"/>
+  <outline>
+    <contour>
+      <point x="115" y="29" type="line"/>
+      <point x="144.688" y="242.034" type="line"/>
+      <point x="354" y="363" type="line"/>
+      <point x="343" y="384" type="line"/>
+      <point x="148.835" y="271.788" type="line"/>
+      <point x="189" y="560" type="line"/>
+      <point x="159" y="560" type="line"/>
+      <point x="116.232" y="252.946" type="line"/>
+      <point x="35" y="206" type="line"/>
+      <point x="46" y="185" type="line"/>
+      <point x="112.088" y="223.194" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="365" y="29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

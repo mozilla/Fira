@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="228"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="87" y="664" type="line"/>
+      <point x="87" y="662" type="line"/>
+      <point x="266" y="744" type="line"/>
+      <point x="265" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

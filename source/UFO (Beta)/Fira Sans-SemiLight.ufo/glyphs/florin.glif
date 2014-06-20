@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="308"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="168" y="738"/>
+      <point x="116" y="695"/>
+      <point x="116" y="617" type="curve" smooth="yes"/>
+      <point x="116" y="9" type="line"/>
+      <point x="146" y="29" type="line"/>
+      <point x="146" y="613" type="line" smooth="yes"/>
+      <point x="146" y="683"/>
+      <point x="186" y="710"/>
+      <point x="247" y="710" type="curve" smooth="yes"/>
+      <point x="284" y="710"/>
+      <point x="317" y="701"/>
+      <point x="351" y="685" type="curve"/>
+      <point x="363" y="709" type="line"/>
+      <point x="328" y="727"/>
+      <point x="286" y="738"/>
+      <point x="245" y="738" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="28" y="520" type="line"/>
+      <point x="28" y="493" type="line"/>
+      <point x="287" y="493" type="line"/>
+      <point x="292" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="320" type="line"/>
+      <point x="116" y="9" type="line" smooth="yes"/>
+      <point x="116" y="-108"/>
+      <point x="88" y="-138"/>
+      <point x="19" y="-174" type="curve"/>
+      <point x="28" y="-196" type="line"/>
+      <point x="108" y="-156"/>
+      <point x="146" y="-124"/>
+      <point x="146" y="8" type="curve" smooth="yes"/>
+      <point x="146" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

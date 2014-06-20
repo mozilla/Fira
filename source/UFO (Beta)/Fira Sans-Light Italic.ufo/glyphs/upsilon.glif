@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="1">
+  <advance width="553"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="460" y="517" type="line"/>
+      <point x="462" y="489"/>
+      <point x="463" y="457"/>
+      <point x="463" y="424" type="curve" smooth="yes"/>
+      <point x="463" y="242"/>
+      <point x="424" y="-7"/>
+      <point x="230" y="-7" type="curve" smooth="yes"/>
+      <point x="121" y="-7"/>
+      <point x="96" y="76"/>
+      <point x="107" y="154" type="curve" smooth="yes"/>
+      <point x="158" y="517" type="line"/>
+      <point x="156" y="517" type="line"/>
+      <point x="105" y="154" type="line" smooth="yes"/>
+      <point x="95" y="82"/>
+      <point x="114" y="-9"/>
+      <point x="230" y="-9" type="curve" smooth="yes"/>
+      <point x="424" y="-9"/>
+      <point x="465" y="235"/>
+      <point x="465" y="424" type="curve" smooth="yes"/>
+      <point x="465" y="457"/>
+      <point x="464" y="489"/>
+      <point x="462" y="517" type="curve"/>
+    </contour>
+    <contour>
+      <point x="309" y="517" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

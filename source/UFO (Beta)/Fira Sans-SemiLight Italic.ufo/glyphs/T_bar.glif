@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="1">
+  <advance width="485"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="517" y="652" type="line"/>
+      <point x="526" y="682" type="line"/>
+      <point x="74" y="682" type="line"/>
+      <point x="70" y="652" type="line"/>
+      <point x="278" y="652" type="line"/>
+      <point x="240" y="382" type="line"/>
+      <point x="118" y="382" type="line"/>
+      <point x="114" y="354" type="line"/>
+      <point x="236" y="354" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="267" y="354" type="line"/>
+      <point x="393" y="354" type="line"/>
+      <point x="397" y="382" type="line"/>
+      <point x="271" y="382" type="line"/>
+      <point x="309" y="652" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

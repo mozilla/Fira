@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma.sc" format="1">
+  <advance width="433"/>
+  <outline>
+    <contour>
+      <point x="102" y="558" type="line"/>
+      <point x="102" y="555" type="line"/>
+      <point x="273" y="278" type="line"/>
+      <point x="24" y="3" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="2" type="line"/>
+      <point x="26" y="2" type="line"/>
+      <point x="275" y="277" type="line"/>
+      <point x="275" y="279" type="line"/>
+      <point x="104" y="556" type="line"/>
+      <point x="415" y="556" type="line"/>
+      <point x="415" y="558" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

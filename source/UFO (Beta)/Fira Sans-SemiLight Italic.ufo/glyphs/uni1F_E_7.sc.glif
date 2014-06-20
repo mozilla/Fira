@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FE7.sc" format="1">
+  <advance width="441"/>
+  <outline>
+    <component base="upsilon.sc"/>
+    <component base="dieresis.sc" xOffset="119"/>
+    <component base="uni1FC0" xOffset="75" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

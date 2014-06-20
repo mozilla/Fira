@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="1">
+  <advance width="454"/>
+  <unicode hex="03BB"/>
+  <outline>
+    <contour>
+      <point x="83" y="715" type="line"/>
+      <point x="182" y="691"/>
+      <point x="212" y="633"/>
+      <point x="236" y="520" type="curve"/>
+      <point x="223" y="520" type="line"/>
+      <point x="40" y="1" type="line"/>
+      <point x="69" y="-6" type="line"/>
+      <point x="241" y="490" type="line"/>
+      <point x="305" y="165"/>
+      <point x="369" y="82"/>
+      <point x="431" y="-6" type="curve"/>
+      <point x="459" y="5" type="line"/>
+      <point x="398" y="93"/>
+      <point x="332" y="171"/>
+      <point x="266" y="510" type="curve" smooth="yes"/>
+      <point x="239" y="649"/>
+      <point x="204" y="712"/>
+      <point x="87" y="738" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek.thin" format="1">
+  <advance width="285"/>
+  <outline>
+    <contour>
+      <point x="65" y="-3"/>
+      <point x="-5" y="-57"/>
+      <point x="-5" y="-131" type="curve" smooth="yes"/>
+      <point x="-5" y="-189"/>
+      <point x="43" y="-232"/>
+      <point x="120" y="-232" type="curve" smooth="yes"/>
+      <point x="146" y="-232"/>
+      <point x="163" y="-229"/>
+      <point x="183" y="-225" type="curve"/>
+      <point x="192" y="-155" type="line"/>
+      <point x="168" y="-160"/>
+      <point x="152" y="-162"/>
+      <point x="131" y="-162" type="curve" smooth="yes"/>
+      <point x="90" y="-162"/>
+      <point x="75" y="-144"/>
+      <point x="75" y="-114" type="curve" smooth="yes"/>
+      <point x="75" y="-78"/>
+      <point x="96" y="-44"/>
+      <point x="198" y="0" type="curve"/>
+      <point x="196" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

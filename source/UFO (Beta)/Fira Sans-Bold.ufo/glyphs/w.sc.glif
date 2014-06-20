@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.sc" format="1">
+  <advance width="757"/>
+  <outline>
+    <contour>
+      <point x="567" y="571" type="line"/>
+      <point x="525" y="140" type="line"/>
+      <point x="483" y="571" type="line"/>
+      <point x="278" y="571" type="line"/>
+      <point x="224" y="139" type="line"/>
+      <point x="197" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="377" y="393" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="757" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="571" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

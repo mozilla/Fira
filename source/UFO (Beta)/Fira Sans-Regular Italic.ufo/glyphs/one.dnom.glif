@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom" format="1">
+  <advance width="394"/>
+  <outline>
+    <contour>
+      <point x="223" y="417" type="line"/>
+      <point x="73" y="334" type="line"/>
+      <point x="100" y="281" type="line"/>
+      <point x="204" y="338" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="292" y="417" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

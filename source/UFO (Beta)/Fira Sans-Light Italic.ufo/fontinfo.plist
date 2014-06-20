@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Use Typo Metrics</key>
+	<true/>
+	<key>ascender</key>
+	<integer>727</integer>
+	<key>capHeight</key>
+	<integer>680</integer>
+	<key>copyright</key>
+	<string>Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A.</string>
+	<key>descender</key>
+	<integer>-188</integer>
+	<key>fsType</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>italicAngle</key>
+	<real>-8</real>
+	<key>openTypeHeadCreated</key>
+	<string>2014/06/03 19:45:22</string>
+	<key>openTypeNameDesigner</key>
+	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.carrois.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Licensed under the Open Font License, version 1.1 or later</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Carrois Corporate GbR &amp; Edenspiekermann AG</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.carrois.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Fira Sans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Two Italic</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>250</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-9</integer>
+		<integer>0</integer>
+		<integer>517</integer>
+		<integer>527</integer>
+		<integer>557</integer>
+		<integer>567</integer>
+		<integer>680</integer>
+		<integer>690</integer>
+		<integer>727</integer>
+		<integer>734</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>-12</integer>
+		<integer>0</integer>
+		<integer>564</integer>
+		<integer>574</integer>
+		<integer>689</integer>
+		<integer>701</integer>
+		<integer>739</integer>
+		<integer>751</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+		<integer>-216</integer>
+		<integer>-202</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-192</integer>
+		<integer>-188</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>italic</string>
+	<key>styleName</key>
+	<string>Italic</string>
+	<key>trademark</key>
+	<string>Fira Sans is a trademark of The Mozilla Corporation.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>vendorID</key>
+	<string>CTDB</string>
+	<key>versionMajor</key>
+	<integer>3</integer>
+	<key>versionMinor</key>
+	<integer>108</integer>
+	<key>xHeight</key>
+	<integer>517</integer>
+</dict>
+</plist>

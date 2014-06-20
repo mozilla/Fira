@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="600"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="342" y="136"/>
+      <point x="264" y="28"/>
+      <point x="161" y="-102" type="curve"/>
+      <point x="220" y="-142" type="line"/>
+      <point x="332" y="-9"/>
+      <point x="438" y="113"/>
+      <point x="438" y="350" type="curve" smooth="yes"/>
+      <point x="438" y="587"/>
+      <point x="332" y="709"/>
+      <point x="220" y="842" type="curve"/>
+      <point x="161" y="802" type="line"/>
+      <point x="264" y="672"/>
+      <point x="342" y="565"/>
+      <point x="342" y="350" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

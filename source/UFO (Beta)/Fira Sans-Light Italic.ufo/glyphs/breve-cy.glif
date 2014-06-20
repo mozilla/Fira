@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve-cy" format="1">
+  <advance width="252"/>
+  <outline>
+    <contour>
+      <point x="231" y="668"/>
+      <point x="268" y="687"/>
+      <point x="285" y="726" type="curve"/>
+      <point x="287" y="725" type="line"/>
+      <point x="271" y="690"/>
+      <point x="238" y="666"/>
+      <point x="183" y="666" type="curve"/>
+      <point x="128" y="666"/>
+      <point x="101" y="690"/>
+      <point x="95" y="725" type="curve"/>
+      <point x="97" y="726" type="line"/>
+      <point x="104" y="686"/>
+      <point x="135" y="668"/>
+      <point x="183" y="668" type="curve"/>
+    </contour>
+    <contour>
+      <point x="162" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

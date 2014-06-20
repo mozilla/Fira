@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="1">
+  <advance width="691"/>
+  <unicode hex="0149"/>
+  <outline>
+    <component base="n" xOffset="119"/>
+    <component base="uni02BC" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

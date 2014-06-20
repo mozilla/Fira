@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="1">
+  <advance width="557"/>
+  <unicode hex="0119"/>
+  <outline>
+    <component base="e"/>
+    <component base="ogonek.thin" xOffset="194" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

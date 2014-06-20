@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045B.sc" format="1">
+  <advance width="593"/>
+  <outline>
+    <contour>
+      <point x="57" y="560" type="line"/>
+      <point x="53" y="531" type="line"/>
+      <point x="410" y="531" type="line"/>
+      <point x="419" y="560" type="line"/>
+    </contour>
+    <component base="uni04BB.sc" xOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

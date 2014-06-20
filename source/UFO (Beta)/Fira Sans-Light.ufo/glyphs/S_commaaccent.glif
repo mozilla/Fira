@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="1">
+  <advance width="540"/>
+  <unicode hex="0218"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni0326.case" xOffset="224"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

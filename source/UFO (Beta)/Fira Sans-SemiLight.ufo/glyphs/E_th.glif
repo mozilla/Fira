@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="618"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="116" y="367" type="line"/>
+      <point x="25" y="367" type="line"/>
+      <point x="25" y="339" type="line"/>
+      <point x="337" y="339" type="line"/>
+      <point x="337" y="367" type="line"/>
+    </contour>
+    <component base="D" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.dnom" format="1">
+  <advance width="394"/>
+  <outline>
+    <contour>
+      <point x="87" y="417" type="line"/>
+      <point x="78" y="356" type="line"/>
+      <point x="262" y="356" type="line"/>
+      <point x="62" y="16" type="line"/>
+      <point x="131" y="-8" type="line"/>
+      <point x="343" y="362" type="line"/>
+      <point x="351" y="417" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

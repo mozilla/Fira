@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.dnom" format="1">
+  <advance width="402"/>
+  <outline>
+    <contour>
+      <point x="210" y="420"/>
+      <point x="147" y="346"/>
+      <point x="126" y="196" type="curve"/>
+      <point x="105" y="44"/>
+      <point x="147" y="-30"/>
+      <point x="194" y="-113" type="curve"/>
+      <point x="216" y="-101" type="line"/>
+      <point x="175" y="-20"/>
+      <point x="138" y="50"/>
+      <point x="158" y="192" type="curve"/>
+      <point x="179" y="336"/>
+      <point x="235" y="406"/>
+      <point x="299" y="487" type="curve"/>
+      <point x="279" y="503" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

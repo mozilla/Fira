@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="1">
+  <advance width="493.941"/>
+  <outline>
+    <contour>
+      <point x="259" y="279" type="line"/>
+      <point x="263" y="305" type="line"/>
+      <point x="90" y="305" type="line"/>
+      <point x="36" y="305" type="line"/>
+      <point x="32" y="279" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

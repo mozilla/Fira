@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="600"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="420" y="632"/>
+      <point x="464" y="688"/>
+      <point x="488" y="751" type="curve"/>
+      <point x="408" y="789" type="line"/>
+      <point x="392" y="761"/>
+      <point x="380" y="746"/>
+      <point x="356" y="746" type="curve" smooth="yes"/>
+      <point x="325" y="746"/>
+      <point x="308" y="790"/>
+      <point x="243" y="790" type="curve" smooth="yes"/>
+      <point x="180" y="790"/>
+      <point x="135" y="735"/>
+      <point x="112" y="672" type="curve"/>
+      <point x="192" y="634" type="line"/>
+      <point x="208" y="662"/>
+      <point x="220" y="677"/>
+      <point x="243" y="677" type="curve" smooth="yes"/>
+      <point x="274" y="677"/>
+      <point x="293" y="632"/>
+      <point x="356" y="632" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="300" y="531" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="1">
+  <advance width="394"/>
+  <outline>
+    <contour>
+      <point x="155" y="424"/>
+      <point x="106" y="401"/>
+      <point x="65" y="358" type="curve"/>
+      <point x="111" y="315" type="line"/>
+      <point x="142" y="346"/>
+      <point x="168" y="362"/>
+      <point x="204" y="362" type="curve" smooth="yes"/>
+      <point x="240" y="362"/>
+      <point x="261" y="342"/>
+      <point x="256" y="303" type="curve" smooth="yes"/>
+      <point x="247" y="245"/>
+      <point x="204" y="205"/>
+      <point x="35" y="60" type="curve"/>
+      <point x="28" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="312" y="62" type="line"/>
+      <point x="127" y="60" type="line"/>
+      <point x="279" y="183"/>
+      <point x="326" y="234"/>
+      <point x="335" y="299" type="curve" smooth="yes"/>
+      <point x="345" y="369"/>
+      <point x="300" y="424"/>
+      <point x="211" y="424" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

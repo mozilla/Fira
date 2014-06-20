@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B0" format="1">
+  <advance width="500"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="277" y="288" type="line"/>
+      <point x="155" y="288" type="line"/>
+      <point x="151" y="259" type="line"/>
+      <point x="304" y="259" type="line"/>
+      <point x="426" y="259" type="line"/>
+      <point x="430" y="288" type="line"/>
+    </contour>
+    <component base="Y"/>
+    <contour>
+      <point x="357" y="682" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="652"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="577" y="542" type="line"/>
+      <point x="98" y="542" type="line"/>
+      <point x="94" y="518" type="line"/>
+      <point x="157" y="518" type="line"/>
+      <point x="636" y="518" type="line"/>
+      <point x="640" y="542" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

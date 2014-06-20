@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descStraightleft-cy" format="1">
+  <advance width="230"/>
+  <outline>
+    <contour>
+      <point x="7" y="-175" type="line"/>
+      <point x="135" y="-175" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="267" y="142" type="line"/>
+      <point x="52" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="217" y="0" type="move" name="_bottomleft"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="move" name="_bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

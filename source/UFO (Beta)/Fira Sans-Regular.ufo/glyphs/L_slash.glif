@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="514"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="116" y="340" type="line"/>
+      <point x="22" y="282" type="line"/>
+      <point x="60" y="222" type="line"/>
+      <point x="409" y="438" type="line"/>
+      <point x="371" y="498" type="line"/>
+    </contour>
+    <component base="L" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

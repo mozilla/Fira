@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="326" y="171" type="line"/>
+      <point x="326" y="236" type="line"/>
+      <point x="74" y="236" type="line"/>
+      <point x="74" y="171" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

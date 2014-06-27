@@ -17,7 +17,7 @@
 		<integer>3</integer>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/03 08:15:57</string>
+	<string>2014/06/27 15:36:59</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -40,27 +40,27 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-9</integer>
+		<integer>-12</integer>
 		<integer>0</integer>
 		<integer>517</integer>
-		<integer>527</integer>
+		<integer>529</integer>
 		<integer>557</integer>
-		<integer>567</integer>
+		<integer>569</integer>
 		<integer>680</integer>
-		<integer>690</integer>
+		<integer>692</integer>
 		<integer>727</integer>
-		<integer>734</integer>
+		<integer>739</integer>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
-		<integer>-12</integer>
+		<integer>-14</integer>
 		<integer>0</integer>
 		<integer>564</integer>
-		<integer>574</integer>
+		<integer>578</integer>
 		<integer>689</integer>
-		<integer>701</integer>
+		<integer>703</integer>
 		<integer>739</integer>
-		<integer>751</integer>
+		<integer>753</integer>
 	</array>
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
@@ -69,7 +69,7 @@
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-192</integer>
+		<integer>-200</integer>
 		<integer>-188</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
@@ -93,7 +93,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>107</integer>
+	<integer>109</integer>
 	<key>xHeight</key>
 	<integer>517</integer>
 </dict>

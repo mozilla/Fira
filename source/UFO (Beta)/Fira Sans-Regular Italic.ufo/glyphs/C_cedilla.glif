@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
-  <advance width="555.500"/>
+  <advance width="555"/>
   <unicode hex="00C7"/>
   <outline>
     <component base="C"/>

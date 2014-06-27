@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij.sc" format="1">
-  <advance width="518.500"/>
+  <advance width="519"/>
   <outline>
     <component base="i.sc"/>
     <component base="j.sc" xOffset="262"/>

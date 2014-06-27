@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FD0" format="1">
-  <advance width="253.500"/>
+  <advance width="253"/>
   <unicode hex="1FD0"/>
   <outline>
     <component base="iota"/>

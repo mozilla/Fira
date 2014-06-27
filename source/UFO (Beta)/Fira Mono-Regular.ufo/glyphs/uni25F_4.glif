@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="whiteCircleWithUpperLeftQuadrant" format="1">
+<glyph name="uni25F4" format="1">
   <advance width="600"/>
-  <unicode hex="25F4"/>
+  <unicode hex="25D5"/>
   <outline>
     <contour>
       <point x="150" y="540"/>
@@ -18,17 +18,23 @@
       <point x="300" y="540" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="425" y="437"/>
-      <point x="490" y="360"/>
-      <point x="490" y="270" type="curve" smooth="yes"/>
-      <point x="490" y="165"/>
-      <point x="404" y="80"/>
-      <point x="300" y="80" type="curve" smooth="yes"/>
-      <point x="208" y="80"/>
-      <point x="133" y="144"/>
-      <point x="114" y="230" type="curve"/>
-      <point x="340" y="230" type="line"/>
-      <point x="340" y="455" type="line"/>
+      <point x="300" y="270" type="line"/>
+      <point x="110" y="270" type="line"/>
+      <point x="110" y="374"/>
+      <point x="195" y="460"/>
+      <point x="300" y="460" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
+0" y="455" type="line"/>
     </contour>
     <contour>
       <point x="260" y="310" type="line"/>

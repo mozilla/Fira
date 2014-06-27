@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj.sc" format="1">
-  <advance width="261.500"/>
+  <advance width="262"/>
   <outline>
     <component base="j.sc"/>
   </outline>

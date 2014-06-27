@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
-  <advance width="625.500"/>
+  <advance width="625"/>
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>

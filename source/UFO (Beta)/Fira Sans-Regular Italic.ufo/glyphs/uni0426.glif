@@ -4,7 +4,7 @@
   <unicode hex="0426"/>
   <outline>
     <component base="TseHelper-cy"/>
-    <component base="descStraight-cy.case" xOffset="486"/>
+    <component base="descStraight-cy.case" xOffset="484"/>
   </outline>
   <lib>
     <dict>

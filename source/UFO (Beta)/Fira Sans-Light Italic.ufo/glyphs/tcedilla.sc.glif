@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla.sc" format="1">
-  <advance width="414.500"/>
+  <advance width="414"/>
   <outline>
     <component base="t.sc"/>
     <component base="cedillaTcedilla" xOffset="134"/>

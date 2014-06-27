@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uacute.sc" format="1">
-  <advance width="598.500"/>
+  <advance width="599"/>
   <outline>
     <component base="u.sc"/>
     <component base="acute.sc" xOffset="197" yOffset="1"/>

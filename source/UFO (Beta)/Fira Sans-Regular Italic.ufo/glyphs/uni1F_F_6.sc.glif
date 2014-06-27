@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FF6.sc" format="1">
-  <advance width="610.500"/>
+  <advance width="610"/>
   <outline>
     <component base="omega.sc"/>
     <component base="uni1FC0" xOffset="112" yOffset="37"/>

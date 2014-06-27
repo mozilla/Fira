@@ -15,7 +15,7 @@
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/05 10:37:03</string>
+	<string>2014/06/27 15:36:41</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -31,32 +31,32 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Fira Mono</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light</string>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-12</integer>
+		<integer>-14</integer>
 		<integer>0</integer>
 		<integer>527</integer>
-		<integer>539</integer>
+		<integer>541</integer>
 		<integer>689</integer>
-		<integer>701</integer>
+		<integer>703</integer>
 		<integer>739</integer>
-		<integer>751</integer>
+		<integer>753</integer>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
-		<integer>-12</integer>
+		<integer>-14</integer>
 		<integer>0</integer>
 		<integer>527</integer>
-		<integer>537</integer>
+		<integer>541</integer>
 		<integer>689</integer>
-		<integer>701</integer>
+		<integer>703</integer>
 		<integer>739</integer>
-		<integer>751</integer>
+		<integer>753</integer>
 	</array>
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
@@ -89,7 +89,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>108</integer>
+	<integer>109</integer>
 	<key>xHeight</key>
 	<integer>527</integer>
 </dict>

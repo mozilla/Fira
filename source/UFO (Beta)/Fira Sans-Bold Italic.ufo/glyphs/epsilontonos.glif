@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="1">
-  <advance width="486.500"/>
+  <advance width="487"/>
   <unicode hex="03AD"/>
   <outline>
     <component base="epsilon"/>

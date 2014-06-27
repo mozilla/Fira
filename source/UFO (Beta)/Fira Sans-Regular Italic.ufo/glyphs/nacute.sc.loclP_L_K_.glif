@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute.sc.loclPLK" format="1">
-  <advance width="619.500"/>
+  <advance width="620"/>
   <outline>
     <component base="n.sc"/>
     <component base="acute.sc.loclPLK" xOffset="144"/>

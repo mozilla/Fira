@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos.sc" format="1">
-  <advance width="610.500"/>
+  <advance width="610"/>
   <outline>
     <component base="omega.sc"/>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent.sc" format="1">
-  <advance width="541.500"/>
+  <advance width="541"/>
   <outline>
     <component base="g.sc"/>
     <component base="uni0326.sc" xOffset="271"/>

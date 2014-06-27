@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent.sc" format="1">
-  <advance width="468.500"/>
+  <advance width="469"/>
   <outline>
     <component base="l.sc"/>
     <component base="uni0326.sc" xOffset="126"/>

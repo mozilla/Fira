@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F5.sc" format="1">
-  <advance width="551.500"/>
+  <advance width="552"/>
   <outline>
     <component base="uni0447.sc"/>
     <component base="dieresis.sc" xOffset="100"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve.sc" format="1">
-  <advance width="616.500"/>
+  <advance width="616"/>
   <outline>
     <component base="o.sc"/>
     <component base="grave.sc" xOffset="232"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls.sc" format="1">
-  <advance width="975.500"/>
+  <advance width="976"/>
   <outline>
     <component base="s.sc"/>
     <component base="s.sc" xOffset="488"/>

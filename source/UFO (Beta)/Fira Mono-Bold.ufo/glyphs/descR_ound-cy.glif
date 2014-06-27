@@ -30,6 +30,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
       <key>public.markColor</key>

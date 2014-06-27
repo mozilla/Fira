@@ -10,6 +10,9 @@ languagesystem latn ROM;
 languagesystem latn PLK;
 languagesystem latn CAT;
 
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Oslashacute.001 Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni0402 uni0462 uni0472 uni0474 uni0492 uni0496 uni0498 uni049A uni049C uni04A0 uni04A2 uni0524 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04C0 uni04C1 uni04CB uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni051C Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FD8 uni1FD9 uni1FDA uni1FDB uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FF8 uni1FF9 uni1FFA uni1FFB ];
+
 feature aalt {
 # automatic
 feature locl;
@@ -28,6 +31,7 @@ feature smcp;
 feature case;
 feature zero;
 } aalt;
+
 feature locl {
 script latn;
 language TAT;
@@ -73,6 +77,7 @@ sub  L' periodcentered' L by Ldot;
 language CRT;
 sub i by idotaccent;
 } locl;
+
 feature subs {
 # automatic
 sub zero by zeroinferior;
@@ -90,6 +95,7 @@ sub parenright by parenrightinferior;
 sub minus by minusinferior;
 sub plus by plusinferior;
 } subs;
+
 feature sups {
 # automatic
 sub zero by zerosuperior;
@@ -108,6 +114,7 @@ sub equal by equalsuperior;
 sub minus by minussuperior;
 sub plus by plussuperior;
 } sups;
+
 feature numr {
 # automatic
 sub zero by zero.numr;
@@ -126,6 +133,7 @@ sub equal by equal.numr;
 sub minus by minus.numr;
 sub plus by plus.numr;
 } numr;
+
 feature dnom {
 # automatic
 sub zero by zero.dnom;
@@ -144,6 +152,7 @@ sub equal by equal.dnom;
 sub minus by minus.dnom;
 sub plus by plus.dnom;
 } dnom;
+
 feature frac {
 # automatic
 lookup FRAC {
@@ -157,11 +166,13 @@ lookup DOWN {
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 } DOWN;
 } frac;
+
 feature ordn {
 # automatic
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
+
 feature lnum {
 # automatic
 sub zero.osf by zero;
@@ -209,6 +220,7 @@ sub degree.osf by degree;
 sub dagger.osf by dagger;
 sub daggerdbl.osf by daggerdbl;
 } lnum;
+
 feature pnum {
 # automatic
 sub zero.tf by zero;
@@ -301,6 +313,7 @@ sub degree.tosf by degree.osf;
 sub dagger.tosf by dagger.osf;
 sub daggerdbl.tosf by daggerdbl.osf;
 } pnum;
+
 feature tnum {
 # automatic
 sub zero by zero.tf;
@@ -393,6 +406,7 @@ sub degree.osf by degree.tosf;
 sub dagger.osf by dagger.tosf;
 sub daggerdbl.osf by daggerdbl.tosf;
 } tnum;
+
 feature onum {
 # automatic
 sub zero.tf by zero.tosf;
@@ -485,6 +499,7 @@ sub degree by degree.osf;
 sub dagger by dagger.osf;
 sub daggerdbl by daggerdbl.osf;
 } onum;
+
 feature c2sc {
 # automatic
 sub A by a.sc;
@@ -769,6 +784,7 @@ sub ogonek by ogonek.sc;
 sub ring by ring.sc;
 sub tilde by tilde.sc;
 } c2sc;
+
 feature smcp {
 # automatic
 sub a by a.sc;
@@ -1077,6 +1093,7 @@ sub ogonek by ogonek.sc;
 sub ring by ring.sc;
 sub tilde by tilde.sc;
 } smcp;
+
 feature case {
 # automatic
 sub exclamdown by exclamdown.case;
@@ -1112,16 +1129,19 @@ sub commaaccent by commaaccent.case;
 sub breve-cy by breve-cy.case;
 sub tonos by tonos.case;
 } case;
+
 feature dlig {
 # automatic
 sub f i by f_i;
 sub f l by f_l;
 } dlig;
+
 feature liga {
 # automatic
 sub f i by fi;
 sub f l by fl;
 } liga;
+
 feature zero {
 # automatic
 sub zero by zero.zero;
@@ -1129,7 +1149,9 @@ sub zero.osf by zero.osf.zero;
 sub zero.tf by zero.tf.zero;
 sub zero.tosf by zero.tosf.zero;
 } zero;
+
 feature cpsp {
 # automatic
 pos @Uppercase <5 0 10 0>;
 } cpsp;
+

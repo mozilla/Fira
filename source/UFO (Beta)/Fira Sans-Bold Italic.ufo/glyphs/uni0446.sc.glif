@@ -3,7 +3,7 @@
   <advance width="629"/>
   <outline>
     <component base="tsehelper-cy.sc"/>
-    <component base="descStraight-cy" xOffset="399"/>
+    <component base="descStraight-cy" xOffset="395"/>
   </outline>
   <lib>
     <dict>

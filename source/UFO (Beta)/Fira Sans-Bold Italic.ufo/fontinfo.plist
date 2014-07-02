@@ -19,7 +19,7 @@
 	<key>italicAngle</key>
 	<real>-8</real>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/27 10:34:01</string>
+	<string>2014/07/01 19:06:45</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -95,7 +95,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>109</integer>
+	<integer>110</integer>
 	<key>xHeight</key>
 	<integer>534</integer>
 </dict>

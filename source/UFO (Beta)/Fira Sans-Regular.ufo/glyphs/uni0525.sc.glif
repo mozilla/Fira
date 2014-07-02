@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0525.sc" format="1">
-  <advance width="646"/>
+  <advance width="642"/>
   <outline>
-    <component base="tsehelper-cy.sc" yOffset="564" yScale="-1"/>
-    <component base="descStraight-cy" xOffset="443" yOffset="564"/>
+    <contour>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="564" type="line"/>
+      <point x="100" y="564" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="489" type="line"/>
+      <point x="430" y="489" type="line"/>
+      <point x="430" y="0" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="439"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

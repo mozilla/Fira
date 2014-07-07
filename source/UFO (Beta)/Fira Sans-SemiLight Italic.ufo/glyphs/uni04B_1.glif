@@ -9,16 +9,16 @@
       <point x="200" y="53" type="line"/>
       <point x="91" y="520" type="line"/>
       <point x="57" y="520" type="line"/>
-      <point x="178.757" y="32" type="line"/>
+      <point x="179" y="32" type="line"/>
       <point x="79" y="32" type="line"/>
       <point x="75" y="5" type="line"/>
-      <point x="180.009" y="5" type="line"/>
+      <point x="180" y="5" type="line"/>
       <point x="151" y="-199" type="line"/>
       <point x="181" y="-193" type="line"/>
-      <point x="209.019" y="5" type="line"/>
+      <point x="209" y="5" type="line"/>
       <point x="316" y="5" type="line"/>
       <point x="320" y="32" type="line"/>
-      <point x="217.695" y="32" type="line"/>
+      <point x="218" y="32" type="line"/>
     </contour>
   </outline>
   <lib>

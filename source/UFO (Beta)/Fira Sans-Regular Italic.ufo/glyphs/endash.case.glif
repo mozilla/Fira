@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash.case" format="1">
-  <advance width="513.676"/>
+  <advance width="514"/>
   <outline>
     <component base="endash" xOffset="6" yOffset="45"/>
   </outline>

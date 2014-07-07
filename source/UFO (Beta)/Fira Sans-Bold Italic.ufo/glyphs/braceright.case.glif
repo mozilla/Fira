@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceright.case" format="1">
-  <advance width="313.076"/>
+  <advance width="313"/>
   <outline>
     <component base="braceright" xOffset="-1" yOffset="-10"/>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright.dnom" format="1">
-  <advance width="400.130"/>
+  <advance width="400"/>
   <outline>
     <contour>
       <point x="178" y="494" type="line"/>

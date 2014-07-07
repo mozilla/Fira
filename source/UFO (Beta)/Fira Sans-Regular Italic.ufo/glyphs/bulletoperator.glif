@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bulletoperator" format="1">
-  <advance width="240.443"/>
+  <advance width="240"/>
   <unicode hex="2219"/>
   <outline>
     <component base="periodcentered"/>

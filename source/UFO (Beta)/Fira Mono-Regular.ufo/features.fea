@@ -1,0 +1,263 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn PLK;
+languagesystem latn CAT;
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla uni021A U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni0402 uni0462 uni0472 uni0474 uni0492 uni0496 uni0498 uni049A uni049C uni04A0 uni04A2 uni0524 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04C0 uni04C1 uni04CB uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni051C Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FD8 uni1FD9 uni1FDA uni1FDB uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FF8 uni1FF9 uni1FFA uni1FFB ];
+
+feature aalt {
+# automatic
+feature locl;
+feature subs;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature onum;
+feature case;
+feature zero;
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language PLK;
+sub Cacute by Cacute.loclPLK;
+sub Nacute by Nacute.loclPLK;
+sub Oacute by Oacute.loclPLK;
+sub Sacute by Sacute.loclPLK;
+sub Zacute by Zacute.loclPLK;
+sub cacute by cacute.loclPLK;
+sub nacute by nacute.loclPLK;
+sub oacute by oacute.loclPLK;
+sub sacute by sacute.loclPLK;
+sub zacute by zacute.loclPLK;
+sub acute by acute.loclPLK;
+language AZE;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language CRT;
+sub i by idotaccent;
+} locl;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+sub minus by minusinferior;
+sub plus by plusinferior;
+} subs;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+sub equal by equalsuperior;
+sub minus by minussuperior;
+sub plus by plussuperior;
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+sub parenleft by parenleft.numr;
+sub parenright by parenright.numr;
+sub equal by equal.numr;
+sub minus by minus.numr;
+sub plus by plus.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+sub parenleft by parenleft.dnom;
+sub parenright by parenright.dnom;
+sub equal by equal.dnom;
+sub minus by minus.dnom;
+sub plus by plus.dnom;
+} dnom;
+
+feature frac {
+# automatic
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature onum {
+# automatic
+sub zero by zero.tosf;
+sub one by one.tosf;
+sub two by two.tosf;
+sub three by three.tosf;
+sub four by four.tosf;
+sub five by five.tosf;
+sub six by six.tosf;
+sub seven by seven.tosf;
+sub eight by eight.tosf;
+sub nine by nine.tosf;
+sub numbersign by numbersign.tosf;
+sub figuredash by figuredash.tosf;
+sub figurespace by figurespace.tosf;
+sub cent by cent.tosf;
+sub currency by currency.tosf;
+sub dollar by dollar.tosf;
+sub sterling by sterling.tosf;
+sub yen by yen.tosf;
+sub approxequal by approxequal.tosf;
+sub asciitilde by asciitilde.tosf;
+sub divide by divide.tosf;
+sub equal by equal.tosf;
+sub greater by greater.tosf;
+sub greaterequal by greaterequal.tosf;
+sub infinity by infinity.tosf;
+sub integral by integral.tosf;
+sub less by less.tosf;
+sub lessequal by lessequal.tosf;
+sub logicalnot by logicalnot.tosf;
+sub minus by minus.tosf;
+sub multiply by multiply.tosf;
+sub notequal by notequal.tosf;
+sub partialdiff by partialdiff.tosf;
+sub percent by percent.tosf;
+sub perthousand by perthousand.tosf;
+sub plus by plus.tosf;
+sub plusminus by plusminus.tosf;
+sub product by product.tosf;
+sub radical by radical.tosf;
+sub summation by summation.tosf;
+sub lozenge by lozenge.tosf;
+sub section by section.tosf;
+sub degree by degree.tosf;
+sub dagger by dagger.tosf;
+sub daggerdbl by daggerdbl.tosf;
+} onum;
+
+feature case {
+# automatic
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub emdash by emdash.case;
+sub endash by endash.case;
+sub hyphen by hyphen.case;
+sub softhyphen by softhyphen.case;
+sub guilsinglleft by guilsinglleft.case;
+sub guilsinglright by guilsinglright.case;
+sub infinity by infinity.case;
+sub acute by acute.case;
+sub breve by breve.case;
+sub caron by caron.case;
+sub cedilla by cedilla.case;
+sub circumflex by circumflex.case;
+sub dieresis by dieresis.case;
+sub dotaccent by dotaccent.case;
+sub grave by grave.case;
+sub hungarumlaut by hungarumlaut.case;
+sub macron by macron.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+sub commaaccent by commaaccent.case;
+sub breve-cy by breve-cy.case;
+sub tonos by tonos.case;
+} case;
+
+feature dlig {
+sub f i by fi;
+sub f l by fl;
+} dlig;
+
+feature zero {
+# automatic
+sub zero by zero.zero;
+sub zero.tosf by zero.tosf.zero;
+} zero;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+

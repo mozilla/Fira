@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowrightwhite" format="1">
-  <advance width="960.070"/>
+  <advance width="960"/>
   <unicode hex="21E8"/>
   <outline>
     <component base="arrowleftwhite" xOffset="973" xScale="-1"/>

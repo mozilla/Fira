@@ -7,14 +7,14 @@
       <point x="593" y="669" type="line"/>
       <point x="113" y="669" type="line"/>
       <point x="102" y="593" type="line"/>
-      <point x="174.742" y="593" type="line"/>
+      <point x="175" y="593" type="line"/>
       <point x="61" y="-213" type="line"/>
       <point x="152" y="-202" type="line"/>
-      <point x="263.751" y="593" type="line"/>
-      <point x="426.742" y="593" type="line"/>
+      <point x="264" y="593" type="line"/>
+      <point x="427" y="593" type="line"/>
       <point x="313" y="-213" type="line"/>
       <point x="404" y="-202" type="line"/>
-      <point x="515.751" y="593" type="line"/>
+      <point x="516" y="593" type="line"/>
       <point x="582" y="593" type="line"/>
     </contour>
   </outline>

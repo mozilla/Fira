@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0452" format="1">
-  <advance width="571.320"/>
+  <advance width="571"/>
   <unicode hex="0452"/>
   <outline>
     <contour>
       <point x="375" y="554"/>
       <point x="305" y="511"/>
       <point x="269" y="448" type="curve"/>
-      <point x="289.221" y="590" type="line"/>
+      <point x="289" y="590" type="line"/>
       <point x="404" y="590" type="line"/>
       <point x="434" y="696" type="line"/>
-      <point x="304.317" y="696" type="line"/>
+      <point x="304" y="696" type="line"/>
       <point x="314" y="764" type="line"/>
       <point x="118" y="744" type="line"/>
-      <point x="111.29" y="696" type="line"/>
+      <point x="111" y="696" type="line"/>
       <point x="61" y="696" type="line"/>
       <point x="46" y="590" type="line"/>
-      <point x="96.4731" y="590" type="line"/>
+      <point x="96" y="590" type="line"/>
       <point x="14" y="0" type="line"/>
       <point x="208" y="0" type="line"/>
       <point x="248" y="278" type="line"/>

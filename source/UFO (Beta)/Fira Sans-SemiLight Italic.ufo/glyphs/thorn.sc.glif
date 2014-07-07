@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn.sc" format="1">
-  <advance width="511.425"/>
+  <advance width="511"/>
   <outline>
     <contour>
       <point x="168" y="457" type="line"/>

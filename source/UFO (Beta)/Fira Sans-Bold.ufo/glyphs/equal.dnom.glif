@@ -2,8 +2,8 @@
 <glyph name="equal.dnom" format="1">
   <advance width="400"/>
   <outline>
-    <component base="minus.dnom" yOffset="80" yScale="0.95"/>
-    <component base="minus.dnom" yOffset="-61" yScale="0.95"/>
+    <component base="minus.dnom" yOffset="80" yScale="0.950"/>
+    <component base="minus.dnom" yOffset="-61" yScale="0.950"/>
   </outline>
   <lib>
     <dict>

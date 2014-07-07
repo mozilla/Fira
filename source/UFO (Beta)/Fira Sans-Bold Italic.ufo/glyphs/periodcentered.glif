@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="239.659"/>
+  <advance width="240"/>
   <unicode hex="00B7"/>
   <outline>
     <component base="period" xOffset="31" yOffset="223"/>

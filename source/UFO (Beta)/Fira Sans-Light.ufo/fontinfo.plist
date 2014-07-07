@@ -12,12 +12,14 @@
 	<string>Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A.</string>
 	<key>descender</key>
 	<integer>-188</integer>
+	<key>familyName</key>
+	<string>Fira Sans</string>
 	<key>fsType</key>
 	<array>
 		<integer>3</integer>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2014/07/01 19:03:39</string>
+	<string>2014/07/03 17:11:32</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -93,7 +95,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>xHeight</key>
 	<integer>517</integer>
 </dict>

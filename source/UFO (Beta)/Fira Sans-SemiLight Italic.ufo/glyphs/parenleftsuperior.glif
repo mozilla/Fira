@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleftsuperior" format="1">
-  <advance width="402.070"/>
+  <advance width="402"/>
   <unicode hex="207D"/>
   <outline>
     <component base="parenleft.dnom" xOffset="39" yOffset="277"/>

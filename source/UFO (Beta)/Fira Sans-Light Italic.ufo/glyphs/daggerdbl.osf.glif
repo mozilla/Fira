@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl.osf" format="1">
-  <advance width="531.038"/>
+  <advance width="531"/>
   <outline>
     <component base="daggerdbl"/>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less.osf" format="1">
-  <advance width="495.632"/>
+  <advance width="496"/>
   <outline>
     <component base="less"/>
   </outline>

@@ -9,13 +9,13 @@
       <point x="269" y="560" type="line"/>
       <point x="-12" y="0" type="line"/>
       <point x="19" y="0" type="line"/>
-      <point x="99.0486" y="161" type="line"/>
-      <point x="364.693" y="161" type="line"/>
+      <point x="99" y="161" type="line"/>
+      <point x="365" y="161" type="line"/>
     </contour>
     <contour>
-      <point x="112.97" y="189" type="line"/>
+      <point x="113" y="189" type="line"/>
       <point x="285" y="535" type="line"/>
-      <point x="358.727" y="189" type="line"/>
+      <point x="359" y="189" type="line"/>
     </contour>
     <contour>
       <point x="440" y="0" type="move" name="ogonek"/>

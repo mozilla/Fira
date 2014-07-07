@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni208E" format="1">
-  <advance width="385.606"/>
+  <advance width="386"/>
   <unicode hex="208E"/>
   <outline>
     <component base="parenright.dnom" xOffset="-29" yOffset="-207"/>

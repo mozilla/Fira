@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright.numr" format="1">
-  <advance width="400.200"/>
+  <advance width="400"/>
   <outline>
     <component base="parenright.dnom" xOffset="39" yOffset="277"/>
   </outline>

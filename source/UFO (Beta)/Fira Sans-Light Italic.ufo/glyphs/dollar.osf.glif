@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar.osf" format="1">
-  <advance width="526.866"/>
+  <advance width="527"/>
   <outline>
     <component base="dollar"/>
   </outline>

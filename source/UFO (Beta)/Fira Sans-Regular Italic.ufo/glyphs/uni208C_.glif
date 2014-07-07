@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equalsinferior" format="1">
-  <advance width="393.490"/>
+  <advance width="393"/>
   <unicode hex="208C"/>
   <outline>
     <component base="equal.dnom" xOffset="10" yOffset="-207"/>

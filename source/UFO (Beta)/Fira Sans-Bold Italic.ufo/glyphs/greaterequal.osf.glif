@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal.osf" format="1">
-  <advance width="518.243"/>
+  <advance width="518"/>
   <outline>
     <component base="greaterequal"/>
   </outline>

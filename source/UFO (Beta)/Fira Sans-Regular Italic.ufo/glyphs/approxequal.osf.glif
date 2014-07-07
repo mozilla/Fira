@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="approxequal.osf" format="1">
-  <advance width="481.946"/>
+  <advance width="482"/>
   <outline>
     <component base="approxequal"/>
   </outline>

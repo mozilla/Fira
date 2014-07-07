@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright.case" format="1">
-  <advance width="559.676"/>
+  <advance width="560"/>
   <outline>
     <component base="guillemotright" xOffset="7" yOffset="45"/>
   </outline>

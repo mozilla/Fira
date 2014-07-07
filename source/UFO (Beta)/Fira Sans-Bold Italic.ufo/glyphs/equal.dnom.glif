@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal.dnom" format="1">
-  <advance width="390.365"/>
+  <advance width="390"/>
   <outline>
-    <component base="minus.dnom" xOffset="10" yOffset="80" yScale="0.95"/>
-    <component base="minus.dnom" xOffset="-8" yOffset="-61" yScale="0.95"/>
+    <component base="minus.dnom" xOffset="10" yOffset="80" yScale="0.950"/>
+    <component base="minus.dnom" xOffset="-8" yOffset="-61" yScale="0.950"/>
   </outline>
   <lib>
     <dict>

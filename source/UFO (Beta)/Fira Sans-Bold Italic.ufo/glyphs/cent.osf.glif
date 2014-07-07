@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent.osf" format="1">
-  <advance width="467.594"/>
+  <advance width="468"/>
   <outline>
     <component base="cent"/>
   </outline>

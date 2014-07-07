@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045A" format="1">
-  <advance width="798.403"/>
+  <advance width="798"/>
   <unicode hex="045A"/>
   <outline>
     <contour>
       <point x="540" y="352" type="line"/>
       <point x="565" y="534" type="line"/>
       <point x="371" y="534" type="line"/>
-      <point x="345.82" y="351" type="line"/>
+      <point x="346" y="351" type="line"/>
       <point x="247" y="351" type="line"/>
       <point x="272" y="534" type="line"/>
       <point x="78" y="534" type="line"/>
       <point x="4" y="0" type="line"/>
       <point x="198" y="0" type="line"/>
       <point x="228" y="221" type="line"/>
-      <point x="327.932" y="221" type="line"/>
+      <point x="328" y="221" type="line"/>
       <point x="300" y="18" type="line"/>
       <point x="379" y="-7"/>
       <point x="444" y="-20"/>

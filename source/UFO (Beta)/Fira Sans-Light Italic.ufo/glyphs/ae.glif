@@ -15,8 +15,8 @@
       <point x="436" y="482"/>
       <point x="437" y="378" type="curve"/>
       <point x="424" y="348"/>
-      <point x="417.5" y="328"/>
-      <point x="409.5" y="295" type="curve"/>
+      <point x="418" y="328"/>
+      <point x="410" y="295" type="curve"/>
       <point x="286" y="295" type="line" smooth="yes"/>
       <point x="125" y="295"/>
       <point x="62" y="214"/>
@@ -83,7 +83,7 @@
       <point x="666" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="550.67" y="0" type="move" name="bottom"/>
+      <point x="551" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="464" y="517" type="move" name="top"/>

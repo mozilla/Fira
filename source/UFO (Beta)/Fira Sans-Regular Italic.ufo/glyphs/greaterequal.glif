@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="493.784"/>
+  <advance width="494"/>
   <unicode hex="2265"/>
   <outline>
     <component base="greater" xOffset="4" yOffset="30"/>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mu" format="1">
-  <advance width="567.405"/>
+  <advance width="567"/>
   <unicode hex="03BC"/>
   <outline>
     <contour>
       <point x="555" y="534" type="line"/>
       <point x="361" y="534" type="line"/>
-      <point x="310.451" y="169.666" type="line"/>
-      <point x="288.862" y="137.874"/>
-      <point x="264.156" y="124"/>
+      <point x="310" y="170" type="line"/>
+      <point x="289" y="138"/>
+      <point x="264" y="124"/>
       <point x="245" y="124" type="curve" smooth="yes"/>
       <point x="229" y="124"/>
       <point x="216" y="132"/>
@@ -26,9 +26,9 @@
       <point x="217" y="-6" type="curve" smooth="yes"/>
       <point x="257" y="-6"/>
       <point x="285" y="11"/>
-      <point x="313.486" y="58.029" type="curve"/>
-      <point x="314.299" y="23.4951"/>
-      <point x="315.73" y="4.9832"/>
+      <point x="313" y="58" type="curve"/>
+      <point x="314" y="23"/>
+      <point x="316" y="5"/>
       <point x="324" y="-19" type="curve"/>
       <point x="504" y="-1" type="line"/>
       <point x="497" y="40"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="infinity.case" format="1">
-  <advance width="888.378"/>
+  <advance width="888"/>
   <outline>
     <component base="infinity" xOffset="6" yOffset="40"/>
   </outline>

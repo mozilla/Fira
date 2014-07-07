@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus.osf" format="1">
-  <advance width="493.281"/>
+  <advance width="493"/>
   <outline>
     <component base="plus"/>
   </outline>

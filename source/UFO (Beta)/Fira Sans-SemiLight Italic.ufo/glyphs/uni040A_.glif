@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040A" format="1">
-  <advance width="925.382"/>
+  <advance width="925"/>
   <unicode hex="040A"/>
   <outline>
     <contour>
-      <point x="550.472" y="384" type="line"/>
+      <point x="550" y="384" type="line"/>
       <point x="592" y="682" type="line"/>
       <point x="561" y="682" type="line"/>
-      <point x="519.053" y="384" type="line"/>
+      <point x="519" y="384" type="line"/>
       <point x="168" y="384" type="line"/>
       <point x="210" y="682" type="line"/>
       <point x="179" y="682" type="line"/>
       <point x="83" y="0" type="line"/>
       <point x="114" y="0" type="line"/>
       <point x="164" y="355" type="line"/>
-      <point x="514.971" y="355" type="line"/>
+      <point x="515" y="355" type="line"/>
       <point x="465" y="0" type="line"/>
       <point x="612" y="0" type="line" smooth="yes"/>
       <point x="809" y="0"/>
@@ -26,7 +26,7 @@
     </contour>
     <contour>
       <point x="501" y="29" type="line"/>
-      <point x="546.43" y="355" type="line"/>
+      <point x="546" y="355" type="line"/>
       <point x="669" y="355" type="line" smooth="yes"/>
       <point x="784" y="355"/>
       <point x="842" y="302"/>

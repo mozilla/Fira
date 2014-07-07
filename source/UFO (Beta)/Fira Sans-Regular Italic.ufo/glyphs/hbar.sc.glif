@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar.sc" format="1">
-  <advance width="585.784"/>
+  <advance width="586"/>
   <outline>
     <contour>
       <point x="528" y="481" type="line"/>

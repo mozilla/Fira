@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot.osf" format="1">
-  <advance width="488.405"/>
+  <advance width="488"/>
   <outline>
     <component base="logicalnot"/>
   </outline>

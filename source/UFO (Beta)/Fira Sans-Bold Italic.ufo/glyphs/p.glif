@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="586.578"/>
+  <advance width="587"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="361.615" y="554"/>
-      <point x="305.126" y="534.448"/>
-      <point x="251.806" y="479.175" type="curve"/>
+      <point x="362" y="554"/>
+      <point x="305" y="534"/>
+      <point x="252" y="479" type="curve"/>
       <point x="251" y="534" type="line"/>
       <point x="78" y="534" type="line"/>
       <point x="-28" y="-227" type="line"/>
@@ -32,9 +32,9 @@
       <point x="246" y="121"/>
       <point x="229" y="126"/>
       <point x="216" y="131" type="curve"/>
-      <point x="248.385" y="359.566" type="line"/>
-      <point x="273.277" y="396.163"/>
-      <point x="300.138" y="412"/>
+      <point x="248" y="360" type="line"/>
+      <point x="273" y="396"/>
+      <point x="300" y="412"/>
       <point x="327" y="412" type="curve" smooth="yes"/>
     </contour>
   </outline>

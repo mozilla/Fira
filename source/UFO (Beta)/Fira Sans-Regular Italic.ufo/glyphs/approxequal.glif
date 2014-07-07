@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="approxequal" format="1">
-  <advance width="481.946"/>
+  <advance width="482"/>
   <unicode hex="2248"/>
   <outline>
     <component base="asciitilde" xOffset="-13" yOffset="-89"/>

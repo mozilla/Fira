@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal.osf" format="1">
-  <advance width="555.481"/>
+  <advance width="555"/>
   <outline>
     <component base="notequal" xOffset="-1"/>
   </outline>

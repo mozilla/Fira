@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae.sc" format="1">
-  <advance width="747.843"/>
+  <advance width="748"/>
   <outline>
     <contour>
       <point x="245" y="571" type="line"/>
       <point x="-64" y="0" type="line"/>
       <point x="148" y="0" type="line"/>
-      <point x="192.811" y="101" type="line"/>
-      <point x="334.857" y="101" type="line"/>
+      <point x="193" y="101" type="line"/>
+      <point x="335" y="101" type="line"/>
       <point x="333" y="0" type="line"/>
       <point x="692" y="0" type="line"/>
       <point x="711" y="135" type="line"/>
       <point x="513" y="135" type="line"/>
-      <point x="510.937" y="224" type="line"/>
+      <point x="511" y="224" type="line"/>
       <point x="688" y="224" type="line"/>
       <point x="705" y="354" type="line"/>
-      <point x="507.924" y="354" type="line"/>
+      <point x="508" y="354" type="line"/>
       <point x="506" y="437" type="line"/>
       <point x="705" y="437" type="line"/>
       <point x="744" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="337.34" y="236" type="line"/>
-      <point x="252.708" y="236" type="line"/>
+      <point x="337" y="236" type="line"/>
+      <point x="253" y="236" type="line"/>
       <point x="341" y="435" type="line"/>
     </contour>
     <contour>

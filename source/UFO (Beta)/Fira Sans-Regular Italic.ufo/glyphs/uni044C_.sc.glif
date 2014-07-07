@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044C.sc" format="1">
-  <advance width="514.850"/>
+  <advance width="515"/>
   <outline>
     <contour>
       <point x="142" y="564" type="line"/>
@@ -12,7 +12,7 @@
       <point x="484" y="306"/>
       <point x="406" y="362"/>
       <point x="278" y="362" type="curve" smooth="yes"/>
-      <point x="204.319" y="362" type="line"/>
+      <point x="204" y="362" type="line"/>
       <point x="233" y="564" type="line"/>
     </contour>
     <contour>
@@ -23,7 +23,7 @@
       <point x="356" y="71"/>
       <point x="237" y="71" type="curve" smooth="yes"/>
       <point x="163" y="71" type="line"/>
-      <point x="194.521" y="293" type="line"/>
+      <point x="195" y="293" type="line"/>
       <point x="271" y="293" type="line" smooth="yes"/>
     </contour>
   </outline>

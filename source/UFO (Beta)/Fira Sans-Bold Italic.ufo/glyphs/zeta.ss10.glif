@@ -20,15 +20,15 @@
       <point x="119" y="628"/>
       <point x="180" y="589"/>
       <point x="255" y="589" type="curve" smooth="yes"/>
-      <point x="265.69" y="589"/>
-      <point x="275.194" y="589.494"/>
+      <point x="266" y="589"/>
+      <point x="275" y="589"/>
       <point x="290" y="592" type="curve"/>
-      <point x="73.906" y="449.926"/>
-      <point x="3" y="325.894"/>
+      <point x="74" y="450"/>
+      <point x="3" y="326"/>
       <point x="3" y="217" type="curve" smooth="yes"/>
       <point x="3" y="115"/>
-      <point x="43" y="72.9999"/>
-      <point x="142" y="21.9999" type="curve" smooth="yes"/>
+      <point x="43" y="73"/>
+      <point x="142" y="22" type="curve" smooth="yes"/>
       <point x="187" y="-1"/>
       <point x="202" y="-12"/>
       <point x="202" y="-35" type="curve" smooth="yes"/>
@@ -39,7 +39,7 @@
       <point x="332" y="-167"/>
       <point x="403" y="-102"/>
       <point x="403" y="-4" type="curve" smooth="yes"/>
-      <point x="403" y="70.9999"/>
+      <point x="403" y="71"/>
       <point x="362" y="103"/>
       <point x="296" y="134" type="curve" smooth="yes"/>
     </contour>

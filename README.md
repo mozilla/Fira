@@ -8,7 +8,7 @@ Use this font on your website!
 ```
 
 
-## Via [Bower](/b/bower.io)
+## Via [Bower](//bower.io)
 
 
 - Add to your bower.json file

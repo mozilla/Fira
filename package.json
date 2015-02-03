@@ -1,0 +1,34 @@
+{
+  "name": "fira",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mozilla/Fira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/Fira"
+  },
+  "description": "Fira font family including Fira Sans and Fira Mono",
+  "licenses": [
+    {
+      "type": "OFL",
+      "url": "https://github.com/mozilla/Fira/blob/master/LICENSE"
+    }
+  ],
+  "main": "fira.css",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "fonts",
+    "fira",
+    "firefox os",
+    "css"
+  ],
+  "files": [
+    "eot",
+    "otf",
+    "ttf",
+    "woff",
+    "LICENSE",
+    "fira.css"
+  ],
+  "dependencies": {
+  }
+}

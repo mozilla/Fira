@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quadrantUpperRight" format="1">
+  <advance width="600"/>
+  <unicode hex="259D"/>
+  <outline>
+    <contour>
+      <point x="300" y="1000" type="line"/>
+      <point x="300" y="250" type="line"/>
+      <point x="600" y="250" type="line"/>
+      <point x="600" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

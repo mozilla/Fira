@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="600"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="16" y="494" type="line"/>
+      <point x="99" y="419"/>
+      <point x="171" y="304"/>
+      <point x="214" y="174" type="curve"/>
+      <point x="301" y="73" type="line"/>
+      <point x="427" y="-237" type="line"/>
+      <point x="585" y="-193" type="line"/>
+      <point x="383" y="173" type="line"/>
+      <point x="300" y="271" type="line"/>
+      <point x="274" y="391"/>
+      <point x="228" y="475"/>
+      <point x="170" y="548" type="curve"/>
+    </contour>
+    <contour>
+      <point x="300" y="271" type="line"/>
+      <point x="214" y="174" type="line"/>
+      <point x="14" y="-200" type="line"/>
+      <point x="173" y="-237" type="line"/>
+      <point x="301" y="73" type="line"/>
+      <point x="383" y="173" type="line"/>
+      <point x="565" y="514" type="line"/>
+      <point x="414" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

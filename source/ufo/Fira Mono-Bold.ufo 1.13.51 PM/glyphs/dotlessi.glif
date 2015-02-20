@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="600"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="90" y="531" type="line"/>
+      <point x="90" y="422" type="line"/>
+      <point x="235" y="422" type="line"/>
+      <point x="235" y="109" type="line"/>
+      <point x="85" y="109" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="109" type="line"/>
+      <point x="395" y="109" type="line"/>
+      <point x="395" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="299" y="531" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="600"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="131" y="701"/>
+      <point x="44" y="553"/>
+      <point x="44" y="343" type="curve" smooth="yes"/>
+      <point x="44" y="129"/>
+      <point x="133" y="-12"/>
+      <point x="300" y="-12" type="curve" smooth="yes"/>
+      <point x="469" y="-12"/>
+      <point x="556" y="134"/>
+      <point x="556" y="344" type="curve" smooth="yes"/>
+      <point x="556" y="558"/>
+      <point x="467" y="701"/>
+      <point x="300" y="701" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="362" y="689" type="line"/>
+      <point x="351" y="632" type="line"/>
+      <point x="195" y="92" type="line"/>
+      <point x="167" y="38" type="line"/>
+      <point x="127" y="-89" type="line"/>
+      <point x="206" y="-110" type="line"/>
+      <point x="241" y="5" type="line"/>
+      <point x="249" y="57" type="line"/>
+      <point x="407" y="604" type="line"/>
+      <point x="435" y="656" type="line"/>
+      <point x="474" y="782" type="line"/>
+      <point x="395" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="623"/>
+      <point x="457" y="546"/>
+      <point x="457" y="344" type="curve" smooth="yes"/>
+      <point x="457" y="162"/>
+      <point x="412" y="66"/>
+      <point x="300" y="66" type="curve" smooth="yes"/>
+      <point x="191" y="66"/>
+      <point x="143" y="141"/>
+      <point x="143" y="343" type="curve" smooth="yes"/>
+      <point x="143" y="525"/>
+      <point x="188" y="623"/>
+      <point x="300" y="623" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="300" y="689" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

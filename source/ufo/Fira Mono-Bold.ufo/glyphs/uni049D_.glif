@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049D" format="1">
+  <advance width="600"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="234" type="line"/>
+      <point x="257" y="234" type="line"/>
+      <point x="257" y="117" type="line"/>
+      <point x="309" y="117" type="line"/>
+      <point x="309" y="234" type="line"/>
+      <point x="327" y="234" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="452" y="285" type="line"/>
+      <point x="573" y="531" type="line"/>
+      <point x="419" y="531" type="line"/>
+      <point x="327" y="318" type="line"/>
+      <point x="309" y="318" type="line"/>
+      <point x="309" y="433" type="line"/>
+      <point x="257" y="433" type="line"/>
+      <point x="257" y="318" type="line"/>
+      <point x="223" y="318" type="line"/>
+      <point x="223" y="531" type="line"/>
+      <point x="72" y="531" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

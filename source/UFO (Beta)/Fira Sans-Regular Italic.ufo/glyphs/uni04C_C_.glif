@@ -5,12 +5,6 @@
   <outline>
     <component base="uni0447"/>
     <component base="descStraightleft-cy" xOffset="210"/>
-    <contour>
-      <point x="290" y="527" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="425" y="0" type="move" name="bottomright"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -18,6 +12,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
     </dict>
   </lib>
 </glyph>

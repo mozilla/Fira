@@ -5,12 +5,12 @@
     <contour>
       <point x="85" y="571" type="line" smooth="yes"/>
       <point x="5" y="0" type="line" smooth="yes"/>
-      <point x="198" y="0" type="line" smooth="yes"/>
-      <point x="226" y="200" type="line" smooth="yes"/>
+      <point x="199" y="0" type="line" smooth="yes"/>
+      <point x="227" y="200" type="line" smooth="yes"/>
       <point x="380" y="200" type="line" smooth="yes"/>
       <point x="399" y="335" type="line" smooth="yes"/>
-      <point x="245" y="335" type="line" smooth="yes"/>
-      <point x="259" y="437" type="line" smooth="yes"/>
+      <point x="246" y="335" type="line" smooth="yes"/>
+      <point x="260" y="437" type="line" smooth="yes"/>
       <point x="435" y="437" type="line" smooth="yes"/>
       <point x="473" y="571" type="line" smooth="yes"/>
     </contour>
@@ -21,6 +21,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>F</string>
     </dict>
   </lib>
 </glyph>

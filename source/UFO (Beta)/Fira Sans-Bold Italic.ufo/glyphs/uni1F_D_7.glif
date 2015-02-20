@@ -4,8 +4,7 @@
   <unicode hex="1FD7"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresis" xOffset="-116"/>
-    <component base="uni1FC0" xOffset="-68" yOffset="224"/>
+    <component base="dieresistilde" xOffset="-113"/>
   </outline>
   <lib>
     <dict>

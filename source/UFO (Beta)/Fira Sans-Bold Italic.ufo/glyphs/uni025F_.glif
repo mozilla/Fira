@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni025F" format="1">
+  <advance width="343"/>
+  <unicode hex="025F"/>
+  <outline>
+    <contour>
+      <point x="103" y="-184"/>
+      <point x="220" y="-112"/>
+      <point x="246" y="76" type="curve" smooth="yes"/>
+      <point x="310" y="534" type="line"/>
+      <point x="116" y="534" type="line"/>
+      <point x="46" y="37" type="line" smooth="yes"/>
+      <point x="37" y="-31"/>
+      <point x="-1" y="-59"/>
+      <point x="-79" y="-86" type="curve"/>
+      <point x="-32" y="-227" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="0" type="line"/>
+      <point x="322" y="131" type="line"/>
+      <point x="-12" y="131" type="line"/>
+      <point x="-31" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>istroke</string>
+    </dict>
+  </lib>
+</glyph>

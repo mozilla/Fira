@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij.sc" format="1">
-  <advance width="584"/>
+  <advance width="585"/>
   <outline>
     <component base="i.sc"/>
-    <component base="j.sc" xOffset="283"/>
+    <component base="j.sc" xOffset="284"/>
   </outline>
   <lib>
     <dict>

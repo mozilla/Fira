@@ -3,10 +3,10 @@
   <advance width="552"/>
   <outline>
     <contour>
-      <point x="100" y="565" type="line"/>
+      <point x="100" y="564" type="line"/>
       <point x="100" y="0" type="line"/>
       <point x="192" y="0" type="line"/>
-      <point x="192" y="565" type="line"/>
+      <point x="192" y="564" type="line"/>
     </contour>
     <contour>
       <point x="266" y="374"/>
@@ -26,6 +26,9 @@
       <point x="453" y="374"/>
       <point x="338" y="374" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="527" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -33,6 +36,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Shha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Shha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Shha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Shha-cy</string>
     </dict>
   </lib>
 </glyph>

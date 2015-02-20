@@ -10,6 +10,9 @@
       <point x="280" y="689" type="line"/>
     </contour>
     <contour>
+      <point x="180" y="672" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="161" y="517" type="move" name="_top"/>
     </contour>
   </outline>

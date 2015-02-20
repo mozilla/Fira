@@ -7,7 +7,7 @@
       <point x="126" y="527" type="line"/>
       <point x="71" y="134" type="line" smooth="yes"/>
       <point x="60" y="52"/>
-      <point x="81" y="7"/>
+      <point x="82" y="8"/>
       <point x="160" y="-11" type="curve"/>
       <point x="198" y="55" type="line"/>
       <point x="164" y="70"/>
@@ -16,7 +16,7 @@
       <point x="217" y="527" type="line"/>
     </contour>
     <contour>
-      <point x="171" y="527" type="move" name="top"/>
+      <point x="172" y="527" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +25,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n#</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=|n#</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0290" format="1">
+  <advance width="472"/>
+  <unicode hex="0290"/>
+  <outline>
+    <contour>
+      <point x="25" y="534" type="line"/>
+      <point x="25" y="390" type="line"/>
+      <point x="227" y="390" type="line"/>
+      <point x="5" y="138" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="146" type="line"/>
+      <point x="236" y="146" type="line"/>
+      <point x="455" y="397" type="line"/>
+      <point x="455" y="534" type="line"/>
+    </contour>
+    <component base="hookHELPER" xOffset="666" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>z</string>
+    </dict>
+  </lib>
+</glyph>

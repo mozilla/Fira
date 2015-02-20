@@ -2,19 +2,8 @@
 <glyph name="eng.sc" format="1">
   <advance width="601"/>
   <outline>
-    <contour>
-      <point x="469" y="1" type="line"/>
-      <point x="469" y="0" type="line" smooth="yes"/>
-      <point x="469" y="-117"/>
-      <point x="440" y="-153"/>
-      <point x="372" y="-189" type="curve"/>
-      <point x="373" y="-191" type="line"/>
-      <point x="442" y="-154"/>
-      <point x="471" y="-118"/>
-      <point x="471" y="0" type="curve" smooth="yes"/>
-      <point x="471" y="1" type="line"/>
-    </contour>
     <component base="n.sc"/>
+    <component base="hookHELPER" xOffset="265"/>
   </outline>
   <lib>
     <dict>
@@ -22,6 +11,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n.sc</string>
     </dict>
   </lib>
 </glyph>

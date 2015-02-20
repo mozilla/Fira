@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0260" format="1">
+  <advance width="581"/>
+  <unicode hex="0260"/>
+  <outline>
+    <contour>
+      <point x="384" y="534" type="line"/>
+      <point x="336" y="202" type="line"/>
+      <point x="312" y="166"/>
+      <point x="284" y="144"/>
+      <point x="256" y="144" type="curve" smooth="yes"/>
+      <point x="234" y="144"/>
+      <point x="210" y="155"/>
+      <point x="210" y="218" type="curve" smooth="yes"/>
+      <point x="210" y="292"/>
+      <point x="237" y="418"/>
+      <point x="327" y="418" type="curve" smooth="yes"/>
+      <point x="348" y="418"/>
+      <point x="361" y="414"/>
+      <point x="388" y="406" type="curve"/>
+      <point x="554" y="481" type="line"/>
+      <point x="507" y="512"/>
+      <point x="414" y="554"/>
+      <point x="324" y="554" type="curve" smooth="yes"/>
+      <point x="96" y="554"/>
+      <point x="11" y="352"/>
+      <point x="11" y="211" type="curve" smooth="yes"/>
+      <point x="11" y="87"/>
+      <point x="70" y="0"/>
+      <point x="188" y="0" type="curve" smooth="yes"/>
+      <point x="245" y="0"/>
+      <point x="290" y="26"/>
+      <point x="323" y="63" type="curve"/>
+      <point x="316" y="21" type="line" smooth="yes"/>
+      <point x="303" y="-67"/>
+      <point x="256" y="-82"/>
+      <point x="205" y="-82" type="curve" smooth="yes"/>
+      <point x="165" y="-82"/>
+      <point x="119" y="-72"/>
+      <point x="59" y="-40" type="curve"/>
+      <point x="-4" y="-164" type="line"/>
+      <point x="58" y="-203"/>
+      <point x="139" y="-227"/>
+      <point x="206" y="-227" type="curve" smooth="yes"/>
+      <point x="400" y="-227"/>
+      <point x="480" y="-139"/>
+      <point x="509" y="58" type="curve" smooth="yes"/>
+      <point x="578" y="534" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xOffset="313"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g.001</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dhook</string>
+    </dict>
+  </lib>
+</glyph>

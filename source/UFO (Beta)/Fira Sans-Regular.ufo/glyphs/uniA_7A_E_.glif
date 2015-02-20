@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AE" format="1">
+  <advance width="386"/>
+  <unicode hex="A7AE"/>
+  <outline>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="689" type="line"/>
+      <point x="145" y="689" type="line"/>
+      <point x="145" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="0" type="line"/>
+      <point x="356" y="80" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="611" type="line"/>
+      <point x="356" y="689" type="line"/>
+      <point x="30" y="689" type="line"/>
+      <point x="30" y="611" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

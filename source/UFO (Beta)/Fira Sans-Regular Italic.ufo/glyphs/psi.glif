@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="psi" format="1">
-  <advance width="749"/>
+  <advance width="748"/>
   <unicode hex="03C8"/>
   <outline>
     <contour>
@@ -40,6 +40,8 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>upsilon</string>
     </dict>
   </lib>
 </glyph>

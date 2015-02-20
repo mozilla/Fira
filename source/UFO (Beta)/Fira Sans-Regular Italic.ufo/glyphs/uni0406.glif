@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0406" format="1">
-  <advance width="294"/>
+  <advance width="292"/>
   <unicode hex="0406"/>
   <outline>
     <component base="I"/>
-    <contour>
-      <point x="213" y="689" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

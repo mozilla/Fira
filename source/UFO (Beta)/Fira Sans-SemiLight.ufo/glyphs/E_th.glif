@@ -18,6 +18,8 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>D</string>
     </dict>
   </lib>
 </glyph>

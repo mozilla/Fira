@@ -3,7 +3,7 @@
   <advance width="690"/>
   <outline>
     <component base="O"/>
-    <component base="acute.case.loclPLK" xOffset="218"/>
+    <component base="acute.case.loclPLK" xOffset="233"/>
   </outline>
   <lib>
     <dict>

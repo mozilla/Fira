@@ -17,10 +17,10 @@
       <point x="525" y="564" type="line"/>
     </contour>
     <contour>
-      <point x="312" y="564" type="move" name="top"/>
+      <point x="312" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="90" y="564" type="move" name="topleft"/>
+      <point x="312" y="564" type="move" name="top"/>
     </contour>
     <contour>
       <point x="533" y="0" type="move" name="bottomright"/>
@@ -35,6 +35,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
     </dict>
   </lib>
 </glyph>

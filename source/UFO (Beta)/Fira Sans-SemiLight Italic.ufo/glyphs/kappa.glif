@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="1">
-  <advance width="482"/>
+  <advance width="493"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
@@ -33,9 +33,15 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eta</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>eta</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=k*0.6</string>
     </dict>
   </lib>
 </glyph>

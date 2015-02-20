@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni026E" format="1">
+  <advance width="612"/>
+  <unicode hex="026E"/>
+  <outline>
+    <contour>
+      <point x="438" y="-199"/>
+      <point x="532" y="-101"/>
+      <point x="532" y="39" type="curve" smooth="yes"/>
+      <point x="532" y="138"/>
+      <point x="471" y="195"/>
+      <point x="322" y="195" type="curve" smooth="yes"/>
+      <point x="305" y="195" type="line"/>
+      <point x="271" y="167" type="line"/>
+      <point x="325" y="167" type="line" smooth="yes"/>
+      <point x="443" y="167"/>
+      <point x="501" y="130"/>
+      <point x="501" y="38" type="curve" smooth="yes"/>
+      <point x="501" y="-83"/>
+      <point x="426" y="-171"/>
+      <point x="298" y="-171" type="curve" smooth="yes"/>
+      <point x="235" y="-171"/>
+      <point x="188" y="-150"/>
+      <point x="144" y="-99" type="curve"/>
+      <point x="123" y="-115" type="line"/>
+      <point x="166" y="-167"/>
+      <point x="219" y="-199"/>
+      <point x="299" y="-199" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="312" y="195" type="line"/>
+      <point x="574" y="495" type="line"/>
+      <point x="578" y="520" type="line"/>
+      <point x="175" y="520" type="line"/>
+      <point x="171" y="492" type="line"/>
+      <point x="534" y="492" type="line"/>
+      <point x="275" y="195" type="line"/>
+      <point x="271" y="167" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ezh</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

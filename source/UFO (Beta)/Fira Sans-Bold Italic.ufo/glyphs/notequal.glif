@@ -4,10 +4,10 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="13" y="72" type="line"/>
-      <point x="102" y="17" type="line"/>
-      <point x="518" y="588" type="line"/>
-      <point x="429" y="643" type="line"/>
+      <point x="16" y="72" type="line"/>
+      <point x="105" y="17" type="line"/>
+      <point x="521" y="588" type="line"/>
+      <point x="432" y="643" type="line"/>
     </contour>
     <component base="equal"/>
   </outline>
@@ -17,6 +17,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>equal</string>
     </dict>
   </lib>
 </glyph>

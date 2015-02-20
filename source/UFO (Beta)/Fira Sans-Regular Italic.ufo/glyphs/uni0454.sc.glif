@@ -3,11 +3,8 @@
   <advance width="502"/>
   <outline>
     <contour>
-      <point x="205" y="574"/>
-      <point x="84" y="474"/>
-      <point x="58" y="289" type="curve" smooth="yes"/>
-      <point x="55" y="266"/>
-      <point x="53" y="245"/>
+      <point x="164" y="574"/>
+      <point x="53" y="413"/>
       <point x="53" y="225" type="curve" smooth="yes"/>
       <point x="53" y="72"/>
       <point x="140" y="-11"/>
@@ -46,6 +43,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E-cy</string>
     </dict>
   </lib>
 </glyph>

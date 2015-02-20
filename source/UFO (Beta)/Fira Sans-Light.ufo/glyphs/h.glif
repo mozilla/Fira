@@ -28,13 +28,13 @@
       <point x="127" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="281" y="259" type="move" name="center"/>
+      <point x="293" y="260" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="285" y="0" type="move" name="bottom"/>
+      <point x="293" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="285" y="727" type="move" name="top"/>
+      <point x="293" y="727" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>n</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron.sc" format="1">
-  <advance width="293"/>
+  <advance width="292"/>
   <outline>
     <component base="i.sc"/>
-    <component base="macron.sc" xOffset="-20"/>
+    <component base="macron.sc" xOffset="-21"/>
   </outline>
   <lib>
     <dict>

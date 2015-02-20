@@ -1,4 +1,4 @@
-See http://www.carrois.com/fira-3-1/ for more details.
+See http://www.carrois.com/fira-4-0/ for more details.
 
 Use this font on your website!
 

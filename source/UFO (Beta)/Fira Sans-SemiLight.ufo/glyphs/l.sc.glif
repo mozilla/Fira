@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.sc" format="1">
-  <advance width="415"/>
+  <advance width="420"/>
   <outline>
     <contour>
       <point x="120" y="560" type="line"/>
@@ -17,7 +17,7 @@
       <point x="261" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="183" y="560" type="move" name="topright"/>
+      <point x="180" y="560" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>
@@ -26,6 +26,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
     </dict>
   </lib>
 </glyph>

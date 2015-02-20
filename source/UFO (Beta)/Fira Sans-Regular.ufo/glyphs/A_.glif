@@ -25,7 +25,10 @@
       <point x="287" y="689" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="140" y="689" type="move" name="topleft"/>
+      <point x="170" y="689" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="287" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

@@ -14,13 +14,16 @@
       <point x="467" y="682" type="line"/>
     </contour>
     <contour>
-      <point x="229" y="682" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="239" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="239" y="682" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="264" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="239" y="348" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

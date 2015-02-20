@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="386" y="564" type="line"/>
-      <point x="247" y="292" type="line"/>
+      <point x="245" y="289" type="line"/>
       <point x="106" y="564" type="line"/>
       <point x="5" y="564" type="line"/>
       <point x="197" y="215" type="line"/>
@@ -17,7 +17,7 @@
       <point x="246" y="564" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="-5" y="564" type="move" name="topleft"/>
+      <point x="244" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -26,6 +26,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
     </dict>
   </lib>
 </glyph>

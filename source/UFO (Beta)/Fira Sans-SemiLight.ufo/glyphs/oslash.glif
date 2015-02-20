@@ -33,14 +33,14 @@
     </contour>
     <contour>
       <point x="353" y="518" type="line"/>
-      <point x="346" y="494" type="line"/>
-      <point x="193" y="32" type="line"/>
+      <point x="345" y="494" type="line"/>
+      <point x="192" y="32" type="line"/>
       <point x="187" y="22" type="line"/>
       <point x="140" y="-113" type="line"/>
       <point x="167" y="-121" type="line"/>
       <point x="213" y="11" type="line"/>
-      <point x="216" y="24" type="line"/>
-      <point x="369" y="486" type="line"/>
+      <point x="217" y="24" type="line"/>
+      <point x="370" y="486" type="line"/>
       <point x="379" y="507" type="line"/>
       <point x="420" y="634" type="line"/>
       <point x="393" y="642" type="line"/>
@@ -55,6 +55,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
     </dict>
   </lib>
 </glyph>

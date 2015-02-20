@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0198" format="1">
+  <advance width="622"/>
+  <unicode hex="0198"/>
+  <outline>
+    <contour>
+      <point x="159" y="689" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="254" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="532" y="612"/>
+      <point x="549" y="624"/>
+      <point x="578" y="624" type="curve" smooth="yes"/>
+      <point x="601" y="624"/>
+      <point x="614" y="618"/>
+      <point x="633" y="605" type="curve"/>
+      <point x="677" y="657" type="line"/>
+      <point x="650" y="684"/>
+      <point x="622" y="701"/>
+      <point x="576" y="701" type="curve" smooth="yes"/>
+      <point x="514" y="701"/>
+      <point x="479" y="676"/>
+      <point x="424" y="612" type="curve" smooth="yes"/>
+      <point x="213" y="368" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="319" y="368" type="line"/>
+      <point x="490" y="564" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>K</string>
+    </dict>
+  </lib>
+</glyph>

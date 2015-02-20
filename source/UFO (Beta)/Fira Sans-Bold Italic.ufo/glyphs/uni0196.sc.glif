@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0196.sc" format="1">
+  <advance width="391"/>
+  <outline>
+    <contour>
+      <point x="76" y="571" type="line"/>
+      <point x="24" y="209" type="line"/>
+      <point x="218" y="209" type="line"/>
+      <point x="270" y="571" type="line"/>
+    </contour>
+    <component base="hookHELPERright" xOffset="38" yOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Iotaafrican</string>
+    </dict>
+  </lib>
+</glyph>

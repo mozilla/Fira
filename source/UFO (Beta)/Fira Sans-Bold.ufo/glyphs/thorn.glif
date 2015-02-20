@@ -37,12 +37,6 @@
       <point x="240" y="-207" type="line"/>
       <point x="240" y="764" type="line"/>
     </contour>
-    <contour>
-      <point x="187" y="607" type="move" name="halftop"/>
-    </contour>
-    <contour>
-      <point x="187" y="697" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -50,6 +44,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
     </dict>
   </lib>
 </glyph>

@@ -10,13 +10,13 @@
       <point x="295" y="192"/>
       <point x="204" y="192" type="curve" smooth="yes"/>
       <point x="119" y="192"/>
-      <point x="74" y="239"/>
-      <point x="86" y="327" type="curve" smooth="yes"/>
+      <point x="75" y="239"/>
+      <point x="87" y="327" type="curve" smooth="yes"/>
       <point x="113" y="517" type="line"/>
       <point x="111" y="517" type="line"/>
       <point x="85" y="327" type="line" smooth="yes"/>
-      <point x="72" y="237"/>
-      <point x="119" y="190"/>
+      <point x="73" y="238"/>
+      <point x="118" y="190"/>
       <point x="204" y="190" type="curve" smooth="yes"/>
       <point x="294" y="190"/>
       <point x="355" y="249"/>
@@ -41,6 +41,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=|n</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B9.sc" format="1">
-  <advance width="566"/>
+  <advance width="555"/>
   <outline>
     <contour>
       <point x="261" y="443" type="line"/>
@@ -16,6 +16,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>che-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h.sc</string>
     </dict>
   </lib>
 </glyph>

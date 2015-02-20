@@ -3,7 +3,7 @@
   <advance width="472"/>
   <outline>
     <component base="c.sc"/>
-    <component base="circumflex.sc" xOffset="215" yOffset="1"/>
+    <component base="circumflex.sc" xOffset="205"/>
   </outline>
   <lib>
     <dict>

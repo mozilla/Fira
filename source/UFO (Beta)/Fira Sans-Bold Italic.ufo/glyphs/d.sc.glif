@@ -28,6 +28,9 @@
       <point x="297" y="286" type="move" name="center"/>
     </contour>
     <contour>
+      <point x="224" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="303" y="571" type="move" name="top"/>
     </contour>
   </outline>
@@ -37,6 +40,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>D</string>
     </dict>
   </lib>
 </glyph>

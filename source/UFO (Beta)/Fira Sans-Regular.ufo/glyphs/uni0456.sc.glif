@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0456.sc" format="1">
-  <advance width="293"/>
+  <advance width="292"/>
   <outline>
     <component base="i.sc"/>
-    <contour>
-      <point x="151" y="527" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -3,13 +3,13 @@
   <advance width="485"/>
   <outline>
     <contour>
-      <point x="425" y="565" type="line"/>
+      <point x="425" y="564" type="line"/>
       <point x="218" y="89" type="line"/>
-      <point x="141" y="565" type="line"/>
-      <point x="48" y="565" type="line"/>
+      <point x="141" y="564" type="line"/>
+      <point x="48" y="564" type="line"/>
       <point x="155" y="0" type="line"/>
       <point x="256" y="0" type="line"/>
-      <point x="521" y="565" type="line"/>
+      <point x="521" y="564" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,6 +18,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
     </dict>
   </lib>
 </glyph>

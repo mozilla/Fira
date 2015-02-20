@@ -3,7 +3,7 @@
   <advance width="472"/>
   <outline>
     <component base="c.sc"/>
-    <component base="cedilla.sc" xOffset="226"/>
+    <component base="cedilla.sc" xOffset="226" yOffset="2"/>
   </outline>
   <lib>
     <dict>

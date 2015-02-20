@@ -4,10 +4,10 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="72" y="696" type="line"/>
-      <point x="38" y="270" type="line"/>
       <point x="190" y="270" type="line"/>
       <point x="276" y="696" type="line"/>
+      <point x="72" y="696" type="line"/>
+      <point x="38" y="270" type="line"/>
     </contour>
     <component base="period"/>
   </outline>

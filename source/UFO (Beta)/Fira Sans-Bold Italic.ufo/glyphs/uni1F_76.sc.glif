@@ -3,7 +3,7 @@
   <advance width="278"/>
   <outline>
     <component base="iota.sc"/>
-    <component base="grave.sc" xOffset="-20"/>
+    <component base="grave.sc" xOffset="-19"/>
   </outline>
   <lib>
     <dict>

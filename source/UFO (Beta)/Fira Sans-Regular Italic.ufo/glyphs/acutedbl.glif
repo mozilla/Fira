@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedbl" format="1">
+  <advance width="248"/>
+  <outline>
+    <contour>
+      <point x="87" y="658" type="line"/>
+      <point x="123" y="623" type="line"/>
+      <point x="273" y="749" type="line"/>
+      <point x="222" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="527" type="move" name="_topright"/>
+    </contour>
+    <contour>
+      <point x="119" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

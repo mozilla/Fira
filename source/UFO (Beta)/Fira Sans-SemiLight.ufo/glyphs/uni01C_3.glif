@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C3" format="1">
+  <advance width="300"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="136" y="734" type="line"/>
+      <point x="136" y="193" type="line"/>
+      <point x="164" y="193" type="line"/>
+      <point x="164" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="49"/>
+      <point x="120" y="36"/>
+      <point x="120" y="19" type="curve" smooth="yes"/>
+      <point x="120" y="3"/>
+      <point x="132" y="-10"/>
+      <point x="150" y="-10" type="curve" smooth="yes"/>
+      <point x="169" y="-10"/>
+      <point x="180" y="3"/>
+      <point x="180" y="19" type="curve" smooth="yes"/>
+      <point x="180" y="36"/>
+      <point x="169" y="49"/>
+      <point x="150" y="49" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

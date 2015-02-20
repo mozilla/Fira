@@ -4,11 +4,11 @@
   <outline>
     <contour>
       <point x="425" y="564" type="line"/>
-      <point x="238" y="208" type="line"/>
+      <point x="239" y="208" type="line"/>
       <point x="136" y="564" type="line"/>
       <point x="42" y="564" type="line"/>
-      <point x="172" y="154" type="line"/>
-      <point x="203" y="156" type="line"/>
+      <point x="173" y="154" type="line"/>
+      <point x="207" y="156" type="line"/>
       <point x="168" y="92"/>
       <point x="132" y="69"/>
       <point x="51" y="56" type="curve"/>
@@ -28,6 +28,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U-cy</string>
     </dict>
   </lib>
 </glyph>

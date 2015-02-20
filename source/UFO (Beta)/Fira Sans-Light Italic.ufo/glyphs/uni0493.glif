@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0493" format="1">
-  <advance width="415"/>
+  <advance width="457"/>
   <unicode hex="0493"/>
   <outline>
     <contour>
@@ -49,12 +49,6 @@
       <point x="267" y="-7"/>
       <point x="191" y="-7" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="270" y="517" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="193" y="0" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -62,6 +56,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ge-c¬•</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>ge-c¬•</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ge-cy</string>
     </dict>
   </lib>
 </glyph>

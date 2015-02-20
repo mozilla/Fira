@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute.sc" format="1">
-  <advance width="415"/>
+  <advance width="420"/>
   <outline>
     <component base="l.sc"/>
-    <component base="acute.sc" xOffset="-2"/>
+    <component base="acute.sc" xOffset="11"/>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="1">
-  <advance width="620"/>
+  <advance width="747"/>
   <unicode hex="038E"/>
   <outline>
-    <component base="Y"/>
-    <component base="tonos.case" xOffset="-297"/>
+    <component base="Y" xOffset="127"/>
+    <component base="tonos.case" xOffset="-170"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,17 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

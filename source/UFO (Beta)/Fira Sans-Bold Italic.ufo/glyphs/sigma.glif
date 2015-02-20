@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sigma" format="1">
-  <advance width="601"/>
+  <advance width="600"/>
   <unicode hex="03C3"/>
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point x="13" y="211" type="curve" smooth="yes"/>
       <point x="13" y="61"/>
       <point x="107" y="-20"/>
-      <point x="256" y="-20" type="curve" smooth="yes"/>
+      <point x="255" y="-20" type="curve" smooth="yes"/>
       <point x="482" y="-20"/>
       <point x="558" y="169"/>
       <point x="558" y="289" type="curve" smooth="yes"/>
@@ -44,6 +44,8 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
     </dict>
   </lib>
 </glyph>

@@ -3,8 +3,8 @@
   <advance width="603"/>
   <unicode hex="0446"/>
   <outline>
-    <component base="descStraight-cy" xOffset="373"/>
-    <component base="u" xOffset="5"/>
+    <component base="descStraight-cy" xOffset="368"/>
+    <component base="u"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endescender-cy</string>
     </dict>
   </lib>
 </glyph>

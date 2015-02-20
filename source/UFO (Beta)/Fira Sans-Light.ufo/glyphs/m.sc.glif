@@ -10,8 +10,8 @@
       <point x="85" y="0" type="line"/>
       <point x="87" y="0" type="line"/>
       <point x="123" y="296" type="line" smooth="yes"/>
-      <point x="134" y="388"/>
-      <point x="151" y="515"/>
+      <point x="135" y="398"/>
+      <point x="150" y="515"/>
       <point x="155" y="553" type="curve"/>
       <point x="336" y="70" type="line"/>
       <point x="338" y="70" type="line"/>
@@ -23,6 +23,9 @@
       <point x="593" y="0" type="line"/>
       <point x="524" y="557" type="line"/>
     </contour>
+    <contour>
+      <point x="339" y="557" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -30,6 +33,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>M</string>
     </dict>
   </lib>
 </glyph>

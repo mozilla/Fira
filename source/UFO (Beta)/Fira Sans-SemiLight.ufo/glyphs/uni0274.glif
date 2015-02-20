@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0274" format="1">
+  <advance width="585"/>
+  <unicode hex="0274"/>
+  <outline>
+    <contour>
+      <point x="441" y="520" type="line"/>
+      <point x="441" y="205" type="line" smooth="yes"/>
+      <point x="441" y="122"/>
+      <point x="443" y="65"/>
+      <point x="444" y="29" type="curve"/>
+      <point x="153" y="520" type="line"/>
+      <point x="115" y="520" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="298" type="line" smooth="yes"/>
+      <point x="144" y="407"/>
+      <point x="143" y="451"/>
+      <point x="141" y="491" type="curve"/>
+      <point x="432" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

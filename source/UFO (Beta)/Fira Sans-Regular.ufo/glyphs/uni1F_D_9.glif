@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FD9" format="1">
-  <advance width="296"/>
+  <advance width="295"/>
   <unicode hex="1FD9"/>
   <outline>
     <component base="Iota"/>
-    <component base="macron.case" xOffset="-19" yOffset="-6"/>
+    <component base="macron.case" xOffset="-20" yOffset="-6"/>
   </outline>
   <lib>
     <dict>

@@ -5,10 +5,10 @@
     <contour>
       <point x="206" y="0" type="line"/>
       <point x="336" y="0" type="line" smooth="yes"/>
-      <point x="447" y="0"/>
-      <point x="516" y="57"/>
+      <point x="448" y="0"/>
+      <point x="516" y="58"/>
       <point x="516" y="172" type="curve" smooth="yes"/>
-      <point x="516" y="275"/>
+      <point x="516" y="274"/>
       <point x="451" y="327"/>
       <point x="332" y="327" type="curve" smooth="yes"/>
       <point x="207" y="327" type="line"/>
@@ -37,6 +37,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Yat-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Yat-cy</string>
     </dict>
   </lib>
 </glyph>

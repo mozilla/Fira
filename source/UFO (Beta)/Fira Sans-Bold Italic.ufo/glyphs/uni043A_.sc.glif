@@ -24,7 +24,7 @@
       <point x="570" y="587" type="line"/>
     </contour>
     <contour>
-      <point x="345" y="571" type="move" name="top"/>
+      <point x="325" y="571" type="move" name="top"/>
     </contour>
     <contour>
       <point x="525" y="0" type="move" name="bottomright"/>
@@ -36,6 +36,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ka-cy</string>
     </dict>
   </lib>
 </glyph>

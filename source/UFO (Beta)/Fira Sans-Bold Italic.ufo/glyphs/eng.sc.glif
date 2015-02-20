@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eng.sc" format="1">
-  <advance width="620"/>
+  <advance width="577"/>
   <outline>
-    <contour>
-      <point x="328" y="37" type="line"/>
-      <point x="323" y="1" type="line" smooth="yes"/>
-      <point x="316" y="-48"/>
-      <point x="279" y="-75"/>
-      <point x="194" y="-106" type="curve"/>
-      <point x="229" y="-227" type="line"/>
-      <point x="376" y="-183"/>
-      <point x="481" y="-119"/>
-      <point x="497" y="0" type="curve"/>
-    </contour>
     <component base="n.sc"/>
+    <component base="hookHELPER" xOffset="136"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>0</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>n.sc</string>
     </dict>
   </lib>
 </glyph>

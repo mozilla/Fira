@@ -55,9 +55,6 @@
       <point x="212" y="623"/>
       <point x="388" y="623" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="504" y="689" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -65,6 +62,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>auto</string>
     </dict>
   </lib>
 </glyph>

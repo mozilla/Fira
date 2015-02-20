@@ -6,7 +6,7 @@
       <point x="285" y="557" type="line"/>
       <point x="-1" y="0" type="line"/>
       <point x="1" y="0" type="line"/>
-      <point x="286" y="556" type="line"/>
+      <point x="286" y="555" type="line"/>
       <point x="418" y="0" type="line"/>
       <point x="420" y="0" type="line"/>
       <point x="287" y="557" type="line"/>
@@ -18,6 +18,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lambda</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>lambda</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Lambda</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Lambda</string>
     </dict>
   </lib>
 </glyph>

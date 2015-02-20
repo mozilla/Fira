@@ -16,7 +16,7 @@
       <point x="110" y="682" type="line"/>
       <point x="110" y="208" type="line" smooth="yes"/>
       <point x="110" y="81"/>
-      <point x="173" y="-10"/>
+      <point x="174" y="-10"/>
       <point x="322" y="-10" type="curve" smooth="yes"/>
       <point x="469" y="-10"/>
       <point x="533" y="81"/>
@@ -27,7 +27,13 @@
       <point x="407" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="325" y="682" type="move" name="top"/>
+      <point x="322" y="682" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="543" y="682" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="322" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -36,6 +42,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H-10</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=H-10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H-10</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=H-10</string>
     </dict>
   </lib>
 </glyph>

@@ -2,17 +2,8 @@
 <glyph name="uni0525.sc" format="1">
   <advance width="642"/>
   <outline>
-    <contour>
-      <point x="522" y="0" type="line"/>
-      <point x="522" y="564" type="line"/>
-      <point x="100" y="564" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="192" y="489" type="line"/>
-      <point x="430" y="489" type="line"/>
-      <point x="430" y="0" type="line"/>
-    </contour>
-    <component base="descStraight-cy" xOffset="439"/>
+    <component base="uni043F.sc"/>
+    <component base="descStraight-cy" xOffset="443"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +11,21 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endescender-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

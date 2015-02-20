@@ -3,8 +3,7 @@
   <advance width="271"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dieresis" xOffset="-9" yOffset="40"/>
-    <component base="uni1FC0" xOffset="-18" yOffset="160"/>
+    <component base="dieresistilde" xOffset="-30" yOffset="40"/>
   </outline>
   <lib>
     <dict>

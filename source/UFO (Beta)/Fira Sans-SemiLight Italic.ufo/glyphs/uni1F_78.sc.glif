@@ -3,7 +3,7 @@
   <advance width="619"/>
   <outline>
     <component base="omicron.sc"/>
-    <component base="grave.sc" xOffset="222"/>
+    <component base="grave.sc" xOffset="223"/>
   </outline>
   <lib>
     <dict>

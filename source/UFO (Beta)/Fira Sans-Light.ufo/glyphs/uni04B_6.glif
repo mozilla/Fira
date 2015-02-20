@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B6" format="1">
-  <advance width="566"/>
+  <advance width="576"/>
   <unicode hex="04B6"/>
   <outline>
     <component base="uni0427"/>
@@ -12,6 +12,23 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Che</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Endescender-cy</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy.case</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

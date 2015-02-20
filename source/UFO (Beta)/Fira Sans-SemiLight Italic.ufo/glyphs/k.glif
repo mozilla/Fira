@@ -9,11 +9,11 @@
       <point x="108" y="0" type="line"/>
       <point x="150" y="296" type="line"/>
       <point x="209" y="421"/>
-      <point x="279" y="505"/>
-      <point x="365" y="505" type="curve" smooth="yes"/>
-      <point x="427" y="505"/>
+      <point x="279" y="504"/>
+      <point x="365" y="504" type="curve" smooth="yes"/>
+      <point x="427" y="504"/>
       <point x="449" y="470"/>
-      <point x="449" y="423" type="curve" smooth="yes"/>
+      <point x="449" y="424" type="curve" smooth="yes"/>
       <point x="449" y="343"/>
       <point x="382" y="284"/>
       <point x="262" y="252" type="curve"/>
@@ -22,13 +22,13 @@
       <point x="300" y="239" type="line"/>
       <point x="415" y="275"/>
       <point x="480" y="338"/>
-      <point x="480" y="424" type="curve"/>
+      <point x="480" y="424" type="curve" smooth="yes"/>
       <point x="480" y="492"/>
-      <point x="434" y="530"/>
+      <point x="435" y="530"/>
       <point x="367" y="530" type="curve" smooth="yes"/>
-      <point x="294" y="530"/>
+      <point x="293" y="530"/>
       <point x="220" y="483"/>
-      <point x="159" y="363" type="curve"/>
+      <point x="159" y="362" type="curve"/>
       <point x="212" y="738" type="line"/>
     </contour>
     <contour>
@@ -38,9 +38,13 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>n</string>
     </dict>
   </lib>
 </glyph>

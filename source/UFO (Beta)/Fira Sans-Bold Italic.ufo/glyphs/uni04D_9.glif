@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D9" format="1">
-  <advance width="542"/>
+  <advance width="544"/>
   <unicode hex="04D9"/>
   <outline>
-    <component base="e" xOffset="542" yOffset="534" xScale="-1" yScale="-1"/>
+    <component base="e" xOffset="544" yOffset="534" xScale="-1" yScale="-1"/>
     <contour>
       <point x="293" y="534" type="move" name="top"/>
     </contour>
@@ -14,6 +14,12 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o-10</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=o-10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
     </dict>
   </lib>
 </glyph>

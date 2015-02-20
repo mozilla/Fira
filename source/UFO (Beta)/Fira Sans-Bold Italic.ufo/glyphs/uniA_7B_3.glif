@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7B3" format="1">
+  <advance width="584"/>
+  <unicode hex="A7B3"/>
+  <outline>
+    <contour>
+      <point x="64" y="696" type="line"/>
+      <point x="169" y="279" type="line"/>
+      <point x="271" y="145" type="line"/>
+      <point x="318" y="-180" type="line"/>
+      <point x="532" y="-180" type="line"/>
+      <point x="409" y="281" type="line"/>
+      <point x="308" y="406" type="line"/>
+      <point x="278" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="696" type="line"/>
+      <point x="308" y="406" type="line"/>
+      <point x="169" y="279" type="line"/>
+      <point x="-72" y="-180" type="line"/>
+      <point x="146" y="-180" type="line"/>
+      <point x="271" y="145" type="line"/>
+      <point x="409" y="281" type="line"/>
+      <point x="641" y="696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

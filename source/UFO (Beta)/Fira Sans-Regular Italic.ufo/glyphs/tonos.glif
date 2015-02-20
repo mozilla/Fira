@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="1">
-  <advance width="191"/>
+  <advance width="190"/>
   <unicode hex="0384"/>
   <outline>
     <contour>
-      <point x="75" y="606" type="line"/>
-      <point x="144" y="595" type="line"/>
-      <point x="239" y="794" type="line"/>
-      <point x="141" y="812" type="line"/>
+      <point x="78" y="606" type="line"/>
+      <point x="140" y="595" type="line"/>
+      <point x="235" y="794" type="line"/>
+      <point x="144" y="812" type="line"/>
     </contour>
     <contour>
       <point x="98" y="527" type="move" name="_top"/>

@@ -29,9 +29,6 @@
       <point x="208" y="0" type="line"/>
       <point x="305" y="696" type="line"/>
     </contour>
-    <contour>
-      <point x="204" y="696" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -39,6 +36,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>P</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>P</string>
     </dict>
   </lib>
 </glyph>

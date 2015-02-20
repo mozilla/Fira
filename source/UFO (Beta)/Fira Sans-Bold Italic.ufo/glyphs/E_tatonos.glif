@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="1">
-  <advance width="645"/>
+  <advance width="752"/>
   <unicode hex="0389"/>
   <outline>
-    <component base="H"/>
-    <component base="tonos.case" xOffset="-242"/>
+    <component base="H" xOffset="107"/>
+    <component base="tonos.case" xOffset="-135"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,17 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

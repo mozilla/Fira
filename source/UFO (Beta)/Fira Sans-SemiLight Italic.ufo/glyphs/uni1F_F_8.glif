@@ -4,7 +4,7 @@
   <unicode hex="1FF8"/>
   <outline>
     <component base="Omicron"/>
-    <component base="grave.case" xOffset="204"/>
+    <component base="grave.case" xOffset="219"/>
   </outline>
   <lib>
     <dict>

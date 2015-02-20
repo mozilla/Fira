@@ -4,7 +4,7 @@
   <unicode hex="00DA"/>
   <outline>
     <component base="U"/>
-    <component base="acute.case" xOffset="204"/>
+    <component base="acute.case" xOffset="201"/>
   </outline>
   <lib>
     <dict>

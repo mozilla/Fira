@@ -4,12 +4,12 @@
   <unicode hex="04B0"/>
   <outline>
     <contour>
-      <point x="255" y="320" type="line"/>
-      <point x="147" y="320" type="line"/>
-      <point x="132" y="214" type="line"/>
-      <point x="440" y="214" type="line"/>
-      <point x="548" y="214" type="line"/>
-      <point x="563" y="320" type="line"/>
+      <point x="213" y="320" type="line"/>
+      <point x="105" y="320" type="line"/>
+      <point x="90" y="214" type="line"/>
+      <point x="398" y="214" type="line"/>
+      <point x="506" y="214" type="line"/>
+      <point x="521" y="320" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>
@@ -19,6 +19,14 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Y</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0251" format="1">
+  <advance width="539"/>
+  <unicode hex="0251"/>
+  <outline>
+    <contour>
+      <point x="294" y="-9"/>
+      <point x="357" y="31"/>
+      <point x="403" y="115" type="curve"/>
+      <point x="398" y="71"/>
+      <point x="388" y="12"/>
+      <point x="442" y="-9" type="curve"/>
+      <point x="443" y="-7" type="line"/>
+      <point x="413" y="4"/>
+      <point x="401" y="28"/>
+      <point x="401" y="65" type="curve" smooth="yes"/>
+      <point x="401" y="81"/>
+      <point x="403" y="99"/>
+      <point x="406" y="121" type="curve" smooth="yes"/>
+      <point x="467" y="517" type="line"/>
+      <point x="465" y="517" type="line"/>
+      <point x="445" y="390" type="line"/>
+      <point x="404" y="121" type="line"/>
+      <point x="357" y="33"/>
+      <point x="294" y="-7"/>
+      <point x="224" y="-7" type="curve" smooth="yes"/>
+      <point x="130" y="-7"/>
+      <point x="76" y="73"/>
+      <point x="76" y="183" type="curve" smooth="yes"/>
+      <point x="76" y="325"/>
+      <point x="152" y="525"/>
+      <point x="319" y="525" type="curve" smooth="yes"/>
+      <point x="393" y="525"/>
+      <point x="436" y="481"/>
+      <point x="445" y="386" type="curve"/>
+      <point x="446" y="390" type="line"/>
+      <point x="438" y="481"/>
+      <point x="395" y="527"/>
+      <point x="319" y="527" type="curve" smooth="yes"/>
+      <point x="151" y="527"/>
+      <point x="74" y="326"/>
+      <point x="74" y="183" type="curve" smooth="yes"/>
+      <point x="74" y="72"/>
+      <point x="129" y="-9"/>
+      <point x="224" y="-9" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
+</glyph>

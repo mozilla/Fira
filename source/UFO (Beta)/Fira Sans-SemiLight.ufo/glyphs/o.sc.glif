@@ -31,7 +31,16 @@
       <point x="309" y="540" type="curve"/>
     </contour>
     <contour>
-      <point x="310" y="560" type="move" name="top"/>
+      <point x="309" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="492" y="560" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="107" y="560" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="309" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +49,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O+</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>O+</string>
     </dict>
   </lib>
 </glyph>

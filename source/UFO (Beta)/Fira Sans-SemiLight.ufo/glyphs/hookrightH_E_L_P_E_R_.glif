@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookrightHELPER" format="1">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="289" y="331"/>
+      <point x="318" y="347"/>
+      <point x="338" y="362" type="curve"/>
+      <point x="323" y="382" type="line"/>
+      <point x="303" y="369"/>
+      <point x="281" y="358"/>
+      <point x="246" y="358" type="curve" smooth="yes"/>
+      <point x="206" y="358"/>
+      <point x="173" y="380"/>
+      <point x="173" y="449" type="curve" smooth="yes"/>
+      <point x="173" y="520" type="line"/>
+      <point x="143" y="520" type="line"/>
+      <point x="30" y="467" type="line"/>
+      <point x="30" y="437" type="line"/>
+      <point x="143" y="491" type="line"/>
+      <point x="143" y="448" type="line" smooth="yes"/>
+      <point x="143" y="369"/>
+      <point x="185" y="331"/>
+      <point x="246" y="331" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="41" y="520" type="move" name="_topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

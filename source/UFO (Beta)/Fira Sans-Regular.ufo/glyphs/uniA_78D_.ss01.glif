@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78D.ss01" format="1">
+  <advance width="601"/>
+  <outline>
+    <contour>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="689" type="line"/>
+      <point x="406" y="689" type="line"/>
+      <point x="406" y="346" type="line"/>
+      <point x="143" y="346" type="line"/>
+      <point x="143" y="689" type="line"/>
+      <point x="48" y="689" type="line"/>
+      <point x="48" y="268" type="line"/>
+      <point x="406" y="268" type="line"/>
+      <point x="406" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Che-cy*1.2</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

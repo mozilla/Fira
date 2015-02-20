@@ -24,10 +24,10 @@
       <point x="223" y="536" type="line"/>
       <point x="236" y="631"/>
       <point x="284" y="678"/>
-      <point x="354" y="678" type="curve" smooth="yes"/>
+      <point x="356" y="678" type="curve" smooth="yes"/>
       <point x="399" y="678"/>
       <point x="433" y="660"/>
-      <point x="433" y="619" type="curve" smooth="yes"/>
+      <point x="433" y="618" type="curve" smooth="yes"/>
       <point x="433" y="521"/>
       <point x="297" y="524"/>
       <point x="297" y="409" type="curve" smooth="yes"/>
@@ -55,9 +55,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dotlessj</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0190" format="1">
+  <advance width="519"/>
+  <unicode hex="0190"/>
+  <outline>
+    <contour>
+      <point x="154" y="692"/>
+      <point x="81" y="625"/>
+      <point x="81" y="525" type="curve" smooth="yes"/>
+      <point x="81" y="435"/>
+      <point x="136" y="386"/>
+      <point x="211" y="370" type="curve"/>
+      <point x="129" y="361"/>
+      <point x="60" y="306"/>
+      <point x="60" y="195" type="curve" smooth="yes"/>
+      <point x="60" y="66"/>
+      <point x="153" y="-10"/>
+      <point x="280" y="-10" type="curve" smooth="yes"/>
+      <point x="361" y="-10"/>
+      <point x="429" y="21"/>
+      <point x="489" y="82" type="curve"/>
+      <point x="468" y="101" type="line"/>
+      <point x="418" y="51"/>
+      <point x="358" y="19"/>
+      <point x="280" y="19" type="curve" smooth="yes"/>
+      <point x="171" y="19"/>
+      <point x="92" y="83"/>
+      <point x="92" y="194" type="curve" smooth="yes"/>
+      <point x="92" y="297"/>
+      <point x="158" y="357"/>
+      <point x="278" y="355" type="curve" smooth="yes"/>
+      <point x="334" y="354" type="line"/>
+      <point x="338" y="383" type="line"/>
+      <point x="283" y="383" type="line" smooth="yes"/>
+      <point x="182" y="383"/>
+      <point x="113" y="432"/>
+      <point x="113" y="527" type="curve" smooth="yes"/>
+      <point x="113" y="610"/>
+      <point x="176" y="663"/>
+      <point x="272" y="663" type="curve" smooth="yes"/>
+      <point x="344" y="663"/>
+      <point x="400" y="633"/>
+      <point x="449" y="589" type="curve"/>
+      <point x="468" y="609" type="line"/>
+      <point x="411" y="662"/>
+      <point x="351" y="692"/>
+      <point x="271" y="692" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|Ze-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|Ze-cy</string>
+    </dict>
+  </lib>
+</glyph>

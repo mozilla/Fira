@@ -4,21 +4,21 @@
   <unicode hex="201A"/>
   <outline>
     <contour>
-      <point x="114" y="4"/>
-      <point x="113" y="3"/>
-      <point x="113" y="2" type="curve" smooth="yes"/>
-      <point x="113" y="1"/>
-      <point x="114" y="0"/>
+      <point x="111" y="10"/>
+      <point x="109" y="8"/>
+      <point x="109" y="5" type="curve" smooth="yes"/>
+      <point x="109" y="2"/>
+      <point x="111" y="0"/>
       <point x="115" y="0" type="curve"/>
-      <point x="72" y="-119" type="line"/>
-      <point x="73" y="-119" type="line"/>
-      <point x="115" y="-4" type="line" smooth="yes"/>
-      <point x="116" y="-1"/>
-      <point x="117" y="1"/>
-      <point x="117" y="2" type="curve" smooth="yes"/>
-      <point x="117" y="3"/>
-      <point x="116" y="4"/>
-      <point x="115" y="4" type="curve" smooth="yes"/>
+      <point x="72" y="-122" type="line"/>
+      <point x="73" y="-122" type="line"/>
+      <point x="110" y="-21" type="line" smooth="yes"/>
+      <point x="115" y="-7"/>
+      <point x="119" y="1"/>
+      <point x="119" y="5" type="curve"/>
+      <point x="119" y="8"/>
+      <point x="117" y="10"/>
+      <point x="114" y="10" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

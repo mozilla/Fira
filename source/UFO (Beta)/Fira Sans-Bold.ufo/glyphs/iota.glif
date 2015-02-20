@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="1">
-  <advance width="276"/>
+  <advance width="281"/>
   <unicode hex="03B9"/>
   <outline>
     <contour>
@@ -25,6 +25,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n#</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=|n#</string>
     </dict>
   </lib>
 </glyph>

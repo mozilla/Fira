@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="1">
-  <advance width="296"/>
+  <advance width="295"/>
   <unicode hex="038A"/>
   <outline>
     <component base="I"/>

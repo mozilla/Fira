@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="1">
-  <advance width="678"/>
+  <advance width="738"/>
   <unicode hex="038F"/>
   <outline>
-    <component base="Omega"/>
-    <component base="tonos.case" xOffset="-226"/>
+    <component base="Omega" xOffset="60"/>
+    <component base="tonos.case" xOffset="-135"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,17 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

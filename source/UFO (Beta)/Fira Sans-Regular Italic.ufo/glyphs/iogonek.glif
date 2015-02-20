@@ -5,7 +5,7 @@
   <outline>
     <component base="dotlessi"/>
     <component base="dotaccent" xOffset="48"/>
-    <component base="ogonek" xOffset="-9"/>
+    <component base="ogonek" xOffset="-39"/>
   </outline>
   <lib>
     <dict>

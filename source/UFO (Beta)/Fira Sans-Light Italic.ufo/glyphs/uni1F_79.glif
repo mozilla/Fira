@@ -4,7 +4,7 @@
   <unicode hex="1F79"/>
   <outline>
     <component base="omicron"/>
-    <component base="acute" xOffset="156"/>
+    <component base="acute" xOffset="171"/>
   </outline>
   <lib>
     <dict>

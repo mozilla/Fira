@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B9.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="269" y="248" type="line"/>
+      <point x="399" y="288"/>
+      <point x="492" y="353"/>
+      <point x="492" y="480" type="curve" smooth="yes"/>
+      <point x="492" y="556"/>
+      <point x="449" y="608"/>
+      <point x="369" y="615" type="curve"/>
+      <point x="230" y="696" type="line"/>
+      <point x="120" y="696" type="line"/>
+      <point x="197" y="591" type="line"/>
+      <point x="221" y="591" type="line" smooth="yes"/>
+      <point x="272" y="591"/>
+      <point x="299" y="572"/>
+      <point x="299" y="504" type="curve" smooth="yes"/>
+      <point x="299" y="416"/>
+      <point x="272" y="353"/>
+      <point x="186" y="353" type="curve" smooth="yes"/>
+      <point x="72" y="353" type="line"/>
+      <point x="57" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="338" y="290" type="line"/>
+      <point x="167" y="252" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="430" type="line"/>
+      <point x="554" y="525" type="line"/>
+      <point x="96" y="525" type="line"/>
+      <point x="83" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="591" type="line"/>
+      <point x="417" y="601" type="line"/>
+      <point x="565" y="601" type="line"/>
+      <point x="578" y="696" type="line"/>
+      <point x="120" y="696" type="line"/>
+      <point x="105" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

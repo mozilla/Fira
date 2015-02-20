@@ -7,8 +7,8 @@
       <point x="25" y="676" type="line"/>
       <point x="25" y="606" type="line"/>
       <point x="104" y="606" type="line"/>
-      <point x="339" y="606" type="line"/>
-      <point x="349" y="676" type="line"/>
+      <point x="344" y="606" type="line"/>
+      <point x="344" y="676" type="line"/>
     </contour>
     <component base="h" xOffset="6"/>
   </outline>
@@ -18,6 +18,21 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

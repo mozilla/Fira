@@ -6,9 +6,9 @@
     <contour>
       <point x="284" y="689" type="line"/>
       <point x="-32" y="0" type="line"/>
-      <point x="64" y="0" type="line"/>
+      <point x="65" y="0" type="line"/>
       <point x="332" y="610" type="line"/>
-      <point x="426" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
       <point x="524" y="0" type="line"/>
       <point x="403" y="689" type="line"/>
     </contour>
@@ -19,6 +19,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>A</string>
     </dict>
   </lib>
 </glyph>

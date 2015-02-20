@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar.sc" format="1">
-  <advance width="587"/>
+  <advance width="598"/>
   <outline>
     <contour>
-      <point x="543" y="506" type="line"/>
+      <point x="554" y="506" type="line"/>
       <point x="0" y="506" type="line"/>
       <point x="0" y="415" type="line"/>
       <point x="44" y="415" type="line"/>
-      <point x="587" y="415" type="line"/>
-      <point x="587" y="506" type="line"/>
+      <point x="598" y="415" type="line"/>
+      <point x="598" y="506" type="line"/>
     </contour>
     <component base="h.sc" xOffset="1"/>
   </outline>
@@ -18,6 +18,14 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Hbar</string>
     </dict>
   </lib>
 </glyph>

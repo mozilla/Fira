@@ -13,6 +13,9 @@
       <point x="169" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
+      <point x="101" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="175" y="534" type="move" name="top"/>
     </contour>
   </outline>
@@ -22,6 +25,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
     </dict>
   </lib>
 </glyph>

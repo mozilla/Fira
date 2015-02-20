@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="401" y="27" type="line"/>
-      <point x="31" y="27" type="line"/>
+      <point x="32" y="27" type="line"/>
       <point x="290" y="535" type="line"/>
     </contour>
     <contour>
@@ -20,6 +20,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Delta</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Delta</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Delta</string>
     </dict>
   </lib>
 </glyph>

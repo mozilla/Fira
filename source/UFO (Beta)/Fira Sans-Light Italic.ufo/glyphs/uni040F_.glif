@@ -3,8 +3,8 @@
   <advance width="649"/>
   <unicode hex="040F"/>
   <outline>
-    <component base="TseHelper-cy" xOffset="-1"/>
-    <component base="descStraight-cy.case" xOffset="259"/>
+    <component base="TseHelper-cy"/>
+    <component base="descStraight-cy.case" xOffset="260"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,12 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>H</string>
     </dict>
   </lib>
 </glyph>

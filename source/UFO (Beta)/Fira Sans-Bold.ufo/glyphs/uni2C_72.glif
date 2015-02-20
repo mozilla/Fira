@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C72" format="1">
+  <advance width="935"/>
+  <unicode hex="2C72"/>
+  <outline>
+    <contour>
+      <point x="820" y="559"/>
+      <point x="835" y="574"/>
+      <point x="864" y="574" type="curve" smooth="yes"/>
+      <point x="888" y="574"/>
+      <point x="898" y="569"/>
+      <point x="913" y="562" type="curve"/>
+      <point x="965" y="679" type="line"/>
+      <point x="930" y="701"/>
+      <point x="892" y="716"/>
+      <point x="830" y="716" type="curve" smooth="yes"/>
+      <point x="723" y="716"/>
+      <point x="651" y="665"/>
+      <point x="637" y="517" type="curve" smooth="yes"/>
+      <point x="601" y="149" type="line"/>
+      <point x="539" y="696" type="line"/>
+      <point x="324" y="696" type="line"/>
+      <point x="250" y="149" type="line"/>
+      <point x="206" y="696" type="line"/>
+      <point x="0" y="696" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="428" y="500" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="816" y="523" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>W</string>
+    </dict>
+  </lib>
+</glyph>

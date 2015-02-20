@@ -4,7 +4,7 @@
   <unicode hex="1FDB"/>
   <outline>
     <component base="Iota"/>
-    <component base="acute.case" xOffset="9"/>
+    <component base="acute.case" xOffset="10"/>
   </outline>
   <lib>
     <dict>

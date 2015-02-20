@@ -3,7 +3,7 @@
   <advance width="614"/>
   <outline>
     <component base="o.sc"/>
-    <component base="grave.sc" xOffset="134"/>
+    <component base="grave.sc" xOffset="135"/>
   </outline>
   <lib>
     <dict>

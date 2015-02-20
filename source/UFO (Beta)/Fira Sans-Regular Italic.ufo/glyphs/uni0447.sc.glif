@@ -13,9 +13,9 @@
       <point x="373" y="233" type="curve"/>
       <point x="373" y="303" type="line"/>
       <point x="343" y="275"/>
-      <point x="297" y="250"/>
-      <point x="232" y="250" type="curve" smooth="yes"/>
-      <point x="165" y="250"/>
+      <point x="295" y="250"/>
+      <point x="227" y="250" type="curve" smooth="yes"/>
+      <point x="163" y="250"/>
       <point x="133" y="289"/>
       <point x="144" y="363" type="curve" smooth="yes"/>
       <point x="173" y="564" type="line"/>
@@ -27,7 +27,7 @@
       <point x="495" y="564" type="line"/>
     </contour>
     <contour>
-      <point x="290" y="564" type="move" name="top"/>
+      <point x="289" y="564" type="move" name="top"/>
     </contour>
     <contour>
       <point x="415" y="0" type="move" name="bottomright"/>
@@ -42,6 +42,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Che-cy</string>
     </dict>
   </lib>
 </glyph>

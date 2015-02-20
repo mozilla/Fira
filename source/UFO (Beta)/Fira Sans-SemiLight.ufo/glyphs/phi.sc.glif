@@ -6,30 +6,30 @@
       <point x="349" y="474" type="line"/>
       <point x="522" y="473"/>
       <point x="612" y="404"/>
-      <point x="612" y="280" type="curve" smooth="yes"/>
-      <point x="612" y="144"/>
+      <point x="612" y="281" type="curve" smooth="yes"/>
+      <point x="612" y="143"/>
       <point x="523" y="94"/>
       <point x="349" y="86" type="curve"/>
       <point x="351" y="59" type="line"/>
       <point x="548" y="66"/>
-      <point x="643" y="136"/>
-      <point x="643" y="280" type="curve" smooth="yes"/>
+      <point x="643" y="135"/>
+      <point x="643" y="281" type="curve" smooth="yes"/>
       <point x="643" y="415"/>
       <point x="546" y="499"/>
       <point x="351" y="501" type="curve"/>
     </contour>
     <contour>
-      <point x="140" y="494"/>
-      <point x="45" y="424"/>
-      <point x="45" y="279" type="curve" smooth="yes"/>
-      <point x="45" y="145"/>
+      <point x="140" y="495"/>
+      <point x="45" y="419"/>
+      <point x="45" y="276" type="curve" smooth="yes"/>
+      <point x="45" y="141"/>
       <point x="142" y="61"/>
       <point x="337" y="59" type="curve"/>
       <point x="339" y="86" type="line"/>
       <point x="166" y="87"/>
-      <point x="76" y="156"/>
-      <point x="76" y="279" type="curve" smooth="yes"/>
-      <point x="76" y="416"/>
+      <point x="76" y="152"/>
+      <point x="76" y="276" type="curve" smooth="yes"/>
+      <point x="76" y="411"/>
       <point x="164" y="466"/>
       <point x="339" y="474" type="curve"/>
       <point x="337" y="501" type="line"/>
@@ -55,6 +55,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Phi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Phi</string>
     </dict>
   </lib>
 </glyph>

@@ -10,13 +10,16 @@
       <point x="210" y="682" type="line"/>
     </contour>
     <contour>
-      <point x="124" y="0" type="move" name="ogonek"/>
+      <point x="114" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="194" y="682" type="move" name="top"/>
+      <point x="195" y="682" type="move" name="top"/>
     </contour>
     <contour>
       <point x="88" y="520" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="99" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +28,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>H</string>
     </dict>
   </lib>
 </glyph>

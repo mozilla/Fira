@@ -4,7 +4,7 @@
   <unicode hex="0170"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut.case" xOffset="227"/>
+    <component base="hungarumlaut.case" xOffset="224"/>
   </outline>
   <lib>
     <dict>

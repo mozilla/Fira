@@ -12,9 +12,9 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>11</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

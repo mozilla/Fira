@@ -4,7 +4,7 @@
   <outline>
     <component base="acute" yOffset="30"/>
     <contour>
-      <point x="137" y="560" type="move" name="_top"/>
+      <point x="124" y="560" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

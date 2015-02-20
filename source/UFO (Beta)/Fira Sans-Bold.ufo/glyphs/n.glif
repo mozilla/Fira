@@ -34,6 +34,9 @@
     <contour>
       <point x="286" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="33" y="534" type="move" name="topleft"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -6,11 +6,11 @@
     <contour>
       <point x="132" y="261" type="line"/>
       <point x="393" y="26" type="line" smooth="yes"/>
-      <point x="413" y="8"/>
+      <point x="415" y="6"/>
       <point x="425" y="-2"/>
       <point x="447" y="-6" type="curve"/>
       <point x="448" y="-4" type="line"/>
-      <point x="428" y="0"/>
+      <point x="426" y="0"/>
       <point x="416" y="8"/>
       <point x="394" y="28" type="curve" smooth="yes"/>
       <point x="135" y="261" type="line"/>
@@ -36,6 +36,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eta</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>eta</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>k</string>
     </dict>
   </lib>
 </glyph>

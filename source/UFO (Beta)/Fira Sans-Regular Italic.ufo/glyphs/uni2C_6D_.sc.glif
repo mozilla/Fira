@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C6D.sc" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="331" y="-11"/>
+      <point x="393" y="36"/>
+      <point x="436" y="108" type="curve"/>
+      <point x="411" y="141" type="line"/>
+      <point x="369" y="84"/>
+      <point x="319" y="62"/>
+      <point x="263" y="62" type="curve" smooth="yes"/>
+      <point x="193" y="62"/>
+      <point x="146" y="99"/>
+      <point x="146" y="205" type="curve" smooth="yes"/>
+      <point x="146" y="334"/>
+      <point x="204" y="500"/>
+      <point x="332" y="500" type="curve" smooth="yes"/>
+      <point x="383" y="500"/>
+      <point x="421" y="482"/>
+      <point x="453" y="428" type="curve"/>
+      <point x="484" y="472" type="line"/>
+      <point x="448" y="539"/>
+      <point x="398" y="574"/>
+      <point x="326" y="574" type="curve" smooth="yes"/>
+      <point x="158" y="574"/>
+      <point x="52" y="386"/>
+      <point x="52" y="207" type="curve" smooth="yes"/>
+      <point x="52" y="64"/>
+      <point x="137" y="-11"/>
+      <point x="247" y="-11" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="516" y="51" type="line"/>
+      <point x="495" y="59"/>
+      <point x="482" y="70"/>
+      <point x="482" y="95" type="curve" smooth="yes"/>
+      <point x="482" y="105"/>
+      <point x="483" y="112"/>
+      <point x="484" y="120" type="curve" smooth="yes"/>
+      <point x="549" y="564" type="line"/>
+      <point x="468" y="564" type="line"/>
+      <point x="446" y="484" type="line"/>
+      <point x="389" y="97" type="line"/>
+      <point x="395" y="70" type="line"/>
+      <point x="404" y="20"/>
+      <point x="437" y="-5"/>
+      <point x="490" y="-12" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Alpha-latin</string>
+    </dict>
+  </lib>
+</glyph>

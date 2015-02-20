@@ -1,43 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresisacutecomb" format="1">
-  <advance width="264"/>
+  <advance width="513"/>
   <outline>
     <contour>
-      <point x="18" y="779"/>
-      <point x="-29" y="739"/>
-      <point x="-35" y="690" type="curve" smooth="yes"/>
-      <point x="-43" y="636"/>
-      <point x="-7" y="594"/>
-      <point x="47" y="594" type="curve" smooth="yes"/>
-      <point x="97" y="594"/>
-      <point x="145" y="634"/>
-      <point x="151" y="684" type="curve" smooth="yes"/>
-      <point x="158" y="737"/>
-      <point x="122" y="779"/>
-      <point x="70" y="779" type="curve" smooth="yes"/>
+      <point x="406" y="772"/>
+      <point x="361" y="732"/>
+      <point x="354" y="683" type="curve" smooth="yes"/>
+      <point x="347" y="629"/>
+      <point x="385" y="587"/>
+      <point x="437" y="587" type="curve" smooth="yes"/>
+      <point x="492" y="587"/>
+      <point x="534" y="627"/>
+      <point x="541" y="677" type="curve" smooth="yes"/>
+      <point x="549" y="730"/>
+      <point x="513" y="772"/>
+      <point x="459" y="772" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="277" y="779"/>
-      <point x="231" y="739"/>
-      <point x="225" y="690" type="curve" smooth="yes"/>
-      <point x="217" y="636"/>
-      <point x="252" y="594"/>
-      <point x="306" y="594" type="curve" smooth="yes"/>
-      <point x="356" y="594"/>
-      <point x="405" y="634"/>
-      <point x="411" y="684" type="curve" smooth="yes"/>
-      <point x="418" y="737"/>
-      <point x="381" y="779"/>
-      <point x="329" y="779" type="curve" smooth="yes"/>
+      <point x="140" y="772"/>
+      <point x="96" y="732"/>
+      <point x="89" y="683" type="curve" smooth="yes"/>
+      <point x="82" y="629"/>
+      <point x="119" y="587"/>
+      <point x="171" y="587" type="curve" smooth="yes"/>
+      <point x="226" y="587"/>
+      <point x="269" y="627"/>
+      <point x="276" y="677" type="curve" smooth="yes"/>
+      <point x="284" y="730"/>
+      <point x="247" y="772"/>
+      <point x="193" y="772" type="curve" smooth="yes"/>
     </contour>
+    <component base="acutedbl" xOffset="173" yOffset="140"/>
     <contour>
-      <point x="77" y="891" type="line"/>
-      <point x="110" y="792" type="line"/>
-      <point x="375" y="869" type="line"/>
-      <point x="326" y="1013" type="line"/>
-    </contour>
-    <contour>
-      <point x="178" y="534" type="move" name="_top"/>
+      <point x="305" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -45,9 +40,9 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>9</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

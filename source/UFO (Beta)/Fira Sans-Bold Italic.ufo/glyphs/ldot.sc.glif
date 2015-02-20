@@ -3,7 +3,7 @@
   <advance width="469"/>
   <outline>
     <component base="l.sc"/>
-    <component base="dotaccent.sc" xOffset="223" yOffset="-277" xScale="0.800" yScale="0.800"/>
+    <component base="dotaccent.sc" xOffset="223" yOffset="-277" xScale="0.8" yScale="0.8"/>
   </outline>
   <lib>
     <dict>
@@ -11,6 +11,25 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ldotaccent</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Ldotaccent</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccent.sc</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

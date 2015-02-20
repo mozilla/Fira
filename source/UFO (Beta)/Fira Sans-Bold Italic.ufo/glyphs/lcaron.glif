@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="428"/>
+  <advance width="396"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="l" xOffset="-43"/>
-    <component base="caron.alt" xOffset="187" yOffset="48"/>
+    <component base="l"/>
+    <component base="caron.alt" xOffset="200" yOffset="48"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,25 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>caron.alt</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>caron.alt</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

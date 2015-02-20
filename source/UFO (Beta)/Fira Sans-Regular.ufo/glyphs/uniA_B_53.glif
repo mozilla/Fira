@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB53" format="1">
+  <advance width="471"/>
+  <unicode hex="AB53"/>
+  <outline>
+    <contour>
+      <point x="25" y="527" type="line"/>
+      <point x="191" y="187" type="line"/>
+      <point x="239" y="107" type="line"/>
+      <point x="372" y="-202" type="line"/>
+      <point x="466" y="-202" type="line"/>
+      <point x="290" y="186" type="line"/>
+      <point x="242" y="257" type="line"/>
+      <point x="126" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="257" type="line"/>
+      <point x="191" y="187" type="line"/>
+      <point x="5" y="-202" type="line"/>
+      <point x="99" y="-202" type="line"/>
+      <point x="239" y="107" type="line"/>
+      <point x="290" y="186" type="line"/>
+      <point x="450" y="527" type="line"/>
+      <point x="353" y="527" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>x</string>
+    </dict>
+  </lib>
+</glyph>

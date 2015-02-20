@@ -3,7 +3,7 @@
   <advance width="414"/>
   <outline>
     <component base="t.sc"/>
-    <component base="caron.sc" xOffset="63"/>
+    <component base="caron.sc" xOffset="68"/>
   </outline>
   <lib>
     <dict>

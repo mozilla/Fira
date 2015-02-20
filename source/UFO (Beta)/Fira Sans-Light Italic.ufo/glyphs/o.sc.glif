@@ -33,6 +33,12 @@
     <contour>
       <point x="349" y="557" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="273" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="513" y="557" type="move" name="topright"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -40,6 +46,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O+</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>O+</string>
     </dict>
   </lib>
 </glyph>

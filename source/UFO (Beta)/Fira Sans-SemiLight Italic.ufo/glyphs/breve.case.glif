@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve.case" format="1">
-  <advance width="266"/>
+  <advance width="286"/>
   <outline>
     <contour>
       <point x="276" y="770"/>
@@ -17,6 +17,9 @@
       <point x="116" y="809"/>
       <point x="156" y="770"/>
       <point x="217" y="770" type="curve"/>
+    </contour>
+    <contour>
+      <point x="208" y="741" type="move" name="top"/>
     </contour>
     <contour>
       <point x="207" y="682" type="move" name="_top"/>

@@ -5,13 +5,13 @@
     <contour>
       <point x="361" y="73" type="line"/>
       <point x="94" y="73" type="line"/>
-      <point x="287" y="492" type="line"/>
+      <point x="287" y="491" type="line"/>
     </contour>
     <contour>
-      <point x="240" y="566" type="line"/>
+      <point x="240" y="564" type="line"/>
       <point x="-32" y="0" type="line"/>
       <point x="465" y="0" type="line"/>
-      <point x="353" y="566" type="line"/>
+      <point x="353" y="564" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,6 +20,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Delta</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Delta</string>
     </dict>
   </lib>
 </glyph>

@@ -39,15 +39,6 @@
       <point x="481" y="539"/>
       <point x="392" y="539" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="297" y="264" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="261" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="364" y="739" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -55,6 +46,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dotlessj</string>
     </dict>
   </lib>
 </glyph>

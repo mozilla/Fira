@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="1">
-  <advance width="565"/>
+  <advance width="564"/>
   <unicode hex="03C5"/>
   <outline>
     <contour>
@@ -28,7 +28,7 @@
       <point x="497" y="527" type="curve"/>
     </contour>
     <contour>
-      <point x="323" y="527" type="move" name="top"/>
+      <point x="313" y="527" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,6 +37,8 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
     </dict>
   </lib>
 </glyph>

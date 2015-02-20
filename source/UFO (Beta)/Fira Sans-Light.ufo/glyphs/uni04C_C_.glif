@@ -28,15 +28,6 @@
       <point x="393" y="517" type="line"/>
     </contour>
     <component base="descStraight-cy" xOffset="405" xScale="-1"/>
-    <contour>
-      <point x="235" y="517" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="405" y="0" type="move" name="bottomright"/>
-    </contour>
-    <contour>
-      <point x="373" y="0" type="move" name="bottomleft"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -44,6 +35,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=|n</string>
     </dict>
   </lib>
 </glyph>

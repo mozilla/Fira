@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eth.sc" format="1">
-  <advance width="517"/>
+  <advance width="563"/>
   <outline>
     <contour>
-      <point x="274" y="256" type="line"/>
-      <point x="284" y="325" type="line"/>
-      <point x="83" y="325" type="line"/>
-      <point x="23" y="325" type="line"/>
-      <point x="13" y="256" type="line"/>
+      <point x="280" y="256" type="line"/>
+      <point x="290" y="325" type="line"/>
+      <point x="89" y="325" type="line"/>
+      <point x="29" y="325" type="line"/>
+      <point x="19" y="256" type="line"/>
     </contour>
-    <component base="d.sc" xOffset="-65"/>
+    <component base="d.sc" xOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -17,6 +17,14 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Eth</string>
     </dict>
   </lib>
 </glyph>

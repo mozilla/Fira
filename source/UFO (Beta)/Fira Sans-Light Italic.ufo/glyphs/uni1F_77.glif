@@ -4,7 +4,7 @@
   <unicode hex="1F77"/>
   <outline>
     <component base="iota"/>
-    <component base="acute" xOffset="2"/>
+    <component base="acute" xOffset="12"/>
   </outline>
   <lib>
     <dict>

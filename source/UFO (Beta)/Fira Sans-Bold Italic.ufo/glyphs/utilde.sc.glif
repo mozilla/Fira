@@ -3,7 +3,7 @@
   <advance width="572"/>
   <outline>
     <component base="u.sc"/>
-    <component base="tilde.sc" xOffset="75" yOffset="1"/>
+    <component base="tilde.sc" xOffset="75"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <outline>
     <component base="cedilla" xOffset="-40"/>
     <contour>
-      <point x="82" y="0" type="move" name="_bottom"/>
+      <point x="42" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>

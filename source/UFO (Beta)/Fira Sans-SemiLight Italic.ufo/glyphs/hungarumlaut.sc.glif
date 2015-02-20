@@ -2,9 +2,9 @@
 <glyph name="hungarumlaut.sc" format="1">
   <advance width="268"/>
   <outline>
-    <component base="hungarumlaut" xOffset="-35" yOffset="30"/>
+    <component base="hungarumlaut" xOffset="4" yOffset="30"/>
     <contour>
-      <point x="137" y="560" type="move" name="_top"/>
+      <point x="146" y="560" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

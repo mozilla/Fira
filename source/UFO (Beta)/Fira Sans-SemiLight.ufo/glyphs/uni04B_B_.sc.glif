@@ -23,8 +23,11 @@
       <point x="477" y="0" type="line"/>
       <point x="477" y="209" type="line" smooth="yes"/>
       <point x="477" y="302"/>
-      <point x="423" y="360"/>
-      <point x="315" y="360" type="curve"/>
+      <point x="422" y="360"/>
+      <point x="315" y="360" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="487" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>
@@ -33,6 +36,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Shha-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Shha-cy</string>
     </dict>
   </lib>
 </glyph>

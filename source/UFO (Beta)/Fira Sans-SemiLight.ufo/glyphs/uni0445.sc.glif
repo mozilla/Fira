@@ -4,7 +4,7 @@
   <outline>
     <component base="x.sc"/>
     <contour>
-      <point x="385" y="0" type="move" name="bottomright"/>
+      <point x="396" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>

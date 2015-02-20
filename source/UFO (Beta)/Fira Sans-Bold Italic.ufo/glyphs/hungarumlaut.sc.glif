@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut.sc" format="1">
-  <advance width="457"/>
+  <advance width="462"/>
   <outline>
-    <component base="hungarumlaut" xOffset="-42" yOffset="30"/>
+    <component base="hungarumlaut" xOffset="7" yOffset="30"/>
     <contour>
-      <point x="223" y="571" type="move" name="_top"/>
+      <point x="232" y="571" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

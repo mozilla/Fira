@@ -3,7 +3,7 @@
   <advance width="631"/>
   <outline>
     <contour>
-      <point x="574" y="557" type="line"/>
+      <point x="575" y="557" type="line"/>
       <point x="420" y="296" type="line"/>
       <point x="317" y="296" type="line"/>
       <point x="317" y="557" type="line"/>
@@ -39,6 +39,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Zhe-cy</string>
     </dict>
   </lib>
 </glyph>

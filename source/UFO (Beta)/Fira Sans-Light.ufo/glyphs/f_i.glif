@@ -2,7 +2,7 @@
 <glyph name="f_i" format="1">
   <advance width="539"/>
   <outline>
-    <component base="fi"/>
+    <component base="uniFB01"/>
   </outline>
   <lib>
     <dict>

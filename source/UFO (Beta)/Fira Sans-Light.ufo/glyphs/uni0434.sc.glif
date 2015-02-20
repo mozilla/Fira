@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.sc" format="1">
-  <advance width="526"/>
+  <advance width="529"/>
   <outline>
     <contour>
       <point x="34" y="2" type="line"/>
@@ -20,7 +20,7 @@
       <point x="80" y="36"/>
       <point x="31" y="2" type="curve"/>
     </contour>
-    <component base="descStraight-cy" xOffset="385"/>
+    <component base="descStraight-cy" xOffset="379"/>
     <component base="descStraight-cy" xOffset="65" xScale="-1"/>
   </outline>
   <lib>
@@ -29,6 +29,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>De-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>De-cy</string>
     </dict>
   </lib>
 </glyph>

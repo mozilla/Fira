@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="phi" format="1">
-  <advance width="709"/>
+  <advance width="711"/>
   <unicode hex="03C6"/>
   <outline>
     <contour>
@@ -14,8 +14,8 @@
       <point x="110" y="285"/>
       <point x="152" y="411"/>
       <point x="208" y="520" type="curve"/>
-      <point x="179" y="520" type="line"/>
-      <point x="122" y="409"/>
+      <point x="177" y="520" type="line"/>
+      <point x="121" y="409"/>
       <point x="79" y="291"/>
       <point x="79" y="185" type="curve" smooth="yes"/>
       <point x="79" y="56"/>
@@ -26,15 +26,15 @@
       <point x="329" y="-10" type="line"/>
       <point x="605" y="1"/>
       <point x="642" y="188"/>
-      <point x="642" y="360" type="curve" smooth="yes"/>
+      <point x="642" y="362" type="curve" smooth="yes"/>
       <point x="642" y="486"/>
-      <point x="591" y="530"/>
+      <point x="590" y="530"/>
       <point x="513" y="530" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="576" y="504"/>
+      <point x="575" y="504"/>
       <point x="612" y="466"/>
-      <point x="612" y="363" type="curve" smooth="yes"/>
+      <point x="612" y="362" type="curve" smooth="yes"/>
       <point x="612" y="194"/>
       <point x="577" y="27"/>
       <point x="333" y="17" type="curve"/>
@@ -50,6 +50,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|upsilon</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=|upsilon</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rho</string>
     </dict>
   </lib>
 </glyph>

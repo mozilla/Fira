@@ -9,7 +9,7 @@
       <point x="141" y="564" type="line"/>
     </contour>
     <contour>
-      <point x="142" y="564" type="line"/>
+      <point x="141" y="564" type="line"/>
       <point x="210" y="487" type="line"/>
       <point x="450" y="487" type="line"/>
       <point x="474" y="564" type="line"/>
@@ -27,6 +27,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ge-cy</string>
     </dict>
   </lib>
 </glyph>

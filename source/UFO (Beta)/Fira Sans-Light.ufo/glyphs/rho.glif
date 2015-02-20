@@ -4,34 +4,32 @@
   <unicode hex="03C1"/>
   <outline>
     <contour>
-      <point x="175" y="527"/>
-      <point x="115" y="433"/>
+      <point x="176" y="527"/>
+      <point x="115" y="434"/>
       <point x="115" y="299" type="curve" smooth="yes"/>
       <point x="115" y="-190" type="line"/>
       <point x="117" y="-190" type="line"/>
-      <point x="117" y="109" type="line"/>
-      <point x="117" y="111" type="line"/>
       <point x="117" y="299" type="line" smooth="yes"/>
       <point x="117" y="433"/>
       <point x="177" y="525"/>
       <point x="294" y="525" type="curve" smooth="yes"/>
-      <point x="406" y="525"/>
+      <point x="407" y="525"/>
       <point x="469" y="427"/>
       <point x="469" y="264" type="curve" smooth="yes"/>
       <point x="469" y="84"/>
       <point x="393" y="-7"/>
-      <point x="292" y="-7" type="curve"/>
-      <point x="213" y="-7"/>
+      <point x="289" y="-7" type="curve"/>
+      <point x="212" y="-7"/>
       <point x="156" y="37"/>
       <point x="116" y="113" type="curve"/>
       <point x="116" y="110" type="line"/>
       <point x="154" y="36"/>
-      <point x="212" y="-9"/>
-      <point x="292" y="-9" type="curve"/>
-      <point x="395" y="-9"/>
-      <point x="471" y="84"/>
+      <point x="211" y="-9"/>
+      <point x="289" y="-9" type="curve"/>
+      <point x="394" y="-9"/>
+      <point x="471" y="83"/>
       <point x="471" y="264" type="curve" smooth="yes"/>
-      <point x="471" y="427"/>
+      <point x="471" y="428"/>
       <point x="408" y="527"/>
       <point x="294" y="527" type="curve" smooth="yes"/>
     </contour>
@@ -42,6 +40,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o+5</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=o+5</string>
     </dict>
   </lib>
 </glyph>

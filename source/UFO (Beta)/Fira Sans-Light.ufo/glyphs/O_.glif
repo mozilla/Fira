@@ -32,10 +32,16 @@
       <point x="343" y="688" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="342" y="680" type="move" name="top"/>
+      <point x="344" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="517" y="680" type="move" name="topright"/>
     </contour>
     <contour>
       <point x="102" y="680" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="344" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

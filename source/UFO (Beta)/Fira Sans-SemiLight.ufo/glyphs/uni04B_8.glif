@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B8" format="1">
-  <advance width="555"/>
+  <advance width="579"/>
   <unicode hex="04B8"/>
   <outline>
     <contour>
@@ -17,6 +17,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Che-cy</string>
     </dict>
   </lib>
 </glyph>

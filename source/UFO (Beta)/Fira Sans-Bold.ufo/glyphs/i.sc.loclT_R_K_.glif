@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc.loclTRK" format="1">
-  <advance width="283"/>
+  <advance width="284"/>
   <outline>
     <component base="i.sc"/>
     <component base="dotaccent.sc" xOffset="1"/>

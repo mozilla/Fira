@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024C" format="1">
+  <advance width="555"/>
+  <unicode hex="024C"/>
+  <outline>
+    <contour>
+      <point x="200" y="336" type="line"/>
+      <point x="124" y="336" type="line"/>
+      <point x="30" y="336" type="line"/>
+      <point x="30" y="334" type="line"/>
+      <point x="206" y="334" type="line"/>
+    </contour>
+    <component base="R" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+    </dict>
+  </lib>
+</glyph>

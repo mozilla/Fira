@@ -5,40 +5,40 @@
     <contour>
       <point x="371" y="560" type="line"/>
       <point x="363" y="501" type="line"/>
-      <point x="108" y="490"/>
-      <point x="45" y="371"/>
-      <point x="45" y="253" type="curve" smooth="yes"/>
+      <point x="138" y="501"/>
+      <point x="45" y="388"/>
+      <point x="45" y="259" type="curve" smooth="yes"/>
       <point x="45" y="137"/>
       <point x="130" y="63"/>
       <point x="301" y="59" type="curve"/>
       <point x="293" y="0" type="line"/>
       <point x="323" y="0" type="line"/>
       <point x="331" y="59" type="line"/>
-      <point x="586" y="70"/>
-      <point x="649" y="188"/>
-      <point x="649" y="305" type="curve"/>
+      <point x="556" y="60"/>
+      <point x="649" y="165"/>
+      <point x="649" y="300" type="curve"/>
       <point x="649" y="421"/>
       <point x="564" y="496"/>
       <point x="393" y="501" type="curve"/>
       <point x="401" y="560" type="line"/>
     </contour>
     <contour>
-      <point x="306" y="86" type="line"/>
-      <point x="154" y="89"/>
+      <point x="306" y="87" type="line"/>
+      <point x="154" y="90"/>
       <point x="77" y="149"/>
-      <point x="77" y="252" type="curve" smooth="yes"/>
-      <point x="77" y="362"/>
-      <point x="126" y="461"/>
+      <point x="77" y="258" type="curve" smooth="yes"/>
+      <point x="77" y="379"/>
+      <point x="156" y="471"/>
       <point x="360" y="474" type="curve"/>
     </contour>
     <contour>
-      <point x="540" y="472"/>
+      <point x="540" y="471"/>
       <point x="617" y="409"/>
-      <point x="617" y="306" type="curve" smooth="yes"/>
-      <point x="617" y="199"/>
-      <point x="567" y="100"/>
+      <point x="617" y="301" type="curve" smooth="yes"/>
+      <point x="617" y="176"/>
+      <point x="537" y="90"/>
       <point x="334" y="87" type="curve"/>
-      <point x="388" y="475" type="line"/>
+      <point x="388" y="474" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,6 +47,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Phi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Phi</string>
     </dict>
   </lib>
 </glyph>

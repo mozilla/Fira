@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveacute" format="1">
+  <advance width="423"/>
+  <outline>
+    <component base="breve.case" xOffset="-20" yOffset="-143"/>
+    <component base="acutedbl" xOffset="124" yOffset="185"/>
+    <contour>
+      <point x="246" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

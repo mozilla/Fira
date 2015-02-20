@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0414" format="1">
-  <advance width="603"/>
+  <advance width="605"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
@@ -22,15 +22,15 @@
       <point x="291" y="611" type="line"/>
       <point x="461" y="611" type="line"/>
     </contour>
-    <component base="descStraight-cy.case" xOffset="403"/>
+    <component base="descStraight-cy.case" xOffset="405"/>
     <component base="descStraightleft-cy.case" xOffset="-67"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>11</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

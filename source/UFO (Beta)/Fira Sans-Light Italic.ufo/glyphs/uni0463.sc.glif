@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0463.sc" format="1">
-  <advance width="594"/>
+  <advance width="593"/>
   <outline>
     <contour>
       <point x="62" y="557" type="line"/>
@@ -16,6 +16,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Yat-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Yat-cy</string>
     </dict>
   </lib>
 </glyph>

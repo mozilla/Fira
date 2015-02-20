@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tau" format="1">
-  <advance width="465"/>
+  <advance width="469"/>
   <unicode hex="03C4"/>
   <outline>
     <contour>
-      <point x="185" y="468" type="line"/>
-      <point x="185" y="130" type="line"/>
-      <point x="185" y="46"/>
-      <point x="212" y="6"/>
-      <point x="294" y="-12" type="curve"/>
-      <point x="326" y="62" type="line"/>
-      <point x="290" y="71"/>
-      <point x="277" y="89"/>
-      <point x="277" y="141" type="curve"/>
-      <point x="277" y="468" type="line"/>
+      <point x="327" y="57" type="line"/>
+      <point x="294" y="72"/>
+      <point x="281" y="89"/>
+      <point x="281" y="141" type="curve"/>
+      <point x="281" y="468" type="line"/>
+      <point x="189" y="468" type="line"/>
+      <point x="189" y="129" type="line"/>
+      <point x="189" y="45"/>
+      <point x="216" y="8"/>
+      <point x="298" y="-12" type="curve"/>
     </contour>
     <contour>
-      <point x="50" y="449"/>
-      <point x="63" y="451"/>
-      <point x="116" y="452" type="curve"/>
-      <point x="461" y="452" type="line"/>
-      <point x="461" y="527" type="line"/>
-      <point x="108" y="527" type="line"/>
-      <point x="59" y="527"/>
-      <point x="37" y="525"/>
-      <point x="1" y="512" type="curve"/>
-      <point x="17" y="440" type="line"/>
+      <point x="54" y="449"/>
+      <point x="67" y="451"/>
+      <point x="120" y="452" type="curve"/>
+      <point x="465" y="452" type="line"/>
+      <point x="465" y="527" type="line"/>
+      <point x="112" y="527" type="line"/>
+      <point x="63" y="527"/>
+      <point x="41" y="525"/>
+      <point x="5" y="512" type="curve"/>
+      <point x="21" y="440" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>te-cy</string>
     </dict>
   </lib>
 </glyph>

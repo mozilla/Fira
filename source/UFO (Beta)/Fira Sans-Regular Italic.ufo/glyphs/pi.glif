@@ -18,7 +18,7 @@
       <point x="409" y="452" type="line"/>
       <point x="364" y="134" type="line" smooth="yes"/>
       <point x="353" y="52"/>
-      <point x="374" y="7"/>
+      <point x="375" y="9"/>
       <point x="453" y="-11" type="curve"/>
       <point x="491" y="55" type="line"/>
       <point x="457" y="70"/>
@@ -32,9 +32,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

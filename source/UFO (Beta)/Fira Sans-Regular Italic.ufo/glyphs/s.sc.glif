@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s.sc" format="1">
-  <advance width="481"/>
+  <advance width="483"/>
   <outline>
     <contour>
       <point x="155" y="574"/>
@@ -55,6 +55,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>S</string>
     </dict>
   </lib>
 </glyph>

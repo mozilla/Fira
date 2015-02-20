@@ -4,14 +4,14 @@
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="534" y="542" type="line"/>
-      <point x="55" y="542" type="line"/>
-      <point x="55" y="518" type="line"/>
-      <point x="118" y="518" type="line"/>
-      <point x="597" y="518" type="line"/>
-      <point x="597" y="542" type="line"/>
+      <point x="537" y="542" type="line"/>
+      <point x="52" y="542" type="line"/>
+      <point x="52" y="518" type="line"/>
+      <point x="115" y="518" type="line"/>
+      <point x="600" y="518" type="line"/>
+      <point x="600" y="542" type="line"/>
     </contour>
-    <component base="H" xOffset="4"/>
+    <component base="H" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +19,17 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

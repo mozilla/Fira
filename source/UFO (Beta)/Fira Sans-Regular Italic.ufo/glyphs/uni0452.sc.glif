@@ -6,12 +6,12 @@
       <point x="355" y="374"/>
       <point x="308" y="356"/>
       <point x="269" y="324" type="curve"/>
-      <point x="293" y="493" type="line"/>
-      <point x="446" y="493" type="line"/>
-      <point x="468" y="565" type="line"/>
-      <point x="56" y="565" type="line"/>
-      <point x="46" y="493" type="line"/>
-      <point x="202" y="493" type="line"/>
+      <point x="293" y="492" type="line"/>
+      <point x="446" y="492" type="line"/>
+      <point x="468" y="564" type="line"/>
+      <point x="56" y="564" type="line"/>
+      <point x="46" y="492" type="line"/>
+      <point x="202" y="492" type="line"/>
       <point x="132" y="0" type="line"/>
       <point x="223" y="0" type="line"/>
       <point x="257" y="241" type="line"/>
@@ -30,7 +30,7 @@
       <point x="539" y="-47"/>
       <point x="556" y="78" type="curve" smooth="yes"/>
       <point x="572" y="188" type="line" smooth="yes"/>
-      <point x="588" y="303"/>
+      <point x="589" y="303"/>
       <point x="533" y="374"/>
       <point x="417" y="374" type="curve" smooth="yes"/>
     </contour>
@@ -41,6 +41,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Dje-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Dje-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Dje-cy</string>
     </dict>
   </lib>
 </glyph>

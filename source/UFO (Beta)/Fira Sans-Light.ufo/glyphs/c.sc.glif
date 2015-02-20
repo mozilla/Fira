@@ -31,10 +31,10 @@
       <point x="307" y="565" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="308" y="558" type="move" name="top"/>
+      <point x="308" y="557" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="306" y="0" type="move" name="bottom"/>
+      <point x="306" y="2" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>C</string>
     </dict>
   </lib>
 </glyph>

@@ -4,6 +4,9 @@
   <unicode hex="0443"/>
   <outline>
     <component base="y"/>
+    <contour>
+      <point x="224" y="520" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

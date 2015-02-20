@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowupleft" format="1">
+<glyph name="uni2196" format="1">
   <advance width="937"/>
   <unicode hex="2196"/>
   <outline>
-    <component base="arrowdownleft" xOffset="-10" yOffset="607" yScale="-1"/>
+    <component base="uni2199" xOffset="-10" yOffset="607" yScale="-1"/>
   </outline>
   <lib>
     <dict>
@@ -11,6 +11,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>arrowdownleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>arrowdownleft</string>
     </dict>
   </lib>
 </glyph>

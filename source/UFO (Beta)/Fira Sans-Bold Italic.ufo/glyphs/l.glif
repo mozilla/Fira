@@ -31,7 +31,7 @@
       <point x="316" y="744" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="399" y="373" type="move" name="center"/>
+      <point x="396" y="373" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n-5</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=n-5</string>
     </dict>
   </lib>
 </glyph>

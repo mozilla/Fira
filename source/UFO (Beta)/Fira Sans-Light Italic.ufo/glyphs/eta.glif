@@ -4,7 +4,7 @@
   <unicode hex="03B7"/>
   <outline>
     <contour>
-      <point x="276" y="527"/>
+      <point x="270" y="527"/>
       <point x="193" y="424"/>
       <point x="144" y="331" type="curve"/>
       <point x="153" y="387"/>
@@ -18,17 +18,17 @@
       <point x="90" y="0" type="line"/>
       <point x="143" y="325" type="line"/>
       <point x="193" y="422"/>
-      <point x="276" y="525"/>
-      <point x="370" y="525" type="curve" smooth="yes"/>
+      <point x="271" y="525"/>
+      <point x="374" y="525" type="curve" smooth="yes"/>
       <point x="456" y="525"/>
       <point x="487" y="466"/>
       <point x="473" y="368" type="curve" smooth="yes"/>
-      <point x="394" y="-191" type="line"/>
-      <point x="396" y="-190" type="line"/>
+      <point x="394" y="-189" type="line"/>
+      <point x="396" y="-189" type="line"/>
       <point x="475" y="368" type="line" smooth="yes"/>
-      <point x="488" y="467"/>
+      <point x="489" y="467"/>
       <point x="457" y="527"/>
-      <point x="370" y="527" type="curve" smooth="yes"/>
+      <point x="374" y="527" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="331" y="517" type="move" name="top"/>
@@ -40,6 +40,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>n</string>
     </dict>
   </lib>
 </glyph>

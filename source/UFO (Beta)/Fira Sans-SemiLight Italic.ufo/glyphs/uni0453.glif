@@ -4,7 +4,7 @@
   <unicode hex="0453"/>
   <outline>
     <component base="uni0433"/>
-    <component base="acute" xOffset="98"/>
+    <component base="acute" xOffset="108"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>auto</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>auto</string>
     </dict>
   </lib>
 </glyph>

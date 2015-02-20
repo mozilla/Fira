@@ -4,7 +4,7 @@
   <unicode hex="0165"/>
   <outline>
     <component base="t"/>
-    <component base="caron.alt" xOffset="210" yOffset="113"/>
+    <component base="caron.alt" xOffset="213" yOffset="103"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,10 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>caron.alt</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>caron.alt</string>
     </dict>
   </lib>
 </glyph>

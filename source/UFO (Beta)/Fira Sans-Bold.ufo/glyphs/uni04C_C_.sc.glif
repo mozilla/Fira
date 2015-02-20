@@ -27,15 +27,6 @@
       <point x="506" y="571" type="line"/>
     </contour>
     <component base="descStraight-cy" xOffset="480" xScale="-1"/>
-    <contour>
-      <point x="258" y="571" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="516" y="0" type="move" name="bottomright"/>
-    </contour>
-    <contour>
-      <point x="303" y="0" type="move" name="bottomleft"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -43,6 +34,8 @@
       <integer>7</integer>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Chekhakassian-cy</string>
     </dict>
   </lib>
 </glyph>

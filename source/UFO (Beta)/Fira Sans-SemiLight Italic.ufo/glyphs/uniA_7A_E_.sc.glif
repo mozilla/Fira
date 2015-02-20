@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AE.sc" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="220" y="520" type="line"/>
+      <point x="190" y="520" type="line"/>
+      <point x="117" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="line"/>
+      <point x="271" y="28" type="line"/>
+      <point x="2" y="28" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="493" type="line"/>
+      <point x="340" y="520" type="line"/>
+      <point x="71" y="520" type="line"/>
+      <point x="67" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uniA7AE</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>uniA7AE</string>
+    </dict>
+  </lib>
+</glyph>

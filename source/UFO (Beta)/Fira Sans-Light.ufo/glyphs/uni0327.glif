@@ -5,7 +5,7 @@
   <outline>
     <component base="cedilla"/>
     <contour>
-      <point x="75" y="0" type="move" name="_bottom"/>
+      <point x="80" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>

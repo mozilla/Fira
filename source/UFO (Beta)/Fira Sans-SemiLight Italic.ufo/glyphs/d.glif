@@ -20,7 +20,7 @@
       <point x="398" y="0" type="line"/>
       <point x="423" y="0" type="line"/>
       <point x="527" y="734" type="line"/>
-      <point x="497" y="738" type="line"/>
+      <point x="497" y="739" type="line"/>
     </contour>
     <contour>
       <point x="389" y="503"/>
@@ -50,6 +50,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o+5</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=o+5</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=\n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=\n</string>
     </dict>
   </lib>
 </glyph>

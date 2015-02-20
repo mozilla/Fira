@@ -24,7 +24,7 @@
       <point x="650" y="696" type="line"/>
     </contour>
     <contour>
-      <point x="498" y="0" type="move" name="bottomright"/>
+      <point x="508" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>

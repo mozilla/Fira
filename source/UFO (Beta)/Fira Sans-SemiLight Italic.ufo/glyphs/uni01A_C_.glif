@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01AC" format="1">
+  <advance width="497"/>
+  <unicode hex="01AC"/>
+  <outline>
+    <contour>
+      <point x="238" y="0" type="line"/>
+      <point x="329" y="652" type="line"/>
+      <point x="537" y="652" type="line"/>
+      <point x="546" y="682" type="line"/>
+      <point x="220" y="682" type="line"/>
+      <point x="216" y="652" type="line"/>
+      <point x="298" y="652" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="503" type="line"/>
+      <point x="101" y="520"/>
+      <point x="94" y="539"/>
+      <point x="94" y="566" type="curve" smooth="yes"/>
+      <point x="94" y="611"/>
+      <point x="122" y="652"/>
+      <point x="190" y="652" type="curve" smooth="yes"/>
+      <point x="217" y="652" type="line"/>
+      <point x="221" y="682" type="line"/>
+      <point x="196" y="682" type="line" smooth="yes"/>
+      <point x="109" y="682"/>
+      <point x="63" y="631"/>
+      <point x="63" y="566" type="curve" smooth="yes"/>
+      <point x="63" y="534"/>
+      <point x="73" y="511"/>
+      <point x="84" y="491" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hookaboveHELPER2.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

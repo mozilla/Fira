@@ -13,7 +13,7 @@
       <point x="291" y="-9"/>
       <point x="358" y="31"/>
       <point x="405" y="118" type="curve"/>
-      <point x="359" y="-190" type="line"/>
+      <point x="360" y="-189" type="line"/>
       <point x="362" y="-189" type="line"/>
       <point x="462" y="487" type="line"/>
       <point x="428" y="511"/>
@@ -42,6 +42,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=|n</string>
     </dict>
   </lib>
 </glyph>

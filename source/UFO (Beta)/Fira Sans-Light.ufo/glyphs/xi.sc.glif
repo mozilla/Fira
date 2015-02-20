@@ -15,10 +15,10 @@
       <point x="322" y="297" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="558" type="line"/>
-      <point x="60" y="556" type="line"/>
-      <point x="360" y="556" type="line"/>
-      <point x="360" y="558" type="line"/>
+      <point x="60" y="557" type="line"/>
+      <point x="60" y="555" type="line"/>
+      <point x="360" y="555" type="line"/>
+      <point x="360" y="557" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,6 +27,14 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Xi</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>Xi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Xi</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>Xi</string>
     </dict>
   </lib>
 </glyph>

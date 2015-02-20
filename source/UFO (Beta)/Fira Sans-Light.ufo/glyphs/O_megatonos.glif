@@ -4,7 +4,7 @@
   <unicode hex="038F"/>
   <outline>
     <component base="Omega"/>
-    <component base="tonos.case" xOffset="30"/>
+    <component base="tonos.case" xOffset="32"/>
   </outline>
   <lib>
     <dict>

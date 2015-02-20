@@ -14,7 +14,7 @@
       <point x="27" y="560" type="line"/>
       <point x="195" y="296" type="line"/>
       <point x="15" y="0" type="line"/>
-      <point x="49" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
       <point x="221" y="281" type="line"/>
       <point x="310" y="281" type="line"/>
       <point x="310" y="0" type="line"/>
@@ -39,6 +39,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Zhe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Zhe-cy</string>
     </dict>
   </lib>
 </glyph>

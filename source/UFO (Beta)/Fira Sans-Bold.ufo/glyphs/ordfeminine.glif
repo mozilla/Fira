@@ -52,14 +52,14 @@
       <point x="293" y="442" type="line"/>
       <point x="293" y="530" type="line"/>
     </contour>
-    <component base="minus" xOffset="2" yOffset="-257" xScale="0.950"/>
+    <component base="minus" xOffset="2" yOffset="-257" xScale="0.95"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

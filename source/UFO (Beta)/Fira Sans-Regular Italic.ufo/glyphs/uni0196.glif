@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0196" format="1">
+  <advance width="355"/>
+  <unicode hex="0196"/>
+  <outline>
+    <contour>
+      <point x="150" y="689" type="line"/>
+      <point x="80" y="201" type="line"/>
+      <point x="174" y="201" type="line"/>
+      <point x="244" y="689" type="line"/>
+    </contour>
+    <component base="hookHELPERright.case" xOffset="86" yOffset="201"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

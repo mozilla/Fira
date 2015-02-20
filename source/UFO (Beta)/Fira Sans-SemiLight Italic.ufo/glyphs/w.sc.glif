@@ -4,17 +4,17 @@
   <outline>
     <contour>
       <point x="678" y="560" type="line"/>
-      <point x="481" y="33" type="line"/>
+      <point x="480" y="33" type="line"/>
       <point x="412" y="560" type="line"/>
       <point x="375" y="560" type="line"/>
       <point x="160" y="34" type="line"/>
-      <point x="109" y="560" type="line"/>
+      <point x="108" y="560" type="line"/>
       <point x="77" y="560" type="line"/>
       <point x="136" y="0" type="line"/>
       <point x="171" y="0" type="line"/>
-      <point x="389" y="530" type="line"/>
+      <point x="390" y="530" type="line"/>
       <point x="459" y="0" type="line"/>
-      <point x="494" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
       <point x="709" y="560" type="line"/>
     </contour>
     <contour>
@@ -27,6 +27,10 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>W</string>
     </dict>
   </lib>
 </glyph>

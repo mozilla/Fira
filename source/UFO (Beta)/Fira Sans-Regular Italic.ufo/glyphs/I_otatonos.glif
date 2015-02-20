@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="1">
-  <advance width="294"/>
+  <advance width="292"/>
   <unicode hex="038A"/>
   <outline>
     <component base="I"/>
-    <component base="tonos.case" xOffset="-95" yOffset="7"/>
+    <component base="tonos.case" xOffset="-97" yOffset="7"/>
   </outline>
   <lib>
     <dict>

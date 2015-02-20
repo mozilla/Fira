@@ -17,13 +17,13 @@
       <point x="200" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="282" y="680" type="move" name="top"/>
+      <point x="295" y="680" type="move" name="top"/>
     </contour>
     <contour>
       <point x="211" y="0" type="move" name="bottomright"/>
     </contour>
     <contour>
-      <point x="235" y="340" type="move" name="center"/>
+      <point x="248" y="340" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

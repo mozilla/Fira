@@ -12,11 +12,11 @@
       <point x="127" y="541" type="line" smooth="yes"/>
       <point x="127" y="668"/>
       <point x="196" y="731"/>
-      <point x="297" y="731" type="curve" smooth="yes"/>
-      <point x="375" y="731"/>
-      <point x="457" y="688"/>
+      <point x="299" y="731" type="curve" smooth="yes"/>
+      <point x="387" y="731"/>
+      <point x="457" y="678"/>
       <point x="458" y="569" type="curve" smooth="yes"/>
-      <point x="458" y="465"/>
+      <point x="459" y="465"/>
       <point x="390" y="400"/>
       <point x="285" y="400" type="curve" smooth="yes"/>
       <point x="217" y="400" type="line"/>
@@ -27,26 +27,26 @@
       <point x="501" y="199" type="curve" smooth="yes"/>
       <point x="501" y="63"/>
       <point x="419" y="-7"/>
-      <point x="319" y="-7" type="curve" smooth="yes"/>
-      <point x="257" y="-7"/>
-      <point x="185" y="9"/>
+      <point x="314" y="-7" type="curve" smooth="yes"/>
+      <point x="236" y="-7"/>
+      <point x="175" y="23"/>
       <point x="127" y="93" type="curve"/>
       <point x="125" y="93" type="line"/>
-      <point x="183" y="7"/>
-      <point x="257" y="-9"/>
-      <point x="319" y="-9" type="curve" smooth="yes"/>
+      <point x="173" y="21"/>
+      <point x="236" y="-9"/>
+      <point x="314" y="-9" type="curve" smooth="yes"/>
       <point x="420" y="-9"/>
       <point x="503" y="62"/>
       <point x="503" y="199" type="curve" smooth="yes"/>
-      <point x="503" y="325"/>
-      <point x="422" y="395"/>
+      <point x="503" y="329"/>
+      <point x="419" y="394"/>
       <point x="302" y="399" type="curve"/>
-      <point x="392" y="404"/>
+      <point x="394" y="405"/>
       <point x="460" y="464"/>
       <point x="460" y="569" type="curve"/>
-      <point x="459" y="689"/>
-      <point x="376" y="733"/>
-      <point x="297" y="733" type="curve" smooth="yes"/>
+      <point x="459" y="679"/>
+      <point x="388" y="733"/>
+      <point x="299" y="733" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -55,6 +55,12 @@
       <integer>4</integer>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>o</string>
     </dict>
   </lib>
 </glyph>

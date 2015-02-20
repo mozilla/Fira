@@ -3,7 +3,7 @@
   <advance width="620"/>
   <outline>
     <component base="o.sc"/>
-    <component base="hungarumlaut.sc" xOffset="226"/>
+    <component base="hungarumlaut.sc" xOffset="225"/>
   </outline>
   <lib>
     <dict>

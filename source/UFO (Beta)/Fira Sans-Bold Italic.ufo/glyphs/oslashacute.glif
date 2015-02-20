@@ -4,7 +4,7 @@
   <unicode hex="01FF"/>
   <outline>
     <component base="oslash"/>
-    <component base="acute" xOffset="89" yOffset="39"/>
+    <component base="acute" xOffset="99" yOffset="39"/>
   </outline>
   <lib>
     <dict>

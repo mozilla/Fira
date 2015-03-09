@@ -2,14 +2,10 @@
 <glyph name="dagger.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="dagger" xOffset="-8"/>
+    <component base="dagger" xOffset="29"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

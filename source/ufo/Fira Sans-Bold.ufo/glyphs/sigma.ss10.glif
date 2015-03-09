@@ -38,16 +38,4 @@
       <point x="584" y="564" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>11</integer>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-    </dict>
-  </lib>
 </glyph>

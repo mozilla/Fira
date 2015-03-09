@@ -4,14 +4,6 @@
   <unicode hex="0401"/>
   <outline>
     <component base="E"/>
-    <component base="dieresis.case" xOffset="146"/>
+    <component base="uni0308.case" xOffset="146"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

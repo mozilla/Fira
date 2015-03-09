@@ -29,17 +29,11 @@
       <point x="443" y="517" type="line"/>
     </contour>
     <component base="uni0283" xOffset="281"/>
+    <contour>
+      <point x="330" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="203" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>t</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>esh</string>
-    </dict>
-  </lib>
 </glyph>

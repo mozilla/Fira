@@ -9,15 +9,13 @@
       <point x="129" y="0" type="line"/>
       <point x="129" y="517" type="line"/>
     </contour>
-    <component base="hookHELPER" xOffset="-77"/>
     <component base="hookaboveHELPER2" xOffset="84"/>
+    <component base="hookHELPER" xOffset="-77"/>
+    <contour>
+      <point x="218" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="45" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

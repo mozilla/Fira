@@ -9,22 +9,22 @@
       <point x="105" y="408" type="line"/>
       <point x="142" y="435"/>
       <point x="172" y="447"/>
-      <point x="205" y="447" type="curve" smooth="yes"/>
-      <point x="243" y="447"/>
-      <point x="258" y="428"/>
-      <point x="258" y="407" type="curve" smooth="yes"/>
-      <point x="258" y="377"/>
-      <point x="239" y="362"/>
+      <point x="210" y="447" type="curve" smooth="yes"/>
+      <point x="251" y="447"/>
+      <point x="266" y="428"/>
+      <point x="266" y="407" type="curve" smooth="yes"/>
+      <point x="266" y="377"/>
+      <point x="247" y="362"/>
       <point x="194" y="362" type="curve" smooth="yes"/>
       <point x="144" y="362" type="line"/>
       <point x="121" y="225" type="line"/>
-      <point x="190" y="225" type="line" smooth="yes"/>
-      <point x="246" y="225"/>
-      <point x="272" y="205"/>
-      <point x="272" y="173" type="curve" smooth="yes"/>
-      <point x="272" y="141"/>
-      <point x="246" y="123"/>
-      <point x="206" y="123" type="curve" smooth="yes"/>
+      <point x="200" y="225" type="line" smooth="yes"/>
+      <point x="256" y="225"/>
+      <point x="282" y="205"/>
+      <point x="282" y="173" type="curve" smooth="yes"/>
+      <point x="282" y="141"/>
+      <point x="256" y="123"/>
+      <point x="210" y="123" type="curve" smooth="yes"/>
       <point x="163" y="123"/>
       <point x="133" y="137"/>
       <point x="95" y="167" type="curve"/>
@@ -52,16 +52,4 @@
       <point x="222" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ze-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ze-cy</string>
-    </dict>
-  </lib>
 </glyph>

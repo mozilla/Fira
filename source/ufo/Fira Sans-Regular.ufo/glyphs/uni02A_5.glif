@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02A5" format="1">
+  <advance width="929"/>
+  <unicode hex="02A5"/>
+  <outline>
+    <contour>
+      <point x="744" y="0" type="line"/>
+      <point x="755" y="77" type="line"/>
+      <point x="606" y="77" type="line"/>
+      <point x="881" y="457" type="line"/>
+      <point x="881" y="527" type="line"/>
+      <point x="495" y="527" type="line"/>
+      <point x="495" y="449" type="line"/>
+      <point x="776" y="449" type="line"/>
+      <point x="502" y="69" type="line"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="-122" type="line"/>
+      <point x="760" y="-73"/>
+      <point x="760" y="-31"/>
+      <point x="767" y="16" type="curve"/>
+      <point x="774" y="46" type="line"/>
+      <point x="784" y="134"/>
+      <point x="811" y="153"/>
+      <point x="840" y="153" type="curve" smooth="yes"/>
+      <point x="860" y="153"/>
+      <point x="872" y="142"/>
+      <point x="872" y="120" type="curve" smooth="yes"/>
+      <point x="872" y="82"/>
+      <point x="838" y="77"/>
+      <point x="749" y="77" type="curve"/>
+      <point x="758" y="0" type="line"/>
+      <point x="879" y="0"/>
+      <point x="949" y="35"/>
+      <point x="949" y="119" type="curve" smooth="yes"/>
+      <point x="949" y="180"/>
+      <point x="904" y="214"/>
+      <point x="846" y="214" type="curve" smooth="yes"/>
+      <point x="775" y="214"/>
+      <point x="723" y="170"/>
+      <point x="707" y="66" type="curve"/>
+      <point x="697" y="0" type="line"/>
+      <point x="693" y="-41"/>
+      <point x="692" y="-79"/>
+      <point x="692" y="-122" type="curve"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

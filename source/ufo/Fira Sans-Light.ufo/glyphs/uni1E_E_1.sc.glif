@@ -4,18 +4,10 @@
   <outline>
     <component base="o.sc"/>
     <component base="uni031B" xOffset="430" yOffset="40"/>
-    <component base="tilde.sc" xOffset="156"/>
+    <component base="tildecomb.sc" xOffset="156"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ohorn</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ohorn</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

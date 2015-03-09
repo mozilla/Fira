@@ -28,21 +28,16 @@
       <point x="283" y="520" type="line"/>
     </contour>
     <contour>
-      <point x="157" y="260" type="move" name="center"/>
+      <point x="222" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="222" y="0" type="move" name="bottom"/>
+      <point x="125" y="650" type="move" name="top"/>
     </contour>
     <contour>
       <point x="156" y="735" type="move" name="topright"/>
     </contour>
+    <contour>
+      <point x="157" y="260" type="move" name="center"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

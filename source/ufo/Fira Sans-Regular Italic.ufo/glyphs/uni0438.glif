@@ -5,21 +5,7 @@
   <outline>
     <component base="u"/>
     <contour>
-      <point x="330" y="527" type="move" name="top"/>
+      <point x="335" y="527" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|n</string>
-    </dict>
-  </lib>
 </glyph>

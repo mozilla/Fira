@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E78" format="1">
+  <advance width="656"/>
+  <unicode hex="1E78"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildeacute.case" xOffset="137"/>
+  </outline>
+</glyph>

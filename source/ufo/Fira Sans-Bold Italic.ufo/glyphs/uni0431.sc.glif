@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0431.sc" format="1">
-  <advance width="537"/>
+  <advance width="539"/>
   <outline>
     <contour>
-      <point x="85" y="571" type="line"/>
-      <point x="5" y="0" type="line"/>
-      <point x="255" y="0" type="line" smooth="yes"/>
-      <point x="448" y="0"/>
-      <point x="521" y="108"/>
-      <point x="521" y="221" type="curve" smooth="yes"/>
-      <point x="521" y="328"/>
-      <point x="442" y="380"/>
-      <point x="300" y="380" type="curve" smooth="yes"/>
-      <point x="252" y="380" type="line"/>
-      <point x="258" y="427" type="line"/>
-      <point x="459" y="427" type="line"/>
-      <point x="497" y="571" type="line"/>
+      <point x="86" y="571" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="256" y="0" type="line" smooth="yes"/>
+      <point x="449" y="0"/>
+      <point x="522" y="108"/>
+      <point x="522" y="221" type="curve" smooth="yes"/>
+      <point x="522" y="328"/>
+      <point x="443" y="380"/>
+      <point x="301" y="380" type="curve" smooth="yes"/>
+      <point x="253" y="380" type="line"/>
+      <point x="259" y="427" type="line"/>
+      <point x="460" y="427" type="line"/>
+      <point x="498" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="305" y="251"/>
-      <point x="319" y="228"/>
-      <point x="319" y="204" type="curve" smooth="yes"/>
-      <point x="319" y="167"/>
-      <point x="297" y="136"/>
-      <point x="245" y="136" type="curve" smooth="yes"/>
-      <point x="217" y="136" type="line"/>
-      <point x="234" y="251" type="line"/>
-      <point x="259" y="251" type="line" smooth="yes"/>
+      <point x="306" y="251"/>
+      <point x="320" y="228"/>
+      <point x="320" y="204" type="curve" smooth="yes"/>
+      <point x="320" y="167"/>
+      <point x="298" y="136"/>
+      <point x="246" y="136" type="curve" smooth="yes"/>
+      <point x="218" y="136" type="line"/>
+      <point x="235" y="251" type="line"/>
+      <point x="260" y="251" type="line" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Be-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Be-cy</string>
-    </dict>
-  </lib>
 </glyph>

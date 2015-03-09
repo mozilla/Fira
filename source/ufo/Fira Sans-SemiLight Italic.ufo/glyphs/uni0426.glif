@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0426" format="1">
-  <advance width="662"/>
+  <advance width="682"/>
   <unicode hex="0426"/>
   <outline>
     <component base="TseHelper-cy"/>
@@ -8,16 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=descStraight-cy</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

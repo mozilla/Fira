@@ -30,19 +30,9 @@
       <point x="95" y="792"/>
       <point x="79" y="792" type="curve" smooth="yes"/>
     </contour>
-    <component base="caron.case" yOffset="42"/>
+    <component base="uni030C.case" yOffset="42"/>
     <contour>
       <point x="166" y="682" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-    </dict>
-  </lib>
 </glyph>

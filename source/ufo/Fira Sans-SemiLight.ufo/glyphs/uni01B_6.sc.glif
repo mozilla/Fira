@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01B6.sc" format="1">
+  <advance width="455"/>
+  <outline>
+    <contour>
+      <point x="73" y="560" type="line"/>
+      <point x="73" y="532" type="line"/>
+      <point x="371" y="532" type="line"/>
+      <point x="40" y="27" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="396" y="29" type="line"/>
+      <point x="76" y="29" type="line"/>
+      <point x="405" y="534" type="line"/>
+      <point x="405" y="560" type="line"/>
+    </contour>
+    <component base="hyphen" xOffset="8" yOffset="-31" xScale="1.1"/>
+  </outline>
+</glyph>

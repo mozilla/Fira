@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0281" format="1">
-  <advance width="540"/>
+  <advance width="539"/>
   <unicode hex="0281"/>
   <outline>
     <contour>
@@ -32,16 +32,4 @@
       <point x="411" y="312" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Rsmall</string>
-    </dict>
-  </lib>
 </glyph>

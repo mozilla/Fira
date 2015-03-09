@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="588"/>
+  <advance width="584"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
@@ -10,7 +10,7 @@
       <point x="209" y="527" type="line"/>
       <point x="131" y="527" type="line"/>
       <point x="27" y="-216" type="line"/>
-      <point x="120" y="-204" type="line"/>
+      <point x="118" y="-204" type="line"/>
       <point x="148" y="5" type="line"/>
       <point x="181" y="-6"/>
       <point x="212" y="-12"/>
@@ -37,19 +37,11 @@
       <point x="284" y="466"/>
       <point x="339" y="466" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="331" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="227" y="-202" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>o</string>
-    </dict>
-  </lib>
 </glyph>

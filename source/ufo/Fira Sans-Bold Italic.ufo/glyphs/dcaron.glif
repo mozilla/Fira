@@ -3,23 +3,11 @@
   <advance width="705"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" xOffset="-3"/>
-    <component base="caron.alt" xOffset="510" yOffset="48"/>
+    <component base="d" xOffset="-5"/>
+    <component base="caron.alt" xOffset="509" yOffset="48"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>caron.alt</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>caron.alt</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

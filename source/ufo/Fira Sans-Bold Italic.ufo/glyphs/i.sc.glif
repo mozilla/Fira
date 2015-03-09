@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc" format="1">
-  <advance width="278"/>
+  <advance width="279"/>
   <outline>
     <contour>
       <point x="86" y="571" type="line"/>
@@ -18,16 +18,4 @@
       <point x="183" y="571" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>I</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>I</string>
-    </dict>
-  </lib>
 </glyph>

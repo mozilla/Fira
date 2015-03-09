@@ -4,14 +4,6 @@
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
-    <component base="ogonek" xOffset="204"/>
+    <component base="uni0328" xOffset="204"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

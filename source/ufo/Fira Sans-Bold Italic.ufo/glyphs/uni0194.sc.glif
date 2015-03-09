@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0194.sc" format="1">
-  <advance width="501"/>
+  <advance width="500"/>
   <outline>
     <contour>
       <point x="297" y="-227"/>
@@ -39,16 +39,4 @@
       <point x="187" y="-227" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>V</string>
-    </dict>
-  </lib>
 </glyph>

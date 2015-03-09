@@ -3,43 +3,27 @@
   <advance width="463"/>
   <outline>
     <contour>
-      <point x="85" y="571" type="line"/>
-      <point x="7" y="0" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="419" y="137" type="line"/>
-      <point x="218" y="137" type="line"/>
-      <point x="230" y="226" type="line"/>
-      <point x="397" y="226" type="line"/>
-      <point x="415" y="356" type="line"/>
-      <point x="248" y="356" type="line"/>
-      <point x="259" y="437" type="line"/>
-      <point x="448" y="437" type="line"/>
-      <point x="487" y="571" type="line"/>
+      <point x="86" y="571" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="420" y="137" type="line"/>
+      <point x="219" y="137" type="line"/>
+      <point x="231" y="226" type="line"/>
+      <point x="398" y="226" type="line"/>
+      <point x="416" y="356" type="line"/>
+      <point x="249" y="356" type="line"/>
+      <point x="260" y="437" type="line"/>
+      <point x="449" y="437" type="line"/>
+      <point x="488" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="381" y="0" type="move" name="ogonek"/>
+      <point x="382" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="205" y="0" type="move" name="bottom"/>
+      <point x="206" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="286" y="571" type="move" name="top"/>
+      <point x="287" y="571" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>E</string>
-    </dict>
-  </lib>
 </glyph>

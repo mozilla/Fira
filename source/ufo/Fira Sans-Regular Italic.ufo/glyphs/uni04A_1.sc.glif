@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A1.sc" format="1">
-  <advance width="574"/>
+  <advance width="586"/>
   <outline>
     <contour>
-      <point x="278" y="564" type="line"/>
+      <point x="268" y="564" type="line"/>
       <point x="42" y="564" type="line"/>
       <point x="32" y="492" type="line"/>
       <point x="177" y="492" type="line"/>
     </contour>
-    <component base="uni043A.sc" xOffset="58"/>
+    <component base="uni043A.sc" xOffset="45"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Kabashkir-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Kabashkir-cy</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

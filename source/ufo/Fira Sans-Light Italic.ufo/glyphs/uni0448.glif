@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448" format="1">
-  <advance width="843"/>
+  <advance width="842"/>
   <unicode hex="0448"/>
   <outline>
-    <component base="m" xOffset="843" yOffset="517" xScale="-1" yScale="-1"/>
+    <component base="m" xOffset="842" yOffset="517" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="691" y="0" type="move" name="bottomright"/>
+      <point x="690" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|n</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

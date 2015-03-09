@@ -24,21 +24,11 @@
       <point x="438" y="571"/>
       <point x="272" y="571" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="277" y="571" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="277" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>P</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>P</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>P</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>P</string>
-    </dict>
-  </lib>
 </glyph>

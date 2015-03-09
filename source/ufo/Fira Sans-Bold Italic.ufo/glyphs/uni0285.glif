@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0285" format="1">
+  <advance width="527"/>
+  <unicode hex="0285"/>
+  <outline>
+    <contour>
+      <point x="175" y="327" type="line"/>
+      <point x="158" y="207" type="line"/>
+      <point x="352" y="207" type="line"/>
+      <point x="369" y="327" type="line"/>
+    </contour>
+    <component base="hookHELPERright" xOffset="355" yOffset="327" xScale="-1" yScale="-1"/>
+    <component base="hookHELPERright" xOffset="172" yOffset="207"/>
+    <contour>
+      <point x="293" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="221" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

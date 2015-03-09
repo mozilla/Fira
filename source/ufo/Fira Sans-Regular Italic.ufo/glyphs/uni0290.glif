@@ -16,15 +16,11 @@
       <point x="436" y="527" type="line"/>
     </contour>
     <component base="hookHELPERright" xOffset="275"/>
+    <contour>
+      <point x="260" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="150" y="-202" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>z</string>
-    </dict>
-  </lib>
 </glyph>

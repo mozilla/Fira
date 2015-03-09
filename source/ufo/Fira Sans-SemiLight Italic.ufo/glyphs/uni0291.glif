@@ -45,15 +45,11 @@
       <point x="187" y="-68"/>
       <point x="184" y="-101" type="curve"/>
     </contour>
+    <contour>
+      <point x="252" y="419" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="151" y="-193" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>z</string>
-    </dict>
-  </lib>
 </glyph>

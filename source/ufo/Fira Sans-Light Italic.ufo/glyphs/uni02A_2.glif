@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A2" format="1">
-  <advance width="424"/>
+  <advance width="419"/>
   <unicode hex="02A2"/>
   <outline>
     <contour>
@@ -12,16 +12,4 @@
     </contour>
     <component base="uni0295"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>glottalstopreversed</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>glottalstopreversed</string>
-    </dict>
-  </lib>
 </glyph>

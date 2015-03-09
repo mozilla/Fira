@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0185.sc" format="1">
+  <advance width="499"/>
+  <outline>
+    <contour>
+      <point x="128" y="557" type="line"/>
+      <point x="125" y="539"/>
+      <point x="122" y="529"/>
+      <point x="115" y="518" type="curve"/>
+      <point x="128" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="525" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="258" y="0" type="line" smooth="yes"/>
+      <point x="370" y="0"/>
+      <point x="439" y="58"/>
+      <point x="439" y="172" type="curve" smooth="yes"/>
+      <point x="439" y="274"/>
+      <point x="372" y="327"/>
+      <point x="255" y="327" type="curve" smooth="yes"/>
+      <point x="129" y="327" type="line"/>
+      <point x="129" y="325" type="line"/>
+      <point x="255" y="325" type="line" smooth="yes"/>
+      <point x="371" y="325"/>
+      <point x="437" y="273"/>
+      <point x="437" y="172" type="curve" smooth="yes"/>
+      <point x="437" y="59"/>
+      <point x="369" y="2"/>
+      <point x="258" y="2" type="curve" smooth="yes"/>
+      <point x="130" y="2" type="line"/>
+      <point x="130" y="557" type="line"/>
+      <point x="128" y="557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

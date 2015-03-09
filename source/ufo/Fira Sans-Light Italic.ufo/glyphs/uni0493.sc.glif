@@ -11,20 +11,4 @@
     </contour>
     <component base="uni0433.sc" xOffset="-28"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ghestroke-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Ghestroke-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ghestroke-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Ghestroke-cy</string>
-    </dict>
-  </lib>
 </glyph>

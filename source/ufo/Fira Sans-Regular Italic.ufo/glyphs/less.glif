@@ -4,27 +4,13 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="66" y="380" type="line"/>
-      <point x="53" y="286" type="line"/>
-      <point x="393" y="115" type="line"/>
-      <point x="436" y="189" type="line"/>
-      <point x="132" y="331" type="line"/>
-      <point x="480" y="472" type="line"/>
-      <point x="452" y="551" type="line"/>
+      <point x="62" y="380" type="line"/>
+      <point x="49" y="286" type="line"/>
+      <point x="389" y="115" type="line"/>
+      <point x="432" y="189" type="line"/>
+      <point x="128" y="331" type="line"/>
+      <point x="476" y="472" type="line"/>
+      <point x="448" y="551" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>greater</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>greater</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>greater</string>
-    </dict>
-  </lib>
 </glyph>

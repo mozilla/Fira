@@ -4,14 +4,10 @@
   <unicode hex="0268"/>
   <outline>
     <component base="i" xOffset="14"/>
-    <component base="hyphen" xOffset="-60" yScale="0.9"/>
+    <component base="hyphen" xOffset="-60" yOffset="-28"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

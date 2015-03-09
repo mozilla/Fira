@@ -2,22 +2,6 @@
 <glyph name="guilsinglleft.case" format="1">
   <advance width="346"/>
   <outline>
-    <component base="guilsinglleft" xOffset="6" yOffset="45"/>
+    <component base="guilsinglleft" xOffset="7" yOffset="45"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>guilsinglleft</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>guilsinglleft</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>guilsinglleft</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>guilsinglleft</string>
-    </dict>
-  </lib>
 </glyph>

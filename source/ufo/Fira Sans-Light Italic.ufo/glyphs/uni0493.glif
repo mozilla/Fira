@@ -50,18 +50,4 @@
       <point x="191" y="-7" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>ge-c¬•</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>ge-c¬•</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>ge-cy</string>
-    </dict>
-  </lib>
 </glyph>

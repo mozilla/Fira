@@ -33,13 +33,11 @@
       <point x="337" y="456" type="line"/>
       <point x="357" y="527" type="line"/>
     </contour>
+    <contour>
+      <point x="291" y="739" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="82" y="-202" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

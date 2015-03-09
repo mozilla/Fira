@@ -6,14 +6,4 @@
     <component base="o"/>
     <component base="uni031B" xOffset="390"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-    </dict>
-  </lib>
 </glyph>

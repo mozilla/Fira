@@ -1,66 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six" format="1">
-  <advance width="515"/>
+  <advance width="514"/>
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="219" y="674"/>
-      <point x="112" y="532"/>
-      <point x="78" y="291" type="curve" smooth="yes"/>
-      <point x="74" y="261"/>
-      <point x="71" y="232"/>
-      <point x="71" y="204" type="curve" smooth="yes"/>
-      <point x="71" y="82"/>
-      <point x="116" y="-10"/>
-      <point x="238" y="-10" type="curve" smooth="yes"/>
-      <point x="394" y="-10"/>
-      <point x="455" y="157"/>
-      <point x="455" y="266" type="curve" smooth="yes"/>
-      <point x="455" y="375"/>
-      <point x="389" y="428"/>
-      <point x="305" y="428" type="curve" smooth="yes"/>
-      <point x="221" y="428"/>
-      <point x="153" y="382"/>
-      <point x="106" y="312" type="curve"/>
-      <point x="100" y="264" type="line"/>
-      <point x="156" y="347"/>
-      <point x="223" y="401"/>
-      <point x="304" y="401" type="curve" smooth="yes"/>
-      <point x="373" y="401"/>
-      <point x="424" y="357"/>
-      <point x="424" y="265" type="curve" smooth="yes"/>
-      <point x="424" y="179"/>
-      <point x="377" y="18"/>
-      <point x="238" y="18" type="curve" smooth="yes"/>
-      <point x="139" y="18"/>
-      <point x="102" y="91"/>
-      <point x="102" y="201" type="curve" smooth="yes"/>
-      <point x="102" y="229"/>
-      <point x="104" y="259"/>
-      <point x="108" y="291" type="curve"/>
-      <point x="109" y="306" type="line"/>
-      <point x="138" y="498"/>
-      <point x="231" y="647"/>
-      <point x="358" y="647" type="curve" smooth="yes"/>
-      <point x="396" y="647"/>
-      <point x="423" y="635"/>
-      <point x="450" y="614" type="curve"/>
-      <point x="468" y="636" type="line"/>
-      <point x="438" y="659"/>
-      <point x="408" y="674"/>
-      <point x="359" y="674" type="curve"/>
+      <point x="218" y="674"/>
+      <point x="111" y="532"/>
+      <point x="77" y="291" type="curve" smooth="yes"/>
+      <point x="73" y="261"/>
+      <point x="70" y="232"/>
+      <point x="70" y="204" type="curve" smooth="yes"/>
+      <point x="70" y="82"/>
+      <point x="115" y="-10"/>
+      <point x="237" y="-10" type="curve" smooth="yes"/>
+      <point x="393" y="-10"/>
+      <point x="454" y="157"/>
+      <point x="454" y="266" type="curve" smooth="yes"/>
+      <point x="454" y="375"/>
+      <point x="388" y="428"/>
+      <point x="304" y="428" type="curve" smooth="yes"/>
+      <point x="220" y="428"/>
+      <point x="152" y="382"/>
+      <point x="105" y="312" type="curve"/>
+      <point x="99" y="264" type="line"/>
+      <point x="155" y="347"/>
+      <point x="222" y="401"/>
+      <point x="303" y="401" type="curve" smooth="yes"/>
+      <point x="372" y="401"/>
+      <point x="423" y="357"/>
+      <point x="423" y="265" type="curve" smooth="yes"/>
+      <point x="423" y="179"/>
+      <point x="376" y="18"/>
+      <point x="237" y="18" type="curve" smooth="yes"/>
+      <point x="138" y="18"/>
+      <point x="101" y="91"/>
+      <point x="101" y="201" type="curve" smooth="yes"/>
+      <point x="101" y="229"/>
+      <point x="103" y="259"/>
+      <point x="107" y="291" type="curve"/>
+      <point x="108" y="306" type="line"/>
+      <point x="137" y="498"/>
+      <point x="230" y="647"/>
+      <point x="357" y="647" type="curve" smooth="yes"/>
+      <point x="395" y="647"/>
+      <point x="422" y="635"/>
+      <point x="449" y="614" type="curve"/>
+      <point x="467" y="636" type="line"/>
+      <point x="437" y="659"/>
+      <point x="407" y="674"/>
+      <point x="358" y="674" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>zero</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>zero</string>
-    </dict>
-  </lib>
 </glyph>

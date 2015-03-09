@@ -31,17 +31,11 @@
       <point x="251" y="302" type="line"/>
       <point x="333" y="289" type="line"/>
     </contour>
+    <contour>
+      <point x="261" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="261" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Rsmall</string>
-    </dict>
-  </lib>
 </glyph>

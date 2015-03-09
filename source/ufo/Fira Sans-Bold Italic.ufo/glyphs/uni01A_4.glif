@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01A4" format="1">
-  <advance width="788"/>
+  <advance width="777"/>
   <unicode hex="01A4"/>
   <outline>
     <component base="P" xOffset="177"/>
@@ -8,14 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>hookaboveHELPER2.case</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>P</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

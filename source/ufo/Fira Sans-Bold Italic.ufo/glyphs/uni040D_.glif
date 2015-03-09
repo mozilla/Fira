@@ -4,21 +4,9 @@
   <unicode hex="040D"/>
   <outline>
     <component base="uni0418"/>
-    <component base="grave.case" xOffset="147"/>
+    <component base="gravecomb.case" xOffset="144"/>
     <contour>
       <point x="326" y="696" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-    </dict>
-  </lib>
 </glyph>

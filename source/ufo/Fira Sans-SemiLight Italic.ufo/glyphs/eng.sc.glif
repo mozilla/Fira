@@ -5,16 +5,4 @@
     <component base="n.sc"/>
     <component base="hookHELPER" xOffset="256"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n.sc</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>n.sc</string>
-    </dict>
-  </lib>
 </glyph>

@@ -31,18 +31,10 @@
       <point x="249" y="627"/>
       <point x="396" y="627" type="curve" smooth="yes"/>
     </contour>
-    <component base="dotaccent" xOffset="300" yOffset="-372"/>
+    <component base="uni0307" xOffset="300" yOffset="-372"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>O</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -51,7 +43,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotaccent</string>
+          <string>uni0307</string>
         </dict>
       </array>
     </dict>

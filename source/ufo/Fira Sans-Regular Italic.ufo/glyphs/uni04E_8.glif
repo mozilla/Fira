@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E8" format="1">
-  <advance width="686"/>
+  <advance width="685"/>
   <unicode hex="04E8"/>
   <outline>
     <contour>
@@ -53,18 +53,4 @@
       <point x="403" y="689" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>O</string>
-    </dict>
-  </lib>
 </glyph>

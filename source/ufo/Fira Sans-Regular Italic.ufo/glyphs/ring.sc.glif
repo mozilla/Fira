@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring.sc" format="1">
-  <advance width="282"/>
+  <advance width="286"/>
   <outline>
-    <component base="ring" xOffset="-38" yOffset="30"/>
-    <contour>
-      <point x="141" y="564" type="move" name="_top"/>
-    </contour>
+    <component base="uni030A" xOffset="6" yOffset="30"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022D" format="1">
+  <advance width="584"/>
+  <unicode hex="022D"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildemacroncomb" xOffset="61"/>
+  </outline>
+</glyph>

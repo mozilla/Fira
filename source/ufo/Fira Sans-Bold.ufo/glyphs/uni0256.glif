@@ -39,13 +39,11 @@
       <point x="361" y="0" type="line"/>
     </contour>
     <component base="hookHELPER" xOffset="763" xScale="-1"/>
+    <contour>
+      <point x="468" y="744" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,19 +2,9 @@
 <glyph name="tildedbl" format="1">
   <advance width="394"/>
   <outline>
-    <component base="tilde"/>
+    <component base="tildecomb"/>
     <contour>
       <point x="197" y="527" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-    </dict>
-  </lib>
 </glyph>

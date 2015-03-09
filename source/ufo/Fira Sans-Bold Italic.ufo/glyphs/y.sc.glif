@@ -3,33 +3,21 @@
   <advance width="540"/>
   <outline>
     <contour>
-      <point x="390" y="571" type="line"/>
-      <point x="281" y="351" type="line"/>
-      <point x="235" y="571" type="line"/>
-      <point x="27" y="571" type="line"/>
-      <point x="164" y="208" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="328" y="0" type="line"/>
-      <point x="357" y="209" type="line"/>
-      <point x="597" y="571" type="line"/>
+      <point x="391" y="571" type="line"/>
+      <point x="282" y="351" type="line"/>
+      <point x="236" y="571" type="line"/>
+      <point x="28" y="571" type="line"/>
+      <point x="165" y="208" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="358" y="209" type="line"/>
+      <point x="598" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="315" y="571" type="move" name="top"/>
+      <point x="316" y="571" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="232" y="0" type="move" name="bottom"/>
+      <point x="233" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Y</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Y</string>
-    </dict>
-  </lib>
 </glyph>

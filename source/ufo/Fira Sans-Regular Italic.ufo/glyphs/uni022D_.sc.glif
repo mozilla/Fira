@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022D.sc" format="1">
+  <advance width="612"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="tildemacroncomb" xOffset="112" yOffset="37"/>
+  </outline>
+</glyph>

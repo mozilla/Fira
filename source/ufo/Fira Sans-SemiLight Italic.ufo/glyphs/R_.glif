@@ -10,18 +10,18 @@
       <point x="206" y="653" type="line"/>
       <point x="336" y="653" type="line" smooth="yes"/>
       <point x="459" y="653"/>
-      <point x="506" y="613"/>
-      <point x="506" y="534" type="curve" smooth="yes"/>
-      <point x="506" y="453"/>
+      <point x="506" y="611"/>
+      <point x="506" y="532" type="curve" smooth="yes"/>
+      <point x="506" y="451"/>
       <point x="458" y="349"/>
       <point x="296" y="349" type="curve" smooth="yes"/>
       <point x="157" y="349" type="line"/>
       <point x="152" y="320" type="line"/>
       <point x="325" y="320" type="line"/>
       <point x="489" y="342"/>
-      <point x="538" y="441"/>
-      <point x="538" y="533" type="curve" smooth="yes"/>
-      <point x="538" y="633"/>
+      <point x="538" y="439"/>
+      <point x="538" y="531" type="curve" smooth="yes"/>
+      <point x="538" y="631"/>
       <point x="475" y="682"/>
       <point x="332" y="682" type="curve" smooth="yes"/>
     </contour>
@@ -38,14 +38,4 @@
       <point x="268" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-    </dict>
-  </lib>
 </glyph>

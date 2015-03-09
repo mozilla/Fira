@@ -30,22 +30,15 @@
     <contour>
       <point x="131" y="361" type="line"/>
       <point x="134" y="363" type="line"/>
-      <point x="381" y="678" type="line"/>
-      <point x="381" y="680" type="line"/>
+      <point x="386" y="678" type="line"/>
+      <point x="386" y="680" type="line"/>
       <point x="37" y="680" type="line"/>
       <point x="37" y="678" type="line"/>
-      <point x="378" y="678" type="line"/>
+      <point x="383" y="678" type="line"/>
       <point x="131" y="363" type="line"/>
     </contour>
+    <contour>
+      <point x="211" y="680" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Z</string>
-    </dict>
-  </lib>
 </glyph>

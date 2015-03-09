@@ -23,19 +23,7 @@
       <point x="246" y="527" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="368" y="0" type="move" name="bottom"/>
+      <point x="249" y="-202" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>v</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>v</string>
-    </dict>
-  </lib>
 </glyph>

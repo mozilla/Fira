@@ -2,20 +2,10 @@
 <glyph name="circumflexacute.case" format="1">
   <advance width="502"/>
   <outline>
-    <component base="circumflex.case" yOffset="-43"/>
+    <component base="uni0302.case" yOffset="-43"/>
     <component base="acutedbl" xOffset="259" yOffset="216"/>
     <contour>
       <point x="198" y="689" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-    </dict>
-  </lib>
 </glyph>

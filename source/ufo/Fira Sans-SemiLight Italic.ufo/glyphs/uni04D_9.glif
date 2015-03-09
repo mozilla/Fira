@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D9" format="1">
-  <advance width="517"/>
+  <advance width="516"/>
   <unicode hex="04D9"/>
   <outline>
-    <component base="e" xOffset="517" yOffset="520" xScale="-1" yScale="-1"/>
+    <component base="e" xOffset="516" yOffset="520" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="291" y="520" type="move" name="top"/>
+      <point x="280" y="520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=o-10</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>=o-10</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>o</string>
-    </dict>
-  </lib>
 </glyph>

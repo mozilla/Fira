@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot.sc" format="1">
-  <advance width="469"/>
+  <advance width="470"/>
   <outline>
     <component base="l.sc"/>
-    <component base="dotaccent.sc" xOffset="223" yOffset="-277" xScale="0.8" yScale="0.8"/>
+    <component base="uni0307" xOffset="223" yOffset="-251" xScale="0.8" yScale="0.8"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>l.sc</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>l.sc</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ldotaccent</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Ldotaccent</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dotaccent.sc</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

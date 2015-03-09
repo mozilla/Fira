@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q.sc" format="1">
-  <advance width="604"/>
+  <advance width="605"/>
   <outline>
     <contour>
       <point x="271" y="-7" type="line"/>
@@ -45,16 +45,4 @@
       <point x="349" y="557" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Q</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Q</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright" format="1">
-  <advance width="323"/>
+  <advance width="324"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="143" y="820" type="line"/>
-      <point x="213" y="689"/>
-      <point x="272" y="571"/>
-      <point x="241" y="352" type="curve"/>
-      <point x="210" y="131"/>
-      <point x="118" y="13"/>
-      <point x="11" y="-118" type="curve"/>
-      <point x="30" y="-132" type="line"/>
-      <point x="144" y="3"/>
-      <point x="238" y="120"/>
-      <point x="270" y="348" type="curve"/>
-      <point x="303" y="578"/>
-      <point x="241" y="695"/>
-      <point x="164" y="830" type="curve"/>
+      <point x="144" y="820" type="line"/>
+      <point x="214" y="689"/>
+      <point x="273" y="571"/>
+      <point x="242" y="352" type="curve"/>
+      <point x="211" y="131"/>
+      <point x="119" y="13"/>
+      <point x="12" y="-118" type="curve"/>
+      <point x="31" y="-132" type="line"/>
+      <point x="145" y="3"/>
+      <point x="239" y="120"/>
+      <point x="271" y="348" type="curve"/>
+      <point x="304" y="578"/>
+      <point x="242" y="695"/>
+      <point x="165" y="830" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=|parenleft</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>=|parenleft</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|parenleft</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|parenleft</string>
-    </dict>
-  </lib>
 </glyph>

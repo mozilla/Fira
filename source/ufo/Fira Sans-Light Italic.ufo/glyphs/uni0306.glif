@@ -4,31 +4,26 @@
   <unicode hex="0306"/>
   <outline>
     <contour>
-      <point x="255" y="650"/>
-      <point x="291" y="675"/>
-      <point x="309" y="709" type="curve"/>
-      <point x="311" y="708" type="line"/>
-      <point x="296" y="679"/>
-      <point x="262" y="648"/>
-      <point x="207" y="648" type="curve"/>
-      <point x="152" y="648"/>
-      <point x="126" y="679"/>
-      <point x="119" y="708" type="curve"/>
-      <point x="121" y="709" type="line"/>
-      <point x="129" y="675"/>
-      <point x="159" y="650"/>
-      <point x="207" y="650" type="curve"/>
+      <point x="231" y="668"/>
+      <point x="268" y="693"/>
+      <point x="287" y="737" type="curve"/>
+      <point x="289" y="736" type="line"/>
+      <point x="272" y="698"/>
+      <point x="238" y="666"/>
+      <point x="183" y="666" type="curve"/>
+      <point x="128" y="666"/>
+      <point x="102" y="698"/>
+      <point x="97" y="736" type="curve"/>
+      <point x="99" y="737" type="line"/>
+      <point x="105" y="693"/>
+      <point x="135" y="668"/>
+      <point x="183" y="668" type="curve"/>
     </contour>
     <contour>
-      <point x="192" y="517" type="move" name="_top"/>
+      <point x="195" y="737" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="164" y="517" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

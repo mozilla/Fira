@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash.sc" format="1">
-  <advance width="412"/>
+  <advance width="416"/>
   <outline>
     <contour>
-      <point x="115" y="29" type="line"/>
-      <point x="145" y="242" type="line"/>
-      <point x="354" y="363" type="line"/>
-      <point x="343" y="384" type="line"/>
-      <point x="149" y="272" type="line"/>
-      <point x="189" y="560" type="line"/>
-      <point x="159" y="560" type="line"/>
-      <point x="116" y="253" type="line"/>
-      <point x="35" y="206" type="line"/>
-      <point x="46" y="185" type="line"/>
-      <point x="112" y="223" type="line"/>
-      <point x="81" y="0" type="line"/>
-      <point x="355" y="0" type="line"/>
-      <point x="365" y="29" type="line"/>
+      <point x="119" y="29" type="line"/>
+      <point x="149" y="242" type="line"/>
+      <point x="358" y="363" type="line"/>
+      <point x="347" y="384" type="line"/>
+      <point x="153" y="272" type="line"/>
+      <point x="193" y="560" type="line"/>
+      <point x="163" y="560" type="line"/>
+      <point x="120" y="253" type="line"/>
+      <point x="39" y="206" type="line"/>
+      <point x="50" y="185" type="line"/>
+      <point x="116" y="223" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="369" y="29" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Lslash</string>
-    </dict>
-  </lib>
 </glyph>

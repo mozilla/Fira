@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotmacroncomb" format="1">
+  <advance width="332"/>
+  <outline>
+    <component base="uni0307" xOffset="69" yOffset="-50"/>
+    <component base="uni0304" xOffset="20" yOffset="101"/>
+    <contour>
+      <point x="204" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0304</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

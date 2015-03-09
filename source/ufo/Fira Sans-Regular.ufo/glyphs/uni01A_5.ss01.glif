@@ -3,6 +3,15 @@
   <advance width="594"/>
   <outline>
     <contour>
+      <point x="461" y="-12"/>
+      <point x="532" y="104"/>
+      <point x="532" y="264" type="curve" smooth="yes"/>
+      <point x="532" y="383"/>
+      <point x="500" y="495"/>
+      <point x="415" y="514" type="curve"/>
+      <point x="399" y="529"/>
+      <point x="376" y="539"/>
+      <point x="337" y="539" type="curve" smooth="yes"/>
       <point x="271" y="539"/>
       <point x="210" y="504"/>
       <point x="171" y="433" type="curve"/>
@@ -23,32 +32,32 @@
       <point x="211" y="11"/>
       <point x="262" y="-12"/>
       <point x="325" y="-12" type="curve" smooth="yes"/>
-      <point x="461" y="-12"/>
-      <point x="532" y="104"/>
-      <point x="532" y="264" type="curve" smooth="yes"/>
-      <point x="532" y="430"/>
-      <point x="477" y="539"/>
-      <point x="337" y="539" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="95" y="527" type="line"/>
-      <point x="95" y="-213" type="line"/>
       <point x="187" y="-202" type="line"/>
       <point x="187" y="400" type="line"/>
-      <point x="187" y="527" type="line"/>
+      <point x="183" y="439" type="line"/>
+      <point x="174" y="527" type="line"/>
+      <point x="95" y="527" type="line"/>
+      <point x="95" y="-213" type="line"/>
     </contour>
-    <component base="hookaboveHELPER" xOffset="65"/>
+    <contour>
+      <point x="488" y="602" type="line" smooth="yes"/>
+      <point x="488" y="655"/>
+      <point x="513" y="676"/>
+      <point x="552" y="676" type="curve" smooth="yes"/>
+      <point x="585" y="676"/>
+      <point x="603" y="667"/>
+      <point x="626" y="653" type="curve"/>
+      <point x="662" y="712" type="line"/>
+      <point x="637" y="731"/>
+      <point x="600" y="750"/>
+      <point x="547" y="750" type="curve" smooth="yes"/>
+      <point x="455" y="750"/>
+      <point x="396" y="698"/>
+      <point x="396" y="594" type="curve" smooth="yes"/>
+      <point x="396" y="526" type="line"/>
+      <point x="488" y="436" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>9</integer>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>p</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>p</string>
-    </dict>
-  </lib>
 </glyph>

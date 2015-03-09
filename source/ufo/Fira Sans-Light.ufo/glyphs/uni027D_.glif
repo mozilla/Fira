@@ -5,13 +5,8 @@
   <outline>
     <component base="r"/>
     <component base="hookHELPER" xOffset="331" xScale="-1"/>
+    <contour>
+      <point x="209" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

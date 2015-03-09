@@ -4,14 +4,6 @@
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="cedilla.case" xOffset="185"/>
+    <component base="uni0327.case" xOffset="144"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

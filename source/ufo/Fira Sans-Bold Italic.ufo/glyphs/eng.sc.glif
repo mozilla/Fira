@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eng.sc" format="1">
-  <advance width="577"/>
+  <advance width="578"/>
   <outline>
     <component base="n.sc"/>
     <component base="hookHELPER" xOffset="136"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n.sc</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>n.sc</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>n.sc</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>n.sc</string>
-    </dict>
-  </lib>
 </glyph>

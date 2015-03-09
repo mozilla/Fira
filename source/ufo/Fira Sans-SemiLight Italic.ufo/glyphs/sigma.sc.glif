@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sigma.sc" format="1">
-  <advance width="437"/>
+  <advance width="438"/>
   <outline>
     <contour>
       <point x="92" y="560" type="line"/>
@@ -18,16 +18,4 @@
       <point x="429" y="560" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Sigma</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Sigma</string>
-    </dict>
-  </lib>
 </glyph>

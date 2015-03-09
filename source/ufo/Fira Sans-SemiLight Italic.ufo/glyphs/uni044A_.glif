@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044A" format="1">
-  <advance width="534"/>
+  <advance width="535"/>
   <unicode hex="044A"/>
   <outline>
     <contour>
@@ -11,16 +11,4 @@
     </contour>
     <component base="uni044C" xOffset="43"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>softsign-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>softsign-cy</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,14 +6,4 @@
     <component base="e"/>
     <component base="ogonek.thin" xOffset="231" yOffset="4"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>e</string>
-    </dict>
-  </lib>
 </glyph>

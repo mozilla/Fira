@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02AC" format="1">
+  <advance width="469"/>
+  <unicode hex="02AC"/>
+  <outline>
+    <component base="uni02B7" xOffset="2"/>
+    <component base="uni02B7" xOffset="-56" yOffset="-400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni02B7</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

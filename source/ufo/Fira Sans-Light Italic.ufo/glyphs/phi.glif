@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="phi" format="1">
-  <advance width="695"/>
+  <advance width="694"/>
   <unicode hex="03C6"/>
   <outline>
     <contour>
@@ -44,18 +44,4 @@
       <point x="505" y="525" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=|upsilon</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>=|upsilon</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>rho</string>
-    </dict>
-  </lib>
 </glyph>

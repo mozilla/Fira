@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0196" format="1">
-  <advance width="315"/>
+  <advance width="316"/>
   <unicode hex="0196"/>
   <outline>
     <contour>
-      <point x="169" y="682" type="line"/>
-      <point x="100" y="189" type="line"/>
-      <point x="131" y="189" type="line"/>
-      <point x="200" y="682" type="line"/>
+      <point x="170" y="682" type="line"/>
+      <point x="101" y="189" type="line"/>
+      <point x="132" y="189" type="line"/>
+      <point x="201" y="682" type="line"/>
     </contour>
-    <component base="hookHELPERright.case" xOffset="97" yOffset="189"/>
+    <component base="hookHELPERright.case" xOffset="98" yOffset="189"/>
+    <contour>
+      <point x="186" y="682" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>U</string>
-    </dict>
-  </lib>
 </glyph>

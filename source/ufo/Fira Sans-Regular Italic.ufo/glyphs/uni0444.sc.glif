@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0444.sc" format="1">
-  <advance width="724"/>
+  <advance width="725"/>
   <outline>
     <contour>
       <point x="364" y="595" type="line"/>
@@ -41,16 +41,4 @@
       <point x="433" y="472" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ef-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ef-cy</string>
-    </dict>
-  </lib>
 </glyph>

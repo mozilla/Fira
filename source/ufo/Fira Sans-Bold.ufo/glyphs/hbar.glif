@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="572"/>
+  <advance width="582"/>
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="-10" y="696" type="line"/>
-      <point x="-10" y="590" type="line"/>
-      <point x="42" y="590" type="line"/>
-      <point x="362" y="590" type="line"/>
-      <point x="362" y="696" type="line"/>
+      <point x="0" y="696" type="line"/>
+      <point x="0" y="590" type="line"/>
+      <point x="52" y="590" type="line"/>
+      <point x="372" y="590" type="line"/>
+      <point x="372" y="696" type="line"/>
     </contour>
-    <component base="h"/>
+    <component base="h" xOffset="10"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>h</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>h</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

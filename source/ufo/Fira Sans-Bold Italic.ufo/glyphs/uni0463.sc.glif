@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0463.sc" format="1">
-  <advance width="627"/>
+  <advance width="629"/>
   <outline>
     <contour>
-      <point x="46" y="571" type="line"/>
-      <point x="27" y="435" type="line"/>
-      <point x="486" y="435" type="line"/>
-      <point x="525" y="571" type="line"/>
+      <point x="47" y="571" type="line"/>
+      <point x="28" y="435" type="line"/>
+      <point x="487" y="435" type="line"/>
+      <point x="526" y="571" type="line"/>
     </contour>
-    <component base="uni044C.sc" xOffset="89"/>
+    <component base="uni044C.sc" xOffset="90"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Yat-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Yat-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Yat-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Yat-cy</string>
-    </dict>
-  </lib>
 </glyph>

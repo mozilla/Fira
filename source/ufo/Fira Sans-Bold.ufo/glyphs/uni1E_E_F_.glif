@@ -5,18 +5,10 @@
   <outline>
     <component base="u"/>
     <component base="uni031B" xOffset="494"/>
-    <component base="tilde" xOffset="50"/>
+    <component base="tildecomb" xOffset="50"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>uhorn</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>uhorn</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

@@ -2,17 +2,6 @@
 <glyph name="caron.sc" format="1">
   <advance width="468"/>
   <outline>
-    <component base="caron" yOffset="30"/>
-    <contour>
-      <point x="234" y="571" type="move" name="_top"/>
-    </contour>
+    <component base="uni030C" yOffset="30"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

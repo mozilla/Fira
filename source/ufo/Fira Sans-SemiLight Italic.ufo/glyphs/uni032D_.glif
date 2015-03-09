@@ -3,20 +3,20 @@
   <advance width="325"/>
   <unicode hex="032D"/>
   <outline>
-    <component base="circumflex" xOffset="-118" yOffset="-840"/>
+    <contour>
+      <point x="112" y="-104" type="line"/>
+      <point x="219" y="-189" type="line"/>
+      <point x="234" y="-171" type="line"/>
+      <point x="124" y="-71" type="line"/>
+      <point x="108" y="-71" type="line"/>
+      <point x="-31" y="-171" type="line"/>
+      <point x="-16" y="-189" type="line"/>
+    </contour>
     <contour>
       <point x="125" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="127" y="-189" type="move" name="bottom"/>
+      <point x="101" y="-189" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

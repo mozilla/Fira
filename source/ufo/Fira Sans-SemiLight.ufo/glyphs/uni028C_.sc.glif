@@ -2,14 +2,17 @@
 <glyph name="uni028C.sc" format="1">
   <advance width="476"/>
   <outline>
-    <component base="v.sc" xOffset="476" yOffset="560" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="238" y="531" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="257" y="560" type="line"/>
+      <point x="220" y="560" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="560" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

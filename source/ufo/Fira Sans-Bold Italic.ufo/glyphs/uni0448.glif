@@ -3,25 +3,13 @@
   <advance width="821"/>
   <unicode hex="0448"/>
   <outline>
-    <component base="m" xOffset="820" yOffset="534" xScale="-1" yScale="-1"/>
+    <component base="m" xOffset="821" yOffset="534" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="763" y="0" type="move" name="bottomright"/>
+      <point x="764" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|n</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

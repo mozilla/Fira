@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78D.sc.ss02" format="1">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="459" y="0" type="line"/>
+      <point x="539" y="571" type="line"/>
+      <point x="345" y="571" type="line"/>
+      <point x="313" y="348" type="line"/>
+      <point x="215" y="348" type="line"/>
+      <point x="247" y="571" type="line"/>
+      <point x="54" y="571" type="line"/>
+      <point x="1" y="198" type="line"/>
+      <point x="292" y="198" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

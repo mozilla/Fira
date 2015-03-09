@@ -10,15 +10,11 @@
       <point x="239" y="696" type="line"/>
     </contour>
     <component base="hookHELPER.case" xOffset="451" yOffset="207" xScale="-1"/>
+    <contour>
+      <point x="136" y="696" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="213" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>U</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,16 +4,10 @@
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="dotaccent" xOffset="248" yOffset="-350"/>
+    <component base="uni0307" xOffset="250" yOffset="-347"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>l</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

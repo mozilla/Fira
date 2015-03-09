@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni023C.sc" format="1">
+  <advance width="522"/>
+  <outline>
+    <contour>
+      <point x="180" y="-67" type="line"/>
+      <point x="244" y="-83" type="line"/>
+      <point x="439" y="629" type="line"/>
+      <point x="376" y="646" type="line"/>
+    </contour>
+    <component base="c.sc"/>
+  </outline>
+</glyph>

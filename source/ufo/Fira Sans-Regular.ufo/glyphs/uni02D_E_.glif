@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02DE" format="1">
+  <advance width="439"/>
+  <unicode hex="02DE"/>
+  <outline>
+    <component base="hookrightHELPER" xOffset="-5" yOffset="-100"/>
+  </outline>
+</glyph>

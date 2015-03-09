@@ -2,20 +2,10 @@
 <glyph name="circumflexhookabove.case" format="1">
   <advance width="595"/>
   <outline>
-    <component base="circumflex.case" xOffset="-2" yOffset="-28"/>
-    <component base="hookabovecomb.case" xOffset="290" yOffset="115"/>
+    <component base="uni0302.case" xOffset="-2" yOffset="-28"/>
+    <component base="hookabovecomb.case" xOffset="294" yOffset="115"/>
     <contour>
       <point x="301" y="696" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-    </dict>
-  </lib>
 </glyph>

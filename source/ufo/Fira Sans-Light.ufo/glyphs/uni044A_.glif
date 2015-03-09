@@ -4,23 +4,11 @@
   <unicode hex="044A"/>
   <outline>
     <contour>
-      <point x="162" y="517" type="line"/>
+      <point x="161" y="517" type="line"/>
       <point x="10" y="517" type="line"/>
       <point x="10" y="515" type="line"/>
       <point x="160" y="515" type="line"/>
     </contour>
     <component base="uni044C" xOffset="35"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>softsign-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>softsign-cy</string>
-    </dict>
-  </lib>
 </glyph>

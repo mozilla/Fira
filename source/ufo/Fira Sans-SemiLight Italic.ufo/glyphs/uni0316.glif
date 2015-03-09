@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0316" format="1">
+  <advance width="252"/>
+  <unicode hex="0316"/>
+  <outline>
+    <component base="gravecomb.case" xOffset="-131" yOffset="-930"/>
+    <contour>
+      <point x="89" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="75" y="-169" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -36,18 +36,4 @@
       <point x="495" y="452" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>T</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Tshe-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Tshe-cy</string>
-    </dict>
-  </lib>
 </glyph>

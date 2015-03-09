@@ -35,17 +35,11 @@
       <point x="418" y="539"/>
       <point x="336" y="539" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="335" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="261" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=o*1.3</string>
-    </dict>
-  </lib>
 </glyph>

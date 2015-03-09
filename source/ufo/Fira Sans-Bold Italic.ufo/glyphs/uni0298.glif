@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0298" format="1">
-  <advance width="788"/>
+  <advance width="787"/>
   <unicode hex="0298"/>
   <outline>
     <contour>
@@ -31,18 +31,10 @@
       <point x="282" y="584"/>
       <point x="441" y="584" type="curve" smooth="yes"/>
     </contour>
-    <component base="dotaccent" xOffset="245" yOffset="-231" xScale="0.8" yScale="0.8"/>
+    <component base="uni0307" xOffset="245" yOffset="-231" xScale="0.8" yScale="0.8"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>O</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -51,7 +43,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotaccent</string>
+          <string>uni0307</string>
         </dict>
       </array>
     </dict>

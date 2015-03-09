@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01E4" format="1">
+  <advance width="680"/>
+  <unicode hex="01E4"/>
+  <outline>
+    <contour>
+      <point x="170" y="716"/>
+      <point x="20" y="585"/>
+      <point x="20" y="349" type="curve" smooth="yes"/>
+      <point x="20" y="112"/>
+      <point x="122" y="-20"/>
+      <point x="355" y="-20" type="curve" smooth="yes"/>
+      <point x="442" y="-20"/>
+      <point x="543" y="9"/>
+      <point x="618" y="60" type="curve"/>
+      <point x="618" y="434" type="line"/>
+      <point x="331" y="434" type="line"/>
+      <point x="347" y="320" type="line"/>
+      <point x="440" y="320" type="line"/>
+      <point x="440" y="143" type="line"/>
+      <point x="398" y="132"/>
+      <point x="376" y="126"/>
+      <point x="349" y="126" type="curve" smooth="yes"/>
+      <point x="268" y="126"/>
+      <point x="232" y="176"/>
+      <point x="232" y="348" type="curve" smooth="yes"/>
+      <point x="232" y="501"/>
+      <point x="287" y="572"/>
+      <point x="383" y="572" type="curve" smooth="yes"/>
+      <point x="436" y="572"/>
+      <point x="472" y="554"/>
+      <point x="514" y="518" type="curve"/>
+      <point x="618" y="625" type="line"/>
+      <point x="562" y="676"/>
+      <point x="476" y="716"/>
+      <point x="371" y="716" type="curve" smooth="yes"/>
+    </contour>
+    <component base="hyphen" xOffset="305" yOffset="14" yScale="0.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hyphen</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

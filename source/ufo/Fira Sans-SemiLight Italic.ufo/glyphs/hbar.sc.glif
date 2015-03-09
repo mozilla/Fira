@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar.sc" format="1">
-  <advance width="584"/>
+  <advance width="585"/>
   <outline>
     <contour>
-      <point x="498" y="451" type="line"/>
-      <point x="82" y="451" type="line"/>
-      <point x="79" y="427" type="line"/>
-      <point x="137" y="427" type="line"/>
-      <point x="553" y="427" type="line"/>
-      <point x="556" y="451" type="line"/>
+      <point x="501" y="451" type="line"/>
+      <point x="85" y="451" type="line"/>
+      <point x="82" y="427" type="line"/>
+      <point x="140" y="427" type="line"/>
+      <point x="556" y="427" type="line"/>
+      <point x="559" y="451" type="line"/>
     </contour>
-    <component base="h.sc" xOffset="-7"/>
+    <component base="h.sc" xOffset="-4"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Hbar</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Hbar</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Hbar</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Hbar</string>
-    </dict>
-  </lib>
 </glyph>

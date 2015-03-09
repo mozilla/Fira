@@ -6,16 +6,4 @@
     <component base="uni0427"/>
     <component base="descStraightleft-cy.case" xOffset="281"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Che</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-    </dict>
-  </lib>
 </glyph>

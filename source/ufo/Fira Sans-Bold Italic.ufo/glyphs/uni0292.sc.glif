@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0292.sc" format="1">
-  <advance width="519"/>
+  <advance width="518"/>
   <outline>
     <contour>
       <point x="367" y="-19"/>
@@ -36,17 +36,8 @@
       <point x="151" y="343" type="line"/>
       <point x="135" y="228" type="line"/>
     </contour>
+    <contour>
+      <point x="307" y="571" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ezh</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ezh</string>
-    </dict>
-  </lib>
 </glyph>

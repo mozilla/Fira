@@ -15,14 +15,14 @@
       <point x="80" y="136" type="curve"/>
       <point x="80" y="47"/>
       <point x="148" y="-9"/>
-      <point x="246" y="-9" type="curve"/>
+      <point x="250" y="-9" type="curve"/>
       <point x="324" y="-9"/>
       <point x="369" y="13"/>
       <point x="407" y="49" type="curve"/>
       <point x="406" y="51" type="line"/>
       <point x="370" y="16"/>
       <point x="324" y="-7"/>
-      <point x="246" y="-7" type="curve"/>
+      <point x="250" y="-7" type="curve"/>
       <point x="149" y="-7"/>
       <point x="82" y="48"/>
       <point x="82" y="136" type="curve"/>
@@ -49,21 +49,8 @@
     <contour>
       <point x="256" y="517" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="254" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|ze-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|ze-cy</string>
-    </dict>
-  </lib>
 </glyph>

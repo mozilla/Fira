@@ -4,31 +4,23 @@
   <unicode hex="01C2"/>
   <outline>
     <contour>
-      <point x="107" y="391" type="line"/>
-      <point x="356" y="391" type="line"/>
-      <point x="371" y="496" type="line"/>
-      <point x="36" y="496" type="line"/>
-      <point x="21" y="391" type="line"/>
+      <point x="106" y="391" type="line"/>
+      <point x="355" y="391" type="line"/>
+      <point x="370" y="496" type="line"/>
+      <point x="35" y="496" type="line"/>
+      <point x="20" y="391" type="line"/>
     </contour>
     <contour>
-      <point x="86" y="242" type="line"/>
-      <point x="335" y="242" type="line"/>
-      <point x="350" y="347" type="line"/>
-      <point x="14" y="347" type="line"/>
-      <point x="-1" y="242" type="line"/>
+      <point x="85" y="242" type="line"/>
+      <point x="334" y="242" type="line"/>
+      <point x="349" y="347" type="line"/>
+      <point x="13" y="347" type="line"/>
+      <point x="-2" y="242" type="line"/>
     </contour>
-    <component base="uni01C0" xOffset="46"/>
+    <component base="uni01C0" xOffset="45"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Istroke</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Istroke</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

@@ -4,16 +4,6 @@
   <unicode hex="0453"/>
   <outline>
     <component base="uni0433"/>
-    <component base="acute" xOffset="125"/>
+    <component base="acutecomb" xOffset="120"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>auto</string>
-    </dict>
-  </lib>
 </glyph>

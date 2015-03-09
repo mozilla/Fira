@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v.sc" format="1">
-  <advance width="500"/>
+  <advance width="499"/>
   <outline>
     <contour>
       <point x="366" y="571" type="line"/>
@@ -12,20 +12,4 @@
       <point x="568" y="571" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>V</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>V</string>
-    </dict>
-  </lib>
 </glyph>

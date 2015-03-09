@@ -38,17 +38,15 @@
       <point x="316" y="109" type="line"/>
     </contour>
     <component base="l"/>
+    <contour>
+      <point x="430" y="744" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="439" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>l</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>ezh</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

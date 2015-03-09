@@ -4,27 +4,11 @@
   <unicode hex="00A1"/>
   <outline>
     <contour>
-      <point x="107" y="251" type="line"/>
-      <point x="44" y="-193" type="line"/>
-      <point x="73" y="-193" type="line"/>
-      <point x="136" y="251" type="line"/>
+      <point x="108" y="251" type="line"/>
+      <point x="45" y="-193" type="line"/>
+      <point x="74" y="-193" type="line"/>
+      <point x="137" y="251" type="line"/>
     </contour>
-    <component base="period" xOffset="91" yOffset="409"/>
+    <component base="period" xOffset="92" yOffset="409"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>exclam</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>exclam</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>exclam</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>exclam</string>
-    </dict>
-  </lib>
 </glyph>

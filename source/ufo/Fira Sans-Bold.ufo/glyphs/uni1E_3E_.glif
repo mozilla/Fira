@@ -4,14 +4,6 @@
   <unicode hex="1E3E"/>
   <outline>
     <component base="M"/>
-    <component base="acute.case" xOffset="208"/>
+    <component base="acutecomb.case" xOffset="213"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

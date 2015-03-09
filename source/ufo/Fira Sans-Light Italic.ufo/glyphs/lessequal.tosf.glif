@@ -2,14 +2,6 @@
 <glyph name="lessequal.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="lessequal" xOffset="4"/>
+    <component base="lessequal" xOffset="44"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

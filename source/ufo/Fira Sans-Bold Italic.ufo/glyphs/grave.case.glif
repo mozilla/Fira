@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave.case" format="1">
-  <advance width="362"/>
+  <advance width="364"/>
   <outline>
     <contour>
-      <point x="108" y="842" type="line"/>
-      <point x="359" y="743" type="line"/>
-      <point x="412" y="842" type="line"/>
-      <point x="182" y="986" type="line"/>
-    </contour>
-    <contour>
-      <point x="233" y="696" type="move" name="_top"/>
+      <point x="111" y="842" type="line"/>
+      <point x="362" y="743" type="line"/>
+      <point x="415" y="842" type="line"/>
+      <point x="185" y="986" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

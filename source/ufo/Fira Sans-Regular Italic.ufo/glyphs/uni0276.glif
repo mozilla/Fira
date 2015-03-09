@@ -61,15 +61,11 @@
       <point x="394" y="62"/>
       <point x="257" y="62" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="450" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="376" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-    </dict>
-  </lib>
 </glyph>

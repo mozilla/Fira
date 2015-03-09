@@ -2,14 +2,10 @@
 <glyph name="cent.tf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="cent" xOffset="-3"/>
+    <component base="cent" xOffset="37"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

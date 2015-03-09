@@ -24,13 +24,11 @@
       <point x="3" y="-17" type="curve" smooth="yes"/>
     </contour>
     <component base="hookHELPERright" xOffset="141"/>
+    <contour>
+      <point x="298" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="132" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

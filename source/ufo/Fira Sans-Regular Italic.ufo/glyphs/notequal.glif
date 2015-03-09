@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal" format="1">
-  <advance width="494"/>
+  <advance width="495"/>
   <unicode hex="2260"/>
   <outline>
     <contour>
@@ -11,16 +11,4 @@
     </contour>
     <component base="equal"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>equal</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>equal</string>
-    </dict>
-  </lib>
 </glyph>

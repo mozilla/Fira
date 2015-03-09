@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01B6" format="1">
+  <advance width="410"/>
+  <unicode hex="01B6"/>
+  <outline>
+    <contour>
+      <point x="55" y="520" type="line"/>
+      <point x="55" y="492" type="line"/>
+      <point x="338" y="492" type="line"/>
+      <point x="30" y="25" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="369" y="28" type="line"/>
+      <point x="68" y="28" type="line"/>
+      <point x="375" y="495" type="line"/>
+      <point x="375" y="520" type="line"/>
+    </contour>
+    <component base="hyphen" xOffset="9" yOffset="-43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hyphen</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

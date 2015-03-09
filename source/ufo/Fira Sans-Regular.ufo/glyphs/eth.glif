@@ -50,24 +50,18 @@
     <contour>
       <point x="270" y="690" type="line"/>
       <point x="237" y="657" type="line"/>
-      <point x="151" y="571" type="line"/>
-      <point x="214" y="539" type="line"/>
+      <point x="151" y="569" type="line"/>
+      <point x="214" y="537" type="line"/>
       <point x="299" y="620" type="line"/>
       <point x="333" y="655" type="line"/>
       <point x="405" y="729" type="line"/>
       <point x="351" y="776" type="line"/>
     </contour>
+    <contour>
+      <point x="294" y="739" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=o+5</string>
-    </dict>
-  </lib>
 </glyph>

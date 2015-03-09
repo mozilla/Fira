@@ -4,24 +4,19 @@
   <unicode hex="030C"/>
   <outline>
     <contour>
-      <point x="243" y="753" type="line"/>
-      <point x="106" y="839" type="line"/>
-      <point x="39" y="762" type="line"/>
-      <point x="184" y="621" type="line"/>
-      <point x="302" y="621" type="line"/>
-      <point x="447" y="762" type="line"/>
-      <point x="380" y="839" type="line"/>
+      <point x="234" y="734" type="line"/>
+      <point x="97" y="830" type="line"/>
+      <point x="30" y="753" type="line"/>
+      <point x="175" y="602" type="line"/>
+      <point x="293" y="602" type="line"/>
+      <point x="438" y="753" type="line"/>
+      <point x="371" y="830" type="line"/>
     </contour>
     <contour>
-      <point x="243" y="534" type="move" name="_top"/>
+      <point x="236" y="830" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="234" y="534" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

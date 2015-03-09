@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02A3" format="1">
+  <advance width="849"/>
+  <unicode hex="02A3"/>
+  <outline>
+    <contour>
+      <point x="454" y="520" type="line"/>
+      <point x="454" y="492" type="line"/>
+      <point x="777" y="492" type="line"/>
+      <point x="459" y="25" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="808" y="28" type="line"/>
+      <point x="497" y="28" type="line"/>
+      <point x="814" y="495" type="line"/>
+      <point x="814" y="520" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

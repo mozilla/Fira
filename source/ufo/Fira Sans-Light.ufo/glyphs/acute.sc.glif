@@ -2,17 +2,6 @@
 <glyph name="acute.sc" format="1">
   <advance width="228"/>
   <outline>
-    <component base="acute" yOffset="30"/>
-    <contour>
-      <point x="116" y="557" type="move" name="_top"/>
-    </contour>
+    <component base="acutecomb" yOffset="30"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

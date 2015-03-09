@@ -11,25 +11,5 @@
       <point x="221" y="848" type="line"/>
       <point x="318" y="770" type="line"/>
     </contour>
-    <contour>
-      <point x="199" y="733" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="270" y="700" type="move" name="topright"/>
-    </contour>
-    <contour>
-      <point x="128" y="700" type="move" name="topleft"/>
-    </contour>
-    <contour>
-      <point x="193" y="680" type="move" name="_top"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

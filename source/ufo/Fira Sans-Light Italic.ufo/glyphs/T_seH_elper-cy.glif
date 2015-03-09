@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TseHelper-cy" format="1">
-  <advance width="649"/>
+  <advance width="650"/>
   <outline>
     <contour>
-      <point x="579" y="682" type="line"/>
-      <point x="577" y="682" type="line"/>
-      <point x="481" y="2" type="line"/>
-      <point x="95" y="2" type="line"/>
-      <point x="191" y="682" type="line"/>
-      <point x="189" y="682" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="483" y="0" type="line"/>
+      <point x="580" y="682" type="line"/>
+      <point x="578" y="682" type="line"/>
+      <point x="482" y="2" type="line"/>
+      <point x="96" y="2" type="line"/>
+      <point x="192" y="682" type="line"/>
+      <point x="190" y="682" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="288" y="0" type="move" name="bottom"/>
+      <point x="289" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="493" y="0" type="move" name="bottomright"/>
+      <point x="494" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>De-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>De-cy</string>
-    </dict>
-  </lib>
 </glyph>

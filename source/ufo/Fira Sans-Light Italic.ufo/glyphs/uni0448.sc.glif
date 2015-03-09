@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448.sc" format="1">
-  <advance width="803"/>
+  <advance width="804"/>
   <outline>
     <contour>
-      <point x="713" y="557" type="line"/>
-      <point x="635" y="2" type="line"/>
-      <point x="366" y="2" type="line"/>
-      <point x="444" y="557" type="line"/>
-      <point x="442" y="557" type="line"/>
-      <point x="364" y="2" type="line"/>
-      <point x="95" y="2" type="line"/>
-      <point x="173" y="557" type="line"/>
-      <point x="171" y="557" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="637" y="0" type="line"/>
-      <point x="715" y="557" type="line"/>
+      <point x="714" y="557" type="line"/>
+      <point x="636" y="2" type="line"/>
+      <point x="367" y="2" type="line"/>
+      <point x="445" y="557" type="line"/>
+      <point x="443" y="557" type="line"/>
+      <point x="365" y="2" type="line"/>
+      <point x="96" y="2" type="line"/>
+      <point x="174" y="557" type="line"/>
+      <point x="172" y="557" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="716" y="557" type="line"/>
     </contour>
     <contour>
-      <point x="365" y="0" type="move" name="bottom"/>
+      <point x="366" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="647" y="0" type="move" name="bottomright"/>
+      <point x="648" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Sha-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Sha-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Sha-cy</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Sha-cy</string>
-    </dict>
-  </lib>
 </glyph>

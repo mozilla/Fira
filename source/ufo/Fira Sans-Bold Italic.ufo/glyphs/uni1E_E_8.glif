@@ -5,18 +5,10 @@
   <outline>
     <component base="U"/>
     <component base="uni031B.case" xOffset="564"/>
-    <component base="acute.case" xOffset="143"/>
+    <component base="acutecomb.case" xOffset="145"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Uhorn</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Uhorn</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

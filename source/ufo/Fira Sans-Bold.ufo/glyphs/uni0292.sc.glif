@@ -36,17 +36,8 @@
       <point x="133" y="343" type="line"/>
       <point x="133" y="228" type="line"/>
     </contour>
+    <contour>
+      <point x="257" y="571" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ezh</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ezh</string>
-    </dict>
-  </lib>
 </glyph>

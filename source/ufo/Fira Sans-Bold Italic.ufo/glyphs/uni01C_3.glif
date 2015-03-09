@@ -4,23 +4,11 @@
   <unicode hex="01C3"/>
   <outline>
     <contour>
-      <point x="125" y="744" type="line"/>
-      <point x="57" y="250" type="line"/>
-      <point x="222" y="250" type="line"/>
-      <point x="293" y="761" type="line"/>
+      <point x="126" y="744" type="line"/>
+      <point x="58" y="250" type="line"/>
+      <point x="223" y="250" type="line"/>
+      <point x="294" y="761" type="line"/>
     </contour>
-    <component base="period" xOffset="26"/>
+    <component base="period" xOffset="27"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-    </dict>
-  </lib>
 </glyph>

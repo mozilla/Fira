@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031C" format="1">
+  <advance width="146"/>
+  <unicode hex="031C"/>
+  <outline>
+    <component base="uni02BF" yOffset="-875"/>
+    <contour>
+      <point x="73" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="75" y="-235" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

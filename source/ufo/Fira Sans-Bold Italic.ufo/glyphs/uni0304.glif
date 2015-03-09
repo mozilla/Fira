@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0304" format="1">
-  <advance width="373"/>
+  <advance width="380"/>
   <unicode hex="0304"/>
   <outline>
-    <component base="macron" xOffset="-17"/>
     <contour>
-      <point x="207" y="534" type="move" name="_top"/>
+      <point x="422" y="782" type="line"/>
+      <point x="103" y="782" type="line"/>
+      <point x="84" y="648" type="line"/>
+      <point x="403" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="782" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="228" y="534" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

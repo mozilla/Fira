@@ -1,65 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omega" format="1">
-  <advance width="772"/>
+  <advance width="773"/>
   <unicode hex="03C9"/>
   <outline>
     <contour>
-      <point x="639" y="520" type="line"/>
-      <point x="650" y="476"/>
-      <point x="659" y="419"/>
-      <point x="659" y="346" type="curve" smooth="yes"/>
-      <point x="659" y="199"/>
-      <point x="627" y="18"/>
-      <point x="483" y="18" type="curve" smooth="yes"/>
-      <point x="397" y="18"/>
-      <point x="378" y="85"/>
-      <point x="389" y="176" type="curve" smooth="yes"/>
-      <point x="414" y="356" type="line"/>
-      <point x="383" y="351" type="line"/>
-      <point x="359" y="179" type="line" smooth="yes"/>
-      <point x="342" y="59"/>
-      <point x="281" y="18"/>
-      <point x="219" y="18" type="curve" smooth="yes"/>
-      <point x="157" y="18"/>
-      <point x="108" y="52"/>
-      <point x="108" y="164" type="curve" smooth="yes"/>
-      <point x="108" y="272"/>
-      <point x="144" y="397"/>
-      <point x="209" y="520" type="curve"/>
-      <point x="177" y="520" type="line"/>
-      <point x="120" y="406"/>
-      <point x="77" y="286"/>
-      <point x="77" y="164" type="curve" smooth="yes"/>
-      <point x="77" y="43"/>
-      <point x="133" y="-10"/>
-      <point x="217" y="-10" type="curve" smooth="yes"/>
-      <point x="286" y="-10"/>
-      <point x="341" y="26"/>
-      <point x="365" y="116" type="curve"/>
-      <point x="366" y="28"/>
-      <point x="412" y="-10"/>
-      <point x="481" y="-10" type="curve" smooth="yes"/>
-      <point x="643" y="-10"/>
-      <point x="690" y="176"/>
-      <point x="690" y="346" type="curve" smooth="yes"/>
-      <point x="690" y="412"/>
-      <point x="682" y="472"/>
-      <point x="669" y="520" type="curve"/>
+      <point x="640" y="520" type="line"/>
+      <point x="651" y="476"/>
+      <point x="660" y="419"/>
+      <point x="660" y="346" type="curve" smooth="yes"/>
+      <point x="660" y="199"/>
+      <point x="628" y="18"/>
+      <point x="484" y="18" type="curve" smooth="yes"/>
+      <point x="398" y="18"/>
+      <point x="379" y="85"/>
+      <point x="390" y="176" type="curve" smooth="yes"/>
+      <point x="415" y="356" type="line"/>
+      <point x="384" y="351" type="line"/>
+      <point x="360" y="179" type="line" smooth="yes"/>
+      <point x="343" y="59"/>
+      <point x="282" y="18"/>
+      <point x="220" y="18" type="curve" smooth="yes"/>
+      <point x="158" y="18"/>
+      <point x="109" y="52"/>
+      <point x="109" y="164" type="curve" smooth="yes"/>
+      <point x="109" y="272"/>
+      <point x="145" y="397"/>
+      <point x="210" y="520" type="curve"/>
+      <point x="178" y="520" type="line"/>
+      <point x="121" y="406"/>
+      <point x="78" y="286"/>
+      <point x="78" y="164" type="curve" smooth="yes"/>
+      <point x="78" y="43"/>
+      <point x="134" y="-10"/>
+      <point x="218" y="-10" type="curve" smooth="yes"/>
+      <point x="287" y="-10"/>
+      <point x="342" y="26"/>
+      <point x="366" y="116" type="curve"/>
+      <point x="366" y="27"/>
+      <point x="413" y="-10"/>
+      <point x="482" y="-10" type="curve" smooth="yes"/>
+      <point x="644" y="-10"/>
+      <point x="691" y="172"/>
+      <point x="691" y="346" type="curve" smooth="yes"/>
+      <point x="691" y="412"/>
+      <point x="683" y="472"/>
+      <point x="670" y="520" type="curve"/>
     </contour>
     <contour>
-      <point x="423" y="520" type="move" name="top"/>
+      <point x="424" y="520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="353" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>phi</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|phi</string>
-    </dict>
-  </lib>
 </glyph>

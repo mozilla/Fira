@@ -4,21 +4,9 @@
   <unicode hex="045D"/>
   <outline>
     <component base="uni0438"/>
-    <component base="grave" xOffset="112"/>
+    <component base="gravecomb" xOffset="120"/>
     <contour>
-      <point x="293" y="534" type="move" name="top"/>
+      <point x="298" y="534" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|n</string>
-    </dict>
-  </lib>
 </glyph>

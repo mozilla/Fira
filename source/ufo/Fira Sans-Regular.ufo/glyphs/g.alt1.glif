@@ -55,19 +55,11 @@
       <point x="198" y="-213"/>
       <point x="280" y="-213" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="285" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="278" y="-202" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>10</integer>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>d</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>q</string>
-    </dict>
-  </lib>
 </glyph>

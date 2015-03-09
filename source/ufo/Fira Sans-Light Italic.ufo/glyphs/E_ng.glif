@@ -6,20 +6,4 @@
     <component base="hookHELPER.case" xOffset="318"/>
     <component base="N"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>N</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>N</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>J</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>J</string>
-    </dict>
-  </lib>
 </glyph>

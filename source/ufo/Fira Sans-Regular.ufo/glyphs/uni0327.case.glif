@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0327.case" format="1">
+  <advance width="291"/>
+  <outline>
+    <component base="uni0327"/>
+    <contour>
+      <point x="122" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="140" y="-241" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -10,17 +10,11 @@
       <point x="270" y="517" type="line"/>
     </contour>
     <component base="uni0279"/>
+    <contour>
+      <point x="301" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="140" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>rturned</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>d</string>
-    </dict>
-  </lib>
 </glyph>

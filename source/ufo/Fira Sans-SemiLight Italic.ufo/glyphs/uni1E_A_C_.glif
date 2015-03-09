@@ -4,15 +4,7 @@
   <unicode hex="1EAC"/>
   <outline>
     <component base="A"/>
+    <component base="uni0302.case" xOffset="109"/>
     <component base="dotbelowcomb" xOffset="224"/>
-    <component base="circumflex.case" xOffset="119"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

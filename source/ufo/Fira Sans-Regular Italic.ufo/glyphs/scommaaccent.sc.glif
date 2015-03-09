@@ -3,14 +3,6 @@
   <advance width="483"/>
   <outline>
     <component base="s.sc"/>
-    <component base="uni0326.sc" xOffset="153"/>
+    <component base="uni0326.sc" xOffset="150"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

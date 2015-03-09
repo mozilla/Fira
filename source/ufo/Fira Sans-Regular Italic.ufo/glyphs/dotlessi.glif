@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="280"/>
+  <advance width="279"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
       <point x="131" y="527" type="line"/>
       <point x="57" y="0" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="223" y="527" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="222" y="527" type="line"/>
     </contour>
     <contour>
-      <point x="128" y="0" type="move" name="ogonek"/>
+      <point x="127" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="103" y="0" type="move" name="bottom"/>
+      <point x="102" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="177" y="527" type="move" name="top"/>
+      <point x="176" y="527" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>n</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|n</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>=|n</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0250" format="1">
-  <advance width="513"/>
+  <advance width="512"/>
   <unicode hex="0250"/>
   <outline>
     <contour>
@@ -52,17 +52,11 @@
       <point x="106" y="215" type="line"/>
       <point x="106" y="213" type="line"/>
     </contour>
+    <contour>
+      <point x="293" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="221" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>ascriptturned</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>e</string>
-    </dict>
-  </lib>
 </glyph>

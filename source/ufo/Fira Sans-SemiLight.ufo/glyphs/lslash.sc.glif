@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash.sc" format="1">
-  <advance width="413"/>
+  <advance width="418"/>
   <outline>
     <contour>
       <point x="118" y="253" type="line"/>
@@ -11,20 +11,4 @@
     </contour>
     <component base="l.sc" xOffset="-2"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Lslash</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>Lslash</string>
-    </dict>
-  </lib>
 </glyph>

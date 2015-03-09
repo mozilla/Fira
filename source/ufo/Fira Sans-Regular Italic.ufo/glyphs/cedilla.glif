@@ -27,16 +27,5 @@
       <point x="102" y="-56" type="curve"/>
       <point x="114" y="16" type="line"/>
     </contour>
-    <contour>
-      <point x="88" y="0" type="move" name="_bottom"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

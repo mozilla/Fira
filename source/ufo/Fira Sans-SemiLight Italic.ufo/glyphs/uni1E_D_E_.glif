@@ -7,16 +7,4 @@
     <component base="uni031B.case" xOffset="495"/>
     <component base="hookabovecomb.case" xOffset="246"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ohorn</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ohorn</string>
-    </dict>
-  </lib>
 </glyph>

@@ -38,7 +38,7 @@
       <point x="847" y="274" type="curve" smooth="yes"/>
       <point x="847" y="453"/>
       <point x="742" y="554"/>
-      <point x="591" y="554" type="curve" smooth="yes"/>
+      <point x="601" y="554" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="281" y="333" type="line" smooth="yes"/>
@@ -83,23 +83,10 @@
       <point x="272" y="554" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="431" y="534" type="move" name="top"/>
+      <point x="430" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="417" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>a</string>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>a</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>e</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>e</string>
-    </dict>
-  </lib>
 </glyph>

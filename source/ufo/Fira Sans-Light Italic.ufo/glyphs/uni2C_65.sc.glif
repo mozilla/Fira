@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C65.sc" format="1">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="286" y="553" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="287" y="557" type="line"/>
+      <point x="285" y="557" type="line"/>
+      <point x="-1" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="174" type="line"/>
+      <point x="377" y="176" type="line"/>
+      <point x="91" y="176" type="line"/>
+      <point x="90" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="-47" type="line"/>
+      <point x="381" y="597" type="line"/>
+      <point x="379" y="597" type="line"/>
+      <point x="111" y="-47" type="line"/>
+    </contour>
+  </outline>
+</glyph>

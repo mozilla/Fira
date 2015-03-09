@@ -11,13 +11,11 @@
     </contour>
     <component base="hookHELPER" xOffset="-79"/>
     <component base="hookaboveHELPER2" xOffset="82"/>
+    <contour>
+      <point x="275" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-20" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

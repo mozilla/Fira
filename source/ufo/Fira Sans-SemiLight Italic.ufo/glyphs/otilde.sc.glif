@@ -3,14 +3,6 @@
   <advance width="619"/>
   <outline>
     <component base="o.sc"/>
-    <component base="tilde.sc" xOffset="182"/>
+    <component base="tildecomb.sc" xOffset="143"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

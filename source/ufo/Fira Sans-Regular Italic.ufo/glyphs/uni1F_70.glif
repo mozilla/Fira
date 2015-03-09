@@ -4,14 +4,6 @@
   <unicode hex="1F70"/>
   <outline>
     <component base="alpha"/>
-    <component base="grave" xOffset="131"/>
+    <component base="gravecomb" xOffset="133"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

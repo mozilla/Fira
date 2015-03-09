@@ -47,34 +47,28 @@
       <point x="224" y="527" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="182" y="-200"/>
-      <point x="205" y="-187"/>
+      <point x="184" y="-192"/>
+      <point x="207" y="-179"/>
       <point x="223" y="-172" type="curve"/>
       <point x="222" y="-170" type="line"/>
-      <point x="203" y="-186"/>
-      <point x="181" y="-198"/>
-      <point x="144" y="-198" type="curve" smooth="yes"/>
-      <point x="95" y="-198"/>
-      <point x="62" y="-166"/>
-      <point x="62" y="-105" type="curve" smooth="yes"/>
+      <point x="205" y="-178"/>
+      <point x="183" y="-190"/>
+      <point x="146" y="-190" type="curve" smooth="yes"/>
+      <point x="97" y="-190"/>
+      <point x="62" y="-158"/>
+      <point x="62" y="-97" type="curve" smooth="yes"/>
       <point x="62" y="57" type="line"/>
       <point x="60" y="57" type="line"/>
-      <point x="60" y="-105" type="line" smooth="yes"/>
-      <point x="60" y="-167"/>
-      <point x="94" y="-200"/>
-      <point x="144" y="-200" type="curve" smooth="yes"/>
+      <point x="60" y="-97" type="line" smooth="yes"/>
+      <point x="60" y="-159"/>
+      <point x="96" y="-192"/>
+      <point x="146" y="-192" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="234" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="229" y="-188" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>s</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>s</string>
-    </dict>
-  </lib>
 </glyph>

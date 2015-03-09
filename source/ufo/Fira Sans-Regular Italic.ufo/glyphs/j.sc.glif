@@ -1,35 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.sc" format="1">
-  <advance width="282"/>
+  <advance width="285"/>
   <outline>
     <contour>
-      <point x="139" y="564" type="line"/>
-      <point x="72" y="87" type="line" smooth="yes"/>
-      <point x="61" y="14"/>
-      <point x="36" y="-21"/>
-      <point x="-46" y="-51" type="curve"/>
-      <point x="-24" y="-120" type="line"/>
-      <point x="77" y="-91"/>
-      <point x="144" y="-47"/>
-      <point x="161" y="78" type="curve" smooth="yes"/>
-      <point x="230" y="564" type="line"/>
+      <point x="142" y="564" type="line"/>
+      <point x="75" y="87" type="line" smooth="yes"/>
+      <point x="64" y="14"/>
+      <point x="39" y="-21"/>
+      <point x="-43" y="-51" type="curve"/>
+      <point x="-21" y="-120" type="line"/>
+      <point x="80" y="-91"/>
+      <point x="147" y="-47"/>
+      <point x="164" y="78" type="curve" smooth="yes"/>
+      <point x="233" y="564" type="line"/>
     </contour>
     <contour>
-      <point x="182" y="564" type="move" name="top"/>
+      <point x="185" y="564" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>J</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>J</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>J</string>
-    </dict>
-  </lib>
 </glyph>

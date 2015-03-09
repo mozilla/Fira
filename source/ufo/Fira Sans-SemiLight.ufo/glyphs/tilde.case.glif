@@ -2,17 +2,6 @@
 <glyph name="tilde.case" format="1">
   <advance width="322"/>
   <outline>
-    <component base="tilde" yOffset="126"/>
-    <contour>
-      <point x="167" y="682" type="move" name="_top"/>
-    </contour>
+    <component base="tildecomb" yOffset="126"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

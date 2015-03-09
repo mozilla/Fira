@@ -28,17 +28,11 @@
       <point x="187" y="537" type="line"/>
     </contour>
     <component base="hookaboveHELPER" xOffset="65"/>
+    <contour>
+      <point x="293" y="739" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="293" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>h</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>h</string>
-    </dict>
-  </lib>
 </glyph>

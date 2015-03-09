@@ -10,17 +10,8 @@
       <point x="670" y="109" type="line"/>
     </contour>
     <component base="uni026F"/>
+    <contour>
+      <point x="429" y="-202" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>u</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>q</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,14 +5,4 @@
     <component base="uni0445.sc"/>
     <component base="descStraight-cy" xOffset="337"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>kadescender-cy.sc</string>
-    </dict>
-  </lib>
 </glyph>

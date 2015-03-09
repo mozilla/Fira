@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0452.sc" format="1">
-  <advance width="598"/>
+  <advance width="597"/>
   <outline>
     <contour>
       <point x="320" y="360"/>
@@ -35,16 +35,4 @@
       <point x="392" y="360" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Dje-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Dje-cy</string>
-    </dict>
-  </lib>
 </glyph>

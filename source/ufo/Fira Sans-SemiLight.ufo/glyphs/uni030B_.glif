@@ -3,17 +3,20 @@
   <advance width="268"/>
   <unicode hex="030B"/>
   <outline>
-    <component base="hungarumlaut" xOffset="9"/>
     <contour>
-      <point x="143" y="520" type="move" name="_top"/>
+      <point x="134" y="660" type="line"/>
+      <point x="156" y="649" type="line"/>
+      <point x="238" y="778" type="line"/>
+      <point x="207" y="794" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="664" type="line"/>
+      <point x="52" y="653" type="line"/>
+      <point x="127" y="777" type="line"/>
+      <point x="96" y="793" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="520" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

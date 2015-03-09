@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave.sc" format="1">
+  <advance width="279"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="gravecomb.sc" xOffset="-35"/>
+  </outline>
+</glyph>

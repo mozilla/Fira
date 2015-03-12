@@ -990,8 +990,6 @@
 	<string>guillemotright.case.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
-	<key>guilsinglleft.001</key>
-	<string>guilsinglleft.001.glif</string>
 	<key>guilsinglleft.case</key>
 	<string>guilsinglleft.case.glif</string>
 	<key>guilsinglright</key>
@@ -1194,6 +1192,8 @@
 	<string>logicalnot.tf.glif</string>
 	<key>logicalnot.tosf</key>
 	<string>logicalnot.tosf.glif</string>
+	<key>longs</key>
+	<string>longs.glif</string>
 	<key>lozenge</key>
 	<string>lozenge.glif</string>
 	<key>lozenge.osf</key>

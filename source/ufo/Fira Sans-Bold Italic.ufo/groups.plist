@@ -1036,6 +1036,7 @@
 		<string>uni0286</string>
 		<string>f</string>
 		<string>uni0284</string>
+		<string>longs</string>
 		<string>uni02A7</string>
 		<string>f.loclEWE</string>
 	</array>
@@ -1151,26 +1152,22 @@
 	<array>
 		<string>uni0242</string>
 	</array>
-	<key>@MMK_L_guillemetleft</key>
+	<key>@MMK_L_guillemotleft</key>
+	<array>
+		<string>guilsinglleft</string>
+	</array>
+	<key>@MMK_L_guilsinglleft</key>
 	<array>
 		<string>guillemotleft</string>
 		<string>guillemotleft.case</string>
 		<string>guilsinglleft.case</string>
 	</array>
-	<key>@MMK_L_guillemetright</key>
+	<key>@MMK_L_guilsinglright</key>
 	<array>
 		<string>guillemotright</string>
+		<string>guilsinglright</string>
 		<string>guillemotright.case</string>
 		<string>guilsinglright.case</string>
-	</array>
-	<key>@MMK_L_guillemotleft</key>
-	<array>
-		<string>guilsinglleft</string>
-		<string>guilsinglleft.001</string>
-	</array>
-	<key>@MMK_L_guillemotright</key>
-	<array>
-		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_L_h.sc</key>
 	<array>
@@ -3409,6 +3406,7 @@
 	<array>
 		<string>f</string>
 		<string>uni02A9</string>
+		<string>longs</string>
 		<string>f.loclEWE</string>
 		<string>f_i</string>
 		<string>f_l</string>
@@ -3508,32 +3506,19 @@
 	<array>
 		<string>uni0242</string>
 	</array>
-	<key>@MMK_R_guillemetleft</key>
-	<array>
-		<string>guillemotleft.case</string>
-		<string>guilsinglleft.case</string>
-	</array>
-	<key>@MMK_R_guillemetright</key>
-	<array>
-		<string>guillemotright.case</string>
-		<string>guilsinglright.case</string>
-	</array>
-	<key>@MMK_R_guillemotleft</key>
-	<array>
-		<string>guilsinglleft</string>
-		<string>guilsinglleft.001</string>
-	</array>
-	<key>@MMK_R_guillemotright</key>
-	<array>
-		<string>guilsinglright</string>
-	</array>
 	<key>@MMK_R_guilsinglleft</key>
 	<array>
 		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
+		<string>guillemotleft.case</string>
+		<string>guilsinglleft.case</string>
 	</array>
 	<key>@MMK_R_guilsinglright</key>
 	<array>
 		<string>guillemotright</string>
+		<string>guilsinglright</string>
+		<string>guillemotright.case</string>
+		<string>guilsinglright.case</string>
 	</array>
 	<key>@MMK_R_h</key>
 	<array>
@@ -4413,6 +4398,7 @@
 		<string>comma</string>
 		<string>ellipsis</string>
 		<string>period</string>
+		<string>quotedblbase</string>
 		<string>quotesinglbase</string>
 	</array>
 	<key>@MMK_R_periodcentered</key>
@@ -4476,10 +4462,6 @@
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-	</array>
-	<key>@MMK_R_quotesinglbase</key>
-	<array>
-		<string>quotedblbase</string>
 	</array>
 	<key>@MMK_R_rfishhookreversed</key>
 	<array>

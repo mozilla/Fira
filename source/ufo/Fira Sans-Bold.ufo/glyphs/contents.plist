@@ -1174,6 +1174,8 @@
 	<string>logicalnot.tf.glif</string>
 	<key>logicalnot.tosf</key>
 	<string>logicalnot.tosf.glif</string>
+	<key>longs</key>
+	<string>longs.glif</string>
 	<key>lozenge</key>
 	<string>lozenge.glif</string>
 	<key>lozenge.osf</key>

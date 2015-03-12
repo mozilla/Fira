@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0196" format="1">
-  <advance width="312"/>
+  <advance width="313"/>
   <unicode hex="0196"/>
   <outline>
     <contour>
-      <point x="178" y="680" type="line"/>
-      <point x="108" y="183" type="line"/>
-      <point x="110" y="183" type="line"/>
-      <point x="180" y="680" type="line"/>
+      <point x="179" y="680" type="line"/>
+      <point x="109" y="183" type="line"/>
+      <point x="111" y="183" type="line"/>
+      <point x="181" y="680" type="line"/>
     </contour>
-    <component base="hookHELPERright.case" xOffset="101" yOffset="183"/>
+    <component base="hookHELPERright.case" xOffset="102" yOffset="183"/>
     <contour>
-      <point x="179" y="680" type="move" name="top"/>
+      <point x="180" y="680" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="120" y="0" type="move" name="bottom"/>
+      <point x="121" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

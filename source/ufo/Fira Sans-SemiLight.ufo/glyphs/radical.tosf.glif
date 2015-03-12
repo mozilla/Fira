@@ -2,6 +2,6 @@
 <glyph name="radical.tosf" format="1">
   <advance width="560"/>
   <outline>
-    <component base="radical" xOffset="36"/>
+    <component base="radical"/>
   </outline>
 </glyph>

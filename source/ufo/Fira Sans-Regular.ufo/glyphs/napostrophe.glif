@@ -4,21 +4,21 @@
   <unicode hex="0149"/>
   <outline>
     <contour>
-      <point x="62" y="770"/>
-      <point x="36" y="746"/>
-      <point x="36" y="714" type="curve" smooth="yes"/>
-      <point x="36" y="695"/>
-      <point x="46" y="679"/>
-      <point x="60" y="667" type="curve"/>
-      <point x="31" y="551" type="line"/>
-      <point x="84" y="551" type="line"/>
-      <point x="125" y="637" type="line" smooth="yes"/>
-      <point x="146" y="681"/>
-      <point x="151" y="697"/>
-      <point x="151" y="714" type="curve" smooth="yes"/>
-      <point x="151" y="746"/>
-      <point x="126" y="770"/>
-      <point x="94" y="770" type="curve" smooth="yes"/>
+      <point x="-38" y="753"/>
+      <point x="-64" y="729"/>
+      <point x="-64" y="697" type="curve" smooth="yes"/>
+      <point x="-64" y="678"/>
+      <point x="-54" y="662"/>
+      <point x="-40" y="650" type="curve"/>
+      <point x="-69" y="534" type="line"/>
+      <point x="-16" y="534" type="line"/>
+      <point x="25" y="620" type="line" smooth="yes"/>
+      <point x="46" y="664"/>
+      <point x="51" y="680"/>
+      <point x="51" y="697" type="curve" smooth="yes"/>
+      <point x="51" y="729"/>
+      <point x="26" y="753"/>
+      <point x="-6" y="753" type="curve" smooth="yes"/>
     </contour>
     <component base="n"/>
   </outline>

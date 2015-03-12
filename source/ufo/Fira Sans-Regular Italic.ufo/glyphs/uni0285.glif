@@ -9,8 +9,8 @@
       <point x="259" y="201" type="line"/>
       <point x="277" y="326" type="line"/>
     </contour>
-    <component base="hookHELPERright" xOffset="174" yOffset="201"/>
     <component base="hookHELPERright" xOffset="271" yOffset="326" xScale="-1" yScale="-1"/>
+    <component base="hookHELPERright" xOffset="174" yOffset="201"/>
     <contour>
       <point x="270" y="527" type="move" name="top"/>
     </contour>

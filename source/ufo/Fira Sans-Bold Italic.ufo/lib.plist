@@ -686,6 +686,7 @@
 		<string>germandbls</string>
 		<string>uni0282</string>
 		<string>uni023F</string>
+		<string>longs</string>
 		<string>uni0259</string>
 		<string>t</string>
 		<string>tbar</string>
@@ -1217,6 +1218,7 @@
 		<string>uni04F6</string>
 		<string>uni04F8</string>
 		<string>uni051C</string>
+		<string>TseHelper-cy</string>
 		<string>uni0430</string>
 		<string>uni0431</string>
 		<string>uni0432</string>
@@ -1399,6 +1401,8 @@
 		<string>uni04F7.sc</string>
 		<string>uni04F9.sc</string>
 		<string>uni051D.sc</string>
+		<string>tsehelper-cy.sc</string>
+		<string>tsehelper-cy</string>
 		<string>Alpha</string>
 		<string>Beta</string>
 		<string>Gamma</string>
@@ -1761,7 +1765,6 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
-		<string>guilsinglleft.001</string>
 		<string>guillemotleft.case</string>
 		<string>guillemotright.case</string>
 		<string>guilsinglleft.case</string>
@@ -2147,14 +2150,11 @@
 		<string>breve-cy</string>
 		<string>breve-cy.case</string>
 		<string>breve-cy.sc</string>
-		<string>uni02BC</string>
-		<string>TseHelper-cy</string>
-		<string>tsehelper-cy.sc</string>
-		<string>tsehelper-cy</string>
 		<string>descRound-cy</string>
 		<string>descStraight-cy</string>
 		<string>descRound-cy.ALT</string>
 		<string>descStraight-cy.case</string>
+		<string>uni02BC</string>
 		<string>yr.sc</string>
 		<string>null</string>
 		<string>cedillaTcedilla</string>

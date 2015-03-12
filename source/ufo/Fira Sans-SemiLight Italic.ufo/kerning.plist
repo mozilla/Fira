@@ -2146,6 +2146,8 @@
 	</dict>
 	<key>@MMK_L_e.sc</key>
 	<dict>
+		<key>@MMK_R_guilsinglleft</key>
+		<integer>-10</integer>
 		<key>@MMK_R_t.sc</key>
 		<integer>-10</integer>
 	</dict>
@@ -2351,12 +2353,12 @@
 		<key>degree.osf</key>
 		<integer>-60</integer>
 	</dict>
-	<key>@MMK_L_guillemetleft</key>
+	<key>@MMK_L_guilsinglleft</key>
 	<dict>
 		<key>@MMK_R_chi</key>
 		<integer>30</integer>
 	</dict>
-	<key>@MMK_L_guillemetright</key>
+	<key>@MMK_L_guilsinglright</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-10</integer>
@@ -2366,8 +2368,6 @@
 		<integer>-30</integer>
 		<key>@MMK_R_Ucy</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V</key>
-		<integer>-10</integer>
 		<key>@MMK_R_X</key>
 		<integer>-30</integer>
 		<key>@MMK_R_Y</key>

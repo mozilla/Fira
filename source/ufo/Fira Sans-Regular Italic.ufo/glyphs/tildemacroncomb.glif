@@ -3,7 +3,7 @@
   <advance width="391"/>
   <outline>
     <component base="tildecomb" xOffset="-9" yOffset="-60"/>
-    <component base="uni0304" xOffset="31" yOffset="82"/>
+    <component base="uni0304" xOffset="41" yOffset="82"/>
     <contour>
       <point x="241" y="527" type="move" name="_top"/>
     </contour>

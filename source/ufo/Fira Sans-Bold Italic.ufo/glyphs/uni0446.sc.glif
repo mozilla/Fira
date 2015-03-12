@@ -2,7 +2,7 @@
 <glyph name="uni0446.sc" format="1">
   <advance width="626"/>
   <outline>
-    <component base="tsehelper-cy.sc" xOffset="1"/>
+    <component base="tsehelper-cy.sc"/>
     <component base="descStraight-cy" xOffset="396"/>
   </outline>
   <lib>

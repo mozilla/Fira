@@ -2982,6 +2982,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_i</key>
 		<integer>100</integer>
+		<key>@MMK_R_napostrophe</key>
+		<integer>50</integer>
 		<key>@MMK_R_o</key>
 		<integer>-10</integer>
 		<key>@MMK_R_o.sc</key>

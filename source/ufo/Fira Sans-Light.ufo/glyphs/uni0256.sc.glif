@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0256.sc" format="1">
-  <advance width="514"/>
+  <advance width="559"/>
   <outline>
     <component base="eth.sc"/>
   </outline>

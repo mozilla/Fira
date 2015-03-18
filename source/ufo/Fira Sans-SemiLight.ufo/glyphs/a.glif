@@ -29,8 +29,8 @@
       <point x="256" y="530" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="270" y="310" type="line" smooth="yes"/>
-      <point x="147" y="310"/>
+      <point x="270" y="309" type="line" smooth="yes"/>
+      <point x="147" y="309"/>
       <point x="65" y="251"/>
       <point x="65" y="144" type="curve" smooth="yes"/>
       <point x="65" y="51"/>
@@ -50,7 +50,7 @@
       <point x="165" y="282"/>
       <point x="276" y="282" type="curve" smooth="yes"/>
       <point x="393" y="282" type="line"/>
-      <point x="393" y="310" type="line"/>
+      <point x="393" y="309" type="line"/>
     </contour>
     <contour>
       <point x="463" y="-10" type="move" name="ogonek"/>

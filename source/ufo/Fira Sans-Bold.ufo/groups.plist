@@ -54,6 +54,7 @@
 	<key>@MMK_L_B</key>
 	<array>
 		<string>B</string>
+		<string>uni1E02</string>
 		<string>uni1E04</string>
 		<string>uni0181</string>
 		<string>uni0243</string>
@@ -134,6 +135,7 @@
 	<key>@MMK_L_F</key>
 	<array>
 		<string>F</string>
+		<string>uni1E1E</string>
 		<string>uni0191</string>
 	</array>
 	<key>@MMK_L_G</key>
@@ -293,6 +295,7 @@
 	<array>
 		<string>M</string>
 		<string>uni1E3E</string>
+		<string>uni1E40</string>
 		<string>uni041C</string>
 		<string>Mu</string>
 	</array>
@@ -304,6 +307,7 @@
 		<string>Dcaron</string>
 		<string>uni1E12</string>
 		<string>Dcroat</string>
+		<string>uni1E0A</string>
 		<string>uni1E0C</string>
 		<string>uni018A</string>
 		<string>uni1E0E</string>
@@ -381,6 +385,7 @@
 	<array>
 		<string>P</string>
 		<string>uni1E54</string>
+		<string>uni1E56</string>
 		<string>uni01A4</string>
 		<string>uni01F7</string>
 		<string>uni0420</string>
@@ -423,6 +428,7 @@
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
+		<string>uni1E60</string>
 		<string>uni1E62</string>
 		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
@@ -463,6 +469,7 @@
 		<string>uni1E70</string>
 		<string>uni021A</string>
 		<string>uni023E</string>
+		<string>uni1E6A</string>
 		<string>uni1E6C</string>
 		<string>uni01AC</string>
 		<string>uni1E6E</string>
@@ -793,7 +800,7 @@
 		<string>uni032C</string>
 		<string>uni032D</string>
 		<string>uni0313</string>
-		<string>uni0314</string>
+		<string>uni0312</string>
 		<string>uni032B</string>
 		<string>uni030F</string>
 		<string>uni0324</string>
@@ -832,6 +839,7 @@
 		<string>dcaron</string>
 		<string>uni1E13</string>
 		<string>dcroat</string>
+		<string>uni1E0B</string>
 		<string>uni1E0D</string>
 		<string>uni0257</string>
 		<string>uni1E0F</string>
@@ -1000,6 +1008,7 @@
 		<string>uni0283</string>
 		<string>uni0286</string>
 		<string>f</string>
+		<string>uni1E1F</string>
 		<string>uni0284</string>
 		<string>longs</string>
 		<string>uni02A7</string>
@@ -1392,6 +1401,10 @@
 		<string>uni20BA</string>
 		<string>uni20BA.osf</string>
 	</array>
+	<key>@MMK_L_literSign</key>
+	<array>
+		<string>uni2113</string>
+	</array>
 	<key>@MMK_L_lslash</key>
 	<array>
 		<string>uni019A</string>
@@ -1484,6 +1497,7 @@
 		<string>uni0195</string>
 		<string>m</string>
 		<string>uni1E3F</string>
+		<string>uni1E41</string>
 		<string>uni0271</string>
 		<string>n</string>
 		<string>nacute</string>
@@ -1554,6 +1568,7 @@
 		<string>uni029B</string>
 		<string>uni0252</string>
 		<string>b</string>
+		<string>uni1E03</string>
 		<string>uni1E05</string>
 		<string>uni0253</string>
 		<string>uni0180</string>
@@ -1610,6 +1625,7 @@
 		<string>uni0223</string>
 		<string>p</string>
 		<string>uni1E55</string>
+		<string>uni1E57</string>
 		<string>uni0278</string>
 		<string>uni01A5</string>
 		<string>thorn</string>
@@ -1948,6 +1964,7 @@
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>uni1E61</string>
 		<string>uni1E63</string>
 		<string>uni0282</string>
 		<string>uni023F</string>
@@ -2076,6 +2093,7 @@
 		<string>uni1E71</string>
 		<string>uni021B</string>
 		<string>uni2C66</string>
+		<string>uni1E6B</string>
 		<string>uni1E6D</string>
 		<string>uni01AD</string>
 		<string>uni1E6F</string>
@@ -2674,6 +2692,7 @@
 	<key>@MMK_R_H</key>
 	<array>
 		<string>B</string>
+		<string>uni1E02</string>
 		<string>uni1E04</string>
 		<string>uni0181</string>
 		<string>uni0243</string>
@@ -2686,6 +2705,7 @@
 		<string>Dcaron</string>
 		<string>uni1E12</string>
 		<string>Dcroat</string>
+		<string>uni1E0A</string>
 		<string>uni1E0C</string>
 		<string>uni018A</string>
 		<string>uni1E0E</string>
@@ -2714,6 +2734,7 @@
 		<string>uni0246</string>
 		<string>uni1EBC</string>
 		<string>F</string>
+		<string>uni1E1E</string>
 		<string>uni0191</string>
 		<string>H</string>
 		<string>Hbar</string>
@@ -2771,6 +2792,7 @@
 		<string>Ntilde</string>
 		<string>P</string>
 		<string>uni1E54</string>
+		<string>uni1E56</string>
 		<string>uni01A4</string>
 		<string>Thorn</string>
 		<string>R</string>
@@ -2874,6 +2896,7 @@
 	<array>
 		<string>M</string>
 		<string>uni1E3E</string>
+		<string>uni1E40</string>
 		<string>uni041C</string>
 		<string>Mu</string>
 	</array>
@@ -2990,6 +3013,7 @@
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
+		<string>uni1E60</string>
 		<string>uni1E62</string>
 		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
@@ -3010,6 +3034,7 @@
 		<string>uni1E70</string>
 		<string>uni021A</string>
 		<string>uni023E</string>
+		<string>uni1E6A</string>
 		<string>uni1E6C</string>
 		<string>uni01AC</string>
 		<string>uni1E6E</string>
@@ -3345,7 +3370,7 @@
 		<string>uni032C</string>
 		<string>uni032D</string>
 		<string>uni0313</string>
-		<string>uni0314</string>
+		<string>uni0312</string>
 		<string>uni032B</string>
 		<string>uni030F</string>
 		<string>uni0324</string>
@@ -3488,6 +3513,7 @@
 	<key>@MMK_R_f</key>
 	<array>
 		<string>f</string>
+		<string>uni1E1F</string>
 		<string>uni02A9</string>
 		<string>longs</string>
 		<string>f_i</string>
@@ -3612,6 +3638,7 @@
 	<key>@MMK_R_h</key>
 	<array>
 		<string>b</string>
+		<string>uni1E03</string>
 		<string>uni1E05</string>
 		<string>uni0253</string>
 		<string>uni0180</string>
@@ -3945,6 +3972,10 @@
 		<string>uni20BA</string>
 		<string>uni20BA.osf</string>
 	</array>
+	<key>@MMK_R_literSign</key>
+	<array>
+		<string>uni2113</string>
+	</array>
 	<key>@MMK_R_lslash</key>
 	<array>
 		<string>uni019A</string>
@@ -4005,10 +4036,10 @@
 		<string>dotlessi</string>
 		<string>m</string>
 		<string>uni1E3F</string>
+		<string>uni1E41</string>
 		<string>uni0271</string>
 		<string>n</string>
 		<string>nacute</string>
-		<string>napostrophe</string>
 		<string>ncaron</string>
 		<string>uni1E4B</string>
 		<string>ncommaaccent</string>
@@ -4023,6 +4054,7 @@
 		<string>uni019E</string>
 		<string>ntilde</string>
 		<string>p</string>
+		<string>uni1E57</string>
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
@@ -4077,6 +4109,10 @@
 		<string>f_i.sc</string>
 		<string>f_l.sc</string>
 	</array>
+	<key>@MMK_R_napostrophe</key>
+	<array>
+		<string>napostrophe</string>
+	</array>
 	<key>@MMK_R_nine</key>
 	<array>
 		<string>nine</string>
@@ -4130,6 +4166,7 @@
 		<string>uni1E13</string>
 		<string>dcroat</string>
 		<string>uni0221</string>
+		<string>uni1E0B</string>
 		<string>uni1E0D</string>
 		<string>uni018D</string>
 		<string>uni02A4</string>
@@ -4564,6 +4601,7 @@
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>uni1E61</string>
 		<string>uni1E63</string>
 		<string>uni0282</string>
 		<string>uni023F</string>
@@ -4649,6 +4687,7 @@
 		<string>uni021B</string>
 		<string>uni0236</string>
 		<string>uni2C66</string>
+		<string>uni1E6B</string>
 		<string>uni1E6D</string>
 		<string>uni02A7</string>
 		<string>uni01AD</string>

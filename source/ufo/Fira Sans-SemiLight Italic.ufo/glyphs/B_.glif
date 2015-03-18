@@ -40,5 +40,8 @@
       <point x="206" y="653" type="line"/>
       <point x="334" y="653" type="line" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="338" y="682" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

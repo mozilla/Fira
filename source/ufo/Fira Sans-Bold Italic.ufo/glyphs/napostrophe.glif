@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="1">
-  <advance width="560"/>
+  <advance width="693"/>
   <unicode hex="0149"/>
   <outline>
     <contour>
-      <point x="-7" y="764"/>
-      <point x="-43" y="730"/>
-      <point x="-48" y="692" type="curve" smooth="yes"/>
-      <point x="-52" y="661"/>
-      <point x="-41" y="641"/>
-      <point x="-25" y="627" type="curve"/>
-      <point x="-60" y="535" type="line"/>
-      <point x="18" y="535" type="line"/>
-      <point x="70" y="614" type="line" smooth="yes"/>
-      <point x="89" y="643"/>
-      <point x="99" y="662"/>
-      <point x="102" y="686" type="curve" smooth="yes"/>
-      <point x="108" y="731"/>
-      <point x="79" y="764"/>
-      <point x="35" y="764" type="curve" smooth="yes"/>
+      <point x="126" y="764"/>
+      <point x="90" y="730"/>
+      <point x="85" y="692" type="curve" smooth="yes"/>
+      <point x="81" y="661"/>
+      <point x="92" y="641"/>
+      <point x="108" y="627" type="curve"/>
+      <point x="73" y="535" type="line"/>
+      <point x="151" y="535" type="line"/>
+      <point x="203" y="614" type="line" smooth="yes"/>
+      <point x="222" y="643"/>
+      <point x="232" y="662"/>
+      <point x="235" y="686" type="curve" smooth="yes"/>
+      <point x="241" y="731"/>
+      <point x="212" y="764"/>
+      <point x="168" y="764" type="curve" smooth="yes"/>
     </contour>
-    <component base="n"/>
+    <component base="n" xOffset="133"/>
   </outline>
 </glyph>

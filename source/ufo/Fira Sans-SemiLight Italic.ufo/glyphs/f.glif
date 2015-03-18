@@ -34,7 +34,7 @@
       <point x="330" y="520" type="line"/>
     </contour>
     <contour>
-      <point x="285" y="734" type="move" name="top"/>
+      <point x="305" y="734" type="move" name="top"/>
     </contour>
     <contour>
       <point x="70" y="-193" type="move" name="bottom"/>

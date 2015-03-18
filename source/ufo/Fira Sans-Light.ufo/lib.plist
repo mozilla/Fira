@@ -113,6 +113,7 @@
 		<string>AEacute</string>
 		<string>uni01E2</string>
 		<string>B</string>
+		<string>uni1E02</string>
 		<string>uni1E04</string>
 		<string>uni0181</string>
 		<string>uni0243</string>
@@ -133,6 +134,7 @@
 		<string>Dcaron</string>
 		<string>uni1E12</string>
 		<string>Dcroat</string>
+		<string>uni1E0A</string>
 		<string>uni1E0C</string>
 		<string>uni018A</string>
 		<string>uni1E0E</string>
@@ -168,6 +170,7 @@
 		<string>uni01EE</string>
 		<string>uni01B8</string>
 		<string>F</string>
+		<string>uni1E1E</string>
 		<string>uni0191</string>
 		<string>G</string>
 		<string>uni01F4</string>
@@ -227,6 +230,7 @@
 		<string>Lslash</string>
 		<string>M</string>
 		<string>uni1E3E</string>
+		<string>uni1E40</string>
 		<string>uni019C</string>
 		<string>N</string>
 		<string>uni01CA</string>
@@ -285,6 +289,7 @@
 		<string>OE</string>
 		<string>P</string>
 		<string>uni1E54</string>
+		<string>uni1E56</string>
 		<string>uni01A4</string>
 		<string>Thorn</string>
 		<string>Q</string>
@@ -305,6 +310,7 @@
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
+		<string>uni1E60</string>
 		<string>uni1E62</string>
 		<string>uni1E9E</string>
 		<string>uni018F</string>
@@ -315,6 +321,7 @@
 		<string>uni1E70</string>
 		<string>uni021A</string>
 		<string>uni023E</string>
+		<string>uni1E6A</string>
 		<string>uni1E6C</string>
 		<string>uni01AC</string>
 		<string>uni1E6E</string>
@@ -441,6 +448,7 @@
 		<string>aeacute</string>
 		<string>uni01E3</string>
 		<string>b</string>
+		<string>uni1E03</string>
 		<string>uni1E05</string>
 		<string>uni0253</string>
 		<string>uni02AD</string>
@@ -465,6 +473,7 @@
 		<string>uni1E13</string>
 		<string>dcroat</string>
 		<string>uni0221</string>
+		<string>uni1E0B</string>
 		<string>uni1E0D</string>
 		<string>uni018D</string>
 		<string>uni02A4</string>
@@ -515,6 +524,7 @@
 		<string>uni01B9</string>
 		<string>uni01BA</string>
 		<string>f</string>
+		<string>uni1E1F</string>
 		<string>uni02A9</string>
 		<string>g</string>
 		<string>uni01F5</string>
@@ -597,6 +607,7 @@
 		<string>uni02AB</string>
 		<string>m</string>
 		<string>uni1E3F</string>
+		<string>uni1E41</string>
 		<string>uni0271</string>
 		<string>uni0270</string>
 		<string>uni026F</string>
@@ -660,6 +671,7 @@
 		<string>oe</string>
 		<string>p</string>
 		<string>uni1E55</string>
+		<string>uni1E57</string>
 		<string>uni0278</string>
 		<string>uni01A5</string>
 		<string>thorn</string>
@@ -691,6 +703,7 @@
 		<string>uni025A</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>uni1E61</string>
 		<string>uni1E63</string>
 		<string>germandbls</string>
 		<string>uni0282</string>
@@ -706,6 +719,7 @@
 		<string>uni021B</string>
 		<string>uni0236</string>
 		<string>uni2C66</string>
+		<string>uni1E6B</string>
 		<string>uni1E6D</string>
 		<string>uni02A7</string>
 		<string>uni01AD</string>
@@ -1966,6 +1980,7 @@
 		<string>trademark</string>
 		<string>degree</string>
 		<string>estimated</string>
+		<string>uni2113</string>
 		<string>uni2116</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
@@ -2020,7 +2035,7 @@
 		<string>uni0302</string>
 		<string>uni0313</string>
 		<string>uni0326</string>
-		<string>uni0314</string>
+		<string>uni0312</string>
 		<string>uni032B</string>
 		<string>uni030F</string>
 		<string>uni0324</string>
@@ -2054,6 +2069,8 @@
 		<string>uni0339</string>
 		<string>uni033C</string>
 		<string>uni033B</string>
+		<string>uni0336</string>
+		<string>uni0335</string>
 		<string>uni0330</string>
 		<string>tildecomb</string>
 		<string>uni0334</string>
@@ -2128,7 +2145,6 @@
 		<string>uni0327.sc</string>
 		<string>circumflex.sc</string>
 		<string>uni0302.sc</string>
-		<string>uni0326.sc</string>
 		<string>uni0326.sc</string>
 		<string>dieresis.sc</string>
 		<string>uni0308.sc</string>

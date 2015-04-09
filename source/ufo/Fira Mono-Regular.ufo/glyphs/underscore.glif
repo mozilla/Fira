@@ -4,18 +4,10 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="603" y="-182" type="line"/>
-      <point x="603" y="-103" type="line"/>
-      <point x="-3" y="-103" type="line"/>
-      <point x="-3" y="-182" type="line"/>
+      <point x="550" y="-182" type="line"/>
+      <point x="550" y="-103" type="line"/>
+      <point x="50" y="-103" type="line"/>
+      <point x="50" y="-182" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

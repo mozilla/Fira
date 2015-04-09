@@ -44,15 +44,10 @@
       <point x="268" y="432" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="270" y="531" type="move" name="top"/>
+      <point x="280" y="531" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="309" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -26,12 +26,4 @@
     <component base="descStraight-cy.case" xOffset="185"/>
     <component base="descStraight-cy.case" xOffset="382" xScale="-1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

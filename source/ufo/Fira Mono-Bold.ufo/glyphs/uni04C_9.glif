@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C9" format="1">
+  <advance width="600"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="510" y="693" type="line"/>
+      <point x="344" y="693" type="line"/>
+      <point x="344" y="430" type="line"/>
+      <point x="208" y="430" type="line"/>
+      <point x="208" y="693" type="line"/>
+      <point x="42" y="693" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="289" type="line"/>
+      <point x="344" y="289" type="line"/>
+      <point x="344" y="0" type="line"/>
+    </contour>
+    <component base="descTail-cy.case" xOffset="348"/>
+  </outline>
+</glyph>

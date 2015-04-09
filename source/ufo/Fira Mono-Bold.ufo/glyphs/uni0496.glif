@@ -3,15 +3,15 @@
   <advance width="600"/>
   <unicode hex="0496"/>
   <outline>
+    <contour>
+      <point x="493" y="123" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="504" y="-175" type="line"/>
+      <point x="611" y="-175" type="line"/>
+      <point x="611" y="123" type="line"/>
+    </contour>
     <component base="uni0416"/>
-    <component base="descStraight-cy.case" xScale="0" yScale="0"/>
+    <component base="descStraight-cy.case" xOffset="583" xScale="0" yScale="0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

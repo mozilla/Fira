@@ -4,14 +4,21 @@
   <unicode hex="1FFA"/>
   <outline>
     <component base="Omega"/>
-    <component base="grave.case"/>
+    <component base="uni1FEF.case" xOffset="-327"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FEF.case</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,15 +3,28 @@
   <advance width="600"/>
   <unicode hex="04CC"/>
   <outline>
-    <component base="uni0447"/>
-    <component base="descStraight-cy" xOffset="684" xScale="-1"/>
+    <contour>
+      <point x="367" y="531" type="line"/>
+      <point x="367" y="330" type="line"/>
+      <point x="343" y="310"/>
+      <point x="308" y="296"/>
+      <point x="274" y="296" type="curve" smooth="yes"/>
+      <point x="234" y="296"/>
+      <point x="207" y="313"/>
+      <point x="207" y="363" type="curve" smooth="yes"/>
+      <point x="207" y="531" type="line"/>
+      <point x="47" y="531" type="line"/>
+      <point x="47" y="343" type="line" smooth="yes"/>
+      <point x="47" y="242"/>
+      <point x="106" y="178"/>
+      <point x="215" y="178" type="curve" smooth="yes"/>
+      <point x="278" y="178"/>
+      <point x="330" y="197"/>
+      <point x="367" y="227" type="curve"/>
+      <point x="367" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="531" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="673" xScale="-1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

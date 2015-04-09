@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni207C" format="1">
+  <advance width="600"/>
+  <unicode hex="207C"/>
+  <outline>
+    <component base="equal.dnom" yOffset="315"/>
+  </outline>
+</glyph>

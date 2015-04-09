@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2081" format="1">
+  <advance width="600"/>
+  <unicode hex="2081"/>
+  <outline>
+    <component base="one.dnom" xOffset="30" yOffset="-193"/>
+  </outline>
+</glyph>

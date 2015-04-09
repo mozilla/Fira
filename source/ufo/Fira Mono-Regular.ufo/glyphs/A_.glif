@@ -27,13 +27,8 @@
     <contour>
       <point x="196" y="689" type="move" name="topleft"/>
     </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

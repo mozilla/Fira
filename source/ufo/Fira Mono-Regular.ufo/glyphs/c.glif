@@ -12,7 +12,7 @@
       <point x="340" y="463" type="curve" smooth="yes"/>
       <point x="386" y="463"/>
       <point x="430" y="447"/>
-      <point x="473" y="415" type="curve"/>
+      <point x="474" y="417" type="curve"/>
       <point x="518" y="477" type="line"/>
       <point x="468" y="518"/>
       <point x="409" y="539"/>
@@ -26,7 +26,7 @@
       <point x="403" y="-12"/>
       <point x="473" y="13"/>
       <point x="519" y="52" type="curve"/>
-      <point x="475" y="115" type="line"/>
+      <point x="475" y="112" type="line"/>
       <point x="436" y="85"/>
       <point x="392" y="66"/>
       <point x="340" y="66" type="curve" smooth="yes"/>
@@ -41,12 +41,4 @@
       <point x="339" y="0" type="move" name="bottomAttach"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

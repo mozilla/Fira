@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCE" format="1">
+  <advance width="600"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <contour>
+      <point x="300" y="591" type="line"/>
+      <point x="360" y="575" type="line"/>
+      <point x="430" y="776" type="line"/>
+      <point x="347" y="797" type="line"/>
+    </contour>
+    <component base="uni1FBF" xOffset="-84" yOffset="-7"/>
+    <contour>
+      <point x="453" y="798" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="263" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="261" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

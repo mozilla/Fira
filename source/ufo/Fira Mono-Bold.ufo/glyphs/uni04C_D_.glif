@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04CD" format="1">
+  <advance width="600"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="338" y="693" type="line"/>
+      <point x="286" y="246" type="line"/>
+      <point x="230" y="693" type="line"/>
+      <point x="60" y="693" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="168" y="292" type="line" smooth="yes"/>
+      <point x="170" y="404"/>
+      <point x="166" y="463"/>
+      <point x="158" y="559" type="curve"/>
+      <point x="221" y="118" type="line"/>
+      <point x="346" y="118" type="line"/>
+      <point x="404" y="559" type="line"/>
+      <point x="396" y="458"/>
+      <point x="391" y="405"/>
+      <point x="394" y="295" type="curve" smooth="yes"/>
+      <point x="402" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="508" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="154" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="414" y="-175" type="line"/>
+      <point x="531" y="-175" type="line"/>
+      <point x="631" y="154" type="line"/>
+    </contour>
+  </outline>
+</glyph>

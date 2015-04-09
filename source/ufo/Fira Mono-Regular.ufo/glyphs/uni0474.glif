@@ -4,27 +4,28 @@
   <unicode hex="0474"/>
   <outline>
     <contour>
-      <point x="470" y="664"/>
-      <point x="458" y="637"/>
-      <point x="436" y="561" type="curve" smooth="yes"/>
-      <point x="302" y="97" type="line"/>
-      <point x="124" y="689" type="line"/>
-      <point x="22" y="689" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="353" y="0" type="line"/>
-      <point x="522" y="538" type="line" smooth="yes"/>
-      <point x="545" y="612"/>
-      <point x="560" y="645"/>
-      <point x="587" y="684" type="curve"/>
-      <point x="493" y="701" type="line"/>
+      <point x="594" y="684" type="line"/>
+      <point x="574" y="694"/>
+      <point x="552" y="701"/>
+      <point x="523" y="701" type="curve" smooth="yes"/>
+      <point x="458" y="701"/>
+      <point x="421" y="668"/>
+      <point x="401" y="589" type="curve" smooth="yes"/>
+      <point x="280" y="103" type="line"/>
+      <point x="128" y="689" type="line"/>
+      <point x="26" y="689" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="487" y="577" type="line" smooth="yes"/>
+      <point x="497" y="613"/>
+      <point x="510" y="629"/>
+      <point x="535" y="629" type="curve" smooth="yes"/>
+      <point x="547" y="629"/>
+      <point x="556" y="626"/>
+      <point x="567" y="622" type="curve"/>
+    </contour>
+    <contour>
+      <point x="290" y="689" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

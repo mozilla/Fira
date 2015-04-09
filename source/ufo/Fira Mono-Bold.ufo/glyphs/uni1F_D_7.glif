@@ -4,15 +4,6 @@
   <unicode hex="1FD7"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresis" xOffset="-10"/>
-    <component base="uni1FC0" xOffset="-10" yOffset="187"/>
+    <component base="dieresistilde" xOffset="-10"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

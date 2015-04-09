@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="1">
+  <advance width="596"/>
+  <outline>
+    <contour>
+      <point x="312" y="242" type="line"/>
+      <point x="326" y="344" type="line"/>
+      <point x="65" y="344" type="line"/>
+      <point x="15" y="344" type="line"/>
+      <point x="0" y="242" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="12"/>
+  </outline>
+</glyph>

@@ -3,6 +3,5 @@
   <advance width="614"/>
   <outline>
     <component base="omega.sc"/>
-    <component base="gravecomb.sc" xOffset="135"/>
   </outline>
 </glyph>

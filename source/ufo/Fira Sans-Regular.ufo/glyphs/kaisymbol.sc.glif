@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaisymbol.sc" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="430" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="74" type="line"/>
+      <point x="430" y="74" type="line"/>
+    </contour>
+    <component base="k.sc"/>
+    <component base="hookHELPER" xOffset="250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookHELPER</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

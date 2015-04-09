@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04FD.sc" format="1">
+  <advance width="498"/>
+  <outline>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="466" y="74" type="line"/>
+      <point x="340" y="74" type="line"/>
+    </contour>
+    <component base="hookHELPER" xOffset="198"/>
+    <component base="x.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0507" format="1">
+  <advance width="406"/>
+  <unicode hex="0507"/>
+  <outline>
+    <contour>
+      <point x="187" y="228" type="line"/>
+      <point x="292" y="242"/>
+      <point x="364" y="297"/>
+      <point x="364" y="393" type="curve" smooth="yes"/>
+      <point x="364" y="476"/>
+      <point x="310" y="520"/>
+      <point x="183" y="520" type="curve" smooth="yes"/>
+      <point x="87" y="520" type="line"/>
+      <point x="83" y="492" type="line"/>
+      <point x="178" y="492" type="line" smooth="yes"/>
+      <point x="293" y="492"/>
+      <point x="333" y="459"/>
+      <point x="333" y="393" type="curve" smooth="yes"/>
+      <point x="333" y="307"/>
+      <point x="264" y="255"/>
+      <point x="150" y="255" type="curve" smooth="yes"/>
+      <point x="87" y="255" type="line"/>
+      <point x="84" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="247" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="199" y="252" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="307"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

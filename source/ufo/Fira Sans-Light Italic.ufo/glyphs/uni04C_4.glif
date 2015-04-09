@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C4" format="1">
+  <advance width="498"/>
+  <unicode hex="04C4"/>
+  <outline>
+    <contour>
+      <point x="454" y="527" type="line"/>
+      <point x="406" y="510"/>
+      <point x="386" y="483"/>
+      <point x="328" y="401" type="curve" smooth="yes"/>
+      <point x="234" y="268" type="line"/>
+      <point x="128" y="268" type="line"/>
+      <point x="163" y="517" type="line"/>
+      <point x="161" y="517" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="128" y="266" type="line"/>
+      <point x="231" y="266" type="line"/>
+      <point x="236" y="267" type="line"/>
+      <point x="330" y="400" type="line" smooth="yes"/>
+      <point x="388" y="482"/>
+      <point x="407" y="508"/>
+      <point x="455" y="525" type="curve"/>
+    </contour>
+    <contour>
+      <point x="226" y="266" type="line"/>
+      <point x="366" y="266"/>
+      <point x="392" y="217"/>
+      <point x="377" y="118" type="curve" smooth="yes"/>
+      <point x="361" y="0" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="379" y="118" type="line" smooth="yes"/>
+      <point x="394" y="218"/>
+      <point x="367" y="268"/>
+      <point x="226" y="268" type="curve"/>
+    </contour>
+    <component base="hookHELPER" xOffset="193"/>
+  </outline>
+</glyph>

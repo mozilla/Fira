@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04FC" format="1">
+  <advance width="636"/>
+  <unicode hex="04FC"/>
+  <outline>
+    <contour>
+      <point x="430" y="0" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="636" y="154" type="line"/>
+      <point x="430" y="154" type="line"/>
+    </contour>
+    <component base="hookHELPER.case" xOffset="218"/>
+    <component base="X"/>
+  </outline>
+</glyph>

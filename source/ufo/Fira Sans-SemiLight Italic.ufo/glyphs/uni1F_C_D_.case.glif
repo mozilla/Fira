@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD.case" format="1">
+  <advance width="162"/>
+  <outline>
+    <contour>
+      <point x="258" y="519" type="line"/>
+      <point x="233" y="683" type="line"/>
+      <point x="195" y="670" type="line"/>
+      <point x="234" y="511" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="512" type="line"/>
+      <point x="138" y="597" type="line" smooth="yes"/>
+      <point x="156" y="628"/>
+      <point x="162" y="638"/>
+      <point x="164" y="653" type="curve" smooth="yes"/>
+      <point x="167" y="671"/>
+      <point x="157" y="686"/>
+      <point x="134" y="686" type="curve" smooth="yes"/>
+      <point x="116" y="686"/>
+      <point x="102" y="673"/>
+      <point x="100" y="657" type="curve" smooth="yes"/>
+      <point x="97" y="640"/>
+      <point x="104" y="630"/>
+      <point x="116" y="625" type="curve"/>
+      <point x="65" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="682" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="195" y="686" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmalunatesymbol.sc" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="179" y="568"/>
+      <point x="75" y="473"/>
+      <point x="75" y="280" type="curve" smooth="yes"/>
+      <point x="75" y="92"/>
+      <point x="174" y="-8"/>
+      <point x="314" y="-8" type="curve" smooth="yes"/>
+      <point x="391" y="-8"/>
+      <point x="438" y="16"/>
+      <point x="483" y="46" type="curve"/>
+      <point x="465" y="67" type="line"/>
+      <point x="422" y="40"/>
+      <point x="388" y="19"/>
+      <point x="315" y="19" type="curve" smooth="yes"/>
+      <point x="195" y="19"/>
+      <point x="106" y="104"/>
+      <point x="106" y="280" type="curve" smooth="yes"/>
+      <point x="106" y="465"/>
+      <point x="197" y="541"/>
+      <point x="318" y="541" type="curve" smooth="yes"/>
+      <point x="380" y="541"/>
+      <point x="412" y="527"/>
+      <point x="460" y="498" type="curve"/>
+      <point x="476" y="519" type="line"/>
+      <point x="429" y="549"/>
+      <point x="390" y="568"/>
+      <point x="316" y="568" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="311" y="282" type="move" name="center"/>
+    </contour>
+  </outline>
+</glyph>

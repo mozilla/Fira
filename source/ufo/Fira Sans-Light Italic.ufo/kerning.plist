@@ -2088,6 +2088,17 @@
 		<key>@MMK_R_one</key>
 		<integer>-10</integer>
 	</dict>
+	<key>@MMK_L_dasia.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-90</integer>
+		<key>@MMK_R_O</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Y</key>
+		<integer>50</integer>
+	</dict>
 	<key>@MMK_L_decy.sc</key>
 	<dict>
 		<key>@MMK_R_a.sc</key>
@@ -2922,6 +2933,15 @@
 		<key>@MMK_R_underscore</key>
 		<integer>-50</integer>
 	</dict>
+	<key>@MMK_L_psiliperispomeni.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-140</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Y</key>
+		<integer>70</integer>
+	</dict>
 	<key>@MMK_L_question</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -3499,6 +3519,17 @@
 		<integer>-10</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_tonos.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-80</integer>
+		<key>@MMK_R_O</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Y</key>
+		<integer>80</integer>
 	</dict>
 	<key>@MMK_L_tsecy</key>
 	<dict>

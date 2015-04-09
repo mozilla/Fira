@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="1">
-  <advance width="510"/>
+  <advance width="511"/>
   <unicode hex="0114"/>
   <outline>
     <component base="E"/>
-    <component base="uni0306.case" xOffset="57"/>
+    <component base="uni0306.case" xOffset="58"/>
   </outline>
 </glyph>

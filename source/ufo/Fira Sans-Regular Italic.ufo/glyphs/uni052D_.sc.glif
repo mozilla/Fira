@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052D.sc" format="1">
+  <advance width="592"/>
+  <outline>
+    <contour>
+      <point x="461" y="0" type="line"/>
+      <point x="541" y="564" type="line"/>
+      <point x="253" y="564" type="line"/>
+      <point x="208" y="401" type="line" smooth="yes"/>
+      <point x="145" y="166"/>
+      <point x="107" y="113"/>
+      <point x="51" y="70" type="curve"/>
+      <point x="131" y="67" type="line"/>
+      <point x="201" y="111"/>
+      <point x="239" y="172"/>
+      <point x="297" y="396" type="curve" smooth="yes"/>
+      <point x="322" y="491" type="line"/>
+      <point x="439" y="491" type="line"/>
+      <point x="381" y="74" type="line"/>
+      <point x="60" y="74" type="line"/>
+      <point x="49" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="269" type="line"/>
+      <point x="457" y="342" type="line"/>
+      <point x="250" y="342" type="line" smooth="yes"/>
+      <point x="179" y="342"/>
+      <point x="146" y="363"/>
+      <point x="159" y="450" type="curve" smooth="yes"/>
+      <point x="175" y="564" type="line"/>
+      <point x="85" y="564" type="line"/>
+      <point x="69" y="454" type="line" smooth="yes"/>
+      <point x="52" y="335"/>
+      <point x="103" y="269"/>
+      <point x="238" y="269" type="curve" smooth="yes"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="394"/>
+    <component base="descStraightleft-cy" xOffset="-19"/>
+  </outline>
+</glyph>

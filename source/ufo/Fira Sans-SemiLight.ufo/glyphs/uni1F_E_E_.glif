@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEE" format="1">
+  <advance width="283"/>
+  <unicode hex="1FEE"/>
+  <outline>
+    <component base="dieresisacutecomb"/>
+    <contour>
+      <point x="142" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaisymbol.sc" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="438" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="2" type="line"/>
+      <point x="438" y="2" type="line"/>
+    </contour>
+    <component base="k.sc"/>
+    <component base="hookHELPER" xOffset="287"/>
+  </outline>
+</glyph>

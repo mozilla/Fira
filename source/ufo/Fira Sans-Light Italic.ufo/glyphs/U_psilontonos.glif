@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="1">
-  <advance width="479"/>
+  <advance width="581"/>
   <unicode hex="038E"/>
   <outline>
-    <component base="Y"/>
-    <component base="tonos.case" xOffset="-70"/>
+    <component base="tonos.case"/>
+    <component base="Y" xOffset="102"/>
   </outline>
 </glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03D0" format="1">
+  <advance width="568"/>
+  <unicode hex="03D0"/>
+  <outline>
+    <component base="beta.ss10"/>
+  </outline>
+</glyph>

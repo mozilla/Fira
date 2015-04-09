@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCF" format="1">
+  <advance width="454"/>
+  <unicode hex="1FCF"/>
+  <outline>
+    <contour>
+      <point x="269" y="583" type="line"/>
+      <point x="327" y="656" type="line" smooth="yes"/>
+      <point x="344" y="680"/>
+      <point x="355" y="701"/>
+      <point x="355" y="728" type="curve" smooth="yes"/>
+      <point x="355" y="775"/>
+      <point x="323" y="808"/>
+      <point x="275" y="808" type="curve" smooth="yes"/>
+      <point x="220" y="808"/>
+      <point x="173" y="768"/>
+      <point x="173" y="709" type="curve" smooth="yes"/>
+      <point x="173" y="677"/>
+      <point x="185" y="658"/>
+      <point x="205" y="644" type="curve"/>
+      <point x="177" y="583" type="line"/>
+    </contour>
+    <component base="uni1FC0" xOffset="-2" yOffset="197"/>
+    <contour>
+      <point x="223" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1FC0</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

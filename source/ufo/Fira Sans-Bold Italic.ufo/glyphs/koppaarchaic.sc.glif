@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppaarchaic.sc" format="1">
+  <advance width="598"/>
+  <outline>
+    <contour>
+      <point x="326" y="-215" type="line"/>
+      <point x="358" y="15" type="line"/>
+      <point x="160" y="15" type="line"/>
+      <point x="128" y="-215" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

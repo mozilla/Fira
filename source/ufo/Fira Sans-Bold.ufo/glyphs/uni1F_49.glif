@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F49" format="1">
+  <advance width="924"/>
+  <unicode hex="1F49"/>
+  <outline>
+    <component base="uni1FFE.case"/>
+    <component base="Omicron" xOffset="234"/>
+  </outline>
+</glyph>

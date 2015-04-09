@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A4" format="1">
+  <advance width="669"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="582" y="678" type="line"/>
+      <point x="728" y="678" type="line"/>
+      <point x="728" y="680" type="line"/>
+      <point x="581" y="680" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+</glyph>

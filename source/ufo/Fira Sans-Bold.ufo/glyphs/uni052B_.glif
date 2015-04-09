@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052B" format="1">
+  <advance width="961"/>
+  <unicode hex="052B"/>
+  <outline>
+    <contour>
+      <point x="444" y="0" type="line"/>
+      <point x="444" y="534" type="line"/>
+      <point x="109" y="534" type="line"/>
+      <point x="94" y="363" type="line" smooth="yes"/>
+      <point x="79" y="196"/>
+      <point x="57" y="162"/>
+      <point x="31" y="142" type="curve"/>
+      <point x="174" y="135" type="line"/>
+      <point x="206" y="170"/>
+      <point x="229" y="240"/>
+      <point x="248" y="379" type="curve"/>
+      <point x="251" y="410" type="line"/>
+      <point x="275" y="410" type="line"/>
+      <point x="275" y="142" type="line"/>
+      <point x="31" y="142" type="line"/>
+      <point x="34" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="659" y="219" type="line"/>
+      <point x="659" y="329" type="line"/>
+      <point x="363" y="329" type="line"/>
+      <point x="363" y="219" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="0" type="line"/>
+      <point x="690" y="221" type="line"/>
+      <point x="701" y="221" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="863" y="286" type="line"/>
+      <point x="962" y="534" type="line"/>
+      <point x="779" y="534" type="line"/>
+      <point x="706" y="327" type="line"/>
+      <point x="690" y="327" type="line"/>
+      <point x="690" y="534" type="line"/>
+      <point x="512" y="534" type="line"/>
+      <point x="512" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="0" type="line"/>
+      <point x="615" y="142" type="line"/>
+      <point x="462" y="142" type="line"/>
+      <point x="462" y="0" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="256"/>
+    <component base="descStraight-cy" xOffset="242" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

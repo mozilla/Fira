@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC2" format="1">
-  <advance width="510"/>
+  <advance width="511"/>
   <unicode hex="1EC2"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexhookabove.case" xOffset="27"/>
+    <component base="circumflexhookabove.case" xOffset="28"/>
   </outline>
 </glyph>

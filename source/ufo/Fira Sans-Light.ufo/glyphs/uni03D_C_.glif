@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03DC" format="1">
+  <advance width="541"/>
+  <unicode hex="03DC"/>
+  <outline>
+    <contour>
+      <point x="428" y="342" type="line"/>
+      <point x="409" y="352"/>
+      <point x="389" y="359"/>
+      <point x="359" y="359" type="curve" smooth="yes"/>
+      <point x="130" y="359" type="line"/>
+      <point x="130" y="357" type="line"/>
+      <point x="359" y="357" type="line" smooth="yes"/>
+      <point x="388" y="357"/>
+      <point x="409" y="350"/>
+      <point x="427" y="340" type="curve"/>
+    </contour>
+    <component base="Gamma"/>
+  </outline>
+</glyph>

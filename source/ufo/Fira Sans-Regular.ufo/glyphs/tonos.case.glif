@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="1">
-  <advance width="202"/>
+  <advance width="102"/>
   <outline>
     <contour>
       <point x="30" y="501" type="line"/>

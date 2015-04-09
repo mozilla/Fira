@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilontonos" format="1">
-  <advance width="634"/>
+  <advance width="777"/>
   <unicode hex="0388"/>
   <outline>
-    <component base="E" xOffset="114"/>
-    <component base="tonos.case" xOffset="-130"/>
+    <component base="tonos.case"/>
+    <component base="E" xOffset="257"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

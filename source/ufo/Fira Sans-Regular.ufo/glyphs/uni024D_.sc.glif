@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni024D.sc" format="1">
-  <advance width="544"/>
+  <advance width="552"/>
   <outline>
     <contour>
-      <point x="197" y="302" type="line"/>
-      <point x="92" y="302" type="line"/>
-      <point x="20" y="302" type="line"/>
-      <point x="20" y="234" type="line"/>
-      <point x="294" y="234" type="line"/>
+      <point x="205" y="302" type="line"/>
+      <point x="100" y="302" type="line"/>
+      <point x="28" y="302" type="line"/>
+      <point x="28" y="234" type="line"/>
+      <point x="302" y="234" type="line"/>
     </contour>
-    <component base="r.sc" xOffset="-8"/>
+    <component base="r.sc"/>
   </outline>
 </glyph>

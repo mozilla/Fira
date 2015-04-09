@@ -3,7 +3,7 @@
   <advance width="558"/>
   <unicode hex="1FBA"/>
   <outline>
+    <component base="uni1FEF.case" xOffset="40"/>
     <component base="Alpha"/>
-    <component base="gravecomb.case" xOffset="151"/>
   </outline>
 </glyph>

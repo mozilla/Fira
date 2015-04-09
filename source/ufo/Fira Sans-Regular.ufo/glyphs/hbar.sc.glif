@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar.sc" format="1">
-  <advance width="602"/>
+  <advance width="612"/>
   <outline>
     <contour>
-      <point x="513" y="490" type="line"/>
+      <point x="518" y="490" type="line"/>
       <point x="35" y="490" type="line"/>
       <point x="35" y="422" type="line"/>
-      <point x="89" y="422" type="line"/>
-      <point x="567" y="422" type="line"/>
-      <point x="567" y="490" type="line"/>
+      <point x="94" y="422" type="line"/>
+      <point x="577" y="422" type="line"/>
+      <point x="577" y="490" type="line"/>
     </contour>
-    <component base="h.sc" xOffset="-11"/>
+    <component base="h.sc" xOffset="-6"/>
   </outline>
 </glyph>

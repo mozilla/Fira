@@ -15,9 +15,12 @@
       <point x="264" y="330" type="curve" smooth="yes"/>
       <point x="279" y="393" type="line"/>
       <point x="339" y="393" type="line"/>
-      <point x="285" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
       <point x="477" y="0" type="line"/>
       <point x="551" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
 </glyph>

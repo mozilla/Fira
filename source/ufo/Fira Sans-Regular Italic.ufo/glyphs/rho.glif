@@ -35,5 +35,8 @@
       <point x="242" y="467"/>
       <point x="333" y="467" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="334" y="527" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

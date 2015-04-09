@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C4" format="1">
+  <advance width="568"/>
+  <unicode hex="04C4"/>
+  <outline>
+    <contour>
+      <point x="375" y="534" type="line"/>
+      <point x="272" y="321" type="line"/>
+      <point x="240" y="321" type="line"/>
+      <point x="240" y="534" type="line"/>
+      <point x="42" y="534" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="211" type="line"/>
+      <point x="310" y="210" type="line"/>
+      <point x="419" y="278" type="line"/>
+      <point x="558" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="210" type="line"/>
+      <point x="338" y="210"/>
+      <point x="350" y="197"/>
+      <point x="350" y="168" type="curve" smooth="yes"/>
+      <point x="350" y="0" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="548" y="162" type="line" smooth="yes"/>
+      <point x="548" y="264"/>
+      <point x="493" y="322"/>
+      <point x="374" y="322" type="curve"/>
+    </contour>
+    <component base="hookHELPER" xOffset="146"/>
+  </outline>
+</glyph>

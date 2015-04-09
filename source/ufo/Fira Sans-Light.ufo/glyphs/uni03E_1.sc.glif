@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03E1.sc" format="1">
+  <advance width="488"/>
+  <outline>
+    <contour>
+      <point x="453" y="0" type="line"/>
+      <point x="223" y="557" type="line"/>
+      <point x="221" y="557" type="line"/>
+      <point x="246" y="497" type="line"/>
+      <point x="451" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="247" y="498" type="line"/>
+      <point x="246" y="499" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="328" y="302" type="line"/>
+      <point x="327" y="304" type="line"/>
+      <point x="216" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -34,7 +34,7 @@
       <point x="398" y="574"/>
       <point x="316" y="574" type="curve" smooth="yes"/>
     </contour>
-    <component base="hyphen" xOffset="263" yOffset="-111" xScale="0.9" yScale="0.9"/>
+    <component base="hyphen" xOffset="263" yOffset="-106" xScale="0.9" yScale="0.88"/>
   </outline>
   <lib>
     <dict>

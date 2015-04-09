@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0463.sc" format="1">
-  <advance width="595"/>
+  <advance width="516"/>
   <outline>
     <contour>
-      <point x="62" y="557" type="line"/>
-      <point x="62" y="555" type="line"/>
-      <point x="436" y="555" type="line"/>
-      <point x="436" y="557" type="line"/>
+      <point x="238" y="0" type="line" smooth="yes"/>
+      <point x="396" y="0"/>
+      <point x="445" y="104"/>
+      <point x="445" y="192" type="curve" smooth="yes"/>
+      <point x="445" y="277"/>
+      <point x="386" y="327"/>
+      <point x="281" y="327" type="curve" smooth="yes"/>
+      <point x="155" y="327" type="line"/>
+      <point x="154" y="325" type="line"/>
+      <point x="281" y="325" type="line" smooth="yes"/>
+      <point x="386" y="325"/>
+      <point x="443" y="275"/>
+      <point x="443" y="192" type="curve" smooth="yes"/>
+      <point x="443" y="105"/>
+      <point x="395" y="2"/>
+      <point x="238" y="2" type="curve" smooth="yes"/>
+      <point x="110" y="2" type="line"/>
+      <point x="188" y="557" type="line"/>
+      <point x="186" y="557" type="line"/>
+      <point x="107" y="0" type="line"/>
     </contour>
-    <component base="uni044C.sc" xOffset="77"/>
+    <contour>
+      <point x="331" y="461" type="line"/>
+      <point x="331" y="463" type="line"/>
+      <point x="173" y="463" type="line"/>
+      <point x="29" y="463" type="line"/>
+      <point x="29" y="461" type="line"/>
+    </contour>
   </outline>
 </glyph>

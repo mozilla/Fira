@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F74.sc" format="1">
-  <advance width="586"/>
+  <advance width="587"/>
   <outline>
-    <component base="eta.sc"/>
-    <component base="gravecomb.sc" xOffset="118"/>
+    <component base="h.sc"/>
   </outline>
 </glyph>

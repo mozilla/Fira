@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0495.sc" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="162" y="560" type="line"/>
+      <point x="181" y="532" type="line"/>
+      <point x="438" y="532" type="line"/>
+      <point x="444" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="560" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="192" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="360"/>
+      <point x="196" y="328"/>
+      <point x="146" y="280" type="curve"/>
+      <point x="143" y="244" type="line"/>
+      <point x="202" y="303"/>
+      <point x="256" y="332"/>
+      <point x="326" y="332" type="curve" smooth="yes"/>
+      <point x="419" y="332"/>
+      <point x="450" y="283"/>
+      <point x="440" y="208" type="curve" smooth="yes"/>
+      <point x="411" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="470" y="208" type="line" smooth="yes"/>
+      <point x="483" y="301"/>
+      <point x="436" y="360"/>
+      <point x="327" y="360" type="curve"/>
+    </contour>
+    <component base="hookHELPER" xOffset="243"/>
+  </outline>
+</glyph>

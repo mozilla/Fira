@@ -11,4 +11,19 @@
     </contour>
     <component base="uni04BA" xOffset="106"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni04BA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

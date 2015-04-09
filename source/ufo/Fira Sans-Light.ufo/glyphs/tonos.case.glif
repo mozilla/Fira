@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="1">
-  <advance width="92"/>
+  <advance width="22"/>
   <outline>
     <contour>
       <point x="30" y="572" type="line"/>
@@ -9,7 +9,7 @@
       <point x="60" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="680" type="move" name="_topleft"/>
+      <point x="82" y="680" type="move" name="_topleft"/>
     </contour>
   </outline>
 </glyph>

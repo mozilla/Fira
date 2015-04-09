@@ -4,8 +4,5 @@
   <unicode hex="0391"/>
   <outline>
     <component base="A"/>
-    <contour>
-      <point x="343" y="689" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>

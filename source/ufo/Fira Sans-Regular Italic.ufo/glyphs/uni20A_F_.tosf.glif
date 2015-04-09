@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AF.tosf" format="1">
+  <advance width="1120"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line" smooth="yes"/>
+      <point x="487" y="0"/>
+      <point x="619" y="174"/>
+      <point x="619" y="413" type="curve" smooth="yes"/>
+      <point x="619" y="604"/>
+      <point x="493" y="669"/>
+      <point x="316" y="669" type="curve" smooth="yes"/>
+      <point x="245" y="669" type="line"/>
+      <point x="235" y="594" type="line"/>
+      <point x="328" y="594" type="line" smooth="yes"/>
+      <point x="444" y="594"/>
+      <point x="518" y="549"/>
+      <point x="518" y="410" type="curve" smooth="yes"/>
+      <point x="518" y="231"/>
+      <point x="447" y="77"/>
+      <point x="261" y="75" type="curve" smooth="yes"/>
+      <point x="79" y="73" type="line"/>
+      <point x="69" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="682" y="-202" type="line"/>
+      <point x="746" y="255" type="line" smooth="yes"/>
+      <point x="765" y="392"/>
+      <point x="807" y="467"/>
+      <point x="900" y="467" type="curve" smooth="yes"/>
+      <point x="963" y="467"/>
+      <point x="997" y="427"/>
+      <point x="997" y="334" type="curve" smooth="yes"/>
+      <point x="997" y="208"/>
+      <point x="950" y="63"/>
+      <point x="833" y="63" type="curve" smooth="yes"/>
+      <point x="780" y="63"/>
+      <point x="739" y="91"/>
+      <point x="722" y="151" type="curve"/>
+      <point x="708" y="74" type="line"/>
+      <point x="734" y="12"/>
+      <point x="784" y="-12"/>
+      <point x="846" y="-12" type="curve" smooth="yes"/>
+      <point x="1002" y="-12"/>
+      <point x="1094" y="157"/>
+      <point x="1094" y="334" type="curve" smooth="yes"/>
+      <point x="1094" y="466"/>
+      <point x="1028" y="539"/>
+      <point x="906" y="539" type="curve" smooth="yes"/>
+      <point x="767" y="539"/>
+      <point x="682" y="450"/>
+      <point x="657" y="272" type="curve" smooth="yes"/>
+      <point x="589" y="-213" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="74" type="line"/>
+      <point x="244" y="105"/>
+      <point x="264" y="138"/>
+      <point x="273" y="203" type="curve" smooth="yes"/>
+      <point x="321" y="547" type="line"/>
+      <point x="228" y="547" type="line"/>
+      <point x="179" y="206" type="line" smooth="yes"/>
+      <point x="167" y="124"/>
+      <point x="149" y="98"/>
+      <point x="78" y="73" type="curve"/>
+      <point x="69" y="0" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2.case" xOffset="6" yOffset="-20"/>
+  </outline>
+</glyph>

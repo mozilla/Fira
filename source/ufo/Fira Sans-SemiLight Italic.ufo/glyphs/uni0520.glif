@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0520" format="1">
+  <advance width="949"/>
+  <unicode hex="0520"/>
+  <outline>
+    <contour>
+      <point x="643" y="424"/>
+      <point x="578" y="388"/>
+      <point x="519" y="328" type="curve"/>
+      <point x="515" y="286" type="line"/>
+      <point x="582" y="359"/>
+      <point x="647" y="395"/>
+      <point x="729" y="395" type="curve" smooth="yes"/>
+      <point x="838" y="395"/>
+      <point x="873" y="333"/>
+      <point x="860" y="242" type="curve" smooth="yes"/>
+      <point x="826" y="0" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="891" y="242" type="line" smooth="yes"/>
+      <point x="907" y="353"/>
+      <point x="855" y="424"/>
+      <point x="730" y="424" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni041B"/>
+    <component base="hookHELPER.case" xOffset="659"/>
+  </outline>
+</glyph>

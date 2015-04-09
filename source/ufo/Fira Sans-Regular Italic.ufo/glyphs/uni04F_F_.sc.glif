@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04FF.sc" format="1">
+  <advance width="471"/>
+  <outline>
+    <contour>
+      <point x="64" y="564" type="line"/>
+      <point x="186" y="301" type="line"/>
+      <point x="236" y="249" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="293" y="304" type="line"/>
+      <point x="246" y="351" type="line"/>
+      <point x="159" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="564" type="line"/>
+      <point x="246" y="351" type="line"/>
+      <point x="186" y="301" type="line"/>
+      <point x="-33" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="236" y="249" type="line"/>
+      <point x="293" y="304" type="line"/>
+      <point x="492" y="564" type="line"/>
+    </contour>
+    <component base="hyphen" xOffset="-30" yOffset="20" xScale="1.3" yScale="0.9"/>
+  </outline>
+</glyph>

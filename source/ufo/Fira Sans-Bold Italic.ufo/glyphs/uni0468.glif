@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0468" format="1">
+  <advance width="937"/>
+  <unicode hex="0468"/>
+  <outline>
+    <contour>
+      <point x="483" y="382" type="line"/>
+      <point x="262" y="382" type="line"/>
+      <point x="306" y="696" type="line"/>
+      <point x="104" y="696" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="242" y="239" type="line"/>
+      <point x="463" y="239" type="line"/>
+    </contour>
+    <component base="uni0466" xOffset="286" xScale="0.98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0466</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

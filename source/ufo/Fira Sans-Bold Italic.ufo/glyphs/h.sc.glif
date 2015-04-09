@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h.sc" format="1">
-  <advance width="586"/>
+  <advance width="587"/>
   <outline>
     <contour>
-      <point x="392" y="571" type="line"/>
-      <point x="364" y="370" type="line"/>
-      <point x="251" y="370" type="line"/>
-      <point x="279" y="571" type="line"/>
-      <point x="86" y="571" type="line"/>
-      <point x="6" y="0" type="line"/>
-      <point x="199" y="0" type="line"/>
-      <point x="230" y="220" type="line"/>
-      <point x="343" y="220" type="line"/>
-      <point x="312" y="0" type="line"/>
-      <point x="506" y="0" type="line"/>
-      <point x="586" y="571" type="line"/>
+      <point x="393" y="571" type="line"/>
+      <point x="365" y="370" type="line"/>
+      <point x="253" y="370" type="line"/>
+      <point x="281" y="571" type="line"/>
+      <point x="87" y="571" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="232" y="220" type="line"/>
+      <point x="344" y="220" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="587" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="296" y="286" type="move" name="center"/>
+      <point x="297" y="286" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="515" y="0" type="move" name="bottomright"/>
+      <point x="516" y="0" type="move" name="bottomright"/>
     </contour>
     <contour>
-      <point x="336" y="571" type="move" name="top"/>
+      <point x="337" y="571" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

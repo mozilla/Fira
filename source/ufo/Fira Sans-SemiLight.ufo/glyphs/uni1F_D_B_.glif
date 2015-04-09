@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDB" format="1">
-  <advance width="271"/>
+  <advance width="311"/>
   <unicode hex="1FDB"/>
   <outline>
-    <component base="Iota"/>
-    <component base="acutecomb.case" xOffset="8"/>
+    <component base="uni1FFD.case"/>
+    <component base="I" xOffset="40"/>
   </outline>
 </glyph>

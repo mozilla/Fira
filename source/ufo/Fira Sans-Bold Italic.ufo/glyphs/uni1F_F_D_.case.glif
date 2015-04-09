@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFD.case" format="1">
+  <advance width="257"/>
+  <outline>
+    <component base="tonos.case"/>
+  </outline>
+</glyph>

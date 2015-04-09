@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBA" format="1">
-  <advance width="510"/>
+  <advance width="511"/>
   <unicode hex="1EBA"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb.case" xOffset="127"/>
+    <component base="hookabovecomb.case" xOffset="128"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex.sc" format="1">
-  <advance width="586"/>
+  <advance width="587"/>
   <outline>
     <component base="h.sc"/>
-    <component base="uni0302.sc" xOffset="68"/>
+    <component base="uni0302.sc" xOffset="69"/>
   </outline>
 </glyph>

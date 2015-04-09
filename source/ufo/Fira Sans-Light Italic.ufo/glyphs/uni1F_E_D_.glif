@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FED" format="1">
+  <advance width="221"/>
+  <unicode hex="1FED"/>
+  <outline>
+    <component base="dieresisgravecomb"/>
+    <contour>
+      <point x="111" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE.case" format="1">
+  <advance width="167"/>
+  <outline>
+    <contour>
+      <point x="180" y="518" type="line"/>
+      <point x="202" y="510" type="line"/>
+      <point x="288" y="671" type="line"/>
+      <point x="253" y="685" type="line"/>
+    </contour>
+    <component base="uni1FFE" xOffset="-8" yOffset="-80"/>
+  </outline>
+</glyph>

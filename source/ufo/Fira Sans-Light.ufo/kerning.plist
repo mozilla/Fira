@@ -2147,6 +2147,17 @@
 		<key>@MMK_R_one</key>
 		<integer>-10</integer>
 	</dict>
+	<key>@MMK_L_dasia.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-90</integer>
+		<key>@MMK_R_O</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Y</key>
+		<integer>70</integer>
+	</dict>
 	<key>@MMK_L_decy</key>
 	<dict>
 		<key>@MMK_R_a</key>
@@ -2426,11 +2437,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_t</key>
 		<integer>10</integer>
-	</dict>
-	<key>@MMK_L_gecy</key>
-	<dict>
-		<key>@MMK_R_period</key>
-		<integer>-110</integer>
 	</dict>
 	<key>@MMK_L_guilsinglleft</key>
 	<dict>
@@ -3013,6 +3019,17 @@
 		<key>@MMK_R_underscore</key>
 		<integer>-50</integer>
 	</dict>
+	<key>@MMK_L_psiliperispomeni.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-140</integer>
+		<key>@MMK_R_O</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Y</key>
+		<integer>70</integer>
+	</dict>
 	<key>@MMK_L_question</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -3551,15 +3568,6 @@
 		<key>@MMK_R_v.sc</key>
 		<integer>10</integer>
 	</dict>
-	<key>@MMK_L_tecy</key>
-	<dict>
-		<key>@MMK_R_decy</key>
-		<integer>-30</integer>
-		<key>@MMK_R_o</key>
-		<integer>-10</integer>
-		<key>@MMK_R_period</key>
-		<integer>-60</integer>
-	</dict>
 	<key>@MMK_L_thorn.sc</key>
 	<dict>
 		<key>@MMK_R_asterisk</key>
@@ -3614,6 +3622,17 @@
 		<integer>-10</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_tonos.case</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-80</integer>
+		<key>@MMK_R_O</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Omega</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Y</key>
+		<integer>80</integer>
 	</dict>
 	<key>@MMK_L_tsecy</key>
 	<dict>

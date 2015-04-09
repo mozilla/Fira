@@ -2,7 +2,6 @@
 <glyph name="uni1F71.sc" format="1">
   <advance width="492"/>
   <outline>
-    <component base="alpha.sc"/>
-    <component base="acutecomb.sc" xOffset="122"/>
+    <component base="a.sc"/>
   </outline>
 </glyph>

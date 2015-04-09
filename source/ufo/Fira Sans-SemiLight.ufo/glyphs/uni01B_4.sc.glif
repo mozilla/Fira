@@ -25,5 +25,8 @@
       <point x="207" y="221" type="line"/>
       <point x="207" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="226" y="560" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

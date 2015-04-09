@@ -2,7 +2,6 @@
 <glyph name="uni1FE7.sc" format="1">
   <advance width="482"/>
   <outline>
-    <component base="upsilon.sc"/>
-    <component base="dieresistilde" xOffset="49" yOffset="37"/>
+    <component base="y.sc"/>
   </outline>
 </glyph>

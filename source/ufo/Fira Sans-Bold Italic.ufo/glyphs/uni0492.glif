@@ -11,5 +11,8 @@
       <point x="407" y="433" type="line"/>
     </contour>
     <component base="uni0413" xOffset="7"/>
+    <contour>
+      <point x="225" y="0" type="move" name="bottomright"/>
+    </contour>
   </outline>
 </glyph>

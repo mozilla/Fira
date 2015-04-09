@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049F.sc" format="1">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="248" y="445" type="line"/>
+      <point x="252" y="471" type="line"/>
+      <point x="109" y="471" type="line"/>
+      <point x="55" y="471" type="line"/>
+      <point x="51" y="445" type="line"/>
+    </contour>
+    <component base="uni043A.sc" xOffset="-41"/>
+  </outline>
+</glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0289.sc" format="1">
-  <advance width="589"/>
+  <advance width="599"/>
   <outline>
     <contour>
-      <point x="479" y="437" type="line"/>
-      <point x="52" y="437" type="line"/>
-      <point x="52" y="413" type="line"/>
-      <point x="110" y="413" type="line"/>
-      <point x="537" y="413" type="line"/>
-      <point x="537" y="437" type="line"/>
+      <point x="484" y="437" type="line"/>
+      <point x="57" y="437" type="line"/>
+      <point x="57" y="413" type="line"/>
+      <point x="115" y="413" type="line"/>
+      <point x="542" y="413" type="line"/>
+      <point x="542" y="437" type="line"/>
     </contour>
-    <component base="u.sc"/>
+    <component base="u.sc" xOffset="5"/>
   </outline>
 </glyph>

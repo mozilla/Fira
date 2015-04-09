@@ -3,6 +3,6 @@
   <advance width="429"/>
   <outline>
     <component base="f.sc"/>
-    <component base="hookHELPER" xOffset="-162"/>
+    <component base="hookHELPER" xOffset="-161"/>
   </outline>
 </glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni048B.sc" format="1">
+  <advance width="651"/>
+  <outline>
+    <component base="uni0438.sc" xOffset="1"/>
+    <component base="breve-cy.sc" xOffset="84"/>
+    <component base="descTail-cy" xOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0438.sc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

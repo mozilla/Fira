@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FB6" format="1">
-  <advance width="579"/>
+  <advance width="574"/>
   <unicode hex="1FB6"/>
   <outline>
     <component base="alpha"/>
-    <component base="uni1FC0" xOffset="139"/>
+    <component base="uni1FC0" xOffset="134"/>
   </outline>
 </glyph>

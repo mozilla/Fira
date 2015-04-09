@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="1">
-  <advance width="196"/>
+  <advance width="102"/>
   <outline>
     <contour>
-      <point x="60" y="501" type="line"/>
-      <point x="129" y="490" type="line"/>
-      <point x="229" y="689" type="line"/>
-      <point x="126" y="707" type="line"/>
+      <point x="66" y="501" type="line"/>
+      <point x="132" y="490" type="line"/>
+      <point x="233" y="689" type="line"/>
+      <point x="132" y="707" type="line"/>
     </contour>
     <contour>
-      <point x="145" y="527" type="move" name="_topleft"/>
+      <point x="242" y="689" type="move" name="_topleft"/>
     </contour>
   </outline>
 </glyph>

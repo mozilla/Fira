@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="1">
-  <advance width="727"/>
+  <advance width="905"/>
   <unicode hex="038E"/>
   <outline>
-    <component base="Y" xOffset="119"/>
-    <component base="tonos.case" xOffset="-175"/>
+    <component base="tonos.case"/>
+    <component base="Y" xOffset="297"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Y</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

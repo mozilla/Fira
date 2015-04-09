@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C9" format="1">
+  <advance width="690"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <component base="H"/>
+    <component base="descTail-cy.case" xOffset="501"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

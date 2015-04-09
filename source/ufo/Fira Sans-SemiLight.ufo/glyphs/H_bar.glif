@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="1">
-  <advance width="652"/>
+  <advance width="662"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="537" y="542" type="line"/>
-      <point x="52" y="542" type="line"/>
-      <point x="52" y="518" type="line"/>
-      <point x="115" y="518" type="line"/>
-      <point x="600" y="518" type="line"/>
-      <point x="600" y="542" type="line"/>
+      <point x="542" y="542" type="line"/>
+      <point x="57" y="542" type="line"/>
+      <point x="57" y="518" type="line"/>
+      <point x="120" y="518" type="line"/>
+      <point x="605" y="518" type="line"/>
+      <point x="605" y="542" type="line"/>
     </contour>
-    <component base="H" xOffset="-5"/>
+    <component base="H"/>
   </outline>
   <lib>
     <dict>

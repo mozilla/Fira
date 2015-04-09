@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052B" format="1">
+  <advance width="821"/>
+  <unicode hex="052B"/>
+  <outline>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="432" y="517" type="line"/>
+      <point x="261" y="517" type="line"/>
+      <point x="218" y="306" type="line" smooth="yes"/>
+      <point x="172" y="87"/>
+      <point x="137" y="36"/>
+      <point x="80" y="2" type="curve"/>
+      <point x="82" y="1" type="line"/>
+      <point x="140" y="35"/>
+      <point x="174" y="88"/>
+      <point x="220" y="306" type="curve" smooth="yes"/>
+      <point x="263" y="515" type="line"/>
+      <point x="430" y="515" type="line"/>
+      <point x="358" y="2" type="line"/>
+      <point x="80" y="2" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="0" type="line"/>
+      <point x="459" y="2" type="line"/>
+      <point x="354" y="2" type="line"/>
+      <point x="354" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="277" type="line"/>
+      <point x="566" y="279" type="line"/>
+      <point x="397" y="279" type="line"/>
+      <point x="397" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="278" type="line"/>
+      <point x="676" y="417" type="line" smooth="yes"/>
+      <point x="703" y="451"/>
+      <point x="744" y="510"/>
+      <point x="791" y="525" type="curve"/>
+      <point x="790" y="527" type="line"/>
+      <point x="742" y="511"/>
+      <point x="703" y="454"/>
+      <point x="675" y="419" type="curve" smooth="yes"/>
+      <point x="564" y="279" type="line"/>
+      <point x="499" y="279" type="line"/>
+      <point x="532" y="517" type="line"/>
+      <point x="530" y="517" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="499" y="277" type="line"/>
+      <point x="564" y="277" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="720" y="0" type="line"/>
+    </contour>
+    <component base="descStraightleft-cy" xOffset="17"/>
+    <component base="descStraight-cy" xOffset="382"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,12 +3,12 @@
   <advance width="611"/>
   <outline>
     <contour>
-      <point x="518" y="445" type="line"/>
-      <point x="35" y="445" type="line"/>
+      <point x="518" y="444" type="line"/>
+      <point x="35" y="444" type="line"/>
       <point x="35" y="375" type="line"/>
       <point x="93" y="375" type="line"/>
       <point x="576" y="375" type="line"/>
-      <point x="576" y="445" type="line"/>
+      <point x="576" y="444" type="line"/>
     </contour>
     <component base="u.sc" xOffset="3"/>
   </outline>

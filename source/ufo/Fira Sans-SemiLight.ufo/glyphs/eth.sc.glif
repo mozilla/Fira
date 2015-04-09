@@ -3,11 +3,11 @@
   <advance width="567"/>
   <outline>
     <contour>
-      <point x="292" y="279" type="line"/>
+      <point x="292" y="278" type="line"/>
       <point x="292" y="305" type="line"/>
       <point x="119" y="305" type="line"/>
       <point x="65" y="305" type="line"/>
-      <point x="65" y="279" type="line"/>
+      <point x="65" y="278" type="line"/>
     </contour>
     <component base="d.sc" xOffset="-1"/>
   </outline>

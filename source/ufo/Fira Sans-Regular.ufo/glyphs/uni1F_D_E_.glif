@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE" format="1">
+  <advance width="343"/>
+  <unicode hex="1FDE"/>
+  <outline>
+    <contour>
+      <point x="163" y="593" type="line"/>
+      <point x="223" y="577" type="line"/>
+      <point x="293" y="778" type="line"/>
+      <point x="210" y="799" type="line"/>
+    </contour>
+    <component base="uni1FFE"/>
+    <contour>
+      <point x="156" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

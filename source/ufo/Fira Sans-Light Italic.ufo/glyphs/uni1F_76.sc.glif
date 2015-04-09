@@ -2,7 +2,6 @@
 <glyph name="uni1F76.sc" format="1">
   <advance width="262"/>
   <outline>
-    <component base="iota.sc"/>
-    <component base="gravecomb.sc" xOffset="17"/>
+    <component base="i.sc"/>
   </outline>
 </glyph>

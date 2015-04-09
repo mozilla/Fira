@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046E" format="1">
+  <advance width="477"/>
+  <unicode hex="046E"/>
+  <outline>
+    <component base="Ksi-cyHELPER"/>
+    <component base="uni030C.case" xOffset="86"/>
+  </outline>
+</glyph>

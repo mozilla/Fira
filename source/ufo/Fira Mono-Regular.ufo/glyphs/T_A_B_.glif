@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TAB" format="1">
+  <advance width="2048"/>
+  <outline>
+    <contour>
+      <point x="344" y="854" type="line"/>
+      <point x="1475" y="866" type="line"/>
+      <point x="1333" y="1204" type="line"/>
+      <point x="1763" y="799" type="line"/>
+      <point x="1296" y="406" type="line"/>
+      <point x="1475" y="719" type="line"/>
+      <point x="344" y="731" type="line"/>
+    </contour>
+  </outline>
+</glyph>

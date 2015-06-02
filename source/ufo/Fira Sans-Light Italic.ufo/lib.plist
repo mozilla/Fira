@@ -75,7 +75,7 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>2</real>
+	<integer>2</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -1290,7 +1290,6 @@
 		<string>uni0522</string>
 		<string>uni048C</string>
 		<string>uni048E</string>
-		<string>TseHelper-cy</string>
 		<string>uni0430</string>
 		<string>uni0431</string>
 		<string>uni0432</string>
@@ -1575,8 +1574,6 @@
 		<string>uni052B.sc</string>
 		<string>uni052F.sc</string>
 		<string>uni0529.sc</string>
-		<string>tsehelper-cy.sc</string>
-		<string>tsehelper-cy</string>
 		<string>uni037F</string>
 		<string>Alpha</string>
 		<string>Beta</string>
@@ -2160,6 +2157,7 @@
 		<string>quotesingle</string>
 		<string>semicolon</string>
 		<string>slash</string>
+		<string>uni204A</string>
 		<string>underscore</string>
 		<string>uni203F</string>
 		<string>exclamdown.case</string>
@@ -2393,9 +2391,9 @@
 		<string>uni21E9</string>
 		<string>uni21E6</string>
 		<string>uni2B06</string>
-		<string>uni27A1</string>
 		<string>uni2B07</string>
 		<string>uni2B05</string>
+		<string>uni27A1</string>
 		<string>lozenge</string>
 		<string>uni25AF</string>
 		<string>lozenge.osf</string>
@@ -2439,7 +2437,6 @@
 		<string>daggerdbl.tosf</string>
 		<string>uniA789</string>
 		<string>uni02EE</string>
-		<string>uni02E4</string>
 		<string>uni02D7</string>
 		<string>uni02D6</string>
 		<string>uni02DE</string>
@@ -2450,6 +2447,7 @@
 		<string>uni02E8</string>
 		<string>uni02E7</string>
 		<string>uni02D4</string>
+		<string>uni02E4</string>
 		<string>uni03F6</string>
 		<string>uni0374</string>
 		<string>uni0375</string>
@@ -2632,14 +2630,17 @@
 		<string>uni1FDF.case</string>
 		<string>uni1FEF.case</string>
 		<string>uni1FFD.case</string>
-		<string>breve-cy</string>
-		<string>breve-cy.case</string>
-		<string>breve-cy.sc</string>
+		<string>uni02BC</string>
+		<string>TseHelper-cy</string>
+		<string>tsehelper-cy.sc</string>
+		<string>tsehelper-cy</string>
 		<string>descRound-cy</string>
 		<string>descStraight-cy</string>
 		<string>descRound-cy.ALT</string>
 		<string>descStraight-cy.case</string>
-		<string>uni02BC</string>
+		<string>breve-cy</string>
+		<string>breve-cy.case</string>
+		<string>breve-cy.sc</string>
 		<string>yr.sc</string>
 		<string>null</string>
 		<string>cedillaTcedilla</string>

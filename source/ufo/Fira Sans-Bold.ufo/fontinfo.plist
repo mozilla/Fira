@@ -18,7 +18,7 @@
 	<array>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2015/03/31 10:18:04</string>
+	<string>2015/05/26 16:47:02</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -42,7 +42,7 @@
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>250</integer>
+	<integer>100</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -104,7 +104,7 @@
 	<key>versionMajor</key>
 	<integer>4</integer>
 	<key>versionMinor</key>
-	<integer>100</integer>
+	<integer>103</integer>
 	<key>xHeight</key>
 	<integer>534</integer>
 </dict>

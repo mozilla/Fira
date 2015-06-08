@@ -46,7 +46,7 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>160</real>
+	<integer>160</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -465,7 +465,6 @@
 		<string>uni0522</string>
 		<string>uni048C</string>
 		<string>uni048E</string>
-		<string>TseHelper-cy</string>
 		<string>uni0430</string>
 		<string>uni0431</string>
 		<string>uni0432</string>
@@ -613,7 +612,6 @@
 		<string>uni04B5</string>
 		<string>uni04D4</string>
 		<string>uni04D5</string>
-		<string>tsehelper-cy</string>
 		<string>uni037F</string>
 		<string>Alpha</string>
 		<string>Beta</string>
@@ -1042,6 +1040,7 @@
 		<string>quotesingle</string>
 		<string>semicolon</string>
 		<string>slash</string>
+		<string>uni204A</string>
 		<string>underscore</string>
 		<string>underscoredbl</string>
 		<string>exclamdown.case</string>
@@ -1206,9 +1205,9 @@
 		<string>uni21E9</string>
 		<string>uni21E6</string>
 		<string>uni2B06</string>
-		<string>uni27A1</string>
 		<string>uni2B07</string>
 		<string>uni2B05</string>
+		<string>uni27A1</string>
 		<string>uni2581</string>
 		<string>uni2582</string>
 		<string>uni2583</string>
@@ -1529,12 +1528,14 @@
 		<string>uni1FC0</string>
 		<string>uni1FEF.case</string>
 		<string>uni1FFD.case</string>
-		<string>breve-cy</string>
-		<string>breve-cy.case</string>
+		<string>uni02BC</string>
+		<string>TseHelper-cy</string>
+		<string>tsehelper-cy</string>
 		<string>descRound-cy</string>
 		<string>descStraight-cy</string>
 		<string>descStraight-cy.case</string>
-		<string>uni02BC</string>
+		<string>breve-cy</string>
+		<string>breve-cy.case</string>
 		<string>null</string>
 		<string>dieresisacutecomb</string>
 		<string>dieresisgravecomb</string>

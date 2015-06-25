@@ -18,7 +18,7 @@
 	<array>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2015/05/26 16:47:02</string>
+	<string>2015/06/25 20:16:25</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -104,7 +104,7 @@
 	<key>versionMajor</key>
 	<integer>4</integer>
 	<key>versionMinor</key>
-	<integer>103</integer>
+	<integer>104</integer>
 	<key>xHeight</key>
 	<integer>517</integer>
 </dict>

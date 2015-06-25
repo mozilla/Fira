@@ -67,6 +67,29 @@
 	<string>SemiLight</string>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>30</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>330</integer>
+			<key>y</key>
+			<integer>1050</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>316</integer>
+			<key>y</key>
+			<integer>-500</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -1569,7 +1592,7 @@
 		<string>Alpha</string>
 		<string>Beta</string>
 		<string>Gamma</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Epsilon</string>
 		<string>Zeta</string>
 		<string>Eta</string>
@@ -1589,7 +1612,7 @@
 		<string>Phi</string>
 		<string>Chi</string>
 		<string>Psi</string>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Alphatonos</string>
 		<string>Epsilontonos</string>
 		<string>Etatonos</string>
@@ -1725,7 +1748,7 @@
 		<string>iota</string>
 		<string>kappa</string>
 		<string>lambda</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>nu</string>
 		<string>xi</string>
 		<string>omicron</string>
@@ -1910,7 +1933,7 @@
 		<string>iota.sc</string>
 		<string>kappa.sc</string>
 		<string>lambda.sc</string>
-		<string>mu.sc</string>
+		<string>uni03BC.sc</string>
 		<string>nu.sc</string>
 		<string>xi.sc</string>
 		<string>omicron.sc</string>

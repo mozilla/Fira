@@ -4,6 +4,14 @@
   <unicode hex="038F"/>
   <outline>
     <component base="tonos.case"/>
-    <component base="Omega" xOffset="92"/>
+    <component base="uni03A9" xOffset="92"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

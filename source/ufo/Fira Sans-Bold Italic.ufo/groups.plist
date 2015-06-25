@@ -51,7 +51,7 @@
 		<string>uni04D0</string>
 		<string>uni04D2</string>
 		<string>Alpha</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Lambda</string>
 		<string>Alphatonos</string>
 		<string>uni03E0</string>
@@ -484,7 +484,7 @@
 	</array>
 	<key>@MMK_L_Omega</key>
 	<array>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Omegatonos</string>
 		<string>uni1F68</string>
 		<string>uni1F69</string>
@@ -1784,7 +1784,7 @@
 		<string>m.sc</string>
 		<string>uni1E3F.sc</string>
 		<string>uni043C.sc</string>
-		<string>mu.sc</string>
+		<string>uni03BC.sc</string>
 		<string>uni03FB.sc</string>
 	</array>
 	<key>@MMK_L_mod</key>
@@ -2788,7 +2788,7 @@
 		<string>uni04F9</string>
 		<string>uni0513</string>
 		<string>uni0529</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>pi</string>
 		<string>uni00B5</string>
 	</array>
@@ -3140,7 +3140,7 @@
 		<string>uni04D0</string>
 		<string>uni04D2</string>
 		<string>Alpha</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Lambda</string>
 		<string>Alphatonos</string>
 		<string>uni03E0</string>
@@ -3626,7 +3626,7 @@
 	</array>
 	<key>@MMK_R_Omega</key>
 	<array>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Omegatonos</string>
 		<string>uni1F68</string>
 		<string>uni1F69</string>
@@ -4784,7 +4784,7 @@
 		<string>uni1E3F.sc</string>
 		<string>uni043C.sc</string>
 		<string>uni04CE.sc</string>
-		<string>mu.sc</string>
+		<string>uni03BC.sc</string>
 		<string>uni03FB.sc</string>
 	</array>
 	<key>@MMK_R_mod</key>
@@ -4897,7 +4897,7 @@
 		<string>uni04A5</string>
 		<string>eta</string>
 		<string>kappa</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>pi</string>
 		<string>etatonos</string>
 		<string>uni0371</string>

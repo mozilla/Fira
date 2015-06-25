@@ -29,4 +29,20 @@
       <point x="555" y="557" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==Psi</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==Psi</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Psi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Psi</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

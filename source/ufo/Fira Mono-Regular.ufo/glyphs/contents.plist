@@ -60,8 +60,6 @@
 	<string>D_caron.glif</string>
 	<key>Dcroat</key>
 	<string>D_croat.glif</string>
-	<key>Delta</key>
-	<string>D_elta.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -210,8 +208,6 @@
 	<string>O_hungarumlaut.glif</string>
 	<key>Omacron</key>
 	<string>O_macron.glif</string>
-	<key>Omega</key>
-	<string>O_mega.glif</string>
 	<key>Omegatonos</key>
 	<string>O_megatonos.glif</string>
 	<key>Omicron</key>
@@ -844,8 +840,6 @@
 	<string>minus.numr.glif</string>
 	<key>minus.tosf</key>
 	<string>minus.tosf.glif</string>
-	<key>mu</key>
-	<string>mu.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>multiply.tosf</key>
@@ -1286,6 +1280,12 @@
 	<string>uni037E_.glif</string>
 	<key>uni037F</key>
 	<string>uni037F_.glif</string>
+	<key>uni0394</key>
+	<string>uni0394.glif</string>
+	<key>uni03A9</key>
+	<string>uni03A_9.glif</string>
+	<key>uni03BC</key>
+	<string>uni03B_C_.glif</string>
 	<key>uni03C2</key>
 	<string>uni03C_2.glif</string>
 	<key>uni03CF</key>

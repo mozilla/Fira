@@ -6,4 +6,16 @@
     <component base="Epsilon"/>
     <component base="uni1FBF" xOffset="-274" yOffset="-103"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Epsilontonos</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

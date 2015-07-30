@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute" format="1">
+  <advance width="388"/>
+  <outline>
+    <component base="uni0302.case" xOffset="-26" yOffset="-180"/>
+    <component base="acutedbl" xOffset="212" yOffset="30"/>
+    <contour>
+      <point x="195" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

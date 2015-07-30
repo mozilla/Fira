@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc" format="1">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="418" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="287" y="557" type="line"/>
+      <point x="285" y="557" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="91" y="174" type="line"/>
+      <point x="376" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="176" type="line"/>
+      <point x="286" y="553" type="line"/>
+      <point x="376" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="214" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="286" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

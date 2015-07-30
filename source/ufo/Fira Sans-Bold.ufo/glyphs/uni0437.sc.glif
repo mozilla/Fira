@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0437.sc" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="144" y="587"/>
+      <point x="69" y="558"/>
+      <point x="11" y="505" type="curve"/>
+      <point x="105" y="408" type="line"/>
+      <point x="142" y="435"/>
+      <point x="172" y="447"/>
+      <point x="210" y="447" type="curve" smooth="yes"/>
+      <point x="251" y="447"/>
+      <point x="266" y="428"/>
+      <point x="266" y="407" type="curve" smooth="yes"/>
+      <point x="266" y="377"/>
+      <point x="247" y="362"/>
+      <point x="194" y="362" type="curve" smooth="yes"/>
+      <point x="144" y="362" type="line"/>
+      <point x="121" y="225" type="line"/>
+      <point x="200" y="225" type="line" smooth="yes"/>
+      <point x="256" y="225"/>
+      <point x="282" y="205"/>
+      <point x="282" y="173" type="curve" smooth="yes"/>
+      <point x="282" y="141"/>
+      <point x="256" y="123"/>
+      <point x="210" y="123" type="curve" smooth="yes"/>
+      <point x="163" y="123"/>
+      <point x="133" y="137"/>
+      <point x="95" y="167" type="curve"/>
+      <point x="-10" y="65" type="line"/>
+      <point x="46" y="13"/>
+      <point x="114" y="-19"/>
+      <point x="223" y="-19" type="curve" smooth="yes"/>
+      <point x="377" y="-19"/>
+      <point x="485" y="47"/>
+      <point x="485" y="161" type="curve" smooth="yes"/>
+      <point x="485" y="241"/>
+      <point x="430" y="285"/>
+      <point x="335" y="297" type="curve"/>
+      <point x="430" y="315"/>
+      <point x="468" y="358"/>
+      <point x="468" y="428" type="curve" smooth="yes"/>
+      <point x="468" y="522"/>
+      <point x="375" y="587"/>
+      <point x="237" y="587" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="245" y="571" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Ze-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ze-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

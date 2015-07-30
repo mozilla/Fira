@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B1" format="1">
+  <advance width="452"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="245" y="5" type="line"/>
+      <point x="351" y="5" type="line"/>
+      <point x="351" y="32" type="line"/>
+      <point x="110" y="32" type="line"/>
+      <point x="110" y="5" type="line"/>
+      <point x="216" y="5" type="line"/>
+    </contour>
+    <component base="uni04AF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==ustrait-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==ustrait-cy</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ustrait-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ustrait-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

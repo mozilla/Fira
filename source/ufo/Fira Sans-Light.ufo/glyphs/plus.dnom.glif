@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.dnom" format="1">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="199" y="303" type="line"/>
+      <point x="199" y="204" type="line"/>
+      <point x="95" y="204" type="line"/>
+      <point x="95" y="202" type="line"/>
+      <point x="199" y="202" type="line"/>
+      <point x="199" y="103" type="line"/>
+      <point x="201" y="103" type="line"/>
+      <point x="201" y="202" type="line"/>
+      <point x="305" y="202" type="line"/>
+      <point x="305" y="204" type="line"/>
+      <point x="201" y="204" type="line"/>
+      <point x="201" y="303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==minus.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==minus.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>equal.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>equal.dnom</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

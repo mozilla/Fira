@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A.sc" format="1">
+  <advance width="657"/>
+  <outline>
+    <contour>
+      <point x="348" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="0" y="427" type="line"/>
+      <point x="152" y="427" type="line"/>
+    </contour>
+    <component base="uni044C.sc" xOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Hardsign-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

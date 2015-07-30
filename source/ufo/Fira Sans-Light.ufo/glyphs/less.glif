@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="496"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="90" y="334" type="line"/>
+      <point x="90" y="332" type="line"/>
+      <point x="405" y="175" type="line"/>
+      <point x="406" y="177" type="line"/>
+      <point x="92" y="333" type="line"/>
+      <point x="406" y="485" type="line"/>
+      <point x="405" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==greater</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>greater</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>greater</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

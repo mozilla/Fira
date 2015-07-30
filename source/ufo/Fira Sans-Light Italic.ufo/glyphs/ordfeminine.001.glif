@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine.001" format="1">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="245" y="527"/>
+      <point x="197" y="516"/>
+      <point x="139" y="493" type="curve"/>
+      <point x="139" y="491" type="line"/>
+      <point x="198" y="514"/>
+      <point x="245" y="525"/>
+      <point x="291" y="525" type="curve" smooth="yes"/>
+      <point x="394" y="525"/>
+      <point x="422" y="466"/>
+      <point x="409" y="372" type="curve" smooth="yes"/>
+      <point x="372" y="108" type="line"/>
+      <point x="372" y="106" type="line"/>
+      <point x="361" y="34"/>
+      <point x="368" y="5"/>
+      <point x="410" y="-9" type="curve"/>
+      <point x="411" y="-7" type="line"/>
+      <point x="369" y="6"/>
+      <point x="364" y="37"/>
+      <point x="374" y="110" type="curve" smooth="yes"/>
+      <point x="411" y="372" type="line" smooth="yes"/>
+      <point x="424" y="468"/>
+      <point x="395" y="527"/>
+      <point x="291" y="527" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="276" y="304" type="line" smooth="yes"/>
+      <point x="153" y="304"/>
+      <point x="69" y="246"/>
+      <point x="54" y="145" type="curve" smooth="yes"/>
+      <point x="42" y="56"/>
+      <point x="86" y="-9"/>
+      <point x="183" y="-9" type="curve" smooth="yes"/>
+      <point x="269" y="-9"/>
+      <point x="327" y="32"/>
+      <point x="373" y="107" type="curve"/>
+      <point x="373" y="111" type="line"/>
+      <point x="327" y="35"/>
+      <point x="271" y="-7"/>
+      <point x="183" y="-7" type="curve" smooth="yes"/>
+      <point x="87" y="-7"/>
+      <point x="44" y="57"/>
+      <point x="56" y="145" type="curve" smooth="yes"/>
+      <point x="69" y="244"/>
+      <point x="154" y="302"/>
+      <point x="276" y="302" type="curve" smooth="yes"/>
+      <point x="401" y="302" type="line"/>
+      <point x="401" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="-9" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="286" y="517" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

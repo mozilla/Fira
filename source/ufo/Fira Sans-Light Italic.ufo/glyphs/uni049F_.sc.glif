@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049F.sc" format="1">
+  <advance width="432"/>
+  <outline>
+    <contour>
+      <point x="240" y="455" type="line"/>
+      <point x="240" y="457" type="line"/>
+      <point x="112" y="457" type="line"/>
+      <point x="58" y="457" type="line"/>
+      <point x="58" y="455" type="line"/>
+    </contour>
+    <component base="uni043A.sc" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Kastroke-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni029F" format="1">
+  <advance width="396"/>
+  <unicode hex="029F"/>
+  <outline>
+    <contour>
+      <point x="161" y="517" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="2" type="line"/>
+      <point x="91" y="2" type="line"/>
+      <point x="163" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

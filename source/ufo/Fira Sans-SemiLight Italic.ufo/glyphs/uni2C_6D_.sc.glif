@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C6D.sc" format="1">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="333" y="-8"/>
+      <point x="391" y="27"/>
+      <point x="441" y="98" type="curve"/>
+      <point x="439" y="131" type="line"/>
+      <point x="385" y="53"/>
+      <point x="328" y="20"/>
+      <point x="254" y="20" type="curve" smooth="yes"/>
+      <point x="167" y="20"/>
+      <point x="102" y="79"/>
+      <point x="102" y="204" type="curve" smooth="yes"/>
+      <point x="102" y="383"/>
+      <point x="192" y="540"/>
+      <point x="337" y="540" type="curve" smooth="yes"/>
+      <point x="402" y="540"/>
+      <point x="447" y="505"/>
+      <point x="477" y="459" type="curve"/>
+      <point x="489" y="482" type="line"/>
+      <point x="459" y="532"/>
+      <point x="410" y="568"/>
+      <point x="338" y="568" type="curve" smooth="yes"/>
+      <point x="178" y="568"/>
+      <point x="71" y="398"/>
+      <point x="71" y="205" type="curve" smooth="yes"/>
+      <point x="71" y="65"/>
+      <point x="149" y="-8"/>
+      <point x="253" y="-8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="484" y="13" type="line"/>
+      <point x="463" y="22"/>
+      <point x="451" y="34"/>
+      <point x="451" y="69" type="curve" smooth="yes"/>
+      <point x="451" y="80"/>
+      <point x="452" y="93"/>
+      <point x="454" y="108" type="curve" smooth="yes"/>
+      <point x="519" y="560" type="line"/>
+      <point x="493" y="560" type="line"/>
+      <point x="479" y="488" type="line"/>
+      <point x="421" y="88" type="line"/>
+      <point x="421" y="78" type="line"/>
+      <point x="420" y="22"/>
+      <point x="439" y="1"/>
+      <point x="475" y="-10" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Alpha-latin</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

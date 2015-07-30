@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgrave" format="1">
+  <advance width="398"/>
+  <outline>
+    <component base="uni0302.case" xOffset="47" yOffset="-180"/>
+    <component base="gravedbl" xOffset="-4" yOffset="30"/>
+    <contour>
+      <point x="272" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

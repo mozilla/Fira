@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla.sc.ALT" format="1">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="55" y="16" type="line"/>
+      <point x="27" y="-99" type="line"/>
+      <point x="91" y="-99"/>
+      <point x="110" y="-109"/>
+      <point x="109" y="-138" type="curve" smooth="yes"/>
+      <point x="108" y="-166"/>
+      <point x="86" y="-181"/>
+      <point x="51" y="-181" type="curve" smooth="yes"/>
+      <point x="25" y="-181"/>
+      <point x="8" y="-175"/>
+      <point x="-7" y="-165" type="curve"/>
+      <point x="-38" y="-214" type="line"/>
+      <point x="-18" y="-229"/>
+      <point x="12" y="-241"/>
+      <point x="51" y="-241" type="curve" smooth="yes"/>
+      <point x="141" y="-241"/>
+      <point x="184" y="-187"/>
+      <point x="184" y="-136" type="curve" smooth="yes"/>
+      <point x="184" y="-95"/>
+      <point x="161" y="-61"/>
+      <point x="102" y="-56" type="curve"/>
+      <point x="114" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

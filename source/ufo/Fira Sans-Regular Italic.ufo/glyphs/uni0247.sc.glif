@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0247.sc" format="1">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="125" y="-52" type="line"/>
+      <point x="166" y="-62" type="line"/>
+      <point x="445" y="608" type="line"/>
+      <point x="404" y="618" type="line"/>
+    </contour>
+    <component base="e.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

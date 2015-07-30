@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.osf" format="1">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="210" y="670"/>
+      <point x="114" y="506"/>
+      <point x="83" y="287" type="curve" smooth="yes"/>
+      <point x="79" y="257"/>
+      <point x="77" y="228"/>
+      <point x="77" y="201" type="curve" smooth="yes"/>
+      <point x="77" y="80"/>
+      <point x="121" y="-9"/>
+      <point x="232" y="-9" type="curve" smooth="yes"/>
+      <point x="391" y="-9"/>
+      <point x="437" y="166"/>
+      <point x="437" y="269" type="curve" smooth="yes"/>
+      <point x="437" y="372"/>
+      <point x="384" y="423"/>
+      <point x="296" y="423" type="curve" smooth="yes"/>
+      <point x="206" y="423"/>
+      <point x="135" y="357"/>
+      <point x="85" y="289" type="curve"/>
+      <point x="84" y="285" type="line"/>
+      <point x="137" y="357"/>
+      <point x="207" y="421"/>
+      <point x="296" y="421" type="curve" smooth="yes"/>
+      <point x="383" y="421"/>
+      <point x="435" y="371"/>
+      <point x="435" y="269" type="curve" smooth="yes"/>
+      <point x="435" y="170"/>
+      <point x="391" y="-7"/>
+      <point x="232" y="-7" type="curve" smooth="yes"/>
+      <point x="122" y="-7"/>
+      <point x="79" y="81"/>
+      <point x="79" y="201" type="curve" smooth="yes"/>
+      <point x="79" y="228"/>
+      <point x="81" y="257"/>
+      <point x="85" y="287" type="curve"/>
+      <point x="85" y="288" type="line"/>
+      <point x="116" y="503"/>
+      <point x="210" y="668"/>
+      <point x="356" y="668" type="curve" smooth="yes"/>
+      <point x="397" y="668"/>
+      <point x="427" y="654"/>
+      <point x="449" y="633" type="curve"/>
+      <point x="451" y="634" type="line"/>
+      <point x="428" y="656"/>
+      <point x="397" y="670"/>
+      <point x="356" y="670" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

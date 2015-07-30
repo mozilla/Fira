@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDD" format="1">
+  <advance width="254"/>
+  <unicode hex="1FDD"/>
+  <outline>
+    <contour>
+      <point x="200" y="756" type="line"/>
+      <point x="242" y="592" type="line"/>
+      <point x="268" y="598" type="line"/>
+      <point x="241" y="765" type="line"/>
+    </contour>
+    <component base="uni1FFE" xOffset="-7"/>
+    <contour>
+      <point x="177" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

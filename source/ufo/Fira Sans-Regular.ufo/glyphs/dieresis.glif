@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="385"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="265" y="768"/>
+      <point x="240" y="743"/>
+      <point x="240" y="711" type="curve" smooth="yes"/>
+      <point x="240" y="679"/>
+      <point x="265" y="654"/>
+      <point x="297" y="654" type="curve" smooth="yes"/>
+      <point x="330" y="654"/>
+      <point x="355" y="679"/>
+      <point x="355" y="711" type="curve" smooth="yes"/>
+      <point x="355" y="743"/>
+      <point x="330" y="768"/>
+      <point x="297" y="768" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="55" y="768"/>
+      <point x="30" y="743"/>
+      <point x="30" y="711" type="curve" smooth="yes"/>
+      <point x="30" y="679"/>
+      <point x="55" y="654"/>
+      <point x="88" y="654" type="curve" smooth="yes"/>
+      <point x="120" y="654"/>
+      <point x="145" y="679"/>
+      <point x="145" y="711" type="curve" smooth="yes"/>
+      <point x="145" y="743"/>
+      <point x="120" y="768"/>
+      <point x="88" y="768" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

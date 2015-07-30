@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EF1" format="1">
+  <advance width="574"/>
+  <unicode hex="1EF1"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni031B" xOffset="418"/>
+    <component base="dotbelowcomb" xOffset="253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uhorn</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>uhorn</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

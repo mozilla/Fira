@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0284" format="1">
+  <advance width="280"/>
+  <unicode hex="0284"/>
+  <outline>
+    <contour>
+      <point x="116" y="-154"/>
+      <point x="145" y="-118"/>
+      <point x="145" y="1" type="curve" smooth="yes"/>
+      <point x="145" y="517" type="line"/>
+      <point x="143" y="517" type="line"/>
+      <point x="143" y="1" type="line" smooth="yes"/>
+      <point x="143" y="-117"/>
+      <point x="114" y="-153"/>
+      <point x="46" y="-189" type="curve"/>
+      <point x="47" y="-191" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="2" type="line"/>
+      <point x="25" y="2" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xOffset="100"/>
+    <contour>
+      <point x="218" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="144" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

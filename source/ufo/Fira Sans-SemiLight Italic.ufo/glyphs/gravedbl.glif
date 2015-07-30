@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravedbl" format="1">
+  <advance width="196"/>
+  <outline>
+    <contour>
+      <point x="112" y="761" type="line"/>
+      <point x="204" y="646" type="line"/>
+      <point x="222" y="661" type="line"/>
+      <point x="139" y="783" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="520" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="182" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

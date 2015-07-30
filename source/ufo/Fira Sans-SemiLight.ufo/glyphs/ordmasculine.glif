@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="500"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="145" y="682"/>
+      <point x="77" y="607"/>
+      <point x="77" y="479" type="curve" smooth="yes"/>
+      <point x="77" y="352"/>
+      <point x="142" y="276"/>
+      <point x="247" y="276" type="curve" smooth="yes"/>
+      <point x="351" y="276"/>
+      <point x="419" y="351"/>
+      <point x="419" y="481" type="curve" smooth="yes"/>
+      <point x="419" y="613"/>
+      <point x="353" y="682"/>
+      <point x="248" y="682" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="337" y="654"/>
+      <point x="388" y="595"/>
+      <point x="388" y="481" type="curve" smooth="yes"/>
+      <point x="388" y="364"/>
+      <point x="334" y="304"/>
+      <point x="248" y="304" type="curve" smooth="yes"/>
+      <point x="162" y="304"/>
+      <point x="109" y="366"/>
+      <point x="109" y="479" type="curve" smooth="yes"/>
+      <point x="109" y="596"/>
+      <point x="164" y="654"/>
+      <point x="249" y="654" type="curve" smooth="yes"/>
+    </contour>
+    <component base="minus" xOffset="4" yOffset="-316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

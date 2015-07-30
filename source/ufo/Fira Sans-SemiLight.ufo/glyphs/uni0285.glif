@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0285" format="1">
+  <advance width="370"/>
+  <unicode hex="0285"/>
+  <outline>
+    <contour>
+      <point x="170" y="190" type="line"/>
+      <point x="200" y="190" type="line"/>
+      <point x="200" y="312" type="line"/>
+      <point x="170" y="312" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xOffset="239" yOffset="-208" xScale="-1"/>
+    <component base="hookHELPER" xOffset="404" yOffset="189" xScale="-1"/>
+    <contour>
+      <point x="97" y="520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="272" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

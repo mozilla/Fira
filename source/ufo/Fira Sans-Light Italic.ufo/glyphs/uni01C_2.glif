@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C2" format="1">
+  <advance width="339"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <contour>
+      <point x="190" y="435" type="line"/>
+      <point x="309" y="435" type="line"/>
+      <point x="309" y="437" type="line"/>
+      <point x="79" y="437" type="line"/>
+      <point x="79" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="286" type="line"/>
+      <point x="288" y="286" type="line"/>
+      <point x="288" y="288" type="line"/>
+      <point x="58" y="288" type="line"/>
+      <point x="58" y="286" type="line"/>
+    </contour>
+    <component base="uni01C0" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Istroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Istroke</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni01C0</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

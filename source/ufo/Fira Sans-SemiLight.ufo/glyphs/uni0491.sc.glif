@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0491.sc" format="1">
+  <advance width="417"/>
+  <outline>
+    <contour>
+      <point x="407" y="560" type="line"/>
+      <point x="407" y="667" type="line"/>
+      <point x="379" y="667" type="line"/>
+      <point x="379" y="550" type="line"/>
+    </contour>
+    <component base="uni0433.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ge-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ge-cy.sc</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

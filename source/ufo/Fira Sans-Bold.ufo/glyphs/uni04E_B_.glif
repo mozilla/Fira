@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EB" format="1">
+  <advance width="584"/>
+  <unicode hex="04EB"/>
+  <outline>
+    <component base="uni04E9"/>
+    <component base="uni0308" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==auto</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>auto</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

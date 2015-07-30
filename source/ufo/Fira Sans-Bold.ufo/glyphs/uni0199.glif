@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0199" format="1">
+  <advance width="576"/>
+  <unicode hex="0199"/>
+  <outline>
+    <contour>
+      <point x="387" y="534" type="line"/>
+      <point x="244" y="292" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="442" y="300" type="line"/>
+      <point x="583" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="534" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="554" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>k</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>k</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

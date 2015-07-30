@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051F.sc" format="1">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="462" y="336" type="line"/>
+      <point x="475" y="355" type="line"/>
+      <point x="250" y="504" type="line"/>
+      <point x="237" y="485" type="line"/>
+    </contour>
+    <component base="uni043A.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

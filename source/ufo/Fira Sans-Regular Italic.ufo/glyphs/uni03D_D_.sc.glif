@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03DD.sc" format="1">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="408" y="296" type="line"/>
+      <point x="381" y="311"/>
+      <point x="356" y="318"/>
+      <point x="307" y="318" type="curve" smooth="yes"/>
+      <point x="119" y="318" type="line"/>
+      <point x="109" y="243" type="line"/>
+      <point x="289" y="243" type="line" smooth="yes"/>
+      <point x="332" y="243"/>
+      <point x="354" y="237"/>
+      <point x="376" y="229" type="curve"/>
+    </contour>
+    <component base="gamma.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>F</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

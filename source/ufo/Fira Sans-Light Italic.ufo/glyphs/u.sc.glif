@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="1">
+  <advance width="581"/>
+  <outline>
+    <contour>
+      <point x="501" y="557" type="line"/>
+      <point x="446" y="169" type="line" smooth="yes"/>
+      <point x="433" y="69"/>
+      <point x="378" y="-5"/>
+      <point x="254" y="-5" type="curve" smooth="yes"/>
+      <point x="128" y="-5"/>
+      <point x="97" y="69"/>
+      <point x="112" y="179" type="curve" smooth="yes"/>
+      <point x="164" y="557" type="line"/>
+      <point x="162" y="557" type="line"/>
+      <point x="110" y="179" type="line" smooth="yes"/>
+      <point x="95" y="68"/>
+      <point x="127" y="-7"/>
+      <point x="254" y="-7" type="curve" smooth="yes"/>
+      <point x="379" y="-7"/>
+      <point x="435" y="68"/>
+      <point x="448" y="169" type="curve" smooth="yes"/>
+      <point x="503" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="333" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="514" y="557" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

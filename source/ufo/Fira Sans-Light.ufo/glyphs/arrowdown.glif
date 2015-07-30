@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown" format="1">
+  <advance width="900"/>
+  <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="449" y="601" type="line"/>
+      <point x="449" y="-6" type="line"/>
+      <point x="442" y="1"/>
+      <point x="432" y="10"/>
+      <point x="421" y="20" type="curve" smooth="yes"/>
+      <point x="181" y="239" type="line"/>
+      <point x="180" y="237" type="line"/>
+      <point x="450" y="-9" type="line"/>
+      <point x="720" y="237" type="line"/>
+      <point x="719" y="239" type="line"/>
+      <point x="479" y="20" type="line" smooth="yes"/>
+      <point x="468" y="10"/>
+      <point x="458" y="1"/>
+      <point x="451" y="-6" type="curve"/>
+      <point x="451" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>arrowup</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>arrowup</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

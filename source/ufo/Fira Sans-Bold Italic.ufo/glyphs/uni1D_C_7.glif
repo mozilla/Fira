@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutemacron" format="1">
+  <advance width="495"/>
+  <unicode hex="1DC7"/>
+  <outline>
+    <contour>
+      <point x="320" y="658" type="line"/>
+      <point x="274" y="792" type="line"/>
+      <point x="84" y="652" type="line"/>
+      <point x="137" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="658" type="line"/>
+      <point x="539" y="792" type="line"/>
+      <point x="274" y="792" type="line"/>
+      <point x="243" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="792" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="291" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

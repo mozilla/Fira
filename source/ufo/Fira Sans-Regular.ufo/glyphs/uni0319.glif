@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0319" format="1">
+  <advance width="264"/>
+  <unicode hex="0319"/>
+  <outline>
+    <component base="uni0318" xOffset="263" xScale="-1"/>
+    <contour>
+      <point x="132" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="130" y="-353" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0318</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni200E" format="1">
+  <advance width="0"/>
+  <unicode hex="200E"/>
+  <outline>
+    <contour>
+      <point x="131" y="813" type="line"/>
+      <point x="165" y="758" type="line"/>
+      <point x="56" y="758" type="line"/>
+      <point x="-72" y="-150" type="line"/>
+      <point x="-56" y="-150" type="line"/>
+      <point x="70" y="742" type="line"/>
+      <point x="163" y="742" type="line"/>
+      <point x="113" y="687" type="line"/>
+      <point x="125" y="678" type="line"/>
+      <point x="189" y="750" type="line"/>
+      <point x="144" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

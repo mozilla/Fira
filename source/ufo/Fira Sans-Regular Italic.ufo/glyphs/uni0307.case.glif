@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307.case" format="1">
+  <advance width="187"/>
+  <outline>
+    <component base="dotaccent" xOffset="20" yOffset="126"/>
+    <contour>
+      <point x="180" y="906" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="153" y="689" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0320" format="1">
+  <advance width="271"/>
+  <unicode hex="0320"/>
+  <outline>
+    <component base="uni208B" xOffset="-91" yOffset="-190"/>
+    <contour>
+      <point x="99" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="74" y="-195" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

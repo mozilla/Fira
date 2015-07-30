@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="49" y="231" type="line"/>
+      <point x="49" y="165" type="line"/>
+      <point x="511" y="165" type="line"/>
+      <point x="511" y="238" type="line"/>
+      <point x="146" y="238" type="line"/>
+      <point x="327" y="669" type="line"/>
+      <point x="250" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="430" type="line"/>
+      <point x="335" y="222" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

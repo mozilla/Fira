@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="455"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="221" y="449" type="line"/>
+      <point x="287" y="312" type="line"/>
+      <point x="420" y="409" type="line"/>
+      <point x="309" y="513" type="line"/>
+      <point x="228" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="744" type="line"/>
+      <point x="173" y="592" type="line"/>
+      <point x="228" y="532" type="line"/>
+      <point x="283" y="591" type="line"/>
+      <point x="310" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="600" type="line"/>
+      <point x="228" y="532" type="line"/>
+      <point x="304" y="500" type="line"/>
+      <point x="455" y="520" type="line"/>
+      <point x="404" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="519" type="line"/>
+      <point x="151" y="500" type="line"/>
+      <point x="228" y="532" type="line"/>
+      <point x="184" y="601" type="line"/>
+      <point x="51" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="513" type="line"/>
+      <point x="37" y="408" type="line"/>
+      <point x="170" y="311" type="line"/>
+      <point x="234" y="449" type="line"/>
+      <point x="228" y="532" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

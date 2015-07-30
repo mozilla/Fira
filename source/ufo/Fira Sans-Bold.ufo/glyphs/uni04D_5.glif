@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D5" format="1">
+  <advance width="859"/>
+  <unicode hex="04D5"/>
+  <outline>
+    <component base="ae"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ae</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ae</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

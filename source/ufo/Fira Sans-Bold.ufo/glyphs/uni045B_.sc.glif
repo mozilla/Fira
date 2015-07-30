@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045B.sc" format="1">
+  <advance width="678"/>
+  <outline>
+    <contour>
+      <point x="5" y="571" type="line"/>
+      <point x="5" y="432" type="line"/>
+      <point x="463" y="435" type="line"/>
+      <point x="483" y="571" type="line"/>
+    </contour>
+    <component base="uni04BB.sc" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Tshe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Tshe-cy</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

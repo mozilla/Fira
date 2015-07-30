@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0327.case" format="1">
+  <advance width="207"/>
+  <outline>
+    <component base="uni0327"/>
+    <contour>
+      <point x="96" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="113" y="-216" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

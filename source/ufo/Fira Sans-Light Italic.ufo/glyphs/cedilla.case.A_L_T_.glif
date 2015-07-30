@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla.case.ALT" format="1">
+  <advance width="189"/>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="20" y="-85" type="line"/>
+      <point x="76" y="-86"/>
+      <point x="104" y="-100"/>
+      <point x="104" y="-139" type="curve" smooth="yes"/>
+      <point x="104" y="-165"/>
+      <point x="84" y="-200"/>
+      <point x="29" y="-200" type="curve" smooth="yes"/>
+      <point x="2" y="-200"/>
+      <point x="-15" y="-195"/>
+      <point x="-30" y="-184" type="curve"/>
+      <point x="-31" y="-186" type="line"/>
+      <point x="-16" y="-196"/>
+      <point x="0" y="-202"/>
+      <point x="29" y="-202" type="curve" smooth="yes"/>
+      <point x="82" y="-202"/>
+      <point x="106" y="-170"/>
+      <point x="106" y="-139" type="curve" smooth="yes"/>
+      <point x="106" y="-99"/>
+      <point x="76" y="-84"/>
+      <point x="23" y="-83" type="curve"/>
+      <point x="39" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>_bottom</string>
+              <key>x</key>
+              <integer>175</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla.case.ALT</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>189</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

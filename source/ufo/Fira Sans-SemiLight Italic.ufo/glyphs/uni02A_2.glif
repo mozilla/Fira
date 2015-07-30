@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02A2" format="1">
+  <advance width="427"/>
+  <unicode hex="02A2"/>
+  <outline>
+    <contour>
+      <point x="137" y="205" type="line"/>
+      <point x="133" y="178" type="line"/>
+      <point x="283" y="178" type="line"/>
+      <point x="351" y="178" type="line"/>
+      <point x="355" y="205" type="line"/>
+    </contour>
+    <component base="uni0295"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>glottalstopreversed</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>glottalstopreversed</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos.case" format="1">
+  <advance width="22"/>
+  <outline>
+    <contour>
+      <point x="30" y="572" type="line"/>
+      <point x="32" y="572" type="line"/>
+      <point x="62" y="680" type="line"/>
+      <point x="60" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="680" type="move" name="_topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

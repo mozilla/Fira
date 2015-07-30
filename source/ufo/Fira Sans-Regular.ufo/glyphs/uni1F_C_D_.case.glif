@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCD.case" format="1">
+  <advance width="241"/>
+  <outline>
+    <contour>
+      <point x="296" y="483" type="line"/>
+      <point x="249" y="689" type="line"/>
+      <point x="166" y="668" type="line"/>
+      <point x="236" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="474" type="line"/>
+      <point x="124" y="560" type="line" smooth="yes"/>
+      <point x="145" y="604"/>
+      <point x="150" y="620"/>
+      <point x="150" y="637" type="curve" smooth="yes"/>
+      <point x="150" y="669"/>
+      <point x="125" y="693"/>
+      <point x="93" y="693" type="curve" smooth="yes"/>
+      <point x="61" y="693"/>
+      <point x="35" y="669"/>
+      <point x="35" y="637" type="curve" smooth="yes"/>
+      <point x="35" y="618"/>
+      <point x="45" y="602"/>
+      <point x="59" y="590" type="curve"/>
+      <point x="30" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="689" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="163" y="693" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>psili.case</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>163</integer>
+                  <key>y</key>
+                  <integer>765</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>271</integer>
+                  <key>y</key>
+                  <integer>577</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>318</integer>
+                  <key>y</key>
+                  <integer>601</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>236</integer>
+                  <key>y</key>
+                  <integer>800</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>psilivaria.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>241</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

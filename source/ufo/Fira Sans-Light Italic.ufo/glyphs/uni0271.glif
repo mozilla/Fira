@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0271" format="1">
+  <advance width="842"/>
+  <unicode hex="0271"/>
+  <outline>
+    <component base="m"/>
+    <component base="hookHELPER" xOffset="517"/>
+    <contour>
+      <point x="373" y="-188" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

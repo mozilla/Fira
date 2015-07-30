@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0243" format="1">
+  <advance width="620"/>
+  <unicode hex="0243"/>
+  <outline>
+    <contour>
+      <point x="112" y="238" type="line"/>
+      <point x="20" y="238" type="line"/>
+      <point x="20" y="168" type="line"/>
+      <point x="364" y="168" type="line"/>
+      <point x="364" y="238" type="line"/>
+    </contour>
+    <component base="B" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Eth</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>B</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

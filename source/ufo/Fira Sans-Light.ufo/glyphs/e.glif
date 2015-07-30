@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <advance width="528"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="156" y="527"/>
+      <point x="80" y="426"/>
+      <point x="80" y="253" type="curve" smooth="yes"/>
+      <point x="80" y="85"/>
+      <point x="157" y="-9"/>
+      <point x="276" y="-9" type="curve" smooth="yes"/>
+      <point x="343" y="-9"/>
+      <point x="385" y="13"/>
+      <point x="430" y="50" type="curve"/>
+      <point x="429" y="52" type="line"/>
+      <point x="384" y="14"/>
+      <point x="341" y="-7"/>
+      <point x="276" y="-7" type="curve" smooth="yes"/>
+      <point x="159" y="-7"/>
+      <point x="82" y="86"/>
+      <point x="82" y="253" type="curve"/>
+      <point x="82" y="424"/>
+      <point x="157" y="525"/>
+      <point x="276" y="525" type="curve" smooth="yes"/>
+      <point x="398" y="525"/>
+      <point x="451" y="422"/>
+      <point x="451" y="288" type="curve" smooth="yes"/>
+      <point x="451" y="275"/>
+      <point x="451" y="267"/>
+      <point x="450" y="254" type="curve"/>
+      <point x="81" y="254" type="line"/>
+      <point x="81" y="252" type="line"/>
+      <point x="452" y="252" type="line"/>
+      <point x="453" y="266"/>
+      <point x="453" y="274"/>
+      <point x="453" y="288" type="curve" smooth="yes"/>
+      <point x="453" y="424"/>
+      <point x="399" y="527"/>
+      <point x="276" y="527" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="364" y="4" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="276" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="276" y="517" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==o</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==o-5</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sc" format="1">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="372" y="571" type="line"/>
+      <point x="372" y="427" type="line" smooth="yes"/>
+      <point x="372" y="313"/>
+      <point x="386" y="256"/>
+      <point x="403" y="166" type="curve"/>
+      <point x="283" y="571" type="line"/>
+      <point x="43" y="571" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="152" type="line" smooth="yes"/>
+      <point x="216" y="258"/>
+      <point x="199" y="339"/>
+      <point x="185" y="406" type="curve"/>
+      <point x="301" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="571" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==N</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==N</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>N</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

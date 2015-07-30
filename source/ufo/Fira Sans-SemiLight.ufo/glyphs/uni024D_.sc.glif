@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024D.sc" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="200" y="287" type="line"/>
+      <point x="119" y="287" type="line"/>
+      <point x="46" y="287" type="line"/>
+      <point x="46" y="260" type="line"/>
+      <point x="227" y="260" type="line"/>
+    </contour>
+    <component base="r.sc" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

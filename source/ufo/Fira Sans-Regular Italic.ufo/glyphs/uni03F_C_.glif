@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03FC" format="1">
+  <advance width="581"/>
+  <unicode hex="03FC"/>
+  <outline>
+    <contour>
+      <point x="-45" y="-134" type="line"/>
+      <point x="33" y="-134" type="line"/>
+      <point x="280" y="-134" type="line"/>
+      <point x="290" y="-64" type="line"/>
+      <point x="-35" y="-64" type="line"/>
+    </contour>
+    <component base="rho" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rho</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

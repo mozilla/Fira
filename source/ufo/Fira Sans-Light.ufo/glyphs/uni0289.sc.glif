@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0289.sc" format="1">
+  <advance width="602"/>
+  <outline>
+    <contour>
+      <point x="474" y="434" type="line"/>
+      <point x="85" y="434" type="line"/>
+      <point x="85" y="432" type="line"/>
+      <point x="133" y="432" type="line"/>
+      <point x="517" y="432" type="line"/>
+      <point x="517" y="434" type="line"/>
+    </contour>
+    <component base="u.sc" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Hbar</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

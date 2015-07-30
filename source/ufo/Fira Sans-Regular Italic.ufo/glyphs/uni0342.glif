@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0342" format="1">
+  <advance width="394"/>
+  <unicode hex="0342"/>
+  <outline>
+    <component base="tildecomb"/>
+    <contour>
+      <point x="262" y="774" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="233" y="527" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

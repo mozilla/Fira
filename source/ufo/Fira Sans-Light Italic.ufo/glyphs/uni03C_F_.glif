@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03CF" format="1">
+  <advance width="550"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="450" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="2" type="line"/>
+      <point x="450" y="2" type="line"/>
+    </contour>
+    <component base="Kappa"/>
+    <component base="hookHELPER.case" xOffset="333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Kappa</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

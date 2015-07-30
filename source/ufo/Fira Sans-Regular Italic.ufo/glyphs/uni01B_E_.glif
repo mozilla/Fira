@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BE" format="1">
+  <advance width="505"/>
+  <unicode hex="01BE"/>
+  <outline>
+    <contour>
+      <point x="120" y="545" type="line"/>
+      <point x="198" y="545" type="line"/>
+      <point x="398" y="545" type="line"/>
+      <point x="408" y="615" type="line"/>
+      <point x="130" y="615" type="line"/>
+    </contour>
+    <component base="uni0296"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>glottalstopinverted</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>glottalstopinverted</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

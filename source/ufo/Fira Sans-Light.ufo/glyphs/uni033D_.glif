@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni033D" format="1">
+  <advance width="330"/>
+  <unicode hex="033D"/>
+  <outline>
+    <component base="uni02E3" yOffset="230" yScale="0.9"/>
+    <contour>
+      <point x="167" y="823" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="165" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni02E3</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsehelper-cy.sc" format="1">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="400" y="75" type="line"/>
+      <point x="164" y="75" type="line"/>
+      <point x="232" y="564" type="line"/>
+      <point x="141" y="564" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="559" y="564" type="line"/>
+      <point x="468" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="490" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==TseHelper-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==TseHelper-cy</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tsehelper-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>tsehelper-cy</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

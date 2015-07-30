@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCE.case" format="1">
+  <advance width="96"/>
+  <outline>
+    <contour>
+      <point x="148" y="552" type="line"/>
+      <point x="150" y="552" type="line"/>
+      <point x="207" y="679" type="line"/>
+      <point x="204" y="679" type="line"/>
+    </contour>
+    <component base="uni1FBF" xOffset="36" yOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>psili.case</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

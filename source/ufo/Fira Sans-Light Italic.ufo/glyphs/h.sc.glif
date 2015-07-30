@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.sc" format="1">
+  <advance width="601"/>
+  <outline>
+    <contour>
+      <point x="511" y="557" type="line"/>
+      <point x="475" y="297" type="line"/>
+      <point x="138" y="297" type="line"/>
+      <point x="174" y="557" type="line"/>
+      <point x="172" y="557" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="138" y="295" type="line"/>
+      <point x="475" y="295" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="513" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="279" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="342" y="557" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

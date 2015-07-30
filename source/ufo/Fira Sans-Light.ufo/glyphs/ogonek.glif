@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="197"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="105" y="-21"/>
+      <point x="30" y="-57"/>
+      <point x="30" y="-120" type="curve" smooth="yes"/>
+      <point x="30" y="-169"/>
+      <point x="62" y="-194"/>
+      <point x="107" y="-194" type="curve" smooth="yes"/>
+      <point x="126" y="-194"/>
+      <point x="138" y="-192"/>
+      <point x="160" y="-186" type="curve"/>
+      <point x="160" y="-184" type="line"/>
+      <point x="138" y="-190"/>
+      <point x="125" y="-192"/>
+      <point x="107" y="-192" type="curve" smooth="yes"/>
+      <point x="63" y="-192"/>
+      <point x="32" y="-168"/>
+      <point x="32" y="-120" type="curve" smooth="yes"/>
+      <point x="32" y="-57"/>
+      <point x="111" y="-20"/>
+      <point x="167" y="0" type="curve"/>
+      <point x="166" y="1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

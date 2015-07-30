@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevetilde.case" format="1">
+  <advance width="396"/>
+  <outline>
+    <component base="uni0306.case" xOffset="19" yOffset="-18"/>
+    <component base="tildedbl" xOffset="6" yOffset="249"/>
+    <contour>
+      <point x="201" y="689" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildedbl</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

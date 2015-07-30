@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D6D" format="1">
+  <advance width="631"/>
+  <unicode hex="1D6D"/>
+  <outline>
+    <contour>
+      <point x="594" y="604"/>
+      <point x="619" y="625"/>
+      <point x="635" y="649" type="curve"/>
+      <point x="633" y="649" type="line"/>
+      <point x="617" y="626"/>
+      <point x="593" y="606"/>
+      <point x="558" y="606" type="curve"/>
+      <point x="512" y="606"/>
+      <point x="472" y="661"/>
+      <point x="424" y="661" type="curve"/>
+      <point x="390" y="661"/>
+      <point x="365" y="640"/>
+      <point x="346" y="616" type="curve"/>
+      <point x="348" y="616" type="line"/>
+      <point x="367" y="639"/>
+      <point x="391" y="659"/>
+      <point x="424" y="659" type="curve"/>
+      <point x="472" y="659"/>
+      <point x="511" y="604"/>
+      <point x="558" y="604" type="curve"/>
+    </contour>
+    <component base="d" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dcroat</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

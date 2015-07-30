@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedlunatesigmasymbol" format="1">
+  <advance width="600"/>
+  <unicode hex="037B"/>
+  <outline>
+    <contour>
+      <point x="414" y="-12"/>
+      <point x="512" y="89"/>
+      <point x="512" y="259" type="curve" smooth="yes"/>
+      <point x="512" y="430"/>
+      <point x="422" y="539"/>
+      <point x="268" y="539" type="curve" smooth="yes"/>
+      <point x="197" y="539"/>
+      <point x="147" y="523"/>
+      <point x="88" y="482" type="curve"/>
+      <point x="132" y="424" type="line"/>
+      <point x="174" y="450"/>
+      <point x="210" y="463"/>
+      <point x="268" y="463" type="curve" smooth="yes"/>
+      <point x="362" y="463"/>
+      <point x="413" y="401"/>
+      <point x="413" y="261" type="curve" smooth="yes"/>
+      <point x="413" y="123"/>
+      <point x="351" y="66"/>
+      <point x="258" y="66" type="curve" smooth="yes"/>
+      <point x="204" y="66"/>
+      <point x="173" y="80"/>
+      <point x="130" y="105" type="curve"/>
+      <point x="88" y="46" type="line"/>
+      <point x="138" y="8"/>
+      <point x="191" y="-12"/>
+      <point x="262" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="248" y="266" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

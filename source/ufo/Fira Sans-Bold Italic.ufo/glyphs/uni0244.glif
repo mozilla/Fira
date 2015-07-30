@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0244" format="1">
+  <advance width="677"/>
+  <unicode hex="0244"/>
+  <outline>
+    <contour>
+      <point x="666" y="601" type="line"/>
+      <point x="51" y="601" type="line"/>
+      <point x="37" y="495" type="line"/>
+      <point x="86" y="495" type="line"/>
+      <point x="701" y="495" type="line"/>
+      <point x="715" y="601" type="line"/>
+    </contour>
+    <component base="U" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hbar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Hbar</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

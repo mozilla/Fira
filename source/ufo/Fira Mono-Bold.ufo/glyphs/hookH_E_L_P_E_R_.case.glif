@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookHELPER.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="324" y="-227"/>
+      <point x="398" y="-157"/>
+      <point x="398" y="-25" type="curve" smooth="yes"/>
+      <point x="398" y="1" type="line"/>
+      <point x="232" y="1" type="line"/>
+      <point x="232" y="-39" type="line" smooth="yes"/>
+      <point x="232" y="-88"/>
+      <point x="213" y="-106"/>
+      <point x="180" y="-106" type="curve" smooth="yes"/>
+      <point x="154" y="-106"/>
+      <point x="139" y="-98"/>
+      <point x="121" y="-89" type="curve"/>
+      <point x="60" y="-182" type="line"/>
+      <point x="95" y="-208"/>
+      <point x="134" y="-227"/>
+      <point x="196" y="-227" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

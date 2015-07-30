@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDF.case" format="1">
+  <advance width="112"/>
+  <outline>
+    <contour>
+      <point x="110" y="603" type="line"/>
+      <point x="114" y="603"/>
+      <point x="116" y="605"/>
+      <point x="116" y="608" type="curve" smooth="yes"/>
+      <point x="116" y="611"/>
+      <point x="114" y="613"/>
+      <point x="111" y="613" type="curve" smooth="yes"/>
+      <point x="108" y="613"/>
+      <point x="106" y="611"/>
+      <point x="106" y="607" type="curve"/>
+      <point x="106" y="606"/>
+      <point x="106" y="607"/>
+      <point x="108" y="586" type="curve" smooth="yes"/>
+      <point x="113" y="530" type="line"/>
+      <point x="115" y="530" type="line"/>
+    </contour>
+    <component base="uni1FC0" xOffset="-103" yOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>psiliperispomeni.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>psiliperispomeni.case</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1FC0</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

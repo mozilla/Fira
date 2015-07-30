@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C2" format="1">
+  <advance width="340"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <component base="uni01C0" xOffset="43"/>
+    <component base="hyphen" xOffset="-35" yOffset="224" yScale="0.7"/>
+    <component base="hyphen" xOffset="-35" yOffset="75" yScale="0.7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Istroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Istroke</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni01C0</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

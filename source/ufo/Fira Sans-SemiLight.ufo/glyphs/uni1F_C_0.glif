@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC0" format="1">
+  <advance width="333"/>
+  <unicode hex="1FC0"/>
+  <outline>
+    <component base="tildecomb"/>
+    <contour>
+      <point x="167" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==tilde</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tilde</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>tilde</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

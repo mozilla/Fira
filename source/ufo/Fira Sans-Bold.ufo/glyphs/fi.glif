@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="1">
+  <advance width="613"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="147" y="764"/>
+      <point x="78" y="675"/>
+      <point x="78" y="565" type="curve" smooth="yes"/>
+      <point x="78" y="534" type="line"/>
+      <point x="-2" y="534" type="line"/>
+      <point x="-2" y="400" type="line"/>
+      <point x="78" y="400" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="400" type="line"/>
+      <point x="373" y="400" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="534" type="line"/>
+      <point x="276" y="534" type="line"/>
+      <point x="276" y="555" type="line" smooth="yes"/>
+      <point x="276" y="607"/>
+      <point x="294" y="622"/>
+      <point x="354" y="622" type="curve" smooth="yes"/>
+      <point x="393" y="622"/>
+      <point x="434" y="610"/>
+      <point x="465" y="598" type="curve"/>
+      <point x="517" y="722" type="line"/>
+      <point x="474" y="742"/>
+      <point x="405" y="764"/>
+      <point x="322" y="764" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==f</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==dotlessi</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dotlessi</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

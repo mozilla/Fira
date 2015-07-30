@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta.ss10" format="1">
+  <advance width="388"/>
+  <outline>
+    <contour>
+      <point x="292" y="624" type="line"/>
+      <point x="120" y="509"/>
+      <point x="40" y="368"/>
+      <point x="40" y="254" type="curve" smooth="yes"/>
+      <point x="40" y="126"/>
+      <point x="100" y="71"/>
+      <point x="204" y="30" type="curve" smooth="yes"/>
+      <point x="285" y="-2"/>
+      <point x="308" y="-15"/>
+      <point x="308" y="-55" type="curve" smooth="yes"/>
+      <point x="308" y="-103"/>
+      <point x="267" y="-128"/>
+      <point x="210" y="-151" type="curve"/>
+      <point x="249" y="-215" type="line"/>
+      <point x="357" y="-168"/>
+      <point x="407" y="-120"/>
+      <point x="407" y="-45" type="curve" smooth="yes"/>
+      <point x="407" y="34"/>
+      <point x="346" y="64"/>
+      <point x="264" y="95" type="curve" smooth="yes"/>
+      <point x="176" y="128"/>
+      <point x="138" y="158"/>
+      <point x="138" y="254" type="curve" smooth="yes"/>
+      <point x="138" y="375"/>
+      <point x="225" y="504"/>
+      <point x="423" y="678" type="curve"/>
+    </contour>
+    <contour>
+      <point x="60" y="715" type="line"/>
+      <point x="85" y="646"/>
+      <point x="145" y="610"/>
+      <point x="212" y="610" type="curve" smooth="yes"/>
+      <point x="249" y="610"/>
+      <point x="271" y="616"/>
+      <point x="292" y="624" type="curve"/>
+      <point x="423" y="678" type="line"/>
+      <point x="376" y="732" type="line"/>
+      <point x="330" y="697"/>
+      <point x="290" y="677"/>
+      <point x="239" y="677" type="curve" smooth="yes"/>
+      <point x="178" y="677"/>
+      <point x="148" y="701"/>
+      <point x="124" y="750" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

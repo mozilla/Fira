@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018E" format="1">
+  <advance width="493"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="47" y="653" type="line"/>
+      <point x="342" y="653" type="line"/>
+      <point x="342" y="373" type="line"/>
+      <point x="90" y="373" type="line"/>
+      <point x="90" y="345" type="line"/>
+      <point x="342" y="345" type="line"/>
+      <point x="342" y="29" type="line"/>
+      <point x="40" y="29" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="682" type="line"/>
+      <point x="47" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

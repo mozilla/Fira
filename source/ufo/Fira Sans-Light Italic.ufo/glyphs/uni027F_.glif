@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni027F" format="1">
+  <advance width="315"/>
+  <unicode hex="027F"/>
+  <outline>
+    <contour>
+      <point x="205" y="335" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="207" y="335" type="line"/>
+    </contour>
+    <component base="hookHELPERright" xOffset="214" yOffset="335" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="150" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|rfishhook</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

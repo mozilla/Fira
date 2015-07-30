@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni027A" format="1">
+  <advance width="410"/>
+  <unicode hex="027A"/>
+  <outline>
+    <contour>
+      <point x="368" y="533" type="line"/>
+      <point x="368" y="744" type="line"/>
+      <point x="170" y="764" type="line"/>
+      <point x="170" y="533" type="line"/>
+    </contour>
+    <component base="uni0279"/>
+    <contour>
+      <point x="269" y="744" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="157" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>rturned</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFE" format="1">
+  <advance width="131"/>
+  <unicode hex="1FFE"/>
+  <outline>
+    <component base="uni0326" xOffset="128" yOffset="858" xScale="-1"/>
+    <contour>
+      <point x="118" y="762" type="move" name="_topleft"/>
+    </contour>
+    <contour>
+      <point x="68" y="767" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="95" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

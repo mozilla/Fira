@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AD.sc" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="171" y="206" type="line"/>
+      <point x="213" y="208"/>
+      <point x="249" y="212"/>
+      <point x="291" y="220" type="curve"/>
+      <point x="292" y="246" type="line"/>
+      <point x="248" y="238"/>
+      <point x="218" y="234"/>
+      <point x="175" y="233" type="curve"/>
+      <point x="144" y="233" type="line"/>
+      <point x="85" y="233"/>
+      <point x="59" y="250"/>
+      <point x="59" y="289" type="curve" smooth="yes"/>
+      <point x="59" y="327"/>
+      <point x="87" y="351"/>
+      <point x="134" y="351" type="curve" smooth="yes"/>
+      <point x="146" y="351"/>
+      <point x="153" y="350"/>
+      <point x="161" y="349" type="curve"/>
+      <point x="165" y="376" type="line"/>
+      <point x="157" y="377"/>
+      <point x="149" y="378"/>
+      <point x="136" y="378" type="curve" smooth="yes"/>
+      <point x="75" y="378"/>
+      <point x="29" y="345"/>
+      <point x="29" y="289" type="curve" smooth="yes"/>
+      <point x="29" y="233"/>
+      <point x="73" y="206"/>
+      <point x="140" y="206" type="curve"/>
+    </contour>
+    <component base="l.sc" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uniA7AD</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

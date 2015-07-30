@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="611"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="249" y="553" type="line"/>
+      <point x="291" y="553" type="line" smooth="yes"/>
+      <point x="359" y="553"/>
+      <point x="386" y="519"/>
+      <point x="386" y="462" type="curve" smooth="yes"/>
+      <point x="386" y="394"/>
+      <point x="355" y="362"/>
+      <point x="297" y="362" type="curve" smooth="yes"/>
+      <point x="233" y="362" type="line"/>
+      <point x="233" y="217" type="line"/>
+      <point x="317" y="217" type="line" smooth="yes"/>
+      <point x="482" y="217"/>
+      <point x="596" y="299"/>
+      <point x="596" y="462" type="curve" smooth="yes"/>
+      <point x="596" y="618"/>
+      <point x="481" y="696"/>
+      <point x="294" y="696" type="curve" smooth="yes"/>
+      <point x="43" y="696" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="696" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="306" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="33" y="696" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

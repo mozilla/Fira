@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="490"/>
+  <outline>
+    <contour>
+      <point x="5" y="571" type="line"/>
+      <point x="5" y="427" type="line"/>
+      <point x="146" y="427" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="427" type="line"/>
+      <point x="475" y="427" type="line"/>
+      <point x="495" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="246" y="571" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="354" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="246" y="286" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==T</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==T</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE.case" format="1">
+  <advance width="104"/>
+  <outline>
+    <contour>
+      <point x="156" y="551" type="line"/>
+      <point x="158" y="551" type="line"/>
+      <point x="215" y="678" type="line"/>
+      <point x="212" y="678" type="line"/>
+    </contour>
+    <component base="uni1FFE" xOffset="-11" yOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dasia.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>psilioxia.case</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descTail-cy" format="1">
+  <advance width="194"/>
+  <outline>
+    <contour>
+      <point x="33" y="74" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="34" y="-150" type="line"/>
+      <point x="109" y="-150" type="line"/>
+      <point x="179" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="86" y="0" type="move" name="_bottomleft"/>
+    </contour>
+    <contour>
+      <point x="89" y="0" type="move" name="_bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

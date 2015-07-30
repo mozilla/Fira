@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="448"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="226" y="690"/>
+      <point x="178" y="664"/>
+      <point x="123" y="612" type="curve"/>
+      <point x="125" y="611" type="line"/>
+      <point x="180" y="663"/>
+      <point x="227" y="688"/>
+      <point x="296" y="688" type="curve"/>
+      <point x="374" y="688"/>
+      <point x="414" y="636"/>
+      <point x="414" y="581" type="curve"/>
+      <point x="414" y="400"/>
+      <point x="188" y="417"/>
+      <point x="190" y="267" type="curve"/>
+      <point x="190" y="248"/>
+      <point x="194" y="228"/>
+      <point x="200" y="209" type="curve"/>
+      <point x="202" y="209" type="line"/>
+      <point x="196" y="228"/>
+      <point x="192" y="248"/>
+      <point x="192" y="267" type="curve"/>
+      <point x="190" y="416"/>
+      <point x="416" y="399"/>
+      <point x="416" y="581" type="curve"/>
+      <point x="416" y="636"/>
+      <point x="375" y="690"/>
+      <point x="296" y="690" type="curve"/>
+    </contour>
+    <component base="period" xOffset="166" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

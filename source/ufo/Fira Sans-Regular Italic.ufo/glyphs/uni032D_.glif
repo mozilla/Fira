@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni032D" format="1">
+  <advance width="388"/>
+  <unicode hex="032D"/>
+  <outline>
+    <contour>
+      <point x="139" y="-142" type="line"/>
+      <point x="252" y="-226" type="line"/>
+      <point x="296" y="-181" type="line"/>
+      <point x="177" y="-68" type="line"/>
+      <point x="117" y="-68" type="line"/>
+      <point x="-32" y="-181" type="line"/>
+      <point x="5" y="-226" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="129" y="-226" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>circumflexcomb</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-119</integer>
+                <integer>-860</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflexbelowcomb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>388</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

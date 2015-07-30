@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AF" format="1">
+  <advance width="1343"/>
+  <unicode hex="20AF"/>
+  <outline>
+    <contour>
+      <point x="385" y="0" type="line" smooth="yes"/>
+      <point x="574" y="0"/>
+      <point x="738" y="73"/>
+      <point x="738" y="347" type="curve" smooth="yes"/>
+      <point x="738" y="627"/>
+      <point x="559" y="686"/>
+      <point x="373" y="686" type="curve" smooth="yes"/>
+      <point x="220" y="686" type="line"/>
+      <point x="221" y="543" type="line"/>
+      <point x="398" y="543" type="line" smooth="yes"/>
+      <point x="481" y="543"/>
+      <point x="526" y="499"/>
+      <point x="526" y="347" type="curve" smooth="yes"/>
+      <point x="526" y="193"/>
+      <point x="485" y="145"/>
+      <point x="397" y="145" type="curve" smooth="yes"/>
+      <point x="325" y="145" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="145" type="line"/>
+      <point x="391" y="182"/>
+      <point x="402" y="219"/>
+      <point x="402" y="269" type="curve" smooth="yes"/>
+      <point x="402" y="479" type="line"/>
+      <point x="208" y="481" type="line"/>
+      <point x="208" y="249" type="line" smooth="yes"/>
+      <point x="208" y="196"/>
+      <point x="206" y="159"/>
+      <point x="124" y="138" type="curve"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <component base="rho" xOffset="749"/>
+    <component base="hookaboveHELPER2.case" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Dhook</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rho</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

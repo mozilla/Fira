@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwaModifier" format="1">
+  <advance width="331"/>
+  <unicode hex="1D4A"/>
+  <outline>
+    <contour>
+      <point x="130" y="664"/>
+      <point x="103" y="652"/>
+      <point x="78" y="636" type="curve"/>
+      <point x="79" y="634" type="line"/>
+      <point x="104" y="650"/>
+      <point x="131" y="662"/>
+      <point x="168" y="662" type="curve" smooth="yes"/>
+      <point x="233" y="662"/>
+      <point x="269" y="615"/>
+      <point x="269" y="533" type="curve"/>
+      <point x="269" y="532" type="line"/>
+      <point x="269" y="438"/>
+      <point x="227" y="397"/>
+      <point x="165" y="397" type="curve" smooth="yes"/>
+      <point x="99" y="397"/>
+      <point x="62" y="446"/>
+      <point x="62" y="520" type="curve" smooth="yes"/>
+      <point x="62" y="525"/>
+      <point x="62" y="528"/>
+      <point x="62" y="532" type="curve"/>
+      <point x="270" y="532" type="line"/>
+      <point x="270" y="534" type="line"/>
+      <point x="60" y="534" type="line"/>
+      <point x="60" y="530"/>
+      <point x="60" y="525"/>
+      <point x="60" y="520" type="curve" smooth="yes"/>
+      <point x="60" y="445"/>
+      <point x="98" y="395"/>
+      <point x="165" y="395" type="curve" smooth="yes"/>
+      <point x="228" y="395"/>
+      <point x="271" y="437"/>
+      <point x="271" y="532" type="curve" smooth="yes"/>
+      <point x="271" y="616"/>
+      <point x="234" y="664"/>
+      <point x="168" y="664" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscaroncomb" format="1">
+  <advance width="325"/>
+  <outline>
+    <contour>
+      <point x="294" y="690"/>
+      <point x="283" y="680"/>
+      <point x="281" y="667" type="curve" smooth="yes"/>
+      <point x="279" y="652"/>
+      <point x="289" y="640"/>
+      <point x="306" y="640" type="curve" smooth="yes"/>
+      <point x="320" y="640"/>
+      <point x="330" y="650"/>
+      <point x="332" y="663" type="curve" smooth="yes"/>
+      <point x="334" y="678"/>
+      <point x="325" y="690"/>
+      <point x="309" y="690" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="122" y="690"/>
+      <point x="111" y="680"/>
+      <point x="109" y="667" type="curve" smooth="yes"/>
+      <point x="107" y="652"/>
+      <point x="117" y="640"/>
+      <point x="133" y="640" type="curve" smooth="yes"/>
+      <point x="148" y="640"/>
+      <point x="158" y="650"/>
+      <point x="160" y="663" type="curve" smooth="yes"/>
+      <point x="162" y="678"/>
+      <point x="153" y="690"/>
+      <point x="136" y="690" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni030C.case" xOffset="-8" yOffset="-60"/>
+    <contour>
+      <point x="200" y="520" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

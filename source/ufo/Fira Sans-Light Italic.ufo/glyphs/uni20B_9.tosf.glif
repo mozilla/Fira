@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B9.tosf" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="251" y="324" type="line"/>
+      <point x="370" y="327"/>
+      <point x="448" y="412"/>
+      <point x="448" y="532" type="curve" smooth="yes"/>
+      <point x="448" y="623"/>
+      <point x="402" y="674"/>
+      <point x="281" y="679" type="curve"/>
+      <point x="256" y="680" type="line"/>
+      <point x="179" y="680" type="line"/>
+      <point x="181" y="678" type="line"/>
+      <point x="256" y="678" type="line" smooth="yes"/>
+      <point x="395" y="678"/>
+      <point x="446" y="627"/>
+      <point x="446" y="532" type="curve" smooth="yes"/>
+      <point x="446" y="413"/>
+      <point x="368" y="326"/>
+      <point x="245" y="326" type="curve" smooth="yes"/>
+      <point x="130" y="326" type="line"/>
+      <point x="130" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="252" y="325" type="line"/>
+      <point x="250" y="325" type="line"/>
+      <point x="397" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="544" type="line"/>
+      <point x="534" y="546" type="line"/>
+      <point x="162" y="546" type="line"/>
+      <point x="162" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="678" type="line"/>
+      <point x="283" y="678" type="line"/>
+      <point x="553" y="678" type="line"/>
+      <point x="553" y="680" type="line"/>
+      <point x="181" y="680" type="line"/>
+      <point x="181" y="678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>rupeeIndian.tf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rupeeIndian.tf</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

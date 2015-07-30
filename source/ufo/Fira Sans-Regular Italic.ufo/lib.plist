@@ -73,9 +73,9 @@
 			<key>isGlobal</key>
 			<true/>
 			<key>x</key>
-			<integer>316</integer>
+			<integer>717</integer>
 			<key>y</key>
-			<integer>-500</integer>
+			<integer>100</integer>
 		</dict>
 	</array>
 	<key>public.glyphOrder</key>
@@ -381,6 +381,7 @@
 		<string>uni1EF6</string>
 		<string>uni0232</string>
 		<string>uni021C</string>
+		<string>uni01A6</string>
 		<string>uni024E</string>
 		<string>uni1EF8</string>
 		<string>Z</string>
@@ -391,7 +392,6 @@
 		<string>uni0224</string>
 		<string>uni01B5</string>
 		<string>uniA7AD</string>
-		<string>uni01A6</string>
 		<string>Cacute.loclPLK</string>
 		<string>Nacute.loclPLK</string>
 		<string>Oacute.loclPLK</string>
@@ -828,6 +828,7 @@
 		<string>uniA78D.sc</string>
 		<string>uni0196.sc</string>
 		<string>uniA7AD.sc</string>
+		<string>uni0280.sc</string>
 		<string>uni2C64.sc</string>
 		<string>uni01B1.sc</string>
 		<string>a.sc</string>
@@ -993,6 +994,7 @@
 		<string>ntilde.sc</string>
 		<string>o.sc</string>
 		<string>oacute.sc</string>
+		<string>uni0275.sc</string>
 		<string>obreve.sc</string>
 		<string>uni01D2.sc</string>
 		<string>ocircumflex.sc</string>
@@ -1949,12 +1951,29 @@
 		<string>uni0371.sc</string>
 		<string>uni0373.sc</string>
 		<string>uni0377.sc</string>
+		<string>uni037B.sc</string>
+		<string>uni037D.sc</string>
+		<string>uni03D9.sc</string>
 		<string>uni03DB.sc</string>
 		<string>uni03DD.sc</string>
 		<string>uni03DF.sc</string>
 		<string>uni03E1.sc</string>
+		<string>uni03D7.sc</string>
+		<string>uni03D0.sc</string>
+		<string>uni03D1.sc</string>
+		<string>uni03D2.sc</string>
+		<string>uni03D3.sc</string>
+		<string>uni03D4.sc</string>
+		<string>uni03D5.sc</string>
+		<string>uni03D6.sc</string>
+		<string>uni03F0.sc</string>
+		<string>uni03F1.sc</string>
+		<string>uni03F2.sc</string>
+		<string>uni03F3.sc</string>
+		<string>uni03F5.sc</string>
 		<string>uni03F8.sc</string>
 		<string>uni03FB.sc</string>
+		<string>uni03FC.sc</string>
 		<string>uni1F00.sc</string>
 		<string>uni1F01.sc</string>
 		<string>uni1F02.sc</string>
@@ -1968,6 +1987,18 @@
 		<string>uni1FB6.sc</string>
 		<string>uni1FB0.sc</string>
 		<string>uni1FB1.sc</string>
+		<string>uni1FB3.sc</string>
+		<string>uni1FB2.sc</string>
+		<string>uni1FB4.sc</string>
+		<string>uni1F80.sc</string>
+		<string>uni1F81.sc</string>
+		<string>uni1F82.sc</string>
+		<string>uni1F83.sc</string>
+		<string>uni1F84.sc</string>
+		<string>uni1F85.sc</string>
+		<string>uni1F86.sc</string>
+		<string>uni1F87.sc</string>
+		<string>uni1FB7.sc</string>
 		<string>uni1F10.sc</string>
 		<string>uni1F11.sc</string>
 		<string>uni1F12.sc</string>
@@ -1987,6 +2018,18 @@
 		<string>uni1F74.sc</string>
 		<string>uni1F75.sc</string>
 		<string>uni1FC6.sc</string>
+		<string>uni1FC3.sc</string>
+		<string>uni1FC2.sc</string>
+		<string>uni1FC4.sc</string>
+		<string>uni1F90.sc</string>
+		<string>uni1F91.sc</string>
+		<string>uni1F92.sc</string>
+		<string>uni1F93.sc</string>
+		<string>uni1F94.sc</string>
+		<string>uni1F95.sc</string>
+		<string>uni1F96.sc</string>
+		<string>uni1F97.sc</string>
+		<string>uni1FC7.sc</string>
 		<string>uni1F30.sc</string>
 		<string>uni1F31.sc</string>
 		<string>uni1F32.sc</string>
@@ -2011,10 +2054,15 @@
 		<string>uni1F45.sc</string>
 		<string>uni1F78.sc</string>
 		<string>uni1F79.sc</string>
+		<string>uni1FE4.sc</string>
 		<string>uni1FE5.sc</string>
+		<string>uni1F50.sc</string>
 		<string>uni1F51.sc</string>
+		<string>uni1F52.sc</string>
 		<string>uni1F53.sc</string>
+		<string>uni1F54.sc</string>
 		<string>uni1F55.sc</string>
+		<string>uni1F56.sc</string>
 		<string>uni1F57.sc</string>
 		<string>uni1F7A.sc</string>
 		<string>uni1F7B.sc</string>
@@ -2035,6 +2083,18 @@
 		<string>uni1F7C.sc</string>
 		<string>uni1F7D.sc</string>
 		<string>uni1FF6.sc</string>
+		<string>uni1FF3.sc</string>
+		<string>uni1FF2.sc</string>
+		<string>uni1FF4.sc</string>
+		<string>uni1FA0.sc</string>
+		<string>uni1FA1.sc</string>
+		<string>uni1FA2.sc</string>
+		<string>uni1FA3.sc</string>
+		<string>uni1FA4.sc</string>
+		<string>uni1FA5.sc</string>
+		<string>uni1FA6.sc</string>
+		<string>uni1FA7.sc</string>
+		<string>uni1FF7.sc</string>
 		<string>uni037A</string>
 		<string>uniAB53</string>
 		<string>uni210A</string>
@@ -2633,6 +2693,7 @@
 		<string>uni1FEF.case</string>
 		<string>uni1FFD.case</string>
 		<string>uni02BC</string>
+		<string>dottedlunatesigmasymbol.sc</string>
 		<string>TseHelper-cy</string>
 		<string>tsehelper-cy.sc</string>
 		<string>tsehelper-cy</string>
@@ -2643,7 +2704,6 @@
 		<string>breve-cy</string>
 		<string>breve-cy.case</string>
 		<string>breve-cy.sc</string>
-		<string>yr.sc</string>
 		<string>null</string>
 		<string>cedillaTcedilla</string>
 		<string>descStraightleft-cy</string>
@@ -2704,7 +2764,6 @@
 		<string>uniA7AE.sc</string>
 		<string>uniA7B3</string>
 		<string>uniA7B3.sc</string>
-		<string>ocenteredtilde.sc</string>
 		<string>uni1D91</string>
 		<string>uni1D6C</string>
 		<string>uni1D6D</string>
@@ -2727,44 +2786,6 @@
 		<string>descTail-cy</string>
 		<string>descTail-cy.case</string>
 		<string>Ksi-cyHELPER</string>
-		<string>yot-greek.sc</string>
-		<string>koppaarchaic.sc</string>
-		<string>kaisymbol.sc</string>
-		<string>upsilonhooksymbol.sc</string>
-		<string>upsilonacutehooksymbol.sc</string>
-		<string>upsilondieresishooksymbol.sc</string>
-		<string>thetasymbol.sc</string>
-		<string>sigmalunatesymbol.sc</string>
-		<string>sigmalunatereversedsymbol.sc</string>
-		<string>sigmalunatedottedsymbol.sc</string>
-		<string>sigmalunatedottedreversedsymbol.sc</string>
-		<string>alphaprosgegrammeni.sc</string>
-		<string>alphapsiliprosgegrammeni.sc</string>
-		<string>alphadasiaprosgegrammeni.sc</string>
-		<string>alphapsilivariaprosgegrammeni.sc</string>
-		<string>alphadasiavariaprosgegrammeni.sc</string>
-		<string>alphapsilioxiaprosgegrammeni.sc</string>
-		<string>alphadasiaoxiaprosgegrammeni.sc</string>
-		<string>alphapsiliperispomeniprosgegrammeni.sc</string>
-		<string>alphadasiaperispomeniprosgegrammeni.sc</string>
-		<string>etaprosgegrammeni.sc</string>
-		<string>etapsiliprosgegrammeni.sc</string>
-		<string>etadasiaprosgegrammeni.sc</string>
-		<string>etapsilivariaprosgegrammeni.sc</string>
-		<string>etadasiaoxiaprosgegrammeni.sc</string>
-		<string>etadasiavariaprosgegrammeni.sc</string>
-		<string>etapsilioxiaprosgegrammeni.sc</string>
-		<string>etapsiliperispomeniprosgegrammeni.sc</string>
-		<string>etadasiaperispomeniprosgegrammeni.sc</string>
-		<string>omegaprosgegrammeni.sc</string>
-		<string>omegapsiliprosgegrammeni.sc</string>
-		<string>omegadasiaprosgegrammeni.sc</string>
-		<string>omegapsilivariaprosgegrammeni.sc</string>
-		<string>omegadasiaoxiaprosgegrammeni.sc</string>
-		<string>omegapsiliperispomeniprosgegrammeni.sc</string>
-		<string>omegadasiaperispomeniprosgegrammeni.sc</string>
-		<string>omegapsilioxiaprosgegrammeni.sc</string>
-		<string>omegadasiavariaprosgegrammeni.sc</string>
 		<string>ksi-cyhelper.sc</string>
 		<string>uniE000</string>
 		<string>uniE001</string>

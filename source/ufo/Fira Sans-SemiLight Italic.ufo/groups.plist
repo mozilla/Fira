@@ -874,6 +874,18 @@
 		<string>uni1FB6.sc</string>
 		<string>uni1FB0.sc</string>
 		<string>uni1FB1.sc</string>
+		<string>uni1FB3.sc</string>
+		<string>uni1FB2.sc</string>
+		<string>uni1FB4.sc</string>
+		<string>uni1F80.sc</string>
+		<string>uni1F81.sc</string>
+		<string>uni1F82.sc</string>
+		<string>uni1F83.sc</string>
+		<string>uni1F84.sc</string>
+		<string>uni1F85.sc</string>
+		<string>uni1F86.sc</string>
+		<string>uni1F87.sc</string>
+		<string>uni1FB7.sc</string>
 	</array>
 	<key>@MMK_L_aleutka-cy</key>
 	<array>
@@ -1009,7 +1021,7 @@
 		<string>uni0511</string>
 		<string>epsilon</string>
 		<string>epsilontonos</string>
-		<string>uni037C</string>
+		<string>dottedlunatesigmasymbol</string>
 		<string>uni03F2</string>
 		<string>uni03F5</string>
 		<string>uni1F10</string>
@@ -1020,6 +1032,7 @@
 		<string>uni1F15</string>
 		<string>uni1F72</string>
 		<string>uni1F73</string>
+		<string>uni03F5.sc</string>
 	</array>
 	<key>@MMK_L_c.sc</key>
 	<array>
@@ -1038,8 +1051,8 @@
 		<string>uni0465.sc</string>
 		<string>uni04AB.sc</string>
 		<string>uni03DB.sc</string>
-		<string>sigmalunatesymbol.sc</string>
-		<string>sigmalunatedottedsymbol.sc</string>
+		<string>uni03F2.sc</string>
+		<string>dottedlunatesigmasymbol.sc</string>
 	</array>
 	<key>@MMK_L_ccurl</key>
 	<array>
@@ -1522,6 +1535,18 @@
 		<string>uni1F74.sc</string>
 		<string>uni1F75.sc</string>
 		<string>uni1FC6.sc</string>
+		<string>uni1FC3.sc</string>
+		<string>uni1FC2.sc</string>
+		<string>uni1FC4.sc</string>
+		<string>uni1F90.sc</string>
+		<string>uni1F91.sc</string>
+		<string>uni1F92.sc</string>
+		<string>uni1F93.sc</string>
+		<string>uni1F94.sc</string>
+		<string>uni1F95.sc</string>
+		<string>uni1F96.sc</string>
+		<string>uni1F97.sc</string>
+		<string>uni1FC7.sc</string>
 		<string>uni1F30.sc</string>
 		<string>uni1F31.sc</string>
 		<string>uni1F32.sc</string>
@@ -1538,33 +1563,6 @@
 		<string>uni1FD2.sc</string>
 		<string>uni1FD3.sc</string>
 		<string>uni1FD7.sc</string>
-		<string>alphaprosgegrammeni.sc</string>
-		<string>alphapsiliprosgegrammeni.sc</string>
-		<string>alphadasiaprosgegrammeni.sc</string>
-		<string>alphapsilivariaprosgegrammeni.sc</string>
-		<string>alphadasiavariaprosgegrammeni.sc</string>
-		<string>alphapsilioxiaprosgegrammeni.sc</string>
-		<string>alphadasiaoxiaprosgegrammeni.sc</string>
-		<string>alphapsiliperispomeniprosgegrammeni.sc</string>
-		<string>alphadasiaperispomeniprosgegrammeni.sc</string>
-		<string>etaprosgegrammeni.sc</string>
-		<string>etapsiliprosgegrammeni.sc</string>
-		<string>etadasiaprosgegrammeni.sc</string>
-		<string>etapsilivariaprosgegrammeni.sc</string>
-		<string>etadasiaoxiaprosgegrammeni.sc</string>
-		<string>etadasiavariaprosgegrammeni.sc</string>
-		<string>etapsilioxiaprosgegrammeni.sc</string>
-		<string>etapsiliperispomeniprosgegrammeni.sc</string>
-		<string>etadasiaperispomeniprosgegrammeni.sc</string>
-		<string>omegaprosgegrammeni.sc</string>
-		<string>omegapsiliprosgegrammeni.sc</string>
-		<string>omegadasiaprosgegrammeni.sc</string>
-		<string>omegapsilivariaprosgegrammeni.sc</string>
-		<string>omegadasiaoxiaprosgegrammeni.sc</string>
-		<string>omegapsiliperispomeniprosgegrammeni.sc</string>
-		<string>omegadasiaperispomeniprosgegrammeni.sc</string>
-		<string>omegapsilioxiaprosgegrammeni.sc</string>
-		<string>omegadasiavariaprosgegrammeni.sc</string>
 	</array>
 	<key>@MMK_L_hastroke-cy</key>
 	<array>
@@ -1634,6 +1632,7 @@
 		<string>uni1F35</string>
 		<string>uni1F36</string>
 		<string>uni1F37</string>
+		<string>uni03F0.sc</string>
 	</array>
 	<key>@MMK_L_j</key>
 	<array>
@@ -1670,7 +1669,7 @@
 		<string>uni01C9.sc</string>
 		<string>uni01CC.sc</string>
 		<string>uni0458.sc</string>
-		<string>yot-greek.sc</string>
+		<string>uni03F3.sc</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
@@ -1704,7 +1703,7 @@
 		<string>uni0517.sc</string>
 		<string>uni052B.sc</string>
 		<string>kappa.sc</string>
-		<string>kaisymbol.sc</string>
+		<string>uni03D7.sc</string>
 	</array>
 	<key>@MMK_L_komilje-cy.sc</key>
 	<array>
@@ -2074,6 +2073,9 @@
 		<string>uni1FA6</string>
 		<string>uni1FA7</string>
 		<string>uni1FF7</string>
+		<string>uni03D5.sc</string>
+		<string>uni03F1.sc</string>
+		<string>uni03FC.sc</string>
 		<string>uni03F6</string>
 	</array>
 	<key>@MMK_L_o.sc</key>
@@ -2092,6 +2094,7 @@
 		<string>uni01DD.sc</string>
 		<string>o.sc</string>
 		<string>oacute.sc</string>
+		<string>uni0275.sc</string>
 		<string>obreve.sc</string>
 		<string>uni01D2.sc</string>
 		<string>ocircumflex.sc</string>
@@ -2144,6 +2147,10 @@
 		<string>theta.sc</string>
 		<string>omicron.sc</string>
 		<string>omicrontonos.sc</string>
+		<string>uni037B.sc</string>
+		<string>uni037D.sc</string>
+		<string>uni03D9.sc</string>
+		<string>uni03D1.sc</string>
 		<string>uni1F40.sc</string>
 		<string>uni1F41.sc</string>
 		<string>uni1F42.sc</string>
@@ -2152,11 +2159,6 @@
 		<string>uni1F45.sc</string>
 		<string>uni1F78.sc</string>
 		<string>uni1F79.sc</string>
-		<string>ocenteredtilde.sc</string>
-		<string>koppaarchaic.sc</string>
-		<string>thetasymbol.sc</string>
-		<string>sigmalunatereversedsymbol.sc</string>
-		<string>sigmalunatedottedreversedsymbol.sc</string>
 	</array>
 	<key>@MMK_L_omega</key>
 	<array>
@@ -2178,6 +2180,18 @@
 		<string>uni1F7C.sc</string>
 		<string>uni1F7D.sc</string>
 		<string>uni1FF6.sc</string>
+		<string>uni1FF3.sc</string>
+		<string>uni1FF2.sc</string>
+		<string>uni1FF4.sc</string>
+		<string>uni1FA0.sc</string>
+		<string>uni1FA1.sc</string>
+		<string>uni1FA2.sc</string>
+		<string>uni1FA3.sc</string>
+		<string>uni1FA4.sc</string>
+		<string>uni1FA5.sc</string>
+		<string>uni1FA6.sc</string>
+		<string>uni1FA7.sc</string>
+		<string>uni1FF7.sc</string>
 	</array>
 	<key>@MMK_L_one</key>
 	<array>
@@ -2250,6 +2264,7 @@
 		<string>uni0440.sc</string>
 		<string>uni048F.sc</string>
 		<string>rho.sc</string>
+		<string>uni1FE4.sc</string>
 		<string>uni1FE5.sc</string>
 	</array>
 	<key>@MMK_L_parenleft</key>
@@ -2296,6 +2311,7 @@
 	<key>@MMK_L_piSymbol</key>
 	<array>
 		<string>uni03D6</string>
+		<string>uni03D6.sc</string>
 	</array>
 	<key>@MMK_L_plus</key>
 	<array>
@@ -2441,6 +2457,7 @@
 		<string>uni04FB</string>
 		<string>beta</string>
 		<string>uni03D0</string>
+		<string>uni03D0.sc</string>
 	</array>
 	<key>@MMK_L_s.sc</key>
 	<array>
@@ -2984,9 +3001,16 @@
 		<string>upsilontonos.sc</string>
 		<string>upsilondieresis.sc</string>
 		<string>upsilondieresistonos.sc</string>
+		<string>uni03D2.sc</string>
+		<string>uni03D3.sc</string>
+		<string>uni03D4.sc</string>
+		<string>uni1F50.sc</string>
 		<string>uni1F51.sc</string>
+		<string>uni1F52.sc</string>
 		<string>uni1F53.sc</string>
+		<string>uni1F54.sc</string>
 		<string>uni1F55.sc</string>
+		<string>uni1F56.sc</string>
 		<string>uni1F57.sc</string>
 		<string>uni1F7A.sc</string>
 		<string>uni1F7B.sc</string>
@@ -2996,17 +3020,14 @@
 		<string>uni1FE2.sc</string>
 		<string>uni1FE3.sc</string>
 		<string>uni1FE7.sc</string>
-		<string>upsilonhooksymbol.sc</string>
-		<string>upsilonacutehooksymbol.sc</string>
-		<string>upsilondieresishooksymbol.sc</string>
 	</array>
 	<key>@MMK_L_yr</key>
 	<array>
-		<string>yr</string>
+		<string>uni01A6</string>
 	</array>
 	<key>@MMK_L_yr.sc</key>
 	<array>
-		<string>yr.sc</string>
+		<string>uni0280.sc</string>
 	</array>
 	<key>@MMK_L_z</key>
 	<array>
@@ -3352,8 +3373,8 @@
 		<string>uni1E9E</string>
 		<string>uni0184</string>
 		<string>uni01F7</string>
+		<string>uni01A6</string>
 		<string>uniA7AD</string>
-		<string>yr</string>
 		<string>Nacute.loclPLK</string>
 		<string>Eng.ss01</string>
 		<string>uni019D.ss01</string>
@@ -3623,6 +3644,7 @@
 		<string>uni1FF9</string>
 		<string>theta</string>
 		<string>uni03D0</string>
+		<string>uni03D0.sc</string>
 	</array>
 	<key>@MMK_R_Omega</key>
 	<array>
@@ -3933,15 +3955,18 @@
 		<string>uni1FB6.sc</string>
 		<string>uni1FB0.sc</string>
 		<string>uni1FB1.sc</string>
-		<string>alphaprosgegrammeni.sc</string>
-		<string>alphapsiliprosgegrammeni.sc</string>
-		<string>alphadasiaprosgegrammeni.sc</string>
-		<string>alphapsilivariaprosgegrammeni.sc</string>
-		<string>alphadasiavariaprosgegrammeni.sc</string>
-		<string>alphapsilioxiaprosgegrammeni.sc</string>
-		<string>alphadasiaoxiaprosgegrammeni.sc</string>
-		<string>alphapsiliperispomeniprosgegrammeni.sc</string>
-		<string>alphadasiaperispomeniprosgegrammeni.sc</string>
+		<string>uni1FB3.sc</string>
+		<string>uni1FB2.sc</string>
+		<string>uni1FB4.sc</string>
+		<string>uni1F80.sc</string>
+		<string>uni1F81.sc</string>
+		<string>uni1F82.sc</string>
+		<string>uni1F83.sc</string>
+		<string>uni1F84.sc</string>
+		<string>uni1F85.sc</string>
+		<string>uni1F86.sc</string>
+		<string>uni1F87.sc</string>
+		<string>uni1FB7.sc</string>
 	</array>
 	<key>@MMK_R_ae.sc</key>
 	<array>
@@ -4186,6 +4211,7 @@
 	<array>
 		<string>uni03D7</string>
 		<string>uni03F0</string>
+		<string>uni03F0.sc</string>
 	</array>
 	<key>@MMK_R_exclam</key>
 	<array>
@@ -4392,6 +4418,7 @@
 		<string>uni0191.sc</string>
 		<string>uniA7AA.sc</string>
 		<string>uniA7AD.sc</string>
+		<string>uni0280.sc</string>
 		<string>uni2C64.sc</string>
 		<string>b.sc</string>
 		<string>uni1E05.sc</string>
@@ -4580,6 +4607,7 @@
 		<string>uni0371.sc</string>
 		<string>uni0377.sc</string>
 		<string>uni03DD.sc</string>
+		<string>uni03D7.sc</string>
 		<string>uni03F8.sc</string>
 		<string>uni1F10.sc</string>
 		<string>uni1F11.sc</string>
@@ -4600,6 +4628,18 @@
 		<string>uni1F74.sc</string>
 		<string>uni1F75.sc</string>
 		<string>uni1FC6.sc</string>
+		<string>uni1FC3.sc</string>
+		<string>uni1FC2.sc</string>
+		<string>uni1FC4.sc</string>
+		<string>uni1F90.sc</string>
+		<string>uni1F91.sc</string>
+		<string>uni1F92.sc</string>
+		<string>uni1F93.sc</string>
+		<string>uni1F94.sc</string>
+		<string>uni1F95.sc</string>
+		<string>uni1F96.sc</string>
+		<string>uni1F97.sc</string>
+		<string>uni1FC7.sc</string>
 		<string>uni1F30.sc</string>
 		<string>uni1F31.sc</string>
 		<string>uni1F32.sc</string>
@@ -4616,18 +4656,8 @@
 		<string>uni1FD2.sc</string>
 		<string>uni1FD3.sc</string>
 		<string>uni1FD7.sc</string>
+		<string>uni1FE4.sc</string>
 		<string>uni1FE5.sc</string>
-		<string>yr.sc</string>
-		<string>kaisymbol.sc</string>
-		<string>etaprosgegrammeni.sc</string>
-		<string>etapsiliprosgegrammeni.sc</string>
-		<string>etadasiaprosgegrammeni.sc</string>
-		<string>etapsilivariaprosgegrammeni.sc</string>
-		<string>etadasiaoxiaprosgegrammeni.sc</string>
-		<string>etadasiavariaprosgegrammeni.sc</string>
-		<string>etapsilioxiaprosgegrammeni.sc</string>
-		<string>etapsiliperispomeniprosgegrammeni.sc</string>
-		<string>etadasiaperispomeniprosgegrammeni.sc</string>
 	</array>
 	<key>@MMK_R_hastroke-cy</key>
 	<array>
@@ -4723,7 +4753,7 @@
 		<string>jcircumflex.sc</string>
 		<string>uni0249.sc</string>
 		<string>uni0458.sc</string>
-		<string>yot-greek.sc</string>
+		<string>uni03F3.sc</string>
 	</array>
 	<key>@MMK_R_jcrossedtail</key>
 	<array>
@@ -5161,7 +5191,7 @@
 		<string>omegatonos</string>
 		<string>alphatonos</string>
 		<string>epsilontonos</string>
-		<string>uni037C</string>
+		<string>dottedlunatesigmasymbol</string>
 		<string>uni03D9</string>
 		<string>uni03DB</string>
 		<string>uni03D5</string>
@@ -5232,6 +5262,8 @@
 		<string>uni1FA7</string>
 		<string>uni1FF7</string>
 		<string>sigma.ss10</string>
+		<string>uni03D5.sc</string>
+		<string>uni03F5.sc</string>
 		<string>uni210A</string>
 		<string>cent</string>
 	</array>
@@ -5262,6 +5294,7 @@
 		<string>uni01E5.sc</string>
 		<string>o.sc</string>
 		<string>oacute.sc</string>
+		<string>uni0275.sc</string>
 		<string>obreve.sc</string>
 		<string>uni01D2.sc</string>
 		<string>ocircumflex.sc</string>
@@ -5318,7 +5351,10 @@
 		<string>theta.sc</string>
 		<string>omicron.sc</string>
 		<string>omicrontonos.sc</string>
+		<string>uni03D9.sc</string>
 		<string>uni03DB.sc</string>
+		<string>uni03D1.sc</string>
+		<string>uni03F2.sc</string>
 		<string>uni1F40.sc</string>
 		<string>uni1F41.sc</string>
 		<string>uni1F42.sc</string>
@@ -5327,11 +5363,7 @@
 		<string>uni1F45.sc</string>
 		<string>uni1F78.sc</string>
 		<string>uni1F79.sc</string>
-		<string>ocenteredtilde.sc</string>
-		<string>koppaarchaic.sc</string>
-		<string>thetasymbol.sc</string>
-		<string>sigmalunatesymbol.sc</string>
-		<string>sigmalunatedottedsymbol.sc</string>
+		<string>dottedlunatesigmasymbol.sc</string>
 	</array>
 	<key>@MMK_R_omega</key>
 	<array>
@@ -5353,15 +5385,18 @@
 		<string>uni1F7C.sc</string>
 		<string>uni1F7D.sc</string>
 		<string>uni1FF6.sc</string>
-		<string>omegaprosgegrammeni.sc</string>
-		<string>omegapsiliprosgegrammeni.sc</string>
-		<string>omegadasiaprosgegrammeni.sc</string>
-		<string>omegapsilivariaprosgegrammeni.sc</string>
-		<string>omegadasiaoxiaprosgegrammeni.sc</string>
-		<string>omegapsiliperispomeniprosgegrammeni.sc</string>
-		<string>omegadasiaperispomeniprosgegrammeni.sc</string>
-		<string>omegapsilioxiaprosgegrammeni.sc</string>
-		<string>omegadasiavariaprosgegrammeni.sc</string>
+		<string>uni1FF3.sc</string>
+		<string>uni1FF2.sc</string>
+		<string>uni1FF4.sc</string>
+		<string>uni1FA0.sc</string>
+		<string>uni1FA1.sc</string>
+		<string>uni1FA2.sc</string>
+		<string>uni1FA3.sc</string>
+		<string>uni1FA4.sc</string>
+		<string>uni1FA5.sc</string>
+		<string>uni1FA6.sc</string>
+		<string>uni1FA7.sc</string>
+		<string>uni1FF7.sc</string>
 	</array>
 	<key>@MMK_R_one</key>
 	<array>
@@ -5433,8 +5468,8 @@
 	<key>@MMK_R_oopen.sc</key>
 	<array>
 		<string>uni0254.sc</string>
-		<string>sigmalunatereversedsymbol.sc</string>
-		<string>sigmalunatedottedreversedsymbol.sc</string>
+		<string>uni037B.sc</string>
+		<string>uni037D.sc</string>
 	</array>
 	<key>@MMK_R_ord</key>
 	<array>
@@ -5485,6 +5520,7 @@
 	<key>@MMK_R_piSymbol</key>
 	<array>
 		<string>uni03D6</string>
+		<string>uni03D6.sc</string>
 	</array>
 	<key>@MMK_R_plus</key>
 	<array>
@@ -5558,6 +5594,8 @@
 		<string>uni03FC</string>
 		<string>uni1FE4</string>
 		<string>uni1FE5</string>
+		<string>uni03F1.sc</string>
+		<string>uni03FC.sc</string>
 	</array>
 	<key>@MMK_R_rturned</key>
 	<array>
@@ -6045,9 +6083,16 @@
 		<string>upsilontonos.sc</string>
 		<string>upsilondieresis.sc</string>
 		<string>upsilondieresistonos.sc</string>
+		<string>uni03D2.sc</string>
+		<string>uni03D3.sc</string>
+		<string>uni03D4.sc</string>
+		<string>uni1F50.sc</string>
 		<string>uni1F51.sc</string>
+		<string>uni1F52.sc</string>
 		<string>uni1F53.sc</string>
+		<string>uni1F54.sc</string>
 		<string>uni1F55.sc</string>
+		<string>uni1F56.sc</string>
 		<string>uni1F57.sc</string>
 		<string>uni1F7A.sc</string>
 		<string>uni1F7B.sc</string>
@@ -6057,9 +6102,6 @@
 		<string>uni1FE2.sc</string>
 		<string>uni1FE3.sc</string>
 		<string>uni1FE7.sc</string>
-		<string>upsilonhooksymbol.sc</string>
-		<string>upsilonacutehooksymbol.sc</string>
-		<string>upsilondieresishooksymbol.sc</string>
 	</array>
 	<key>@MMK_R_yat-cy</key>
 	<array>

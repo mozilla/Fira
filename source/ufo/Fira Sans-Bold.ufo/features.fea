@@ -15,138 +15,9 @@ languagesystem latn CRT;
 languagesystem latn AFK;
 
 # automatic
-@Uppercase = [ A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA uni0200 Adieresis uni01DE uni0226 uni1EA0 uni01E0 Agrave uni1EA2 uni0202 uni2C6D Amacron Aogonek Aring Aringacute uni023A Atilde AE AEacute uni01E2 B uni1E02 uni1E04 uni0181 uni0181.ss02 uni0243 uni0182 C Cacute Cacute.loclPLK Ccaron Ccedilla Ccircumflex Cdotaccent uni0187 uni023B D uni01F1 uni01C4 uni0189 Eth Dcaron uni1E12 Dcroat uni1E0A uni1E0C uni018A uni1E0E uni018B uni01F2 uni01C5 E Eacute Ebreve Ecaron uni0228 Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 uni0204 Edieresis Edotaccent uni1EB8 Egrave uni1EBA uni0206 Emacron Eogonek uni0190 uni018E uni01A9 uni0246 uni1EBC uni01B7 uni01EE uni01B8 F uni1E1E uni0191 G uni01F4 uni0194 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent uni0193 uni0241 uni01E4 H Hbar uni021E Hcircumflex uni1E24 uniA7AA uniA78D uniA78D.ss02 uni01F6 I IJ Iacute Ibreve uni01CF Icircumflex uni0208 Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 uni020A Imacron Iogonek uni0196 uni0197 Itilde J Jcircumflex uni0248 K uni01E8 Kcommaaccent uni0198 L uni01C7 Lacute uni023D Lcaron uni1E3C Lcommaaccent Ldot uni1E36 uni01C8 Lslash M uni1E3E uni1E40 uni019C N uni01CA Nacute Nacute.loclPLK Ncaron uni1E4A Ncommaaccent uni1E44 uni1E46 uni01F8 Eng Eng.ss01 uni019D uni019D.ss01 uni01CB uni0220 Ntilde O uni0222 Oacute Oacute.loclPLK Obreve uni01D1 uni019F Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 uni020C Odieresis uni022A uni022E uni0230 uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut uni01A2 uni020E Omacron uni1E52 uni1E50 uni01EA uni01EC uni0186 Oslash Oslashacute Otilde uni1E4C uni022C OE P uni1E54 uni1E56 uni01A4 Thorn Q uni024A R Racute Rcaron Rcommaaccent uni0210 uni1E5A uni0212 uni024C uni2C64 uni2C64.ss01 S Sacute Sacute.loclPLK uniA78B Scaron Scedilla Scircumflex Scommaaccent uni1E60 uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni1E70 uni021A uni023E uni1E6A uni1E6C uni01AC uni1E6E uni01BC uni0184 uni01A7 uni01AE U Uacute uni0244 Ubreve uni01D3 Ucircumflex uni0214 Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut uni0216 Umacron Uogonek uni01B1 Uring Utilde uni1E78 V uni01B2 uni0245 W Wacute Wcircumflex Wdieresis Wgrave uni2C72 uni01F7 X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni01B3 uni1EF6 uni0232 uni021C uni024E uni1EF8 Z Zacute Zacute.loclPLK Zcaron Zdotaccent uni1E92 uni0224 uni01B5 uniA7AD yr uni052C uni052A uni052E uni0528 uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni048A uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni0402 uni0460 uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni046E uni0470 uni0472 uni0474 uni0476 uni0478 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A6 uni0524 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04BC uni04BE uni04C0 uni04C1 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E0 uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni04FA uni04FC uni04FE uni0500 uni0502 uni0504 uni0506 uni0508 uni050A uni050C uni050E uni0510 uni0512 uni0514 uni0516 uni0518 uni051A uni051C uni051E uni0520 uni0522 uni048C uni048E uni037F Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni0370 uni0372 uni0376 uni03D8 uni03DA uni03DC uni03DE uni03E0 uni03CF uni03D2 uni03D3 uni03D4 uni03F4 uni03F7 uni03F9 uni03FA uni03FD uni03FE uni03FF uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF ];
+@Uppercase = [ A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA uni0200 Adieresis uni01DE uni0226 uni1EA0 uni01E0 Agrave uni1EA2 uni0202 uni2C6D Amacron Aogonek Aring Aringacute uni023A Atilde AE AEacute uni01E2 B uni1E02 uni1E04 uni0181 uni0181.ss02 uni0243 uni0182 C Cacute Cacute.loclPLK Ccaron Ccedilla Ccircumflex Cdotaccent uni0187 uni023B D uni01F1 uni01C4 uni0189 Eth Dcaron uni1E12 Dcroat uni1E0A uni1E0C uni018A uni1E0E uni018B uni01F2 uni01C5 E Eacute Ebreve Ecaron uni0228 Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 uni0204 Edieresis Edotaccent uni1EB8 Egrave uni1EBA uni0206 Emacron Eogonek uni0190 uni018E uni01A9 uni0246 uni1EBC uni01B7 uni01EE uni01B8 F uni1E1E uni0191 G uni01F4 uni0194 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent uni0193 uni0241 uni01E4 H Hbar uni021E Hcircumflex uni1E24 uniA7AA uniA78D uniA78D.ss02 uni01F6 I IJ Iacute Ibreve uni01CF Icircumflex uni0208 Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 uni020A Imacron Iogonek uni0196 uni0197 Itilde J Jcircumflex uni0248 K uni01E8 Kcommaaccent uni0198 L uni01C7 Lacute uni023D Lcaron uni1E3C Lcommaaccent Ldot uni1E36 uni01C8 Lslash M uni1E3E uni1E40 uni019C N uni01CA Nacute Nacute.loclPLK Ncaron uni1E4A Ncommaaccent uni1E44 uni1E46 uni01F8 Eng Eng.ss01 uni019D uni019D.ss01 uni01CB uni0220 Ntilde O uni0222 Oacute Oacute.loclPLK Obreve uni01D1 uni019F Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 uni020C Odieresis uni022A uni022E uni0230 uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut uni01A2 uni020E Omacron uni1E52 uni1E50 uni01EA uni01EC uni0186 Oslash Oslashacute Otilde uni1E4C uni022C OE P uni1E54 uni1E56 uni01A4 Thorn Q uni024A R Racute Rcaron Rcommaaccent uni0210 uni1E5A uni0212 uni024C uni2C64 uni2C64.ss01 S Sacute Sacute.loclPLK uniA78B Scaron Scedilla Scircumflex Scommaaccent uni1E60 uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni1E70 uni021A uni023E uni1E6A uni1E6C uni01AC uni1E6E uni01BC uni0184 uni01A7 uni01AE U Uacute uni0244 Ubreve uni01D3 Ucircumflex uni0214 Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut uni0216 Umacron Uogonek uni01B1 Uring Utilde uni1E78 V uni01B2 uni0245 W Wacute Wcircumflex Wdieresis Wgrave uni2C72 uni01F7 X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni01B3 uni1EF6 uni0232 uni021C uni01A6 uni024E uni1EF8 Z Zacute Zacute.loclPLK Zcaron Zdotaccent uni1E92 uni0224 uni01B5 uniA7AD uni052C uni052A uni052E uni0528 uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0400 uni0401 uni0416 uni0417 uni0418 uni0419 uni040D uni048A uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni0402 uni0460 uni0462 uni0464 uni0466 uni0468 uni046A uni046C uni046E uni0470 uni0472 uni0474 uni0476 uni0478 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A6 uni0524 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B6 uni04B8 uni04BA uni0526 uni04BC uni04BE uni04C0 uni04C1 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D0 uni04D2 uni04D6 uni04D8 uni04DA uni04DC uni04DE uni04E0 uni04E2 uni04E4 uni04E6 uni04E8 uni04EA uni04EC uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni04FA uni04FC uni04FE uni0500 uni0502 uni0504 uni0506 uni0508 uni050A uni050C uni050E uni0510 uni0512 uni0514 uni0516 uni0518 uni051A uni051C uni051E uni0520 uni0522 uni048C uni048E Yot-greek Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis uni0370 uni0372 uni0376 uni03D8 uni03DA uni03DC uni03DE uni03E0 uni03CF uni03D2 uni03D3 uni03D4 uni03F4 uni03F7 uni03F9 uni03FA uni03FD uni03FE uni03FF uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA uni1FBB uni1FB8 uni1FB9 uni1FBC uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1FCC uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FDA uni1FDB uni1FD8 uni1FD9 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9 uni1FEC uni1F59 uni1F5B uni1F5D uni1F5F uni1FEA uni1FEB uni1FE8 uni1FE9 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF ];
 
-@GreekUC = [ Alpha
-Beta
-Gamma
-uni0394
-Epsilon
-Zeta
-Eta
-Theta
-Iota
-Kappa
-Lambda
-Mu
-Nu
-Xi
-Omicron
-Pi
-Rho
-Sigma
-Tau
-Upsilon
-Phi
-Chi
-Psi
-uni03A9
-Alphatonos
-Epsilontonos
-Etatonos
-Iotatonos
-Omicrontonos
-Upsilontonos
-Omegatonos
-Iotadieresis
-Upsilondieresis
-uni1F08
-uni1F09
-uni1F0A
-uni1F0B
-uni1F0C
-uni1F0D
-uni1F0E
-uni1F0F
-uni1FBA
-uni1FBB
-uni1FB8
-uni1FB9
-uni1FBC
-uni1F88
-uni1F89
-uni1F8A
-uni1F8B
-uni1F8C
-uni1F8D
-uni1F8E
-uni1F8F
-uni1F18
-uni1F19
-uni1F1A
-uni1F1B
-uni1F1C
-uni1F1D
-uni1FC8
-uni1FC9
-uni1F28
-uni1F29
-uni1F2A
-uni1F2B
-uni1F2C
-uni1F2D
-uni1F2E
-uni1F2F
-uni1FCA
-uni1FCB
-uni1FCC
-uni1F98
-uni1F99
-uni1F9A
-uni1F9B
-uni1F9C
-uni1F9D
-uni1F9E
-uni1F9F
-uni1F38
-uni1F39
-uni1F3A
-uni1F3B
-uni1F3C
-uni1F3D
-uni1F3E
-uni1F3F
-uni1FDA
-uni1FDB
-uni1FD8
-uni1FD9
-uni1F48
-uni1F49
-uni1F4A
-uni1F4B
-uni1F4C
-uni1F4D
-uni1FF8
-uni1FF9
-uni1FEC
-uni1F59
-uni1F5B
-uni1F5D
-uni1F5F
-uni1FEA
-uni1FEB
-uni1FE8
-uni1FE9
-uni1F68
-uni1F69
-uni1F6A
-uni1F6B
-uni1F6C
-uni1F6D
-uni1F6E
-uni1F6F
-uni1FFA
-uni1FFB
-uni1FFC
-uni1FA8
-uni1FA9
-uni1FAA
-uni1FAB
-uni1FAC
-uni1FAD
-uni1FAE
-uni1FAF
-alpha.sc
+@GreekUC = [ alpha.sc
 beta.sc
 gamma.sc
 delta.sc
@@ -191,15 +62,15 @@ uni1F70.sc
 uni1F71.sc
 uni1FB0.sc
 uni1FB1.sc
-alphaprosgegrammeni.sc
-alphapsiliprosgegrammeni.sc
-alphadasiaprosgegrammeni.sc
-alphapsilivariaprosgegrammeni.sc
-alphadasiavariaprosgegrammeni.sc
-alphapsilioxiaprosgegrammeni.sc
-alphadasiaoxiaprosgegrammeni.sc
-alphapsiliperispomeniprosgegrammeni.sc
-alphadasiaperispomeniprosgegrammeni.sc
+uni1FB3.sc
+uni1F80.sc
+uni1F81.sc   
+uni1F82.sc
+uni1F83.sc   
+uni1F84.sc
+uni1F85.sc   
+uni1F86.sc
+uni1F87.sc
 uni1F10.sc
 uni1F11.sc
 uni1F12.sc
@@ -218,15 +89,15 @@ uni1F26.sc
 uni1F27.sc
 uni1F74.sc
 uni1F75.sc
-etaprosgegrammeni.sc
-etapsiliprosgegrammeni.sc
-etadasiaprosgegrammeni.sc
-etapsilivariaprosgegrammeni.sc
-etadasiavariaprosgegrammeni.sc
-etapsilioxiaprosgegrammeni.sc
-etadasiaoxiaprosgegrammeni.sc
-etapsiliperispomeniprosgegrammeni.sc
-etadasiaperispomeniprosgegrammeni.sc
+uni1FC3.sc
+uni1F90.sc   
+uni1F91.sc
+uni1F92.sc   
+uni1F95.sc
+uni1F93.sc
+uni1F94.sc
+uni1F96.sc
+uni1F97.sc   
 uni1F30.sc
 uni1F31.sc
 uni1F32.sc
@@ -266,15 +137,15 @@ uni1F66.sc
 uni1F67.sc
 uni1F7C.sc
 uni1F7D.sc
-omegaprosgegrammeni.sc
-omegapsiliprosgegrammeni.sc
-omegadasiaprosgegrammeni.sc
-omegapsilivariaprosgegrammeni.sc
-omegadasiavariaprosgegrammeni.sc
-omegapsilioxiaprosgegrammeni.sc
-omegadasiaoxiaprosgegrammeni.sc
-omegapsiliperispomeniprosgegrammeni.sc
-omegadasiaperispomeniprosgegrammeni.sc ];
+uni1FF3.sc
+uni1FA0.sc
+uni1FA1.sc
+uni1FA2.sc
+uni1FA5.sc
+uni1FA6.sc
+uni1FA7.sc   
+uni1FA4.sc
+uni1FA3.sc ];
 
 @GreekUCAcc = [ Alphatonos
 Epsilontonos
@@ -445,15 +316,15 @@ uni1F70.sc
 uni1F71.sc
 uni1FB0.sc
 uni1FB1.sc
-alphaprosgegrammeni.sc
-alphapsiliprosgegrammeni.sc
-alphadasiaprosgegrammeni.sc
-alphapsilivariaprosgegrammeni.sc
-alphadasiavariaprosgegrammeni.sc
-alphapsilioxiaprosgegrammeni.sc
-alphadasiaoxiaprosgegrammeni.sc
-alphapsiliperispomeniprosgegrammeni.sc
-alphadasiaperispomeniprosgegrammeni.sc
+uni1FB3.sc
+uni1F80.sc
+uni1F81.sc   
+uni1F82.sc
+uni1F83.sc   
+uni1F84.sc
+uni1F85.sc   
+uni1F86.sc
+uni1F87.sc
 uni1F10.sc
 uni1F11.sc
 uni1F12.sc
@@ -534,15 +405,15 @@ uni1F70.sc
 uni1F71.sc
 uni1FB0.sc
 uni1FB1.sc
-alphaprosgegrammeni.sc
-alphapsiliprosgegrammeni.sc
-alphadasiaprosgegrammeni.sc
-alphapsilivariaprosgegrammeni.sc
-alphadasiavariaprosgegrammeni.sc
-alphapsilioxiaprosgegrammeni.sc
-alphadasiaoxiaprosgegrammeni.sc
-alphapsiliperispomeniprosgegrammeni.sc
-alphadasiaperispomeniprosgegrammeni.sc
+uni1FB3.sc
+uni1F80.sc
+uni1F81.sc   
+uni1F82.sc
+uni1F83.sc   
+uni1F84.sc
+uni1F85.sc   
+uni1F86.sc
+uni1F87.sc
 uni1F10.sc
 uni1F11.sc
 uni1F12.sc
@@ -1273,7 +1144,7 @@ sub OU by ou.sc;
 sub Oacute by oacute.sc;
 sub Obreve by obreve.sc;
 sub Ocaron by ocaron.sc;
-sub Ocenteredtilde by ocenteredtilde.sc;
+sub Ocenteredtilde by obarred.sc;
 sub Ocircumflex by ocircumflex.sc;
 sub Ocircumflexacute by ocircumflexacute.sc;
 sub Ocircumflexdotbelow by ocircumflexdotbelow.sc;
@@ -1397,6 +1268,7 @@ sub Yhook by yhook.sc;
 sub Yhookabove by yhookabove.sc;
 sub Ymacron by ymacron.sc;
 sub Yogh by yogh.sc;
+sub Yr by Rsmall.sc;
 sub Ystroke by ystroke.sc;
 sub Ytilde by ytilde.sc;
 sub Z by z.sc;
@@ -1407,7 +1279,6 @@ sub Zdotbelow by zdotbelow.sc;
 sub Zhook by zhook.sc;
 sub Zstroke by zstroke.sc;
 sub uniA7AD by uniA7AD.sc;
-sub yr by yr.sc;
 sub Dche-cy by dche-cy.sc;
 sub Dzzhe-cy by dzzhe-cy.sc;
 sub Eldescender-cy by eldescender-cy.sc;
@@ -1545,7 +1416,7 @@ sub Enmiddlehook-cy by enmiddlehook-cy.sc;
 sub Semisoftsign-cy by semisoftsign-cy.sc;
 sub Ertick-cy by ertick-cy.sc;
 sub Aie-cy by aie-cy.sc;
-sub Yot-greek by yot-greek.sc;
+sub aie-cy by aie-cy.sc;
 sub Alpha by alpha.sc;
 sub Beta by beta.sc;
 sub Gamma by gamma.sc;
@@ -1582,22 +1453,21 @@ sub Upsilondieresis by upsilondieresis.sc;
 sub Heta by heta.sc;
 sub Archaicsampi by archaicsampi.sc;
 sub Pamphyliandigamma by pamphyliandigamma.sc;
-sub KoppaArchaic by koppaarchaic.sc;
+sub KoppaArchaic by koppaArchaic.sc;
 sub Stigma by stigma.sc;
 sub Digamma by digamma.sc;
 sub Koppa by koppa.sc;
 sub Sampi by sampi.sc;
-sub KaiSymbol by kaisymbol.sc;
-sub UpsilonhookSymbol by upsilonhooksymbol.sc;
-sub UpsilonacutehookSymbol by upsilonacutehooksymbol.sc;
-sub UpsilondieresishookSymbol by upsilondieresishooksymbol.sc;
-sub ThetaSymbol by thetasymbol.sc;
+sub KaiSymbol by kaiSymbol.sc;
+sub UpsilonhookSymbol by UpsilonhookSymbol.sc;
+sub UpsilonacutehookSymbol by UpsilonacutehookSymbol.sc;
+sub UpsilondieresishookSymbol by UpsilondieresishookSymbol.sc;
+sub ThetaSymbol by theta.sc;
 sub Sho by sho.sc;
-sub SigmaLunateSymbol by sigmalunatesymbol.sc;
+sub SigmaLunateSymbol by sigmaLunateSymbol.sc;
 sub San by san.sc;
-sub SigmaLunateReversedSymbol by sigmalunatereversedsymbol.sc;
-sub SigmaLunateDottedSymbol by sigmalunatedottedsymbol.sc;
-sub SigmaLunateDottedReversedSymbol by sigmalunatedottedreversedsymbol.sc;
+sub SigmaLunateReversedSymbol by sigmaLunateReversedSymbol.sc;
+sub SigmaLunateDottedReversedSymbol by sigmaLunateDottedReversedSymbol.sc;
 sub Alphapsili by alphapsili.sc;
 sub Alphadasia by alphadasia.sc;
 sub Alphapsilivaria by alphapsilivaria.sc;
@@ -1610,15 +1480,15 @@ sub Alphavaria by alphavaria.sc;
 sub Alphaoxia by alphaoxia.sc;
 sub Alphavrachy by alphavrachy.sc;
 sub Alphamacron by alphamacron.sc;
-sub Alphaprosgegrammeni by alphaprosgegrammeni.sc;
-sub Alphapsiliprosgegrammeni by alphapsiliprosgegrammeni.sc;
-sub Alphadasiaprosgegrammeni by alphadasiaprosgegrammeni.sc;
-sub Alphapsilivariaprosgegrammeni by alphapsilivariaprosgegrammeni.sc;
-sub Alphadasiavariaprosgegrammeni by alphadasiavariaprosgegrammeni.sc;
-sub Alphapsilioxiaprosgegrammeni by alphapsilioxiaprosgegrammeni.sc;
-sub Alphadasiaoxiaprosgegrammeni by alphadasiaoxiaprosgegrammeni.sc;
-sub Alphapsiliperispomeniprosgegrammeni by alphapsiliperispomeniprosgegrammeni.sc;
-sub Alphadasiaperispomeniprosgegrammeni by alphadasiaperispomeniprosgegrammeni.sc;
+sub Alphaprosgegrammeni by alphaypogegrammeni.sc;
+sub Alphapsiliprosgegrammeni by alphapsiliypogegrammeni.sc;
+sub Alphadasiaprosgegrammeni by alphadasiaypogegrammeni.sc;
+sub Alphapsilivariaprosgegrammeni by alphapsilivariaypogegrammeni.sc;
+sub Alphadasiavariaprosgegrammeni by alphadasiavariaypogegrammeni.sc;
+sub Alphapsilioxiaprosgegrammeni by alphapsilioxiaypogegrammeni.sc;
+sub Alphadasiaoxiaprosgegrammeni by alphadasiaoxiaypogegrammeni.sc;
+sub Alphapsiliperispomeniprosgegrammeni by alphapsiliperispomeniypogegrammeni.sc;
+sub Alphadasiaperispomeniprosgegrammeni by alphadasiaperispomeniypogegrammeni.sc;
 sub Epsilonpsili by epsilonpsili.sc;
 sub Epsilondasia by epsilondasia.sc;
 sub Epsilonpsilivaria by epsilonpsilivaria.sc;
@@ -1637,15 +1507,15 @@ sub Etapsiliperispomeni by etapsiliperispomeni.sc;
 sub Etadasiaperispomeni by etadasiaperispomeni.sc;
 sub Etavaria by etavaria.sc;
 sub Etaoxia by etaoxia.sc;
-sub Etaprosgegrammeni by etaprosgegrammeni.sc;
-sub Etapsiliprosgegrammeni by etapsiliprosgegrammeni.sc;
-sub Etadasiaprosgegrammeni by etadasiaprosgegrammeni.sc;
-sub Etapsilivariaprosgegrammeni by etapsilivariaprosgegrammeni.sc;
-sub Etadasiavariaprosgegrammeni by etadasiavariaprosgegrammeni.sc;
-sub Etapsilioxiaprosgegrammeni by etapsilioxiaprosgegrammeni.sc;
-sub Etadasiaoxiaprosgegrammeni by etadasiaoxiaprosgegrammeni.sc;
-sub Etapsiliperispomeniprosgegrammeni by etapsiliperispomeniprosgegrammeni.sc;
-sub Etadasiaperispomeniprosgegrammeni by etadasiaperispomeniprosgegrammeni.sc;
+sub Etaprosgegrammeni by etaypogegrammeni.sc;
+sub Etapsiliprosgegrammeni by etapsiliypogegrammeni.sc;
+sub Etadasiaprosgegrammeni by etadasiaypogegrammeni.sc;
+sub Etapsilivariaprosgegrammeni by etapsilivariaypogegrammeni.sc;
+sub Etadasiavariaprosgegrammeni by etadasiavariaypogegrammeni.sc;
+sub Etapsilioxiaprosgegrammeni by etapsilioxiaypogegrammeni.sc;
+sub Etadasiaoxiaprosgegrammeni by etadasiaoxiaypogegrammeni.sc;
+sub Etapsiliperispomeniprosgegrammeni by etapsiliperispomeniypogegrammeni.sc;
+sub Etadasiaperispomeniprosgegrammeni by etadasiaperispomeniypogegrammeni.sc;
 sub Iotapsili by iotapsili.sc;
 sub Iotadasia by iotadasia.sc;
 sub Iotapsilivaria by iotapsilivaria.sc;
@@ -1685,15 +1555,15 @@ sub Omegapsiliperispomeni by omegapsiliperispomeni.sc;
 sub Omegadasiaperispomeni by omegadasiaperispomeni.sc;
 sub Omegavaria by omegavaria.sc;
 sub Omegaoxia by omegaoxia.sc;
-sub Omegaprosgegrammeni by omegaprosgegrammeni.sc;
-sub Omegapsiliprosgegrammeni by omegapsiliprosgegrammeni.sc;
-sub Omegadasiaprosgegrammeni by omegadasiaprosgegrammeni.sc;
-sub Omegapsilivariaprosgegrammeni by omegapsilivariaprosgegrammeni.sc;
-sub Omegadasiavariaprosgegrammeni by omegadasiavariaprosgegrammeni.sc;
-sub Omegapsilioxiaprosgegrammeni by omegapsilioxiaprosgegrammeni.sc;
-sub Omegadasiaoxiaprosgegrammeni by omegadasiaoxiaprosgegrammeni.sc;
-sub Omegapsiliperispomeniprosgegrammeni by omegapsiliperispomeniprosgegrammeni.sc;
-sub Omegadasiaperispomeniprosgegrammeni by omegadasiaperispomeniprosgegrammeni.sc;
+sub Omegaprosgegrammeni by omegaypogegrammeni.sc;
+sub Omegapsiliprosgegrammeni by omegapsiliypogegrammeni.sc;
+sub Omegadasiaprosgegrammeni by omegadasiaypogegrammeni.sc;
+sub Omegapsilivariaprosgegrammeni by omegapsilivariaypogegrammeni.sc;
+sub Omegadasiavariaprosgegrammeni by omegadasiavariaypogegrammeni.sc;
+sub Omegapsilioxiaprosgegrammeni by omegapsilioxiaypogegrammeni.sc;
+sub Omegadasiaoxiaprosgegrammeni by omegadasiaoxiaypogegrammeni.sc;
+sub Omegapsiliperispomeniprosgegrammeni by omegapsiliperispomeniypogegrammeni.sc;
+sub Omegadasiaperispomeniprosgegrammeni by omegadasiaperispomeniypogegrammeni.sc;
 sub acute by acute.sc;
 sub acutecomb by acutecomb.sc;
 sub breve by breve.sc;
@@ -1721,8 +1591,8 @@ sub ring by ring.sc;
 sub ringcomb by ringcomb.sc;
 sub tilde by tilde.sc;
 sub tildecomb by tildecomb.sc;
+sub dottedlunatesigmasymbol by dottedlunatesigmasymbol.sc;
 sub breve-cy by breve-cy.sc;
-sub yr by yr.sc;
 sub uniA7B2 by uniA7B2.sc;
 sub uniA7B3 by uniA7B3.sc;
 sub uniA7B4 by uniA7B4.sc;
@@ -1732,6 +1602,7 @@ sub uniA7AE by uniA7AE.sc;
 
 feature smcp {
 # automatic
+sub Rsmall by Rsmall.sc;
 sub a by a.sc;
 sub aacute by aacute.sc;
 sub abreve by abreve.sc;
@@ -1895,6 +1766,7 @@ sub nj by nj.sc;
 sub ntilde by ntilde.sc;
 sub o by o.sc;
 sub oacute by oacute.sc;
+sub obarred by obarred.sc;
 sub obreve by obreve.sc;
 sub ocaron by ocaron.sc;
 sub ocircumflex by ocircumflex.sc;
@@ -2205,12 +2077,26 @@ sub etatonos by etatonos.sc;
 sub heta by heta.sc;
 sub archaicsampi by archaicsampi.sc;
 sub pamphyliandigamma by pamphyliandigamma.sc;
+sub sigmaLunateReversedSymbol by sigmaLunateReversedSymbol.sc;
+sub sigmaLunateDottedReversedSymbol by sigmaLunateDottedReversedSymbol.sc;
+sub koppaArchaic by koppaArchaic.sc;
 sub stigma by stigma.sc;
 sub digamma by digamma.sc;
 sub koppa by koppa.sc;
 sub sampi by sampi.sc;
+sub kaiSymbol by kaiSymbol.sc;
+sub betaSymbol by betaSymbol.sc;
+sub thetaSymbol by thetaSymbol.sc;
+sub phiSymbol by phiSymbol.sc;
+sub piSymbol by piSymbol.sc;
+sub kappaSymbol by kappaSymbol.sc;
+sub rhoSymbol by rhoSymbol.sc;
+sub sigmaLunateSymbol by sigmaLunateSymbol.sc;
+sub yot by yot.sc;
+sub epsilonLunateSymbol by epsilonLunateSymbol.sc;
 sub sho by sho.sc;
 sub san by san.sc;
+sub rhoStrokeSymbol by rhoStrokeSymbol.sc;
 sub alphapsili by alphapsili.sc;
 sub alphadasia by alphadasia.sc;
 sub alphapsilivaria by alphapsilivaria.sc;
@@ -2224,6 +2110,18 @@ sub alphaoxia by alphaoxia.sc;
 sub alphaperispomeni by alphaperispomeni.sc;
 sub alphavrachy by alphavrachy.sc;
 sub alphamacron by alphamacron.sc;
+sub alphaypogegrammeni by alphaypogegrammeni.sc;
+sub alphavariaypogegrammeni by alphavariaypogegrammeni.sc;
+sub alphaoxiaypogegrammeni by alphaoxiaypogegrammeni.sc;
+sub alphapsiliypogegrammeni by alphapsiliypogegrammeni.sc;
+sub alphadasiaypogegrammeni by alphadasiaypogegrammeni.sc;
+sub alphapsilivariaypogegrammeni by alphapsilivariaypogegrammeni.sc;
+sub alphadasiavariaypogegrammeni by alphadasiavariaypogegrammeni.sc;
+sub alphapsilioxiaypogegrammeni by alphapsilioxiaypogegrammeni.sc;
+sub alphadasiaoxiaypogegrammeni by alphadasiaoxiaypogegrammeni.sc;
+sub alphapsiliperispomeniypogegrammeni by alphapsiliperispomeniypogegrammeni.sc;
+sub alphadasiaperispomeniypogegrammeni by alphadasiaperispomeniypogegrammeni.sc;
+sub alphaperispomeniypogegrammeni by alphaperispomeniypogegrammeni.sc;
 sub epsilonpsili by epsilonpsili.sc;
 sub epsilondasia by epsilondasia.sc;
 sub epsilonpsilivaria by epsilonpsilivaria.sc;
@@ -2243,6 +2141,18 @@ sub etadasiaperispomeni by etadasiaperispomeni.sc;
 sub etavaria by etavaria.sc;
 sub etaoxia by etaoxia.sc;
 sub etaperispomeni by etaperispomeni.sc;
+sub etaypogegrammeni by etaypogegrammeni.sc;
+sub etavariaypogegrammeni by etavariaypogegrammeni.sc;
+sub etaoxiaypogegrammeni by etaoxiaypogegrammeni.sc;
+sub etapsiliypogegrammeni by etapsiliypogegrammeni.sc;
+sub etadasiaypogegrammeni by etadasiaypogegrammeni.sc;
+sub etapsilivariaypogegrammeni by etapsilivariaypogegrammeni.sc;
+sub etadasiavariaypogegrammeni by etadasiavariaypogegrammeni.sc;
+sub etapsilioxiaypogegrammeni by etapsilioxiaypogegrammeni.sc;
+sub etadasiaoxiaypogegrammeni by etadasiaoxiaypogegrammeni.sc;
+sub etapsiliperispomeniypogegrammeni by etapsiliperispomeniypogegrammeni.sc;
+sub etadasiaperispomeniypogegrammeni by etadasiaperispomeniypogegrammeni.sc;
+sub etaperispomeniypogegrammeni by etaperispomeniypogegrammeni.sc;
 sub iotapsili by iotapsili.sc;
 sub iotadasia by iotadasia.sc;
 sub iotapsilivaria by iotapsilivaria.sc;
@@ -2267,10 +2177,15 @@ sub omicronpsilioxia by omicronpsilioxia.sc;
 sub omicrondasiaoxia by omicrondasiaoxia.sc;
 sub omicronvaria by omicronvaria.sc;
 sub omicronoxia by omicronoxia.sc;
+sub rhopsili by rhopsili.sc;
 sub rhodasia by rhodasia.sc;
+sub upsilonpsili by upsilonpsili.sc;
 sub upsilondasia by upsilondasia.sc;
+sub upsilonpsilivaria by upsilonpsilivaria.sc;
 sub upsilondasiavaria by upsilondasiavaria.sc;
+sub upsilonpsilioxia by upsilonpsilioxia.sc;
 sub upsilondasiaoxia by upsilondasiaoxia.sc;
+sub upsilonpsiliperispomeni by upsilonpsiliperispomeni.sc;
 sub upsilondasiaperispomeni by upsilondasiaperispomeni.sc;
 sub upsilonvaria by upsilonvaria.sc;
 sub upsilonoxia by upsilonoxia.sc;
@@ -2291,6 +2206,18 @@ sub omegadasiaperispomeni by omegadasiaperispomeni.sc;
 sub omegavaria by omegavaria.sc;
 sub omegaoxia by omegaoxia.sc;
 sub omegaperispomeni by omegaperispomeni.sc;
+sub omegaypogegrammeni by omegaypogegrammeni.sc;
+sub omegavariaypogegrammeni by omegavariaypogegrammeni.sc;
+sub omegaoxiaypogegrammeni by omegaoxiaypogegrammeni.sc;
+sub omegapsiliypogegrammeni by omegapsiliypogegrammeni.sc;
+sub omegadasiaypogegrammeni by omegadasiaypogegrammeni.sc;
+sub omegapsilivariaypogegrammeni by omegapsilivariaypogegrammeni.sc;
+sub omegadasiavariaypogegrammeni by omegadasiavariaypogegrammeni.sc;
+sub omegapsilioxiaypogegrammeni by omegapsilioxiaypogegrammeni.sc;
+sub omegadasiaoxiaypogegrammeni by omegadasiaoxiaypogegrammeni.sc;
+sub omegapsiliperispomeniypogegrammeni by omegapsiliperispomeniypogegrammeni.sc;
+sub omegadasiaperispomeniypogegrammeni by omegadasiaperispomeniypogegrammeni.sc;
+sub omegaperispomeniypogegrammeni by omegaperispomeniypogegrammeni.sc;
 sub acute by acute.sc;
 sub acutecomb by acutecomb.sc;
 sub breve by breve.sc;
@@ -2318,6 +2245,7 @@ sub ring by ring.sc;
 sub ringcomb by ringcomb.sc;
 sub tilde by tilde.sc;
 sub tildecomb by tildecomb.sc;
+sub dottedlunatesigmasymbol by dottedlunatesigmasymbol.sc;
 sub breve-cy by breve-cy.sc;
 sub uniA7B2 by uniA7B2.sc;
 sub uniA7B3 by uniA7B3.sc;
@@ -2390,8 +2318,6 @@ feature dlig {
 # automatic
 sub f i by f_i;
 sub f l by f_l;
-sub AE by Aie-cy;
-sub ae by aie-cy;
 } dlig;
 
 feature liga {
@@ -2876,5 +2802,9 @@ Omega
 Omega
 Omega
 Omega];} caltGreekUC;
+
+sub @Uppercase [acutecomb brevecomb caroncomb cedillacomb circumflexcomb commaaccentcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb horncomb hungarumlautcomb macroncomb ringcomb tildecomb acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde acute.loclPLK  tonos psili dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni varia oxia]' by [acutecomb.case brevecomb.case caroncomb.case cedillacomb.case circumflexcomb.case commaaccentcomb.case dieresiscomb.case dotaccentcomb.case gravecomb.case hookabovecomb.case horncomb.case hungarumlautcomb.case macroncomb.case ringcomb.case tildecomb.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case acute.case.loclPLK tonos.case psili.case dasia.case psilivaria.case dasiavaria.case psilioxia.case dasiaoxia.case psiliperispomeni.case dasiaperispomeni.case varia.case oxia.case];
+
+sub [acutecomb.case brevecomb.case caroncomb.case cedillacomb.case circumflexcomb.case commaaccentcomb.case dieresiscomb.case dotaccentcomb.case gravecomb.case hookabovecomb.case horncomb.case hungarumlautcomb.case macroncomb.case ringcomb.case tildecomb.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case acute.case.loclPLK tonos.case psili.case dasia.case psilivaria.case dasiavaria.case psilioxia.case dasiaoxia.case psiliperispomeni.case dasiaperispomeni.case varia.case oxia.case] [acutecomb brevecomb caroncomb cedillacomb circumflexcomb commaaccentcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb horncomb hungarumlautcomb macroncomb ringcomb tildecomb acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ring tilde acute.loclPLK tonos psili dasia psilivaria dasiavaria psilioxia dasiaoxia psiliperispomeni dasiaperispomeni varia oxia ]' by [acutecomb.case brevecomb.case caroncomb.case cedillacomb.case circumflexcomb.case commaaccentcomb.case dieresiscomb.case dotaccentcomb.case gravecomb.case hookabovecomb.case horncomb.case hungarumlautcomb.case macroncomb.case ringcomb.case tildecomb.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ring.case tilde.case acute.case.loclPLK tonos.case psili.case dasia.case psilivaria.case dasiavaria.case psilioxia.case dasiaoxia.case psiliperispomeni.case dasiaperispomeni.case varia.case oxia.case];
 } calt;
 

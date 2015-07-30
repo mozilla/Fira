@@ -45,7 +45,7 @@
 		<string>uni04D0</string>
 		<string>uni04D2</string>
 		<string>Alpha</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Lambda</string>
 		<string>Alphatonos</string>
 		<string>uni03E0</string>
@@ -85,12 +85,12 @@
 		<string>uni1E02</string>
 		<string>uni1E04</string>
 		<string>uni0181</string>
+		<string>uni0181.ss02</string>
 		<string>uni0243</string>
 		<string>uni01B7</string>
 		<string>uni01EE</string>
 		<string>uni1E9E</string>
 		<string>uni021C</string>
-		<string>uni0181.ss02</string>
 		<string>uni0412</string>
 		<string>uni0417</string>
 		<string>uni046E</string>
@@ -108,13 +108,13 @@
 	<array>
 		<string>C</string>
 		<string>Cacute</string>
+		<string>Cacute.loclPLK</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
 		<string>uni0187</string>
 		<string>uni023B</string>
-		<string>Cacute.loclPLK</string>
 		<string>uni0421</string>
 		<string>uni0404</string>
 		<string>uni0464</string>
@@ -217,6 +217,7 @@
 		<string>uni1E24</string>
 		<string>uniA7AA</string>
 		<string>uniA78D</string>
+		<string>uniA78D.ss02</string>
 		<string>I</string>
 		<string>Iacute</string>
 		<string>Ibreve</string>
@@ -237,21 +238,20 @@
 		<string>uni019C</string>
 		<string>N</string>
 		<string>Nacute</string>
+		<string>Nacute.loclPLK</string>
 		<string>Ncaron</string>
 		<string>uni1E4A</string>
 		<string>Ncommaaccent</string>
 		<string>uni1E44</string>
 		<string>uni1E46</string>
 		<string>uni01F8</string>
+		<string>Eng.ss01</string>
 		<string>uni019D</string>
+		<string>uni019D.ss01</string>
 		<string>uni0220</string>
 		<string>Ntilde</string>
 		<string>uni01A2</string>
 		<string>uni024A</string>
-		<string>Nacute.loclPLK</string>
-		<string>Eng.ss01</string>
-		<string>uni019D.ss01</string>
-		<string>uniA78D.ss02</string>
 		<string>uni01C2</string>
 		<string>uni01C1</string>
 		<string>uni01C3</string>
@@ -406,6 +406,7 @@
 		<string>O</string>
 		<string>uni0222</string>
 		<string>Oacute</string>
+		<string>Oacute.loclPLK</string>
 		<string>Obreve</string>
 		<string>uni01D1</string>
 		<string>uni019F</string>
@@ -445,7 +446,6 @@
 		<string>Q</string>
 		<string>uni018F</string>
 		<string>uni01B1</string>
-		<string>Oacute.loclPLK</string>
 		<string>uni0298</string>
 		<string>uni041E</string>
 		<string>uni0424</string>
@@ -479,7 +479,7 @@
 	</array>
 	<key>@MMK_L_Omega</key>
 	<array>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Omegatonos</string>
 		<string>uni1F68</string>
 		<string>uni1F69</string>
@@ -553,13 +553,13 @@
 	<array>
 		<string>S</string>
 		<string>Sacute</string>
+		<string>Sacute.loclPLK</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
 		<string>uni1E60</string>
 		<string>uni1E62</string>
-		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
 		<string>dollar</string>
 		<string>dollar.osf</string>
@@ -639,8 +639,8 @@
 		<string>uni04C5</string>
 		<string>uni04C9</string>
 		<string>uni04CD</string>
-		<string>TseHelper-cy</string>
 		<string>uni04B4</string>
+		<string>TseHelper-cy</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -757,12 +757,12 @@
 		<string>uni01C4</string>
 		<string>Z</string>
 		<string>Zacute</string>
+		<string>Zacute.loclPLK</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>uni1E92</string>
 		<string>uni0224</string>
 		<string>uni01B5</string>
-		<string>Zacute.loclPLK</string>
 		<string>Zeta</string>
 	</array>
 	<key>@MMK_L_a.sc</key>
@@ -897,8 +897,8 @@
 	</array>
 	<key>@MMK_L_be-cy.sc</key>
 	<array>
-		<string>uni0183.sc</string>
 		<string>uni0253.sc.ss02</string>
+		<string>uni0183.sc</string>
 		<string>uni0431.sc</string>
 	</array>
 	<key>@MMK_L_beta.ss01</key>
@@ -941,6 +941,7 @@
 	<array>
 		<string>c</string>
 		<string>cacute</string>
+		<string>cacute.loclPLK</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>ccircumflex</string>
@@ -949,7 +950,6 @@
 		<string>uni0297</string>
 		<string>uni023C</string>
 		<string>uni025B</string>
-		<string>cacute.loclPLK</string>
 		<string>uni0441</string>
 		<string>uni0454</string>
 		<string>uni0465</string>
@@ -971,9 +971,9 @@
 	</array>
 	<key>@MMK_L_c.sc</key>
 	<array>
-		<string>cacute.sc.loclPLK</string>
 		<string>c.sc</string>
 		<string>cacute.sc</string>
+		<string>cacute.sc.loclPLK</string>
 		<string>ccaron.sc</string>
 		<string>ccedilla.sc</string>
 		<string>ccircumflex.sc</string>
@@ -1021,6 +1021,8 @@
 		<string>uni032A</string>
 		<string>uni033A</string>
 		<string>uni032C</string>
+		<string>hookabovecomb.case</string>
+		<string>uni031B.case</string>
 		<string>uni032D</string>
 		<string>uni0313</string>
 		<string>uni0312</string>
@@ -1053,8 +1055,6 @@
 		<string>uni030D</string>
 		<string>uni0329</string>
 		<string>uni033D</string>
-		<string>hookabovecomb.case</string>
-		<string>uni031B.case</string>
 	</array>
 	<key>@MMK_L_d</key>
 	<array>
@@ -1384,24 +1384,24 @@
 	</array>
 	<key>@MMK_L_guilsinglleft</key>
 	<array>
-		<string>guillemotleft</string>
-		<string>guilsinglleft</string>
 		<string>guillemotleft.case</string>
 		<string>guilsinglleft.case</string>
+		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_L_guilsinglright</key>
 	<array>
-		<string>guillemotright</string>
-		<string>guilsinglright</string>
 		<string>guillemotright.case</string>
 		<string>guilsinglright.case</string>
+		<string>guillemotright</string>
+		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_L_h.sc</key>
 	<array>
-		<string>nacute.sc.loclPLK</string>
 		<string>uni2C6D.sc</string>
 		<string>uniA7AA.sc</string>
 		<string>uniA78D.sc</string>
+		<string>uniA78D.sc.ss02</string>
 		<string>uni0251.sc</string>
 		<string>uni018C.sc</string>
 		<string>uni0258.sc</string>
@@ -1433,6 +1433,7 @@
 		<string>uni026F.sc</string>
 		<string>n.sc</string>
 		<string>nacute.sc</string>
+		<string>nacute.sc.loclPLK</string>
 		<string>napostrophe.sc</string>
 		<string>ncaron.sc</string>
 		<string>uni1E4B.sc</string>
@@ -1441,14 +1442,13 @@
 		<string>uni1E47.sc</string>
 		<string>uni01F9.sc</string>
 		<string>eng.sc</string>
+		<string>eng.sc.ss01</string>
 		<string>uni0272.sc</string>
+		<string>uni0272.sc.ss01</string>
 		<string>ntilde.sc</string>
 		<string>uni01A3.sc</string>
 		<string>uni024B.sc</string>
 		<string>uni01BD.sc</string>
-		<string>eng.sc.ss01</string>
-		<string>uni0272.sc.ss01</string>
-		<string>uniA78D.sc.ss02</string>
 		<string>uni043B.sc</string>
 		<string>uni043D.sc</string>
 		<string>uni043F.sc</string>
@@ -1549,14 +1549,14 @@
 	<array>
 		<string>periodcentered</string>
 		<string>uni2015</string>
-		<string>emdash</string>
-		<string>endash</string>
-		<string>hyphen</string>
-		<string>uni00AD</string>
 		<string>emdash.case</string>
 		<string>endash.case</string>
 		<string>hyphen.case</string>
 		<string>uni00AD.case</string>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
+		<string>uni00AD</string>
 		<string>asciitilde</string>
 		<string>minus</string>
 		<string>asciitilde.osf</string>
@@ -1764,7 +1764,7 @@
 		<string>m.sc</string>
 		<string>uni1E3F.sc</string>
 		<string>uni043C.sc</string>
-		<string>mu.sc</string>
+		<string>uni03BC.sc</string>
 		<string>uni03FB.sc</string>
 	</array>
 	<key>@MMK_L_mod</key>
@@ -1783,11 +1783,11 @@
 		<string>thetaModifier</string>
 		<string>uniA789</string>
 		<string>uni02EE</string>
-		<string>uni02E4</string>
 		<string>uni02D7</string>
 		<string>uni02D6</string>
 		<string>uni02DE</string>
 		<string>uniA78A</string>
+		<string>uni02E4</string>
 		<string>uni02E5</string>
 		<string>uni02E9</string>
 		<string>uni02E6</string>
@@ -1849,6 +1849,7 @@
 		<string>uni0271</string>
 		<string>n</string>
 		<string>nacute</string>
+		<string>nacute.loclPLK</string>
 		<string>napostrophe</string>
 		<string>ncaron</string>
 		<string>uni1E4B</string>
@@ -1863,7 +1864,6 @@
 		<string>ntilde</string>
 		<string>uni027F</string>
 		<string>uni028B</string>
-		<string>nacute.loclPLK</string>
 		<string>ordfeminine.001</string>
 		<string>uni0502</string>
 		<string>uni0504</string>
@@ -1988,6 +1988,7 @@
 		<string>uni0296</string>
 		<string>o</string>
 		<string>oacute</string>
+		<string>oacute.loclPLK</string>
 		<string>uni0275</string>
 		<string>obreve</string>
 		<string>uni01D2</string>
@@ -2031,13 +2032,12 @@
 		<string>uni1E57</string>
 		<string>uni0278</string>
 		<string>uni01A5</string>
+		<string>uni01A5.ss01</string>
 		<string>thorn</string>
 		<string>uni0239</string>
 		<string>uni0259</string>
 		<string>uni028A</string>
 		<string>uni01BF</string>
-		<string>oacute.loclPLK</string>
-		<string>uni01A5.ss01</string>
 		<string>ordmasculine.001</string>
 		<string>uni04A8</string>
 		<string>uni0431</string>
@@ -2109,7 +2109,6 @@
 	</array>
 	<key>@MMK_L_o.sc</key>
 	<array>
-		<string>oacute.sc.loclPLK</string>
 		<string>uni0189.sc</string>
 		<string>d.sc</string>
 		<string>eth.sc</string>
@@ -2123,6 +2122,7 @@
 		<string>uni01DD.sc</string>
 		<string>o.sc</string>
 		<string>oacute.sc</string>
+		<string>oacute.sc.loclPLK</string>
 		<string>obreve.sc</string>
 		<string>uni01D2.sc</string>
 		<string>ocircumflex.sc</string>
@@ -2288,27 +2288,27 @@
 	</array>
 	<key>@MMK_L_parenleft</key>
 	<array>
-		<string>parenleft</string>
 		<string>parenleft.case</string>
+		<string>parenleft</string>
 	</array>
 	<key>@MMK_L_parenleft.dnom</key>
 	<array>
 		<string>uni208D</string>
-		<string>uni207D</string>
 		<string>parenleft.dnom</string>
 		<string>parenleft.numr</string>
+		<string>uni207D</string>
 	</array>
 	<key>@MMK_L_parenright</key>
 	<array>
-		<string>parenright</string>
 		<string>parenright.case</string>
+		<string>parenright</string>
 	</array>
 	<key>@MMK_L_parenright.dnom</key>
 	<array>
 		<string>uni208E</string>
-		<string>uni207E</string>
 		<string>parenright.dnom</string>
 		<string>parenright.numr</string>
+		<string>uni207E</string>
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
@@ -2339,8 +2339,6 @@
 		<string>lessequal</string>
 		<string>multiply</string>
 		<string>notequal</string>
-		<string>plus</string>
-		<string>plusminus</string>
 		<string>approxequal.osf</string>
 		<string>divide.osf</string>
 		<string>equal.osf</string>
@@ -2353,6 +2351,8 @@
 		<string>notequal.osf</string>
 		<string>plus.osf</string>
 		<string>plusminus.osf</string>
+		<string>plus</string>
+		<string>plusminus</string>
 	</array>
 	<key>@MMK_L_psi.sc</key>
 	<array>
@@ -2450,19 +2450,20 @@
 	</array>
 	<key>@MMK_L_ruble</key>
 	<array>
-		<string>uni20BD</string>
 		<string>uni20BD.osf</string>
+		<string>uni20BD</string>
 	</array>
 	<key>@MMK_L_rupeeIndian</key>
 	<array>
-		<string>uni20B9</string>
 		<string>uni20B9.osf</string>
+		<string>uni20B9</string>
 	</array>
 	<key>@MMK_L_s</key>
 	<array>
 		<string>uni02AA</string>
 		<string>s</string>
 		<string>sacute</string>
+		<string>sacute.loclPLK</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
@@ -2472,16 +2473,15 @@
 		<string>uni0282</string>
 		<string>uni023F</string>
 		<string>uni02A6</string>
-		<string>sacute.loclPLK</string>
 		<string>uni0455</string>
 		<string>beta</string>
 		<string>uni03D0</string>
 	</array>
 	<key>@MMK_L_s.sc</key>
 	<array>
-		<string>sacute.sc.loclPLK</string>
 		<string>s.sc</string>
 		<string>sacute.sc</string>
+		<string>sacute.sc.loclPLK</string>
 		<string>scaron.sc</string>
 		<string>scedilla.sc</string>
 		<string>scircumflex.sc</string>
@@ -2617,6 +2617,7 @@
 	</array>
 	<key>@MMK_L_t.sc</key>
 	<array>
+		<string>uni2C64.sc.ss01</string>
 		<string>t.sc</string>
 		<string>tbar.sc</string>
 		<string>tcaron.sc</string>
@@ -2628,7 +2629,6 @@
 		<string>uni01AD.sc</string>
 		<string>uni1E6F.sc</string>
 		<string>uni0288.sc</string>
-		<string>uni2C64.sc.ss01</string>
 		<string>uni0433.sc</string>
 		<string>uni0453.sc</string>
 		<string>uni0491.sc</string>
@@ -2690,11 +2690,11 @@
 	</array>
 	<key>@MMK_L_tonos.case</key>
 	<array>
-		<string>tonos.case</string>
 		<string>uni1FBF.case</string>
 		<string>uni1FCE.case</string>
 		<string>uni1FDE.case</string>
 		<string>uni1FFD.case</string>
+		<string>tonos.case</string>
 	</array>
 	<key>@MMK_L_tse-cy</key>
 	<array>
@@ -2819,7 +2819,7 @@
 		<string>uni04F9</string>
 		<string>uni0513</string>
 		<string>uni0529</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>pi</string>
 		<string>uni00B5</string>
 	</array>
@@ -3067,6 +3067,7 @@
 		<string>uni02AB</string>
 		<string>z</string>
 		<string>zacute</string>
+		<string>zacute.loclPLK</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>uni1E93</string>
@@ -3074,15 +3075,14 @@
 		<string>uni0290</string>
 		<string>uni01B6</string>
 		<string>uni0240</string>
-		<string>zacute.loclPLK</string>
 	</array>
 	<key>@MMK_L_z.sc</key>
 	<array>
-		<string>zacute.sc.loclPLK</string>
 		<string>uni01F3.sc</string>
 		<string>uni01C6.sc</string>
 		<string>z.sc</string>
 		<string>zacute.sc</string>
+		<string>zacute.sc.loclPLK</string>
 		<string>zcaron.sc</string>
 		<string>zdotaccent.sc</string>
 		<string>uni1E93.sc</string>
@@ -3179,7 +3179,7 @@
 		<string>uni04D0</string>
 		<string>uni04D2</string>
 		<string>Alpha</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Lambda</string>
 		<string>Alphatonos</string>
 		<string>uni03E0</string>
@@ -3279,6 +3279,7 @@
 		<string>uni1E02</string>
 		<string>uni1E04</string>
 		<string>uni0181</string>
+		<string>uni0181.ss02</string>
 		<string>uni0243</string>
 		<string>uni0182</string>
 		<string>D</string>
@@ -3363,6 +3364,7 @@
 		<string>N</string>
 		<string>uni01CA</string>
 		<string>Nacute</string>
+		<string>Nacute.loclPLK</string>
 		<string>Ncaron</string>
 		<string>uni1E4A</string>
 		<string>Ncommaaccent</string>
@@ -3370,7 +3372,9 @@
 		<string>uni1E46</string>
 		<string>uni01F8</string>
 		<string>Eng</string>
+		<string>Eng.ss01</string>
 		<string>uni019D</string>
+		<string>uni019D.ss01</string>
 		<string>uni01CB</string>
 		<string>uni0220</string>
 		<string>Ntilde</string>
@@ -3388,16 +3392,12 @@
 		<string>uni0212</string>
 		<string>uni024C</string>
 		<string>uni2C64</string>
+		<string>uni2C64.ss01</string>
 		<string>uni1E9E</string>
 		<string>uni0184</string>
 		<string>uni01F7</string>
 		<string>uniA7AD</string>
 		<string>yr</string>
-		<string>Nacute.loclPLK</string>
-		<string>Eng.ss01</string>
-		<string>uni019D.ss01</string>
-		<string>uni2C64.ss01</string>
-		<string>uni0181.ss02</string>
 		<string>uni01C2</string>
 		<string>uni01C0</string>
 		<string>uni01C1</string>
@@ -3568,6 +3568,7 @@
 		<string>uni2C6D</string>
 		<string>C</string>
 		<string>Cacute</string>
+		<string>Cacute.loclPLK</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
 		<string>Ccircumflex</string>
@@ -3586,6 +3587,7 @@
 		<string>O</string>
 		<string>uni0222</string>
 		<string>Oacute</string>
+		<string>Oacute.loclPLK</string>
 		<string>Obreve</string>
 		<string>uni01D1</string>
 		<string>uni019F</string>
@@ -3627,8 +3629,6 @@
 		<string>uni024A</string>
 		<string>uni018F</string>
 		<string>uni01B1</string>
-		<string>Cacute.loclPLK</string>
-		<string>Oacute.loclPLK</string>
 		<string>uni0298</string>
 		<string>uni041E</string>
 		<string>uni0421</string>
@@ -3667,7 +3667,7 @@
 	</array>
 	<key>@MMK_R_Omega</key>
 	<array>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Omegatonos</string>
 		<string>uni1F68</string>
 		<string>uni1F69</string>
@@ -3713,13 +3713,13 @@
 	<array>
 		<string>S</string>
 		<string>Sacute</string>
+		<string>Sacute.loclPLK</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
 		<string>uni1E60</string>
 		<string>uni1E62</string>
-		<string>Sacute.loclPLK</string>
 		<string>uni0405</string>
 		<string>dollar</string>
 		<string>dollar.osf</string>
@@ -3886,12 +3886,12 @@
 	<array>
 		<string>Z</string>
 		<string>Zacute</string>
+		<string>Zacute.loclPLK</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>uni1E92</string>
 		<string>uni0224</string>
 		<string>uni01B5</string>
-		<string>Zacute.loclPLK</string>
 		<string>Zeta</string>
 	</array>
 	<key>@MMK_R_Ze-cy</key>
@@ -4124,6 +4124,8 @@
 		<string>uni032A</string>
 		<string>uni033A</string>
 		<string>uni032C</string>
+		<string>hookabovecomb.case</string>
+		<string>uni031B.case</string>
 		<string>uni032D</string>
 		<string>uni0313</string>
 		<string>uni0312</string>
@@ -4156,8 +4158,6 @@
 		<string>uni030D</string>
 		<string>uni0329</string>
 		<string>uni033D</string>
-		<string>hookabovecomb.case</string>
-		<string>uni031B.case</string>
 	</array>
 	<key>@MMK_R_cstretched</key>
 	<array>
@@ -4414,17 +4414,17 @@
 	</array>
 	<key>@MMK_R_guilsinglleft</key>
 	<array>
-		<string>guillemotleft</string>
-		<string>guilsinglleft</string>
 		<string>guillemotleft.case</string>
 		<string>guilsinglleft.case</string>
+		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_R_guilsinglright</key>
 	<array>
-		<string>guillemotright</string>
-		<string>guilsinglright</string>
 		<string>guillemotright.case</string>
 		<string>guilsinglright.case</string>
+		<string>guillemotright</string>
+		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_R_h</key>
 	<array>
@@ -4461,9 +4461,9 @@
 		<string>uni02AA</string>
 		<string>uni02AB</string>
 		<string>uni01A5</string>
+		<string>uni01A5.ss01</string>
 		<string>thorn</string>
 		<string>germandbls</string>
-		<string>uni01A5.ss01</string>
 		<string>uni045B</string>
 		<string>uni049F</string>
 		<string>uni04BB</string>
@@ -4475,15 +4475,16 @@
 	</array>
 	<key>@MMK_R_h.sc</key>
 	<array>
-		<string>nacute.sc.loclPLK</string>
 		<string>uni0189.sc</string>
 		<string>uni0191.sc</string>
 		<string>uniA7AA.sc</string>
 		<string>uniA7AD.sc</string>
 		<string>uni2C64.sc</string>
+		<string>uni2C64.sc.ss01</string>
 		<string>b.sc</string>
 		<string>uni1E05.sc</string>
 		<string>uni0253.sc</string>
+		<string>uni0253.sc.ss02</string>
 		<string>uni0180.sc</string>
 		<string>uni0183.sc</string>
 		<string>d.sc</string>
@@ -4563,6 +4564,7 @@
 		<string>lslash.sc</string>
 		<string>n.sc</string>
 		<string>nacute.sc</string>
+		<string>nacute.sc.loclPLK</string>
 		<string>napostrophe.sc</string>
 		<string>ncaron.sc</string>
 		<string>uni1E4B.sc</string>
@@ -4571,7 +4573,9 @@
 		<string>uni1E47.sc</string>
 		<string>uni01F9.sc</string>
 		<string>eng.sc</string>
+		<string>eng.sc.ss01</string>
 		<string>uni0272.sc</string>
+		<string>uni0272.sc.ss01</string>
 		<string>uni01CC.sc</string>
 		<string>ntilde.sc</string>
 		<string>p.sc</string>
@@ -4591,10 +4595,6 @@
 		<string>uni01BD.sc</string>
 		<string>uni0185.sc</string>
 		<string>uni01BF.sc</string>
-		<string>uni2C64.sc.ss01</string>
-		<string>eng.sc.ss01</string>
-		<string>uni0272.sc.ss01</string>
-		<string>uni0253.sc.ss02</string>
 		<string>uni0431.sc</string>
 		<string>uni0432.sc</string>
 		<string>uni0433.sc</string>
@@ -4733,14 +4733,14 @@
 	<array>
 		<string>periodcentered</string>
 		<string>uni2015</string>
-		<string>emdash</string>
-		<string>endash</string>
-		<string>hyphen</string>
-		<string>uni00AD</string>
 		<string>emdash.case</string>
 		<string>endash.case</string>
 		<string>hyphen.case</string>
 		<string>uni00AD.case</string>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
+		<string>uni00AD</string>
 		<string>asciitilde</string>
 		<string>minus</string>
 		<string>asciitilde.osf</string>
@@ -4873,7 +4873,7 @@
 		<string>uni1E3F.sc</string>
 		<string>uni043C.sc</string>
 		<string>uni04CE.sc</string>
-		<string>mu.sc</string>
+		<string>uni03BC.sc</string>
 		<string>uni03FB.sc</string>
 	</array>
 	<key>@MMK_R_mod</key>
@@ -4892,11 +4892,11 @@
 		<string>thetaModifier</string>
 		<string>uniA789</string>
 		<string>uni02EE</string>
-		<string>uni02E4</string>
 		<string>uni02D7</string>
 		<string>uni02D6</string>
 		<string>uni02DE</string>
 		<string>uniA78A</string>
+		<string>uni02E4</string>
 		<string>uni02E5</string>
 		<string>uni02E9</string>
 		<string>uni02E6</string>
@@ -4926,6 +4926,7 @@
 		<string>uni0271</string>
 		<string>n</string>
 		<string>nacute</string>
+		<string>nacute.loclPLK</string>
 		<string>ncaron</string>
 		<string>uni1E4B</string>
 		<string>ncommaaccent</string>
@@ -4954,7 +4955,6 @@
 		<string>uni024D</string>
 		<string>uni0185</string>
 		<string>uni01BF</string>
-		<string>nacute.loclPLK</string>
 		<string>uni0432</string>
 		<string>uni0433</string>
 		<string>uni0453</string>
@@ -5000,7 +5000,7 @@
 		<string>uni04A5</string>
 		<string>eta</string>
 		<string>kappa</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>pi</string>
 		<string>etatonos</string>
 		<string>uni0371</string>
@@ -5079,6 +5079,7 @@
 		<string>uni0251</string>
 		<string>c</string>
 		<string>cacute</string>
+		<string>cacute.loclPLK</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>ccircumflex</string>
@@ -5136,6 +5137,7 @@
 		<string>uni0261</string>
 		<string>o</string>
 		<string>oacute</string>
+		<string>oacute.loclPLK</string>
 		<string>uni0275</string>
 		<string>obreve</string>
 		<string>uni01D2</string>
@@ -5183,8 +5185,6 @@
 		<string>uni025A</string>
 		<string>uni0259</string>
 		<string>uni028A</string>
-		<string>cacute.loclPLK</string>
-		<string>oacute.loclPLK</string>
 		<string>ordmasculine.001</string>
 		<string>uni0400</string>
 		<string>uni0431</string>
@@ -5299,12 +5299,11 @@
 	</array>
 	<key>@MMK_R_o.sc</key>
 	<array>
-		<string>cacute.sc.loclPLK</string>
-		<string>oacute.sc.loclPLK</string>
 		<string>uni2C6D.sc</string>
 		<string>uni0251.sc</string>
 		<string>c.sc</string>
 		<string>cacute.sc</string>
+		<string>cacute.sc.loclPLK</string>
 		<string>ccaron.sc</string>
 		<string>ccedilla.sc</string>
 		<string>ccircumflex.sc</string>
@@ -5324,6 +5323,7 @@
 		<string>uni01E5.sc</string>
 		<string>o.sc</string>
 		<string>oacute.sc</string>
+		<string>oacute.sc.loclPLK</string>
 		<string>obreve.sc</string>
 		<string>uni01D2.sc</string>
 		<string>ocircumflex.sc</string>
@@ -5515,27 +5515,27 @@
 	</array>
 	<key>@MMK_R_parenleft</key>
 	<array>
-		<string>parenleft</string>
 		<string>parenleft.case</string>
+		<string>parenleft</string>
 	</array>
 	<key>@MMK_R_parenleft.dnom</key>
 	<array>
 		<string>uni208D</string>
-		<string>uni207D</string>
 		<string>parenleft.dnom</string>
 		<string>parenleft.numr</string>
+		<string>uni207D</string>
 	</array>
 	<key>@MMK_R_parenright</key>
 	<array>
-		<string>parenright</string>
 		<string>parenright.case</string>
+		<string>parenright</string>
 	</array>
 	<key>@MMK_R_parenright.dnom</key>
 	<array>
 		<string>uni208E</string>
-		<string>uni207E</string>
 		<string>parenright.dnom</string>
 		<string>parenright.numr</string>
+		<string>uni207E</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -5566,8 +5566,6 @@
 		<string>lessequal</string>
 		<string>multiply</string>
 		<string>notequal</string>
-		<string>plus</string>
-		<string>plusminus</string>
 		<string>approxequal.osf</string>
 		<string>divide.osf</string>
 		<string>equal.osf</string>
@@ -5580,6 +5578,8 @@
 		<string>notequal.osf</string>
 		<string>plus.osf</string>
 		<string>plusminus.osf</string>
+		<string>plus</string>
+		<string>plusminus</string>
 	</array>
 	<key>@MMK_R_psi.sc</key>
 	<array>
@@ -5635,18 +5635,19 @@
 	</array>
 	<key>@MMK_R_ruble</key>
 	<array>
-		<string>uni20BD</string>
 		<string>uni20BD.osf</string>
+		<string>uni20BD</string>
 	</array>
 	<key>@MMK_R_rupeeIndian</key>
 	<array>
-		<string>uni20B9</string>
 		<string>uni20B9.osf</string>
+		<string>uni20B9</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
 		<string>s</string>
 		<string>sacute</string>
+		<string>sacute.loclPLK</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
@@ -5655,14 +5656,13 @@
 		<string>uni1E63</string>
 		<string>uni0282</string>
 		<string>uni023F</string>
-		<string>sacute.loclPLK</string>
 		<string>uni0455</string>
 	</array>
 	<key>@MMK_R_s.sc</key>
 	<array>
-		<string>sacute.sc.loclPLK</string>
 		<string>s.sc</string>
 		<string>sacute.sc</string>
+		<string>sacute.sc.loclPLK</string>
 		<string>scaron.sc</string>
 		<string>scedilla.sc</string>
 		<string>scircumflex.sc</string>
@@ -5828,9 +5828,9 @@
 	</array>
 	<key>@MMK_R_tonos.case</key>
 	<array>
-		<string>tonos.case</string>
 		<string>uni1FBF.case</string>
 		<string>uni1FFD.case</string>
+		<string>tonos.case</string>
 	</array>
 	<key>@MMK_R_tturned</key>
 	<array>
@@ -6175,6 +6175,7 @@
 	<array>
 		<string>z</string>
 		<string>zacute</string>
+		<string>zacute.loclPLK</string>
 		<string>zcaron</string>
 		<string>uni0291</string>
 		<string>zdotaccent</string>
@@ -6183,13 +6184,12 @@
 		<string>uni0290</string>
 		<string>uni01B6</string>
 		<string>uni0240</string>
-		<string>zacute.loclPLK</string>
 	</array>
 	<key>@MMK_R_z.sc</key>
 	<array>
-		<string>zacute.sc.loclPLK</string>
 		<string>z.sc</string>
 		<string>zacute.sc</string>
+		<string>zacute.sc.loclPLK</string>
 		<string>zcaron.sc</string>
 		<string>zdotaccent.sc</string>
 		<string>uni1E93.sc</string>

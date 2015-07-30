@@ -3,10 +3,10 @@
   <advance width="97"/>
   <outline>
     <contour>
-      <point x="107" y="552" type="line"/>
       <point x="147" y="679" type="line"/>
       <point x="144" y="679" type="line"/>
       <point x="105" y="552" type="line"/>
+      <point x="107" y="552" type="line"/>
     </contour>
     <contour>
       <point x="31" y="550" type="line"/>
@@ -32,4 +32,14 @@
       <point x="52" y="682" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>psili.case</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="mu.sc" format="1">
-  <advance width="678"/>
-  <outline>
-    <component base="m.sc"/>
-  </outline>
-</glyph>

@@ -3,11 +3,15 @@
   <advance width="312"/>
   <unicode hex="02AD"/>
   <outline>
-    <component base="uni033A" xOffset="30" yOffset="219"/>
-    <component base="uni033A" xOffset="87" yOffset="619"/>
+    <component base="uni033A" xOffset="225" yOffset="-101" xScale="-1" yScale="-1"/>
+    <component base="uni033A" xOffset="282" yOffset="299" xScale="-1" yScale="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

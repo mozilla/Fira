@@ -293,7 +293,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>reversedlunatesigmasymbol</string>
+          <string>sigmaLunateReversedSymbol</string>
           <key>unicodes</key>
           <array>
           </array>

@@ -616,7 +616,7 @@
 		<string>Alpha</string>
 		<string>Beta</string>
 		<string>Gamma</string>
-		<string>Delta</string>
+		<string>uni0394</string>
 		<string>Epsilon</string>
 		<string>Zeta</string>
 		<string>Eta</string>
@@ -636,7 +636,7 @@
 		<string>Phi</string>
 		<string>Chi</string>
 		<string>Psi</string>
-		<string>Omega</string>
+		<string>uni03A9</string>
 		<string>Alphatonos</string>
 		<string>Epsilontonos</string>
 		<string>Etatonos</string>
@@ -772,7 +772,7 @@
 		<string>iota</string>
 		<string>kappa</string>
 		<string>lambda</string>
-		<string>mu</string>
+		<string>uni03BC</string>
 		<string>nu</string>
 		<string>xi</string>
 		<string>omicron</string>

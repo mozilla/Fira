@@ -4,13 +4,19 @@
   <unicode hex="04FB"/>
   <outline>
     <contour>
-      <point x="129" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
       <point x="335" y="0" type="line"/>
       <point x="335" y="142" type="line"/>
-      <point x="129" y="142" type="line"/>
+      <point x="72" y="142" type="line"/>
     </contour>
     <component base="uni0493"/>
     <component base="hookHELPER" xOffset="-67"/>
+    <contour>
+      <point x="223" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="223" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

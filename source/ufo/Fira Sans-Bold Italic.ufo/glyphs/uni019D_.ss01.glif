@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019D.ss01" format="1">
-  <advance width="626"/>
+  <advance width="627"/>
   <outline>
     <contour>
       <point x="396" y="716"/>
@@ -28,13 +28,16 @@
       <point x="280" y="696" type="line"/>
     </contour>
     <component base="hookHELPER.case" xOffset="-169"/>
+    <contour>
+      <point x="374" y="696" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>9</integer>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Eng.alt</string>
+      <string>Eng.ss01</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

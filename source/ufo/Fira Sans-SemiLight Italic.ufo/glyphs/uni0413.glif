@@ -19,6 +19,9 @@
       <point x="388" y="682" type="move" name="top"/>
     </contour>
     <contour>
+      <point x="217" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="124" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>

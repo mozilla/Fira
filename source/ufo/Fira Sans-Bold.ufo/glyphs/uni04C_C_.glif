@@ -27,14 +27,25 @@
       <point x="508" y="534" type="line"/>
       <point x="310" y="534" type="line"/>
     </contour>
-    <component base="descStraight-cy" xOffset="477" xScale="-1"/>
+    <contour>
+      <point x="235" y="-175" type="line"/>
+      <point x="365" y="-175" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="447" y="132" type="line"/>
+      <point x="235" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="275" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==che-cy</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
       <string>==|n</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>

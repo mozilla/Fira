@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="227" y="0" type="line"/>
-      <point x="227" y="527" type="line"/>
-      <point x="135" y="527" type="line"/>
+      <point x="227" y="564" type="line"/>
+      <point x="135" y="564" type="line"/>
       <point x="135" y="0" type="line"/>
     </contour>
     <contour>
@@ -15,10 +15,16 @@
       <point x="30" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="333" y="455" type="line"/>
-      <point x="333" y="527" type="line"/>
-      <point x="30" y="527" type="line"/>
-      <point x="30" y="455" type="line"/>
+      <point x="333" y="492" type="line"/>
+      <point x="333" y="564" type="line"/>
+      <point x="30" y="564" type="line"/>
+      <point x="30" y="492" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="564" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

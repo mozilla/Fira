@@ -10,6 +10,12 @@
       <point x="255" y="417" type="line"/>
     </contour>
     <component base="uni043A"/>
+    <contour>
+      <point x="283" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

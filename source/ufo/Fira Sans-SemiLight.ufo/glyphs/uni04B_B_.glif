@@ -28,6 +28,12 @@
       <point x="332" y="470" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="289" y="734" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="482" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>

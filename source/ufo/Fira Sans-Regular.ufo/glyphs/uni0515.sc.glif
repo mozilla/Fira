@@ -21,6 +21,12 @@
       <point x="207" y="491" type="line"/>
     </contour>
     <component base="x.sc" xOffset="247"/>
+    <contour>
+      <point x="362" y="564" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

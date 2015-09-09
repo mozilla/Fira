@@ -59,6 +59,12 @@
     <contour>
       <point x="400" y="0" type="move" name="ogonek"/>
     </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="367" y="557" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

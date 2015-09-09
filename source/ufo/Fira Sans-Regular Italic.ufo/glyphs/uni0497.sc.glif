@@ -413,9 +413,9 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>uni0436.sc</string>
         </dict>
       </array>
     </dict>

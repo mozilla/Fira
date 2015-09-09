@@ -48,6 +48,12 @@
       <point x="388" y="733"/>
       <point x="299" y="733" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="284" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="284" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -65,6 +71,22 @@
         <dict>
           <key>anchors</key>
           <array>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <integer>285</integer>
+              <key>y</key>
+              <integer>727</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>285</integer>
+              <key>y</key>
+              <integer>-188</integer>
+            </dict>
           </array>
           <key>components</key>
           <array>

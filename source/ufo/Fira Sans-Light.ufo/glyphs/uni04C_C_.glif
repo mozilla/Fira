@@ -27,7 +27,20 @@
       <point x="395" y="517" type="line"/>
       <point x="393" y="517" type="line"/>
     </contour>
-    <component base="descStraight-cy" xOffset="405" xScale="-1"/>
+    <contour>
+      <point x="340" y="-131" type="line"/>
+      <point x="342" y="-131" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="395" y="2" type="line"/>
+      <point x="340" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="260" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

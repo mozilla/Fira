@@ -30,6 +30,9 @@
       <point x="251" y="238" type="line"/>
     </contour>
     <component base="descStraight-cy" xOffset="285"/>
+    <contour>
+      <point x="262" y="527" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

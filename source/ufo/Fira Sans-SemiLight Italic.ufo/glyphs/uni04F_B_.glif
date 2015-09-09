@@ -67,6 +67,9 @@
       <point x="284" y="18"/>
       <point x="210" y="18" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="273" y="520" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

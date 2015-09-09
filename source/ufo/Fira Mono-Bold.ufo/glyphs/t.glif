@@ -30,13 +30,16 @@
       <point x="549" y="31" type="curve"/>
     </contour>
     <contour>
-      <point x="300" y="266" type="move" name="center"/>
-    </contour>
-    <contour>
       <point x="360" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="248" y="652" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="355" y="812" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="300" y="266" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

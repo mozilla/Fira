@@ -10,6 +10,12 @@
       <point x="453" y="728" type="line"/>
     </contour>
     <component base="E"/>
+    <contour>
+      <point x="307" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="211" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

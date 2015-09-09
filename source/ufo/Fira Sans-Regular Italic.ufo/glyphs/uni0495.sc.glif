@@ -33,6 +33,9 @@
       <point x="346" y="364" type="curve" smooth="yes"/>
     </contour>
     <component base="hookHELPER" xOffset="217"/>
+    <contour>
+      <point x="316" y="564" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

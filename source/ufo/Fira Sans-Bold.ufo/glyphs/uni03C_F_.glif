@@ -11,6 +11,9 @@
     </contour>
     <component base="Kappa"/>
     <component base="hookHELPER.case" xOffset="271"/>
+    <contour>
+      <point x="345" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

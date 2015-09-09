@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0496" format="1">
-  <advance width="732"/>
+  <advance width="740"/>
   <unicode hex="0496"/>
   <outline>
     <component base="uni0416"/>
-    <component base="descStraight-cy.case" xOffset="658"/>
+    <component base="descStraight-cy.case" xOffset="666"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==Kadescender-cy</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Zhe-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -407,7 +405,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>732</integer>
+          <integer>740</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -418,9 +416,9 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy.case</string>
+          <string>uni0416</string>
         </dict>
       </array>
     </dict>

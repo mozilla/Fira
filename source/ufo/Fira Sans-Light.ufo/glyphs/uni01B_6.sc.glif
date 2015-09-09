@@ -15,6 +15,12 @@
       <point x="399" y="557" type="line"/>
     </contour>
     <component base="hyphen" xOffset="6" yOffset="-29" xScale="1.1"/>
+    <contour>
+      <point x="225" y="557" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="225" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

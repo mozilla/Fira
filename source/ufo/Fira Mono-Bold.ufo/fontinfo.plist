@@ -20,7 +20,7 @@
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/07/22 15:24:50</string>
+	<string>2015/09/08 11:59:06</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -104,7 +104,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>205</integer>
+	<integer>206</integer>
 	<key>xHeight</key>
 	<integer>531</integer>
 </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0373.sc" format="1">
-  <advance width="507"/>
+  <advance width="512"/>
   <outline>
     <contour>
       <point x="302" y="0" type="line"/>
@@ -23,6 +23,12 @@
       <point x="96" y="519" type="line"/>
       <point x="15" y="519" type="line"/>
       <point x="15" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="564" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="256" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

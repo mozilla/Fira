@@ -10,6 +10,9 @@
     </contour>
     <component base="hookHELPER" xOffset="237"/>
     <component base="x.sc"/>
+    <contour>
+      <point x="219" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

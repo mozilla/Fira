@@ -26,16 +26,23 @@
       <point x="447" y="0" type="line"/>
       <point x="447" y="564" type="line"/>
     </contour>
-    <component base="descStraight-cy" xOffset="431" xScale="-1"/>
+    <contour>
+      <point x="272" y="-150" type="line"/>
+      <point x="347" y="-150" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="74" type="line"/>
+      <point x="272" y="74" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Chekhakassian-cy</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

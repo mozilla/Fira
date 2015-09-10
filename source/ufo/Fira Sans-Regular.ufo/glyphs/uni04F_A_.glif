@@ -4,10 +4,10 @@
   <unicode hex="04FA"/>
   <outline>
     <contour>
-      <point x="201" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
       <point x="297" y="0" type="line"/>
       <point x="297" y="78" type="line"/>
-      <point x="201" y="78" type="line"/>
+      <point x="118" y="78" type="line"/>
     </contour>
     <component base="uni0492"/>
     <component base="hookHELPER.case" xOffset="1"/>

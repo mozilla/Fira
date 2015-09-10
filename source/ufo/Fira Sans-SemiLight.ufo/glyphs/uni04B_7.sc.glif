@@ -25,14 +25,6 @@
           <key>name</key>
           <string>uni0447.sc</string>
         </dict>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>descStraight-cy</string>
-        </dict>
       </array>
     </dict>
   </lib>

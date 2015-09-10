@@ -75,6 +75,9 @@
       <point x="296" y="444" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="300" y="-222" type="move" name="bottom "/>
+    </contour>
+    <contour>
       <point x="301" y="531" type="move" name="top"/>
     </contour>
   </outline>

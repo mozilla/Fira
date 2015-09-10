@@ -24,6 +24,12 @@
       <point x="263" y="393" type="line"/>
     </contour>
     <contour>
+      <point x="284" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="284" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="535" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
@@ -39,6 +45,22 @@
         <dict>
           <key>anchors</key>
           <array>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <real>283.5</real>
+              <key>y</key>
+              <integer>534</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <real>283.5</real>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
           </array>
           <key>components</key>
           <array>

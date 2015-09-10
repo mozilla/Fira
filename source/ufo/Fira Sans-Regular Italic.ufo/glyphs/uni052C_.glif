@@ -42,6 +42,9 @@
     </contour>
     <component base="descStraight-cy.case" xOffset="477"/>
     <component base="descStraightleft-cy.case" xOffset="-19"/>
+    <contour>
+      <point x="398" y="689" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

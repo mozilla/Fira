@@ -5,6 +5,12 @@
   <outline>
     <component base="m" xOffset="848" yOffset="527" xScale="-1" yScale="-1"/>
     <contour>
+      <point x="461" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="387" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="727" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>

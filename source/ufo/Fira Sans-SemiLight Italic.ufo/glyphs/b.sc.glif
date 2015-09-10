@@ -42,6 +42,9 @@
       <point x="288" y="532" type="line" smooth="yes"/>
     </contour>
     <contour>
+      <point x="311" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="242" y="0" type="move" name="bottom"/>
     </contour>
   </outline>

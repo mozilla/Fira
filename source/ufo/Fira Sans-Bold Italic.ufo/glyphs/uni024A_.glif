@@ -40,6 +40,9 @@
       <point x="382" y="0" type="line"/>
     </contour>
     <component base="hookHELPERright.case" xOffset="385"/>
+    <contour>
+      <point x="398" y="696" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

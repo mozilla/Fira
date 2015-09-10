@@ -3,6 +3,9 @@
   <advance width="462"/>
   <outline>
     <component base="v.sc" xOffset="462" yOffset="557" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="195" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

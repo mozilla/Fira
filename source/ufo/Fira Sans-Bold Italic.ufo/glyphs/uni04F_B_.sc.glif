@@ -2,15 +2,23 @@
 <glyph name="uni04FB.sc" format="1">
   <advance width="443"/>
   <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="303" y="142" type="line"/>
+      <point x="40" y="142" type="line"/>
+    </contour>
     <component base="uni0493.sc"/>
-    <component base="descTail-cy.case" xOffset="66"/>
+    <component base="hookHELPER" xOffset="-78"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>7</integer>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Gestrokehook-cy</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

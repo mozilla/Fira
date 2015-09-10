@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B7.sc" format="1">
-  <advance width="607"/>
+  <advance width="592"/>
   <outline>
     <component base="uni0447.sc" xOffset="15"/>
-    <component base="descStraight-cy" xOffset="408"/>
+    <component base="descStraight-cy" xOffset="393"/>
   </outline>
   <lib>
     <dict>
@@ -24,14 +24,6 @@
           <integer>0</integer>
           <key>name</key>
           <string>uni0447.sc</string>
-        </dict>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>descStraight-cy</string>
         </dict>
       </array>
     </dict>

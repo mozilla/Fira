@@ -29,6 +29,9 @@
       <point x="207" y="560" type="curve" smooth="yes"/>
     </contour>
     <component base="descStraight-cy.case" xOffset="337"/>
+    <contour>
+      <point x="248" y="560" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

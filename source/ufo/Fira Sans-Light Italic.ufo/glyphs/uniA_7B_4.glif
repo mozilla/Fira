@@ -44,6 +44,9 @@
       <point x="189" y="680" type="line"/>
       <point x="67" y="-191" type="line"/>
     </contour>
+    <contour>
+      <point x="350" y="680" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

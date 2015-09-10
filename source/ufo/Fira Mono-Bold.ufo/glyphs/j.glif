@@ -32,6 +32,9 @@
       <point x="370" y="810" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="300" y="-222" type="move" name="bottom "/>
+    </contour>
+    <contour>
       <point x="370" y="531" type="move" name="top"/>
     </contour>
   </outline>

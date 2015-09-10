@@ -50,6 +50,9 @@
       <point x="263" y="731"/>
       <point x="364" y="731" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="350" y="727" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -67,6 +70,14 @@
         <dict>
           <key>anchors</key>
           <array>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <real>350.843</real>
+              <key>y</key>
+              <integer>727</integer>
+            </dict>
           </array>
           <key>components</key>
           <array>

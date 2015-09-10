@@ -9,7 +9,13 @@
       <point x="434" y="680" type="line"/>
       <point x="136" y="680" type="line"/>
     </contour>
-    <component base="uni0500"/>
+    <component base="uni0500" xOffset="15"/>
+    <contour>
+      <point x="282" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="282" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

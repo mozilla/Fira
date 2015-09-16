@@ -32,6 +32,12 @@
       <point x="395" y="664" type="curve"/>
     </contour>
     <component base="uni0307" xOffset="339" yOffset="-366"/>
+    <contour>
+      <point x="395" y="682" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="395" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

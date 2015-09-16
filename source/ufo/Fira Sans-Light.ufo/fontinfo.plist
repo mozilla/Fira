@@ -18,7 +18,7 @@
 	<array>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2015/07/22 17:54:59</string>
+	<string>2015/09/08 10:44:38</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carrois Corporate &amp; Edenspiekermann AG</string>
 	<key>openTypeNameDesignerURL</key>
@@ -91,10 +91,12 @@
 	<array>
 		<integer>2</integer>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>Fira Sans Two</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Two</string>
 	<key>trademark</key>
 	<string>Fira Sans is a trademark of The Mozilla Corporation.</string>
 	<key>unitsPerEm</key>
@@ -104,7 +106,7 @@
 	<key>versionMajor</key>
 	<integer>4</integer>
 	<key>versionMinor</key>
-	<integer>105</integer>
+	<integer>106</integer>
 	<key>xHeight</key>
 	<integer>517</integer>
 </dict>

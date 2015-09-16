@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni048B" format="1">
-  <advance width="615"/>
+  <advance width="600"/>
   <unicode hex="048B"/>
   <outline>
     <component base="uni0438"/>
@@ -17,17 +17,6 @@
       <string>eltail-cy</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni0438</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

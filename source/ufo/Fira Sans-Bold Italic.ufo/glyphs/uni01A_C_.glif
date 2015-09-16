@@ -31,6 +31,12 @@
       <point x="46" y="433"/>
       <point x="58" y="404" type="curve"/>
     </contour>
+    <contour>
+      <point x="364" y="696" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="266" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

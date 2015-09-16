@@ -11,6 +11,9 @@
     </contour>
     <component base="hookHELPER" xOffset="243"/>
     <component base="x"/>
+    <contour>
+      <point x="264" y="517" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -17,7 +17,10 @@
     </contour>
     <component base="d"/>
     <contour>
-      <point x="513" y="727" type="move" name="top"/>
+      <point x="476" y="727" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

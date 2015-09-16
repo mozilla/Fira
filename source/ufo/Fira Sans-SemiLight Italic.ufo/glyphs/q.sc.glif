@@ -42,7 +42,10 @@
       <point x="350" y="541" type="curve"/>
     </contour>
     <contour>
-      <point x="351" y="560" type="move" name="top"/>
+      <point x="342" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="263" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

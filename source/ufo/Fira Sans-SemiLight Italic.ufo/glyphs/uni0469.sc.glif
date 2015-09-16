@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0469.sc" format="1">
-  <advance width="681"/>
+  <advance width="683"/>
   <outline>
     <contour>
       <point x="341" y="297" type="line"/>
@@ -13,6 +13,12 @@
       <point x="338" y="270" type="line"/>
     </contour>
     <component base="uni0467.sc" xOffset="187"/>
+    <contour>
+      <point x="383" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

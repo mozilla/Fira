@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>@MMK_L_ </key>
-	<array>
-		<string>uni1D72</string>
-	</array>
 	<key>@MMK_L_30</key>
 	<array>
 		<string>hookabovecomb</string>
@@ -272,10 +268,10 @@
 		<string>uni0427</string>
 		<string>uni0428</string>
 		<string>uni040F</string>
-		<string>uni042F</string>
 		<string>uni042B</string>
 		<string>uni0406</string>
 		<string>uni0407</string>
+		<string>uni042F</string>
 		<string>uni04A2</string>
 		<string>uni0524</string>
 		<string>uni04B6</string>
@@ -1021,7 +1017,7 @@
 		<string>uni0511</string>
 		<string>epsilon</string>
 		<string>epsilontonos</string>
-		<string>dottedlunatesigmasymbol</string>
+		<string>uni037C</string>
 		<string>uni03F2</string>
 		<string>uni03F5</string>
 		<string>uni1F10</string>
@@ -1050,9 +1046,9 @@
 		<string>uni0454.sc</string>
 		<string>uni0465.sc</string>
 		<string>uni04AB.sc</string>
+		<string>uni037C.sc</string>
 		<string>uni03DB.sc</string>
 		<string>uni03F2.sc</string>
-		<string>dottedlunatesigmasymbol.sc</string>
 	</array>
 	<key>@MMK_L_ccurl</key>
 	<array>
@@ -1502,10 +1498,10 @@
 		<string>uni043D.sc</string>
 		<string>uni043F.sc</string>
 		<string>uni0447.sc</string>
-		<string>uni044F.sc</string>
 		<string>uni044B.sc</string>
 		<string>uni0456.sc</string>
 		<string>uni0457.sc</string>
+		<string>uni044F.sc</string>
 		<string>uni04B9.sc</string>
 		<string>uni04CF.sc</string>
 		<string>uni04C8.sc</string>
@@ -1788,15 +1784,15 @@
 	</array>
 	<key>@MMK_L_mod</key>
 	<array>
-		<string>uni02E1</string>
-		<string>uni02E2</string>
-		<string>uni02E3</string>
 		<string>uni02B1</string>
 		<string>uni02B0</string>
 		<string>uni02B2</string>
+		<string>uni02E1</string>
 		<string>uni207F</string>
 		<string>uni02B4</string>
+		<string>uni02E2</string>
 		<string>uni02B7</string>
+		<string>uni02E3</string>
 		<string>uni02B8</string>
 		<string>schwaModifier</string>
 		<string>thetaModifier</string>
@@ -2077,6 +2073,7 @@
 		<string>uni03F1.sc</string>
 		<string>uni03FC.sc</string>
 		<string>uni03F6</string>
+		<string>uni1D72</string>
 	</array>
 	<key>@MMK_L_o.sc</key>
 	<array>
@@ -2794,8 +2791,8 @@
 		<string>uni0447</string>
 		<string>uni0448</string>
 		<string>uni045F</string>
-		<string>uni044F</string>
 		<string>uni044B</string>
+		<string>uni044F</string>
 		<string>uni04B9</string>
 		<string>uni04C8</string>
 		<string>uni04CC</string>
@@ -3882,15 +3879,12 @@
 	<array>
 		<string>uni01B7</string>
 		<string>uni01EE</string>
+		<string>uni021C</string>
 		<string>uni0417</string>
 		<string>uni046E</string>
 		<string>uni0498</string>
 		<string>uni04DE</string>
 		<string>uni04E0</string>
-	</array>
-	<key>@MMK_R_Ze-cy </key>
-	<array>
-		<string>uni021C</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
@@ -4159,14 +4153,11 @@
 		<string>uni043B</string>
 		<string>uni0459</string>
 		<string>uni04C6</string>
+		<string>uni0509</string>
 		<string>uni0513</string>
 		<string>uni0515</string>
 		<string>uni0521</string>
 		<string>uni052F</string>
-	</array>
-	<key>@MMK_R_el-cy </key>
-	<array>
-		<string>uni0509</string>
 	</array>
 	<key>@MMK_R_el-cy.sc</key>
 	<array>
@@ -4819,15 +4810,15 @@
 	</array>
 	<key>@MMK_R_mod</key>
 	<array>
-		<string>uni02E1</string>
-		<string>uni02E2</string>
-		<string>uni02E3</string>
 		<string>uni02B1</string>
 		<string>uni02B0</string>
 		<string>uni02B2</string>
+		<string>uni02E1</string>
 		<string>uni207F</string>
 		<string>uni02B4</string>
+		<string>uni02E2</string>
 		<string>uni02B7</string>
+		<string>uni02E3</string>
 		<string>uni02B8</string>
 		<string>schwaModifier</string>
 		<string>thetaModifier</string>
@@ -5191,7 +5182,7 @@
 		<string>omegatonos</string>
 		<string>alphatonos</string>
 		<string>epsilontonos</string>
-		<string>dottedlunatesigmasymbol</string>
+		<string>uni037C</string>
 		<string>uni03D9</string>
 		<string>uni03DB</string>
 		<string>uni03D5</string>
@@ -5266,6 +5257,7 @@
 		<string>uni03F5.sc</string>
 		<string>uni210A</string>
 		<string>cent</string>
+		<string>uni1D72</string>
 	</array>
 	<key>@MMK_R_o.sc</key>
 	<array>
@@ -5351,6 +5343,7 @@
 		<string>theta.sc</string>
 		<string>omicron.sc</string>
 		<string>omicrontonos.sc</string>
+		<string>uni037C.sc</string>
 		<string>uni03D9.sc</string>
 		<string>uni03DB.sc</string>
 		<string>uni03D1.sc</string>
@@ -5363,7 +5356,6 @@
 		<string>uni1F45.sc</string>
 		<string>uni1F78.sc</string>
 		<string>uni1F79.sc</string>
-		<string>dottedlunatesigmasymbol.sc</string>
 	</array>
 	<key>@MMK_R_omega</key>
 	<array>

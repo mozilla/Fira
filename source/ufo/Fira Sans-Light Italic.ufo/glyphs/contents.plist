@@ -746,8 +746,6 @@
 	<string>dotmacroncomb.case.glif</string>
 	<key>dotmath</key>
 	<string>dotmath.glif</string>
-	<key>dottedlunatesigmasymbol.sc</key>
-	<string>dottedlunatesigmasymbol.sc.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e.sc</key>
@@ -2840,6 +2838,8 @@
 	<string>uni037B_.sc.glif</string>
 	<key>uni037C</key>
 	<string>uni037C_.glif</string>
+	<key>uni037C.sc</key>
+	<string>uni037C_.sc.glif</string>
 	<key>uni037D</key>
 	<string>uni037D_.glif</string>
 	<key>uni037D.sc</key>

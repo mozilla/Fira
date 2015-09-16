@@ -1143,9 +1143,6 @@
 		<string>uni01B6.sc</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>uni02E1</string>
-		<string>uni02E2</string>
-		<string>uni02E3</string>
 		<string>ordfeminine.001</string>
 		<string>ordmasculine.001</string>
 		<string>uni01C2</string>
@@ -1155,10 +1152,13 @@
 		<string>uni02B1</string>
 		<string>uni02B0</string>
 		<string>uni02B2</string>
+		<string>uni02E1</string>
 		<string>uni207F</string>
 		<string>uni02B4</string>
+		<string>uni02E2</string>
 		<string>uni01BB</string>
 		<string>uni02B7</string>
+		<string>uni02E3</string>
 		<string>uni02B8</string>
 		<string>uni052C</string>
 		<string>uni052A</string>
@@ -1199,7 +1199,6 @@
 		<string>uni0428</string>
 		<string>uni0429</string>
 		<string>uni040F</string>
-		<string>uni042F</string>
 		<string>uni042C</string>
 		<string>uni042A</string>
 		<string>uni042B</string>
@@ -1213,6 +1212,7 @@
 		<string>uni0408</string>
 		<string>uni040B</string>
 		<string>uni042E</string>
+		<string>uni042F</string>
 		<string>uni0402</string>
 		<string>uni0460</string>
 		<string>uni0462</string>
@@ -1336,7 +1336,6 @@
 		<string>uni0448</string>
 		<string>uni0449</string>
 		<string>uni045F</string>
-		<string>uni044F</string>
 		<string>uni044C</string>
 		<string>uni044A</string>
 		<string>uni044B</string>
@@ -1350,6 +1349,7 @@
 		<string>uni0458</string>
 		<string>uni045B</string>
 		<string>uni044E</string>
+		<string>uni044F</string>
 		<string>uni0452</string>
 		<string>uni0461</string>
 		<string>uni0463</string>
@@ -1483,7 +1483,6 @@
 		<string>uni0448.sc</string>
 		<string>uni0449.sc</string>
 		<string>uni045F.sc</string>
-		<string>uni044F.sc</string>
 		<string>uni044C.sc</string>
 		<string>uni044A.sc</string>
 		<string>uni044B.sc</string>
@@ -1497,6 +1496,7 @@
 		<string>uni0458.sc</string>
 		<string>uni045B.sc</string>
 		<string>uni044E.sc</string>
+		<string>uni044F.sc</string>
 		<string>uni0452.sc</string>
 		<string>uni0461.sc</string>
 		<string>uni0463.sc</string>
@@ -1959,6 +1959,7 @@
 		<string>uni0373.sc</string>
 		<string>uni0377.sc</string>
 		<string>uni037B.sc</string>
+		<string>uni037C.sc</string>
 		<string>uni037D.sc</string>
 		<string>uni03D9.sc</string>
 		<string>uni03DB.sc</string>
@@ -2700,7 +2701,6 @@
 		<string>uni1FFD</string>
 		<string>uni1FC0</string>
 		<string>uni02BC</string>
-		<string>dottedlunatesigmasymbol.sc</string>
 		<string>TseHelper-cy</string>
 		<string>tsehelper-cy.sc</string>
 		<string>tsehelper-cy</string>

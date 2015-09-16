@@ -28,6 +28,9 @@
     <contour>
       <point x="313" y="571" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="241" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

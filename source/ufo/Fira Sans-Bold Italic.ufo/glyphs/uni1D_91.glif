@@ -39,6 +39,9 @@
     </contour>
     <component base="hookaboveHELPER2" xOffset="323"/>
     <component base="hookHELPERright" xOffset="332"/>
+    <contour>
+      <point x="362" y="744" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0527.sc" format="1">
-  <advance width="603"/>
+  <advance width="607"/>
   <outline>
     <component base="uni04BB.sc"/>
     <component base="descStraight-cy" xOffset="443"/>
@@ -14,7 +14,7 @@
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>Tse-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>endescender-cy.s</string>
+      <string>endescender-cy.sc</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>

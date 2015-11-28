@@ -23,6 +23,12 @@
     </contour>
     <component base="uni043F"/>
     <component base="hookHELPER" xOffset="428"/>
+    <contour>
+      <point x="425" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="425" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

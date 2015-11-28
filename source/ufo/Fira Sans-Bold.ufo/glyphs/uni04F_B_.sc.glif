@@ -2,8 +2,14 @@
 <glyph name="uni04FB.sc" format="1">
   <advance width="454"/>
   <outline>
+    <contour>
+      <point x="39" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="142" type="line"/>
+      <point x="39" y="142" type="line"/>
+    </contour>
     <component base="uni0493.sc"/>
-    <component base="descTail-cy.case" xOffset="72"/>
+    <component base="hookHELPER" xOffset="-80"/>
   </outline>
   <lib>
     <dict>

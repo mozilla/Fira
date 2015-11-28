@@ -47,7 +47,7 @@
     </contour>
     <component base="d"/>
     <contour>
-      <point x="592" y="744" type="move" name="top"/>
+      <point x="632" y="744" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

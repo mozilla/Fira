@@ -29,6 +29,12 @@
       <point x="495" y="0" type="line"/>
     </contour>
     <component base="hookHELPER.case" xOffset="291"/>
+    <contour>
+      <point x="289" y="680" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="289" y="-188" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -38,6 +38,9 @@
       <point x="254" y="61" type="curve" smooth="yes"/>
     </contour>
     <component base="hookaboveHELPER" xOffset="63"/>
+    <contour>
+      <point x="359" y="739" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

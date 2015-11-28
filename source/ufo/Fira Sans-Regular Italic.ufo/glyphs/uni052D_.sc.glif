@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni052D.sc" format="1">
-  <advance width="592"/>
+  <advance width="594"/>
   <outline>
     <contour>
       <point x="461" y="0" type="line"/>
@@ -36,6 +36,9 @@
     </contour>
     <component base="descStraight-cy" xOffset="394"/>
     <component base="descStraightleft-cy" xOffset="-19"/>
+    <contour>
+      <point x="339" y="564" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -219,7 +222,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>594</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0496" format="1">
-  <advance width="830"/>
+  <advance width="875"/>
   <unicode hex="0496"/>
   <outline>
     <component base="uni0416"/>
@@ -405,7 +405,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>830</integer>
+          <integer>875</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -416,9 +416,9 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy.case</string>
+          <string>uni0416</string>
         </dict>
       </array>
     </dict>

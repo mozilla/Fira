@@ -75,6 +75,12 @@
       <point x="277" y="426" type="curve" smooth="yes"/>
     </contour>
     <component base="hyphen" xOffset="235" yOffset="-178" yScale="0.4"/>
+    <contour>
+      <point x="285" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="285" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

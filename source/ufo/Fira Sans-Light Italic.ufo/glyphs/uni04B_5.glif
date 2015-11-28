@@ -12,6 +12,9 @@
       <point x="393" y="517" type="line"/>
     </contour>
     <component base="uni0446" xOffset="48"/>
+    <contour>
+      <point x="352" y="517" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

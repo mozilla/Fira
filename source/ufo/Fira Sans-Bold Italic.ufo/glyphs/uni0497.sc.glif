@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0497.sc" format="1">
-  <advance width="846"/>
+  <advance width="845"/>
   <outline>
     <component base="uni0436.sc"/>
-    <component base="descStraight-cy" xOffset="616"/>
+    <component base="descStraight-cy" xOffset="615"/>
   </outline>
   <lib>
     <dict>
@@ -402,7 +402,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>846</integer>
+          <integer>845</integer>
         </dict>
       </dict>
       <key>public.markColor</key>
@@ -413,9 +413,9 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>descStraight-cy</string>
+          <string>uni0436.sc</string>
         </dict>
       </array>
     </dict>

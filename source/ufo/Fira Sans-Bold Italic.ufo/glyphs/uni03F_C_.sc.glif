@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03FC.sc" format="1">
-  <advance width="565"/>
+  <advance width="555"/>
   <outline>
     <contour>
       <point x="-26" y="52" type="line"/>
@@ -96,7 +96,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>565</integer>
+          <integer>555</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

@@ -36,6 +36,12 @@
     </contour>
     <component base="descStraight-cy" xOffset="424"/>
     <component base="descStraight-cy" xOffset="302" xScale="-1"/>
+    <contour>
+      <point x="331" y="571" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="331" y="-215" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

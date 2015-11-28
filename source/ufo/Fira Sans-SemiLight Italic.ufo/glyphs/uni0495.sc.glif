@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0495.sc" format="1">
-  <advance width="532"/>
+  <advance width="533"/>
   <outline>
     <contour>
       <point x="162" y="560" type="line"/>
@@ -33,6 +33,9 @@
       <point x="327" y="360" type="curve"/>
     </contour>
     <component base="hookHELPER" xOffset="243"/>
+    <contour>
+      <point x="308" y="560" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -303,7 +306,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>532</integer>
+          <integer>533</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

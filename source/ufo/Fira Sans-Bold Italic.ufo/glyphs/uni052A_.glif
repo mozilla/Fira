@@ -57,6 +57,9 @@
     </contour>
     <component base="descStraight-cy.case" xOffset="424" xScale="0.98"/>
     <component base="descStraightleft-cy.case" xOffset="-64"/>
+    <contour>
+      <point x="634" y="696" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

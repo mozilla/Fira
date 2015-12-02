@@ -16,5 +16,5 @@ If you're interested in contributing, see our  <a href="https://docs.google.com/
 Use this font on your website!
 
 ```html
-<link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+<link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
 ```

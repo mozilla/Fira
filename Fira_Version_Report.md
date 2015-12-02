@@ -74,9 +74,54 @@ _ Finally: the whole community who helped improving Fira via Mail, GitHub and Fi
 
 _ Mono 4.1 (Latin Extension)
 
-_ Sans Condensed
+_ Sans Condensed 4.1 complete scope (incl. Latin Ext, Cyr, Greek)
 
-_ Hebrew _ in progress, Arabic _ in progress
+_ Hebrew _ in progress
+
+_ Arabic _ in progress
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+**version/build Fira Condensed 4.202 (no Mono/Fira Sans update for now)**
+
+_ rename Condensed fonts from „Fira Sans Cond …“ to „Fira Sans Condensed …“
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+
+**version/build Fira Cond 4.201 (no Mono/Fira Sans update for now)**
+
+_ introduction of 8-master file (Fira Sans and Fira Sans Condensed), from now on source file
+
+_ export Fira Sans Cond Latin scope with 16 weights (for exact scope please refer to PDFs)
+
+_ note that kerning is interpolated and will be reworked once the complete 4.1 scope is completed
+
+_ Fira Sans doesn’t contain the following glyphs anymore due to conflicts with emoticon font:
+
+arrowboth (uni2197)
+
+arrowupdown (uni2198)
+
+arrowupright (uni2199)
+
+arrowdownright (uni2196)
+
+arrowdownleft (uni2194)
+
+arrowupleft (uni2195)
+
+blackRightArrow (uni2B06)
+
+leftBlackArrow (uni2B07)
+
+upBlackArrow (uni2B05)
+
+downBlackArrow (uni27A1)
+
+globeWithMeridians (uni1F310)
+
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 

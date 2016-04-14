@@ -143,7 +143,7 @@
 var elems = document.querySelectorAll('p');
 elems = Array.prototype.slice.call(elems);
 
-function Propagate(changedElem) {
+function propagate(changedElem) {
     var str = changedElem.innerHTML;
 
     elems.forEach(function(x) {
@@ -155,12 +155,12 @@ function Propagate(changedElem) {
 
 elems.forEach(function(x) {
     x.oninput = function() {
-        Propagate(x);
+        propagate(x);
     };
 });
 
 var orig = document.querySelector('#orig');
-Propagate(orig);
+propagate(orig);
     </script>
   </body>
 </html>

@@ -216,7 +216,7 @@
         </p>
 
         <h2 class="mono">Bold</h2>
-        <p contenteditable class="mono" style="font-weight: 600;">
+        <p id='foo' contenteditable class="mono" style="font-weight: 600;">
             The quick brown Firefox jumps over the lazy dog.<br>
             abcdefghijklmnopqrstuvwxyz<br>
             ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
@@ -228,6 +228,26 @@
         <div class="glyph"><span style="color:#f00">&#xe001;</span><span style="color:#fff">&#xe002;</span>&#xe003;</div>
 
     </article>
+    <script>
+
+var elems = document.querySelectorAll('p');
+elems = Array.slice(elems);
+
+function Propagate(changedElem) {
+    var str = changedElem.innerHTML;
+
+    elems.forEach(function(x) {
+        if (x != changedElem) {
+            x.innerHTML = str;
+        }
+    });
+}
+
+elems.forEach(function(x) {
+    x.oninput = function() {
+        Propagate(x);
+    };
+});
+    </script>
   </body>
 </html>
-

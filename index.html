@@ -7,226 +7,152 @@
     <link rel="stylesheet" href="fira.css">
     <style>
 
-        body {
-            font-family: 'Fira Sans';            
-			font-weight: 300;
-            overflow-x: hidden;
-        }
-        article {
-            margin: 0 auto;
-            max-width: 800px;
-            padding: 1em;
-        }
-        h1, .glyph {
-            font-family: 'Fira Sans';
-            font-size: 40px;
-        }
+      body {
+        font-family: 'Fira Sans';
+        font-weight: 300;
+        overflow-x: hidden;
+      }
+      article {
+        margin: 0 auto;
+        max-width: 800px;
+        padding: 1em;
+      }
+      h1, .glyph {
+        font-family: 'Fira Sans';
+        font-size: 40px;
+      }
+      p {
+        font-family: 'Fira Sans';
+        font-size: 32px;
+        padding: 0 1em;
+      }
+      .mono {
+        font-family: 'Fira Mono';
+      }
+      .ribbon {
+        background: none repeat scroll 0% 0% rgb(34, 34, 34);
+        color: white;
+        display: block;
+        font: 400 13px 'Fira Sans';
+        padding: 8px 150px;
+        position: absolute;
+        right: 0px;
+        text-decoration: none;
+        top: 0px;
+        -webkit-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+        -moz-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+        -ms-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+        -o-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+        transform: translate(50%, -50%) rotate(45deg) translateY(72px);
+        white-space: nowrap;
+      }
+      .glyph {
+        margin: 1em auto;
+        text-align: center;
+        font-size: 72px;
+      }
+
+
+      @media (max-width: 640px) {
         p {
-            font-family: 'Fira Sans';
-            font-size: 32px;
-            padding: 0 1em;
+          padding: 0;
+          font-size: 18px;
         }
-        .mono {
-            font-family: 'Fira Mono';
-        }
-        .ribbon {
-            background: none repeat scroll 0% 0% rgb(34, 34, 34);
-            color: white;
-            display: block;
-            font: 400 13px 'Fira Sans';
-            padding: 8px 150px;
-            position: absolute;
-            right: 0px;
-            text-decoration: none;
-            top: 0px;
-            -webkit-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
-            -moz-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
-            -ms-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
-            -o-transform: translate(50%, -50%) rotate(45deg) translateY(72px);
-            transform: translate(50%, -50%) rotate(45deg) translateY(72px);
-            white-space: nowrap;
-        }
-        .glyph {
-            margin: 1em auto;
-            text-align: center;
-            font-size: 72px;
-        }
-
-
-        @media (max-width: 640px) {
-            p {
-                padding: 0;
-                font-size: 18px;
-            }
-        }
+      }
 
     </style>
   </head>
   <body>
     <article>
-        <h1>Fira Sans</h1>
+      <h1>Fira Sans</h1>
 
 
-        <h2>Hair</h2>
-        <p contenteditable style="font-weight: 100;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 100; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>Hair</h2>
+      <p contenteditable id="orig" style="font-weight: 100;">
+         The quick brown Firefox jumps over the lazy dog.<br>
+         abcdefghijklmnopqrstuvwxyz<br>
+         ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+         1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
+      </p>
+      <p contenteditable style="font-weight: 100; font-style: italic;"></p>
 
-        <h2>UltraLight</h2>
-        <p contenteditable style="font-weight: 200;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 200; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>UltraLight</h2>
+      <p contenteditable style="font-weight: 200;"></p>
+      <p contenteditable style="font-weight: 200; font-style: italic;"></p>
 
-        <h2>Light</h2>
-        <p contenteditable style="font-weight: 300;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 300; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>Light</h2>
+      <p contenteditable style="font-weight: 300;"></p>
+      <p contenteditable style="font-weight: 300; font-style: italic;"></p>
 
-        <h2>Regular</h2>
-        <p contenteditable style="font-weight: 400;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 400; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>Regular</h2>
+      <p contenteditable style="font-weight: 400;"></p>
+      <p contenteditable style="font-weight: 400; font-style: italic;"></p>
 
-        <h2>Medium</h2>
-        <p contenteditable style="font-weight: 500;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 500; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>Medium</h2>
+      <p contenteditable style="font-weight: 500;"></p>
+      <p contenteditable style="font-weight: 500; font-style: italic;"></p>
 
-        <h2>SemiBold</h2>
-        <p contenteditable style="font-weight: 600;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 600; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>SemiBold</h2>
+      <p contenteditable style="font-weight: 600;"></p>
+      <p contenteditable style="font-weight: 600; font-style: italic;"></p>
 
-        <h2>Bold</h2>
-        <p contenteditable style="font-weight: 700;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 700; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>Bold</h2>
+      <p contenteditable style="font-weight: 700;"></p>
+      <p contenteditable style="font-weight: 700; font-style: italic;"></p>
 
-        <h2>ExtraBold</h2>
-        <p contenteditable style="font-weight: 800;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 800; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h2>ExtraBold</h2>
+      <p contenteditable style="font-weight: 800;"></p>
+      <p contenteditable style="font-weight: 800; font-style: italic;"></p>
 
-        <h2>Heavy</h2>
-        <p contenteditable style="font-weight: 900;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        <p contenteditable style="font-weight: 900; font-style: italic;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        
-		<br>
-        <br>
-        <br>
-        
-        <h1 class="mono">Fira Mono</h1>
+      <h2>Heavy</h2>
+      <p contenteditable style="font-weight: 900;"></p>
+      <p contenteditable style="font-weight: 900; font-style: italic;"></p>
 
-        <h2 class="mono">Regular</h2>
-        <p contenteditable class="mono" style="font-weight: 400;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
-        
-            <h2 class="mono">Medium</h2>
-        <p contenteditable class="mono" style="font-weight: 500;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <br>
+      <br>
+      <br>
 
-        <h2 class="mono">Bold</h2>
-        <p contenteditable class="mono" style="font-weight: 600;">
-            The quick brown Firefox jumps over the lazy dog.<br>
-            abcdefghijklmnopqrstuvwxyz<br>
-            ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
-            1234567890!@#$%^&amp;*()`~{}[]+=:;'"&#8216;&#8217;&#8220;&#8221;
-        </p>
+      <h1 class="mono">Fira Mono</h1>
 
-        <a class="ribbon" href="https://github.com/mozilla/Fira">Fira on GitHub</a>
 
-        <div class="glyph"><span style="color:#f00">&#xe001;</span><span style="color:#fff">&#xe002;</span>&#xe003;</div>
+      <h2 class="mono">Regular</h2>
+      <p contenteditable class="mono" style="font-weight: 400;"></p>
 
+      <h2 class="mono">Medium</h2>
+      <p contenteditable class="mono" style="font-weight: 500;"></p>
+
+      <h2 class="mono">Bold</h2>
+      <p id='foo' contenteditable class="mono" style="font-weight: 600;"></p>
+
+
+      <a class="ribbon" href="https://github.com/mozilla/Fira">Fira on GitHub</a>
+
+      <div class="glyph"><span style="color:#f00">&#xe001;</span><span style="color:#fff">&#xe002;</span>&#xe003;</div>
     </article>
+    <script>
+
+var elems = document.querySelectorAll("p");
+elems = Array.prototype.slice.call(elems);
+
+function propagate(changedElem) {
+  var str = changedElem.innerHTML;
+
+  elems.forEach(function(x) {
+    if (x !== changedElem) {
+      x.innerHTML = str;
+    }
+  });
+}
+
+elems.forEach(function(x) {
+  x.oninput = function() {
+    propagate(x);
+  };
+});
+
+var orig = document.querySelector("#orig");
+propagate(orig);
+
+    </script>
   </body>
 </html>

@@ -141,7 +141,7 @@
     <script>
 
 var elems = document.querySelectorAll('p');
-elems = Array.slice(elems);
+elems = Array.prototype.slice.call(elems);
 
 function Propagate(changedElem) {
     var str = changedElem.innerHTML;

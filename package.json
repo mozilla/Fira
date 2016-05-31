@@ -28,6 +28,18 @@
     "woff",
     "woff2",
     "LICENSE",
+    "fira-sans.less",
+    "fira-mono.less",
+    "fira.less",
+    "fira-sans.sass",
+    "fira-mono.sass",
+    "fira.sass",
+    "fira-sans.scss",
+    "fira-mono.scss",
+    "fira.scss",
+    "fira-sans.styl",
+    "fira-mono.styl",
+    "fira.styl",
     "fira.css"
   ],
   "dependencies": {

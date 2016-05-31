@@ -5,6 +5,7 @@
     src: url("eot/FiraMono-Regular.eot");
     src: local("Fira Mono"),
          url("eot/FiraMono-Regular.eot") format("embedded-opentype"),
+         url("woff2/FiraMono-Regular.woff2") format("woff2"),
          url("woff/FiraMono-Regular.woff") format("woff"),
          url("ttf/FiraMono-Regular.ttf") format("truetype");
     font-weight: 400;
@@ -16,9 +17,9 @@
     src: url("eot/FiraMono-Bold.eot");
     src: local("Fira Mono Bold"),
          url("eot/FiraMono-Bold.eot") format("embedded-opentype"),
+         url("woff2/FiraMono-Bold.woff") format("woff2"),
          url("woff/FiraMono-Bold.woff") format("woff"),
          url("ttf/FiraMono-Bold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
 }
-

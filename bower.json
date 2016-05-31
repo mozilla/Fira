@@ -1,4 +1,10 @@
 {
   "name": "fira",
-  "main": "fira.css"
+  "main": [
+    "fira.css",
+    "fira.less",
+    "fira.sass",
+    "fira.scss",
+    "fira.styl"
+  ]
 }

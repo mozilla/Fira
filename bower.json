@@ -1,4 +1,25 @@
 {
   "name": "fira",
-  "main": "fira.css"
+  "description": "Fira font family including Fira Sans and Fira Mono",
+  "main": "fira.css",
+  "authors": [
+    "The Mozilla Foundation and Telefonica S.A."
+  ],
+  "license": "OFL-1.1",
+  "keywords": [
+    "fonts",
+    "fira",
+    "firefox",
+    "os",
+    "css",
+    "mozilla"
+  ],
+  "homepage": "https://mozilla.github.io/Fira/",
+  "ignore": [
+    "Fira_Version_Report.md",
+    "index.html",
+    "package.json",
+    "source/",
+    "technical reports/"
+  ]
 }

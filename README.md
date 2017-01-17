@@ -21,9 +21,12 @@ Use this font on your website!
 ```
 
 ##External Resources
+
 Further information on the design and specifications of the Fira typeface can be found at <a href="http://www.carrois.com/fira-4-1/">Carrois Studio</a>.<br>
-Fira can also be found in these foundries:<br>
-<a href="http://www.1001fonts.com/fira-sans-font.html">1001 Fonts<br>
-<a href="https://typekit.com/fonts/fira-sans">Adobe Typekit<br>
-<a href="https://www.google.com/fonts/specimen/Fira+Sans">Google Fonts<br>
-<a href="https://www.fontsquirrel.com/fonts/fira-sans">Font Squirrel<br>
+
+Fira can also be found in these foundries:
+
+* <a href="http://www.1001fonts.com/fira-sans-font.html">1001 Fonts</a>
+* <a href="https://typekit.com/fonts/fira-sans">Adobe Typekit</a>
+* <a href="https://www.google.com/fonts/specimen/Fira+Sans">Google Fonts</a> (<strong>currently bugged</strong>, see https://github.com/google/fonts/issues/10)
+* <a href="https://www.fontsquirrel.com/fonts/fira-sans">Font Squirrel</a>

@@ -1,3 +1,8 @@
+We've Moved!
+============
+
+Development of Fira has moved to the [Carrois repository](https://github.com/carrois/Fira), please submit contributions there.
+
 # Mozilla's Fira Type Family
 http://mozilla.github.io/Fira/
 

@@ -1,5 +1,5 @@
 # Mozilla's Fira Type Family
-http://mozilla.github.io/Fira/
+https://mozilla.github.io/Fira/
 
 ## Download Fira
 <a href="https://github.com/mozilla/Fira/releases/latest">Latest Release</a><br>
